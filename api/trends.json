@@ -1,33 +1,35 @@
 {
-  "generated_at": "2026-06-04T05:49:18.443271+08:00",
-  "total_titles_processed": 395,
+  "generated_at": "2026-06-04T07:43:46.833352+08:00",
+  "total_titles_processed": 496,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 26,
       "titles": [
-        {
-          "title": "特朗普为何骂内塔尼亚胡“疯了”？",
-          "url": "https://news.ifeng.com/c/8ter8XhY8eS",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时43分 ~ 05时49分]"
-        },
         {
           "title": "特朗普：确实对内塔尼亚胡“爆粗口”，愿与伊朗最高领袖会面，正与伊朗达成协议，海上封锁或持续到9月",
           "url": "https://wallstreetcn.com/articles/3773781",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时43分 ~ 05时49分]"
+          "appearance_count": 4,
+          "time_info": "[02时43分 ~ 07时43分]"
+        },
+        {
+          "title": "特朗普为何骂内塔尼亚胡“疯了”？",
+          "url": "https://news.ifeng.com/c/8ter8XhY8eS",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时43分 ~ 07时43分]"
         },
         {
           "title": "特朗普任命房屋监管主管兼任情报总监",
@@ -42,15 +44,49 @@
           "time_info": "[02时43分 ~ 05时49分]"
         },
         {
-          "title": "美国众议院通过一项决议，限制美国总统特朗普对伊朗的战争权力。",
-          "url": "https://wallstreetcn.com/livenews/3114035",
-          "source": "华尔街见闻-快讯",
+          "title": "一个想谈一个想打！特朗普破口大骂内塔尼亚胡，美以分歧公开化",
+          "url": "https://wallstreetcn.com/articles/3773725",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时43分 ~ 07时43分]"
+        },
+        {
+          "title": "美众议院通过决议，限制特朗普对伊动武权力",
+          "url": "https://news.ifeng.com/c/8tffKr5raZ8",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
+        },
+        {
+          "title": "“离签署协议已非常接近”，特朗普披露美伊谈判细节",
+          "url": "https://news.ifeng.com/c/8tfYHflwBeK",
+          "source": "凤凰网",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时49分"
+          "time_info": "07时43分"
+        },
+        {
+          "title": "特朗普欲将以黎冲突和美伊谈判“分开处理”",
+          "url": "https://wallstreetcn.com/livenews/3114010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
         },
         {
           "title": "美国众议院通过一项决议，限制美国总统特朗普对伊朗的战争权力。",
@@ -59,20 +95,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
         },
         {
-          "title": "一个想谈一个想打！特朗普破口大骂内塔尼亚胡，美以分歧公开化",
-          "url": "https://wallstreetcn.com/articles/3773725",
-          "source": "华尔街见闻",
+          "title": "美国众议院通过一项决议，限制美国总统特朗普对伊朗的战争权力。",
+          "url": "https://wallstreetcn.com/livenews/3114035",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            2,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时43分 ~ 05时49分]"
+          "appearance_count": 2,
+          "time_info": "[05时49分 ~ 07时43分]"
         },
         {
           "title": "【特朗普称与伊朗谈判进展“非常顺利”】美国总统特朗普表示，与伊朗的谈判进展非常顺利，新一轮谈判可能在本周末举行。一旦协议签署后，霍尔木兹海峡将立即重新开放。 特朗普称，如果伊朗签署了协议，那就意味着他们已承诺绝不拥有核武器，绝不自行研发，也绝不从外部购买。特朗普称，最初的协议草案中只规定了“不自行研发”这一项，并没有“绝不从外部购买”。这个问题引发了长达两周的谈判，但最终美国把这一条也加了进去。只要伊朗签署那份文件，协议便正式生效。特朗普表示，理论上讲，“他们距离签署协议已经非常接近了”。 在谈及伊朗浓缩铀问题时，特朗普表示，“将在不久的将来拿到它”。 特朗普称，“我们完全可以再耗上两三周，把对方彻底消灭。但我宁愿不那样做。”他表示，如果能通过书面协议达成同样的目标，且无需造成大规模杀伤，那他更倾向于选择这种方式。 特朗普还表示，正在尝试将霍尔木兹海峡的开放问题与黎巴嫩的战事问题区分处理。特朗普称，他们有史以来第一次与黎真主党进行了对话，前一天已达成共识：他们不会攻击以色列，以色列也不会攻击他们。（央视）",
@@ -81,9 +118,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
+        },
+        {
+          "title": "美众议院通过决议限制特朗普对伊动武",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E4%BC%97%E8%AE%AE%E9%99%A2%E9%80%9A%E8%BF%87%E5%86%B3%E8%AE%AE%E9%99%90%E5%88%B6%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%BC%8A%E5%8A%A8%E6%AD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
         },
         {
           "title": "鲁比奥称特朗普政府将推动北约进行“重大改革”",
@@ -103,7 +151,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
         },
@@ -114,7 +162,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
         },
@@ -136,9 +184,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
+        },
+        {
+          "title": "特朗普遭遇党内反弹：众议院投票叫停对伊战争",
+          "url": "https://flash.jin10.com/detail/20260604064111387800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
         },
         {
           "title": "美国总统特朗普：纽约市长马姆达尼是一个聪明人。",
@@ -147,9 +206,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
+        },
+        {
+          "title": "特朗普淡化霍尔木兹海峡水雷威胁，并鼓吹替代航线",
+          "url": "https://wallstreetcn.com/livenews/3114042",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
         },
         {
           "title": "美国总统特朗普：一旦签署协议，霍尔木兹海峡将立即开放。",
@@ -158,7 +228,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
         },
@@ -169,7 +239,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
         },
@@ -180,9 +250,31 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
+        },
+        {
+          "title": "特朗普称美伊协议可能在本周末达成",
+          "url": "https://flash.jin10.com/detail/20260604060822313800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
+        },
+        {
+          "title": "美众议院通过决议，限制特朗普对伊动武权力",
+          "url": "https://wallstreetcn.com/livenews/3114038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
         },
         {
           "title": "特朗普宣称：伊朗原则上接近签署协议",
@@ -191,7 +283,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
         },
@@ -210,7 +302,7 @@
     },
     {
       "keyword_group": "美国",
-      "match_count": 16,
+      "match_count": 23,
       "titles": [
         {
           "title": "美国银行CEO Moynihan：随着价格上涨，（美国）消费者开支出现“微观变化”。 经济承受能力是一个实实在在的问题。 最近50年来，公司的信用业务一直不错。（彭博电视）",
@@ -224,15 +316,28 @@
           "time_info": "02时43分"
         },
         {
-          "title": "德尔芬中游公司批准美国首个浮式液化天然气（FLNG）出口项目",
-          "url": "https://wallstreetcn.com/livenews/3114034",
-          "source": "华尔街见闻-快讯",
+          "title": "美国务院称以黎双方承诺继续展开直接谈判",
+          "url": "https://flash.jin10.com/detail/20260604071823471800",
+          "source": "金十数据",
           "ranks": [
-            3
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时49分"
+          "time_info": "07时43分"
+        },
+        {
+          "title": "美国把当年对日本话术套用给中国",
+          "url": "https://www.toutiao.com/trending/7646779181614858303/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时43分 ~ 07时43分]"
         },
         {
           "title": "美联储褐皮书：近几周美国经济活动和通胀均有所上升",
@@ -246,18 +351,6 @@
           "time_info": "02时43分"
         },
         {
-          "title": "美国把当年对日本话术套用给中国",
-          "url": "https://www.toutiao.com/trending/7646779181614858303/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时43分 ~ 05时49分]"
-        },
-        {
           "title": "“定好明年要完工的美国数据中心，60%还没动工”",
           "url": "https://news.ifeng.com/c/8tf3FguQW3l",
           "source": "凤凰网",
@@ -265,8 +358,42 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时43分 ~ 05时49分]"
+          "appearance_count": 4,
+          "time_info": "[02时43分 ~ 07时43分]"
+        },
+        {
+          "title": "德尔芬中游公司批准美国首个浮式液化天然气（FLNG）出口项目",
+          "url": "https://wallstreetcn.com/livenews/3114034",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时49分 ~ 07时43分]"
+        },
+        {
+          "title": "美国称以色列和黎巴嫩同意执行停火。 美国称，以色列和黎巴嫩同意于6月22日当周再次举行会谈。 WTI原油期货跌超0.8%，在亚太盘初逼近95美元。",
+          "url": "https://wallstreetcn.com/livenews/3114058",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
+        },
+        {
+          "title": "美国国务院：双方已遵照美国的指引达成一致，将迅速推进试点区的设立工作；在这些试点区内，黎巴嫩武装部队将对相关领土行使专属控制权，并将所有非国家行为体排除在外。",
+          "url": "https://flash.jin10.com/detail/20260604065743896800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
         },
         {
           "title": "澳大利亚总理阿尔巴尼斯：美国提出的任何新关税都是不必要的。",
@@ -275,9 +402,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
+        },
+        {
+          "title": "美国国务院：经美国主导的谈判，以色列与黎巴嫩已同意实施停火。",
+          "url": "https://flash.jin10.com/detail/20260604065721882800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
         },
         {
           "title": "美国可能检出新大陆螺旋蝇病例 或对肉牛养殖构成威胁",
@@ -286,7 +424,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
         },
@@ -297,9 +435,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
+        },
+        {
+          "title": "SpaceX创纪录IPO前夕，在美国得州芯片项目上赢得税收减免",
+          "url": "https://wallstreetcn.com/livenews/3114050",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
         },
         {
           "title": "中国机器人亮相美国达人秀",
@@ -313,6 +462,17 @@
           "time_info": "02时43分"
         },
         {
+          "title": "市场消息：黎巴嫩与以色列会谈后的联合声明表示，在美国的指导下，双方同意迅速推进建立‘试点区’的工作；在这些试点区内，黎巴嫩武装部队将对领土行使专属管辖权，排除任何非国家行为体的存在。",
+          "url": "https://flash.jin10.com/detail/20260604064619506800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
+        },
+        {
           "title": "美国务卿称格陵兰岛“目前仍属于丹麦”",
           "url": "https://wallstreetcn.com/livenews/3113957",
           "source": "华尔街见闻-快讯",
@@ -322,6 +482,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
+        },
+        {
+          "title": "市场消息：黎巴嫩与以色列会谈后的联合声明表示，在由美国主导的谈判取得成果后，以色列与黎巴嫩同意实施停火。此次停火的前提是真主党方面必须彻底停止开火，且所有真主党武装人员必须撤离利塔尼河南部地区。",
+          "url": "https://flash.jin10.com/detail/20260604064546436800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
         },
         {
           "title": "美国务卿称格陵兰岛“目前仍属于丹麦”",
@@ -363,7 +534,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
         },
@@ -374,7 +545,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
         },
@@ -393,7 +564,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "伊朗革命卫队：为回应美军袭击，已打击美以船只及美军基地",
@@ -403,8 +574,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时43分 ~ 05时49分]"
+          "appearance_count": 4,
+          "time_info": "[02时43分 ~ 07时43分]"
         },
         {
           "title": "据黎巴嫩电视台Al-Mayadeen：伊朗外长表示，如果以色列攻击贝鲁特，伊朗将作出果断回应。",
@@ -446,7 +617,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
         },
@@ -483,6 +654,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时48分 ~ 05时49分]"
+        },
+        {
+          "title": "美国国务院：各方谴责伊朗对该地区国家的攻击。",
+          "url": "https://flash.jin10.com/detail/20260604071327641800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
+        },
+        {
+          "title": "国际油价一度涨超2%，美军称伊朗在整个中东范围发动袭击",
+          "url": "https://wallstreetcn.com/articles/3773721",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊朗革命卫队表示，机场航站楼的损毁是由于美国“爱国者”防空系统未能拦截伊朗导弹，随后系统出现故障所致。",
@@ -524,7 +717,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
         },
@@ -546,7 +739,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
         },
@@ -560,12 +753,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
+        },
+        {
+          "title": "伊朗外长：若以色列侵略贝鲁特 则将重新开战",
+          "url": "https://wallstreetcn.com/livenews/3114062",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
@@ -594,22 +798,46 @@
           "url": "https://wallstreetcn.com/articles/3773769",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时43分 ~ 05时49分]"
+          "appearance_count": 4,
+          "time_info": "[02时43分 ~ 07时43分]"
+        },
+        {
+          "title": "中东局势再度升级，原油走高，美股债双杀，标普九连涨终结，金属和加密货币齐跌",
+          "url": "https://wallstreetcn.com/articles/3773742",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
+        },
+        {
+          "title": "美股收盘：三大指数从历史高位回落 美伊紧张局势再度升级",
+          "url": "https://www.cls.cn/detail/2390139",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
         },
         {
           "title": "美股期指下跌 布油站上98美元 比特币跌破6.7万美元 | 今夜看点",
           "url": "https://www.cls.cn/detail/2389957",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时43分 ~ 05时49分]"
+          "appearance_count": 4,
+          "time_info": "[02时43分 ~ 07时43分]"
         },
         {
           "title": "博通美股盘后跌幅扩大至12%。",
@@ -618,9 +846,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
+        },
+        {
+          "title": "周四亚太盘初，标普500股指期货跌0.3%，纳指期货跌0.6%，道指期货涨0.1%。 科技股中，博通目前（美股盘后）跌12.9%，甲骨文跌4.7%，IBM跌3.8%，AMD跌2.6%，闪迪跌2.5%，美光跌2.4%，高通跌1.9%，苹果涨1.2%，C3.ai涨2.3%。",
+          "url": "https://wallstreetcn.com/livenews/3114044",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
         },
         {
           "title": "小盘股指ETF收跌将近1.4%，领跌美股大类资产类ETF，布油基金涨约2%",
@@ -629,7 +868,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
         },
@@ -640,7 +879,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
         },
@@ -651,7 +890,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
         }
@@ -659,7 +898,7 @@
     },
     {
       "keyword_group": "日本",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "日本停留现金社会的唯一好处",
@@ -667,11 +906,12 @@
           "source": "微博",
           "ranks": [
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时43分 ~ 05时49分]"
+          "appearance_count": 4,
+          "time_info": "[02时43分 ~ 07时43分]"
         },
         {
           "title": "日本黑白包装零食已上线",
@@ -681,8 +921,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时43分 ~ 05时49分]"
+          "appearance_count": 4,
+          "time_info": "[02时43分 ~ 07时43分]"
+        },
+        {
+          "title": "日本夫妇拍军服结婚照被痛骂",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354784&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%A4%AB%E5%A6%87%E6%8B%8D%E5%86%9B%E6%9C%8D%E7%BB%93%E5%A9%9A%E7%85%A7%E8%A2%AB%E7%97%9B%E9%AA%82",
+          "source": "贴吧",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时43分 ~ 07时43分]"
         },
         {
           "title": "日本开始售卖黑白包装零食",
@@ -697,15 +948,15 @@
           "time_info": "[02时43分 ~ 05时49分]"
         },
         {
-          "title": "日本夫妇拍军服结婚照被痛骂",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354784&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%A4%AB%E5%A6%87%E6%8B%8D%E5%86%9B%E6%9C%8D%E7%BB%93%E5%A9%9A%E7%85%A7%E8%A2%AB%E7%97%9B%E9%AA%82",
-          "source": "贴吧",
+          "title": "受AI驱动利润激增，分析师预计韩国股市表现超越日本对手",
+          "url": "https://wallstreetcn.com/livenews/3114040",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时43分 ~ 05时49分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
         }
       ]
     },
@@ -721,8 +972,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时43分 ~ 05时49分]"
+          "appearance_count": 4,
+          "time_info": "[02时43分 ~ 07时43分]"
         },
         {
           "title": "气候临界点加速逼近：从印度热浪看全球极端高温的严峻现实",
@@ -733,8 +984,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时43分 ~ 05时49分]"
+          "appearance_count": 4,
+          "time_info": "[02时43分 ~ 07时43分]"
         },
         {
           "title": "印媒披露数据：印度极端高温，单日或致3400人死亡",
@@ -745,19 +996,60 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时43分 ~ 05时49分]"
+          "appearance_count": 4,
+          "time_info": "[02时43分 ~ 07时43分]"
         },
         {
           "title": "印度高温会否影响经济发展",
           "url": "https://search.bilibili.com/all?keyword=%E5%8D%B0%E5%BA%A6%E9%AB%98%E6%B8%A9%E4%BC%9A%E5%90%A6%E5%BD%B1%E5%93%8D%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95",
           "source": "bilibili 热搜",
           "ranks": [
-            25
+            25,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时48分 ~ 05时49分]"
+          "appearance_count": 3,
+          "time_info": "[05时48分 ~ 07时43分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "如何评价 Codex 与 ChatGPT 两个独立 App 合并，这一举动有什么影响？",
+          "url": "https://www.zhihu.com/question/2045440339406762131",
+          "source": "知乎",
+          "ranks": [
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时43分 ~ 07时43分]"
+        },
+        {
+          "title": "OpenAI 遭美国州政府起诉，ChatGPT 涉嫌帮助策划校园枪击案，诱导用户形成依赖，平台该不该担责？",
+          "url": "https://www.zhihu.com/question/2045160976878680020",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时43分 ~ 05时49分]"
+        },
+        {
+          "title": "OpenAI打算整合CodeX与ChatGPT。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3114043",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
         }
       ]
     },
@@ -774,47 +1066,48 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时43分 ~ 05时49分]"
+          "appearance_count": 4,
+          "time_info": "[02时43分 ~ 07时43分]"
         },
         {
           "title": "估值4000亿、腾讯与宁德时代入局？DeepSeek被曝开启中国AI最大规模融资",
           "url": "https://www.cls.cn/detail/2389857",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时43分 ~ 05时49分]"
+          "appearance_count": 4,
+          "time_info": "[02时43分 ~ 07时43分]"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
         {
-          "title": "如何评价 Codex 与 ChatGPT 两个独立 App 合并，这一举动有什么影响？",
-          "url": "https://www.zhihu.com/question/2045440339406762131",
-          "source": "知乎",
+          "title": "博通首席执行官：预计第三季度非人工智能半导体收入约为45亿美元。谷歌合作关系仍然是非常重要的。",
+          "url": "https://flash.jin10.com/detail/20260604051716270800",
+          "source": "金十数据",
           "ranks": [
-            9
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时43分 ~ 05时49分]"
+          "appearance_count": 1,
+          "time_info": "05时49分"
         },
         {
-          "title": "OpenAI 遭美国州政府起诉，ChatGPT 涉嫌帮助策划校园枪击案，诱导用户形成依赖，平台该不该担责？",
-          "url": "https://www.zhihu.com/question/2045160976878680020",
-          "source": "知乎",
+          "title": "博通CEO：预计谷歌公司将采用多个芯片来源。",
+          "url": "https://wallstreetcn.com/livenews/3114037",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            27
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时43分 ~ 05时49分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
         }
       ]
     },
@@ -829,7 +1122,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
         },
@@ -847,23 +1140,6 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "博通首席执行官：预计第三季度非人工智能半导体收入约为45亿美元。谷歌合作关系仍然是非常重要的。",
-          "url": "https://flash.jin10.com/detail/20260604051716270800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时49分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
       "match_count": 1,
       "titles": [
@@ -873,11 +1149,12 @@
           "source": "今日头条",
           "ranks": [
             26,
-            22
+            22,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时43分 ~ 05时49分]"
+          "appearance_count": 4,
+          "time_info": "[02时43分 ~ 07时43分]"
         }
       ]
     }
