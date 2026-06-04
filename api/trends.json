@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-04T19:53:41.827535+08:00",
-  "total_titles_processed": 1099,
+  "generated_at": "2026-06-04T22:58:31.988656+08:00",
+  "total_titles_processed": 1262,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国",
-      "match_count": 40,
+      "match_count": 56,
       "titles": [
+        {
+          "title": "美国财长贝森特：美国民众在本报税季获得3250亿美元税收减免。",
+          "url": "https://wallstreetcn.com/livenews/3114503",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
         {
           "title": "美国银行CEO Moynihan：随着价格上涨，（美国）消费者开支出现“微观变化”。 经济承受能力是一个实实在在的问题。 最近50年来，公司的信用业务一直不错。（彭博电视）",
           "url": "https://wallstreetcn.com/livenews/3113973",
@@ -17,6 +28,41 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
+        },
+        {
+          "title": "提醒：美国财长贝森特在众议院听证会上重申6月3日于参议院所陈述的内容。",
+          "url": "https://wallstreetcn.com/livenews/3114501",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
+          "title": "提醒：北京时间22:30，美国能源信息署（EIA）将发布天然气库存周报。",
+          "url": "https://wallstreetcn.com/livenews/3114500",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
+          "title": "中国机器人亮相美国达人秀",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BA%AE%E7%9B%B8%E7%BE%8E%E5%9B%BD%E8%BE%BE%E4%BA%BA%E7%A7%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            24,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时52分 ~ 22时58分]"
         },
         {
           "title": "美国务院称以黎双方承诺继续展开直接谈判",
@@ -43,6 +89,17 @@
           "time_info": "[02时43分 ~ 07时43分]"
         },
         {
+          "title": "泽连斯基承认乌问题并非美国优先事项",
+          "url": "https://www.toutiao.com/trending/7646954126164787263/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
           "title": "美联储褐皮书：近几周美国经济活动和通胀均有所上升",
           "url": "https://flash.jin10.com/detail/20260604021437849800",
           "source": "金十数据",
@@ -52,19 +109,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
-        },
-        {
-          "title": "中国机器人亮相美国达人秀",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BA%AE%E7%9B%B8%E7%BE%8E%E5%9B%BD%E8%BE%BE%E4%BA%BA%E7%A7%80",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            24,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时52分 ~ 19时53分]"
         },
         {
           "title": "“定好明年要完工的美国数据中心，60%还没动工”",
@@ -142,9 +186,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
+        },
+        {
+          "title": "美国最高法院巩固了美国证券交易委员会（SEC）追缴非法所得的权力。",
+          "url": "https://wallstreetcn.com/livenews/3114494",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "卢拉：美国不买我们就卖给想买的国家",
@@ -164,7 +219,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -213,13 +268,24 @@
           "time_info": "05时49分"
         },
         {
+          "title": "EIA天然气报告：截至5月29日当周，美国天然气库存总量为25780亿立方英尺，较此前一周增加950亿立方英尺，较去年同期减少30亿立方英尺，同比降幅0.1%，同时较5年均值高1380亿立方英尺，增幅5.7%。",
+          "url": "https://flash.jin10.com/detail/20260604223009627800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
           "title": "美国金融科技公司Ramp在新一轮融资中估值达440亿美元。",
           "url": "https://wallstreetcn.com/livenews/3114400",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -233,6 +299,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
+        },
+        {
+          "title": "美国至5月29日当周EIA天然气库存 950亿立方英尺，预期1010亿立方英尺，前值920亿立方英尺。",
+          "url": "https://flash.jin10.com/detail/20260604223003390800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "约10个贸易团体敦促美国增加受AI挤压的内存芯片供应",
@@ -257,6 +334,50 @@
           "time_info": "07时43分"
         },
         {
+          "title": "美国纽约联储5月全球供应链压力指数1.77，前值1.82。",
+          "url": "https://wallstreetcn.com/livenews/3114489",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
+          "title": "道指涨超1.5%，刷新盘中历史高位至51467点上方。 成分股中，联合健康涨5.7%、Merck涨4.4%，美国运通涨4%、Visa涨3.5%、波音涨2.6%、高盛涨2.4%。",
+          "url": "https://wallstreetcn.com/livenews/3114488",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
+          "title": "美国财长贝森特：美国人在本季获得了3250亿美元的税收减免。",
+          "url": "https://flash.jin10.com/detail/20260604222428586800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
+          "title": "美国参议院民主党成员Warren呼吁财长贝森特扭转金融去监管日程。",
+          "url": "https://wallstreetcn.com/livenews/3114486",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
           "title": "中国机器人亮相美国达人秀",
           "url": "https://www.douyin.com/hot/2522553",
           "source": "抖音",
@@ -277,6 +398,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
+        },
+        {
+          "title": "商务部回应美国对华实施贸易限制",
+          "url": "https://www.douyin.com/hot/2523425",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "市场消息：黎巴嫩与以色列会谈后的联合声明表示，在美国的指导下，双方同意迅速推进建立‘试点区’的工作；在这些试点区内，黎巴嫩武装部队将对领土行使专属管辖权，排除任何非国家行为体的存在。",
@@ -301,6 +433,17 @@
           "time_info": "02时43分"
         },
         {
+          "title": "据美国纽约联储数据，上个交易日（6月3日）担保隔夜融资利率（SOFR）报3.61%，之前一天报3.61%。 上个交易日有效的联邦基金利率报3.62%，之前一天报3.62%。",
+          "url": "https://wallstreetcn.com/livenews/3114484",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
           "title": "市场消息：黎巴嫩与以色列会谈后的联合声明表示，在由美国主导的谈判取得成果后，以色列与黎巴嫩同意实施停火。此次停火的前提是真主党方面必须彻底停止开火，且所有真主党武装人员必须撤离利塔尼河南部地区。",
           "url": "https://flash.jin10.com/detail/20260604064546436800",
           "source": "金十数据",
@@ -310,6 +453,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
+        },
+        {
+          "title": "市场消息：前美国国家安全顾问博尔顿就处理敏感国家安全文件不当一事达成认罪协议。",
+          "url": "https://flash.jin10.com/detail/20260604222226693800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
+          "title": "美国财长贝森特在众议院听证会上重申了周三在参议院的证词。",
+          "url": "https://flash.jin10.com/detail/20260604222043193800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "中国机器人亮相美国达人秀",
@@ -329,9 +494,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
+        },
+        {
+          "title": "美国至5月29日当周EIA天然气库存将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20260604222000000800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "美国务卿称格陵兰岛“目前仍属于丹麦”",
@@ -373,7 +549,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -439,7 +615,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -458,7 +634,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 43,
       "titles": [
         {
           "title": "特朗普：确实对内塔尼亚胡“爆粗口”，愿与伊朗最高领袖会面，正与伊朗达成协议，海上封锁或持续到9月",
@@ -486,6 +662,18 @@
           "time_info": "[02时43分 ~ 07时43分]"
         },
         {
+          "title": "被特朗普斥责“疯了”后，内塔尼亚胡最新发声",
+          "url": "https://news.ifeng.com/c/8tfsjOCN3Os",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时52分 ~ 22时58分]"
+        },
+        {
           "title": "美众议院通过决议，限制特朗普对伊动武权力",
           "url": "https://news.ifeng.com/c/8tffKr5raZ8",
           "source": "凤凰网",
@@ -496,18 +684,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时43分 ~ 16时21分]"
-        },
-        {
-          "title": "被特朗普斥责“疯了”后，内塔尼亚胡最新发声",
-          "url": "https://news.ifeng.com/c/8tfsjOCN3Os",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时52分 ~ 19时53分]"
         },
         {
           "title": "特朗普任命房屋监管主管兼任情报总监",
@@ -551,7 +727,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -562,9 +738,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
+        },
+        {
+          "title": "美国财长贝森特：特朗普的投资经理对交易拥有决定权。",
+          "url": "https://flash.jin10.com/detail/20260604225103943800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "特朗普欲将以黎冲突和美伊谈判“分开处理”",
@@ -587,6 +774,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
+        },
+        {
+          "title": "美国财长贝森特：特朗普的投资完全由第三方管理。",
+          "url": "https://flash.jin10.com/detail/20260604225015201800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "美国众议院通过一项决议，限制美国总统特朗普对伊朗的战争权力。",
@@ -623,13 +821,24 @@
           "time_info": "[07时43分 ~ 11时52分]"
         },
         {
+          "title": "特朗普认为赞成限制其战争权力的众议员“不爱国”",
+          "url": "https://wallstreetcn.com/livenews/3114496",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
           "title": "特朗普：美国正处于结束伊朗战争的最后谈判阶段。",
           "url": "https://wallstreetcn.com/livenews/3114408",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -684,7 +893,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -728,9 +937,31 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
+        },
+        {
+          "title": "美国财长贝森特重申，无法对美国总统特朗普与国税局的和解问题发表评论。",
+          "url": "https://flash.jin10.com/detail/20260604222240545800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
+          "title": "美众议院通过决议，限制特朗普对伊动武权力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33304841",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "鲁比奥称特朗普政府将推动北约进行“重大改革”",
@@ -838,7 +1069,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -890,7 +1121,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "伊朗革命卫队：为回应美军袭击，已打击美以船只及美军基地",
@@ -943,7 +1174,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -1001,6 +1232,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
+        },
+        {
+          "title": "伊朗革命卫队：以色列须立即停止袭击黎巴嫩",
+          "url": "https://wallstreetcn.com/livenews/3114497",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "科威特称伊朗袭击致63人受伤",
@@ -1079,6 +1321,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
+        },
+        {
+          "title": "国际原子能机构：无法确认伊朗浓缩铀的状况和位置",
+          "url": "https://wallstreetcn.com/livenews/3114491",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "美联储Logan：（美国和以色列发动伊朗战争，让人）目睹历史上最严重的能源紊乱。",
@@ -1167,13 +1420,36 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
+        },
+        {
+          "title": "伊朗革命卫队：以色列须立即停止袭击黎巴嫩",
+          "url": "https://flash.jin10.com/detail/20260604221304618800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
+        {
+          "title": "中东局势再度升级，原油走高，美股债双杀，标普九连涨终结，金属和加密货币齐跌",
+          "url": "https://wallstreetcn.com/articles/3773742",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时43分 ~ 22时58分]"
+        },
         {
           "title": "美股两个月狂飙16%：历史只出现过4次，最近一次是1987崩盘前！",
           "url": "https://wallstreetcn.com/articles/3773769",
@@ -1186,17 +1462,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时43分 ~ 16时21分]"
-        },
-        {
-          "title": "中东局势再度升级，原油走高，美股债双杀，标普九连涨终结，金属和加密货币齐跌",
-          "url": "https://wallstreetcn.com/articles/3773742",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时43分 ~ 19时53分]"
         },
         {
           "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
@@ -1243,6 +1508,17 @@
           "time_info": "16时21分"
         },
         {
+          "title": "李大霄谈美股风险释放",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%B0%88%E7%BE%8E%E8%82%A1%E9%A3%8E%E9%99%A9%E9%87%8A%E6%94%BE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
           "title": "美股期指下跌 布油站上98美元 比特币跌破6.7万美元 | 今夜看点",
           "url": "https://www.cls.cn/detail/2389957",
           "source": "财联社热门",
@@ -1260,11 +1536,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时21分 ~ 19时53分]"
+          "appearance_count": 3,
+          "time_info": "[16时21分 ~ 22时58分]"
         },
         {
           "title": "如何看待美股窄牛",
@@ -1301,6 +1578,17 @@
           "time_info": "05时49分"
         },
         {
+          "title": "美股已无恐慌，只剩FOMO！华尔街机构：这一幕像极了1998年",
+          "url": "https://wallstreetcn.com/articles/3773846",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
           "title": "美股超级IPO如何影响指数",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E8%B6%85%E7%BA%A7IPO%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E6%8C%87%E6%95%B0",
           "source": "bilibili 热搜",
@@ -1318,7 +1606,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -1351,9 +1639,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
+        },
+        {
+          "title": "美股三大股指涨跌不一，博通大跌近14%",
+          "url": "https://wallstreetcn.com/livenews/3114472",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "区域银行ETF收跌将近2.4%，领跌美股行业ETF，标普能源板块涨约1.4%",
@@ -1376,6 +1675,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
+        },
+        {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3114466",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         }
       ]
     },
@@ -1390,11 +1700,12 @@
           "ranks": [
             12,
             13,
-            24
+            24,
+            21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时43分 ~ 19时53分]"
+          "appearance_count": 8,
+          "time_info": "[02时43分 ~ 22时58分]"
         },
         {
           "title": "两日本人在吉林处理日军遗弃武器受伤",
@@ -1403,9 +1714,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时53分 ~ 22时58分]"
         },
         {
           "title": "两名日本人在吉林处理遗弃化学武器，手臂染毒",
@@ -1414,9 +1725,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时53分 ~ 22时58分]"
         },
         {
           "title": "中方回应2名日本人处理日遗化武受伤",
@@ -1425,7 +1736,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -1473,7 +1784,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -1484,7 +1795,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -1542,6 +1853,103 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "博通电话会：CEO坦言谷歌正“另寻新欢”，但需求旺盛订单排到2028年，将打造算力融资平台",
+          "url": "https://wallstreetcn.com/articles/3773814",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时52分 ~ 22时58分]"
+        },
+        {
+          "title": "博通首席执行官：预计第三季度非人工智能半导体收入约为45亿美元。谷歌合作关系仍然是非常重要的。",
+          "url": "https://flash.jin10.com/detail/20260604051716270800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时49分"
+        },
+        {
+          "title": "Gemini 美国豆包",
+          "url": "https://s.weibo.com/weibo?q=Gemini%20%E7%BE%8E%E5%9B%BD%E8%B1%86%E5%8C%85&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
+          "title": "谷歌计划释放3200万只蚊子",
+          "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E6%AD%8C%E8%AE%A1%E5%88%92%E9%87%8A%E6%94%BE3200%E4%B8%87%E5%8F%AA%E8%9A%8A%E5%AD%90",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
+          "title": "英国监管机构给谷歌AI搜索“立新规”",
+          "url": "https://wallstreetcn.com/livenews/3114177",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时52分"
+        },
+        {
+          "title": "谷歌计划投放3200万只蚊子",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B0%B7%E6%AD%8C%E8%AE%A1%E5%88%92%E6%8A%95%E6%94%BE3200%E4%B8%87%E5%8F%AA%E8%9A%8A%E5%AD%90%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
+          "title": "博通CEO：预计谷歌公司将采用多个芯片来源。",
+          "url": "https://wallstreetcn.com/livenews/3114037",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时43分"
+        },
+        {
+          "title": "谷歌：公司与能源开发商Intersect将建设Meitner能源中心，其中包括在德克萨斯州格雷县和罗伯茨县新建数据中心。",
+          "url": "https://wallstreetcn.com/livenews/3114468",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         }
       ]
     },
@@ -1610,14 +2018,27 @@
         },
         {
           "title": "莫迪呼吁天热多喝水遭印度民众控诉",
+          "url": "https://www.baidu.com/s?wd=%E8%8E%AB%E8%BF%AA%E5%91%BC%E5%90%81%E5%A4%A9%E7%83%AD%E5%A4%9A%E5%96%9D%E6%B0%B4%E9%81%AD%E5%8D%B0%E5%BA%A6%E6%B0%91%E4%BC%97%E6%8E%A7%E8%AF%89",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时53分 ~ 22时58分]"
+        },
+        {
+          "title": "莫迪呼吁天热多喝水遭印度民众控诉",
           "url": "https://www.toutiao.com/trending/7646986026233479178/",
           "source": "今日头条",
           "ranks": [
-            10
+            10,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时53分 ~ 22时58分]"
         },
         {
           "title": "UP主还原一个真实的印度",
@@ -1629,80 +2050,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
-        },
-        {
-          "title": "莫迪呼吁天热多喝水遭印度民众控诉",
-          "url": "https://www.baidu.com/s?wd=%E8%8E%AB%E8%BF%AA%E5%91%BC%E5%90%81%E5%A4%A9%E7%83%AD%E5%A4%9A%E5%96%9D%E6%B0%B4%E9%81%AD%E5%8D%B0%E5%BA%A6%E6%B0%91%E4%BC%97%E6%8E%A7%E8%AF%89",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "博通电话会：CEO坦言谷歌正“另寻新欢”，但需求旺盛订单排到2028年，将打造算力融资平台",
-          "url": "https://wallstreetcn.com/articles/3773814",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时52分 ~ 19时53分]"
-        },
-        {
-          "title": "博通首席执行官：预计第三季度非人工智能半导体收入约为45亿美元。谷歌合作关系仍然是非常重要的。",
-          "url": "https://flash.jin10.com/detail/20260604051716270800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时49分"
-        },
-        {
-          "title": "谷歌计划释放3200万只蚊子",
-          "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E6%AD%8C%E8%AE%A1%E5%88%92%E9%87%8A%E6%94%BE3200%E4%B8%87%E5%8F%AA%E8%9A%8A%E5%AD%90",
-          "source": "百度热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时53分"
-        },
-        {
-          "title": "英国监管机构给谷歌AI搜索“立新规”",
-          "url": "https://wallstreetcn.com/livenews/3114177",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时52分"
-        },
-        {
-          "title": "博通CEO：预计谷歌公司将采用多个芯片来源。",
-          "url": "https://wallstreetcn.com/livenews/3114037",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时43分"
         }
       ]
     },
@@ -1834,7 +2181,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         }
