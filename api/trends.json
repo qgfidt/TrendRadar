@@ -1,12 +1,470 @@
 {
-  "generated_at": "2026-06-05T04:08:19.789642+08:00",
-  "total_titles_processed": 397,
+  "generated_at": "2026-06-05T06:21:43.444383+08:00",
+  "total_titles_processed": 483,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美国",
-      "match_count": 20,
+      "keyword_group": "特朗普",
+      "match_count": 40,
       "titles": [
+        {
+          "title": "美国总统特朗普宣布将于6月24日在华盛顿特区举行庆典，庆祝美国建国250周年。",
+          "url": "https://flash.jin10.com/detail/20260605055248462800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "俄罗斯总统普京：欧盟无法扮演调停人角色，因其立场并不是中性的。 重申俄方认可（与美国总统特朗普）在阿拉斯加州达成的共识。",
+          "url": "https://wallstreetcn.com/livenews/3114570",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时48分"
+        },
+        {
+          "title": "美国总统特朗普：赞赏代理国家情报总监、兼联邦住房金融局(FHFA)局长Bill Pulte在房利美与房地美（两房）的工作。 两房的价值可能有1万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3114612",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时08分"
+        },
+        {
+          "title": "特朗普：乐见“普泽会”，俄乌会“妥协”",
+          "url": "https://wallstreetcn.com/livenews/3114655",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "被特朗普斥责“疯了”后，内塔尼亚胡最新发声",
+          "url": "https://news.ifeng.com/c/8tfsjOCN3Os",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时48分"
+        },
+        {
+          "title": "美国总统特朗普：将在林肯纪念堂修建步道。",
+          "url": "https://flash.jin10.com/detail/20260605034812419800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时08分"
+        },
+        {
+          "title": "特朗普：乐见“普泽会”，俄乌会“妥协”",
+          "url": "https://flash.jin10.com/detail/20260605054401786800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "美众议院通过决议，限制特朗普对伊动武权力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33304841",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时48分 ~ 04时08分]"
+        },
+        {
+          "title": "据福克斯新闻：特朗普政府计划发布一项政策声明，告知各银行在提供抵押贷款和信用卡时，可能会将客户的移民身份作为评估其偿还能力的因素之一。",
+          "url": "https://flash.jin10.com/detail/20260605053303350800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "美国总统特朗普：将动用《国防生产法》来保留13座煤电厂。",
+          "url": "https://flash.jin10.com/detail/20260605033536358800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时08分"
+        },
+        {
+          "title": "特朗普的顾问纳瓦罗：美联储不应该加息，那会造成供应冲击并传到至通胀。",
+          "url": "https://wallstreetcn.com/livenews/3114648",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "美国总统特朗普：与通用汽车和福特的高管进行了很好的会晤。",
+          "url": "https://flash.jin10.com/detail/20260605033413210800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时08分"
+        },
+        {
+          "title": "特朗普称汽车行业企图限制“自主维修权”",
+          "url": "https://wallstreetcn.com/livenews/3114604",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时08分"
+        },
+        {
+          "title": "俄外长：“拜登的战争”变成“特朗普的战争”",
+          "url": "https://wallstreetcn.com/livenews/3114560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时48分"
+        },
+        {
+          "title": "据CNN：特朗普确认将于下周一在纽约出席尼克斯队的NBA总决赛比赛。",
+          "url": "https://flash.jin10.com/detail/20260605045725566800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "美国总统特朗普：风能表现不佳。",
+          "url": "https://flash.jin10.com/detail/20260605033206043800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时08分"
+        },
+        {
+          "title": "美国总统特朗普宣称：对众多煤炭工厂投资7亿美元。 正采取历史性行动来降低能源价格。",
+          "url": "https://wallstreetcn.com/livenews/3114600",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时08分"
+        },
+        {
+          "title": "美国总统特朗普：将建设2座新煤电厂并出口煤炭。",
+          "url": "https://flash.jin10.com/detail/20260605033201797800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时08分"
+        },
+        {
+          "title": "美国总统特朗普：将向煤炭行业投资7亿美元。",
+          "url": "https://flash.jin10.com/detail/20260605033129969800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时08分"
+        },
+        {
+          "title": "特朗普称若达成协议 不排除与伊朗最高领袖会晤",
+          "url": "https://flash.jin10.com/detail/20260605044910796800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "美国总统特朗普：承诺将采取历史性行动以降低能源价格。",
+          "url": "https://flash.jin10.com/detail/20260605033055518800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时08分"
+        },
+        {
+          "title": "美国总统特朗普：我们将采取行动，利用煤炭的力量来降低能源价格。",
+          "url": "https://flash.jin10.com/detail/20260605033009382800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时08分"
+        },
+        {
+          "title": "美国总统特朗普：汽车制造商在会面中并未提出任何关税调整要求，谈话主要集中在汽车维修问题上。",
+          "url": "https://flash.jin10.com/detail/20260605044557857800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "美国总统特朗普：将很快提名美国代理司法部长布兰奇担任司法部长，相关文件正在准备中。",
+          "url": "https://flash.jin10.com/detail/20260605044520253800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "俄罗斯总统普京：特朗普在阿拉斯加曾要求俄罗斯作出一定妥协，俄方对此已准备就绪。",
+          "url": "https://flash.jin10.com/detail/20260605012011254800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时48分"
+        },
+        {
+          "title": "特朗普称若达成协议 不排除与伊朗最高领袖会晤",
+          "url": "https://wallstreetcn.com/livenews/3114633",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "美国总统特朗普就煤炭问题发表声明。",
+          "url": "https://flash.jin10.com/detail/20260605032432338800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时08分"
+        },
+        {
+          "title": "美国总统特朗普：古巴正面临粮食短缺，并且缺乏能源和石油。",
+          "url": "https://flash.jin10.com/detail/20260605043740083800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "美国总统特朗普：汽车行业会议主要讨论车辆维修问题。 制造商并没有要求我调整关税。",
+          "url": "https://wallstreetcn.com/livenews/3114631",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "特朗普称黎以和平谈判取得一定进展",
+          "url": "https://flash.jin10.com/detail/20260605043607203800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "特朗普称黎以和平谈判取得一定进展",
+          "url": "https://wallstreetcn.com/livenews/3114630",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "美国总统特朗普：我们将处理好古巴问题。",
+          "url": "https://flash.jin10.com/detail/20260605043346752800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "美国总统特朗普宣称：先解决伊朗，再处理古巴。",
+          "url": "https://wallstreetcn.com/livenews/3114629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "美国总统特朗普：我们对古巴有一些非常好的计划。",
+          "url": "https://flash.jin10.com/detail/20260605043321294800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "美国总统特朗普宣称：制裁古巴并不是要加速其崩溃。",
+          "url": "https://wallstreetcn.com/livenews/3114628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "美国总统特朗普：在处理完伊朗后，我们会处理古巴。",
+          "url": "https://flash.jin10.com/detail/20260605043312889800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "特朗普：Pulte不会成为正式的国家情报总监",
+          "url": "https://wallstreetcn.com/livenews/3114627",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "美国总统特朗普：（关于古巴）我们只希望他们能成为一个管理良好的国家。",
+          "url": "https://flash.jin10.com/detail/20260605043128993800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "美国财长贝森特被问及特朗普关税是否造成价格上涨，称：影响“微乎其微”。",
+          "url": "https://wallstreetcn.com/livenews/3114582",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时08分"
+        },
+        {
+          "title": "美国总统特朗普：我们会得到伊朗的核尘埃。 没有在考虑秘密行动夺取伊朗铀。 没有理由去获取伊朗的核尘埃，它已经被掩埋。 现在可以获取伊朗的核尘埃，但没理由这么做。",
+          "url": "https://wallstreetcn.com/livenews/3114626",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美国",
+      "match_count": 27,
+      "titles": [
+        {
+          "title": "美国小企业招聘计划降至2020年5月以来最低",
+          "url": "https://wallstreetcn.com/livenews/3114656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
         {
           "title": "Quantinuum Inc.（QNT）美国IPO首日开盘报68美元，此前给出的IPO发行价为每股60美元。 这家获得霍尼韦尔（投资）支持的量子计算公司通过IPO募资16.8亿美元。",
           "url": "https://wallstreetcn.com/livenews/3114568",
@@ -49,8 +507,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时48分 ~ 04时08分]"
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 06时21分]"
         },
         {
           "title": "中国机器人亮相美国达人秀",
@@ -58,11 +516,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             13,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时48分 ~ 04时08分]"
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 06时21分]"
         },
         {
           "title": "商务部回应美国对华实施贸易限制",
@@ -73,8 +532,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时48分 ~ 04时08分]"
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 06时21分]"
         },
         {
           "title": "巴西总统称美国不买就卖给别国",
@@ -82,11 +541,12 @@
           "source": "今日头条",
           "ranks": [
             19,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时48分 ~ 04时08分]"
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 06时21分]"
         },
         {
           "title": "泽连斯基承认乌问题并非美国优先事项",
@@ -97,8 +557,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时48分 ~ 04时08分]"
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 06时21分]"
         },
         {
           "title": "美国两年期国债收益率跌3.5个基点",
@@ -107,9 +567,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
+        },
+        {
+          "title": "美国将让银行业关注客户的移民状态。 美国消费者金融保护局（CFPB）将于6月5日发布银行业政策。（福克斯商业新闻）",
+          "url": "https://wallstreetcn.com/livenews/3114649",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
         },
         {
           "title": "美工农业部长Rollins：“毫无疑问”的是，墨西哥贸易暂停造成（美国）牛肉价格上涨。",
@@ -118,9 +589,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
+        },
+        {
+          "title": "美国国务院：美国国务卿鲁比奥与玻利维亚总统帕斯进行了交谈。",
+          "url": "https://flash.jin10.com/detail/20260605051146916800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
         },
         {
           "title": "贝森特：美国可能会针对俄罗斯石油实施国别豁免",
@@ -129,7 +611,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
         },
@@ -145,15 +627,48 @@
           "time_info": "01时48分"
         },
         {
+          "title": "美国法官罕见公开回应关税案，警告称上诉可能冲击退税进程",
+          "url": "https://wallstreetcn.com/livenews/3114640",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
           "title": "美国国家安全局正在借助Anthropic旗下Mythos大模型实施网络攻防作业",
           "url": "https://wallstreetcn.com/livenews/3114597",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
+        },
+        {
+          "title": "美国投资公司协会（ICI）：截至6月3日的一周内，货币市场基金总资产增加了1092.5亿美元，达到7.89万亿美元。",
+          "url": "https://flash.jin10.com/detail/20260605044825280800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "美众议院税收立法议员称数字服务税将面临美国报复风险",
+          "url": "https://wallstreetcn.com/livenews/3114637",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
         },
         {
           "title": "伦敦证券交易所集团-理柏（LSEG Lipper）：6月3日当周，美国杠杆贷款基金获得7.555亿美元资金流入，为连续第九周出现资金流入。",
@@ -162,7 +677,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
         },
@@ -184,7 +699,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
         },
@@ -195,7 +710,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
         },
@@ -206,7 +721,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
         },
@@ -231,217 +746,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 18,
-      "titles": [
+        },
         {
-          "title": "俄罗斯总统普京：欧盟无法扮演调停人角色，因其立场并不是中性的。 重申俄方认可（与美国总统特朗普）在阿拉斯加州达成的共识。",
-          "url": "https://wallstreetcn.com/livenews/3114570",
+          "title": "美国能源部长Wright：委内瑞拉石油出口相比美军强行掳走总统马杜罗时高出三倍。",
+          "url": "https://wallstreetcn.com/livenews/3114622",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        },
-        {
-          "title": "美国总统特朗普：赞赏代理国家情报总监、兼联邦住房金融局(FHFA)局长Bill Pulte在房利美与房地美（两房）的工作。 两房的价值可能有1万亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3114612",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
+            30
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时08分"
-        },
-        {
-          "title": "被特朗普斥责“疯了”后，内塔尼亚胡最新发声",
-          "url": "https://news.ifeng.com/c/8tfsjOCN3Os",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        },
-        {
-          "title": "美国总统特朗普：将在林肯纪念堂修建步道。",
-          "url": "https://flash.jin10.com/detail/20260605034812419800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时08分"
-        },
-        {
-          "title": "美众议院通过决议，限制特朗普对伊动武权力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33304841",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时48分 ~ 04时08分]"
-        },
-        {
-          "title": "美国总统特朗普：将动用《国防生产法》来保留13座煤电厂。",
-          "url": "https://flash.jin10.com/detail/20260605033536358800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时08分"
-        },
-        {
-          "title": "美国总统特朗普：与通用汽车和福特的高管进行了很好的会晤。",
-          "url": "https://flash.jin10.com/detail/20260605033413210800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时08分"
-        },
-        {
-          "title": "特朗普称汽车行业企图限制“自主维修权”",
-          "url": "https://wallstreetcn.com/livenews/3114604",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时08分"
-        },
-        {
-          "title": "俄外长：“拜登的战争”变成“特朗普的战争”",
-          "url": "https://wallstreetcn.com/livenews/3114560",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        },
-        {
-          "title": "美国总统特朗普：风能表现不佳。",
-          "url": "https://flash.jin10.com/detail/20260605033206043800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时08分"
-        },
-        {
-          "title": "美国总统特朗普宣称：对众多煤炭工厂投资7亿美元。 正采取历史性行动来降低能源价格。",
-          "url": "https://wallstreetcn.com/livenews/3114600",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时08分"
-        },
-        {
-          "title": "美国总统特朗普：将建设2座新煤电厂并出口煤炭。",
-          "url": "https://flash.jin10.com/detail/20260605033201797800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时08分"
-        },
-        {
-          "title": "美国总统特朗普：将向煤炭行业投资7亿美元。",
-          "url": "https://flash.jin10.com/detail/20260605033129969800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时08分"
-        },
-        {
-          "title": "美国总统特朗普：承诺将采取历史性行动以降低能源价格。",
-          "url": "https://flash.jin10.com/detail/20260605033055518800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时08分"
-        },
-        {
-          "title": "美国总统特朗普：我们将采取行动，利用煤炭的力量来降低能源价格。",
-          "url": "https://flash.jin10.com/detail/20260605033009382800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时08分"
-        },
-        {
-          "title": "俄罗斯总统普京：特朗普在阿拉斯加曾要求俄罗斯作出一定妥协，俄方对此已准备就绪。",
-          "url": "https://flash.jin10.com/detail/20260605012011254800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        },
-        {
-          "title": "美国总统特朗普就煤炭问题发表声明。",
-          "url": "https://flash.jin10.com/detail/20260605032432338800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时08分"
-        },
-        {
-          "title": "美国财长贝森特被问及特朗普关税是否造成价格上涨，称：影响“微乎其微”。",
-          "url": "https://wallstreetcn.com/livenews/3114582",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时08分"
+          "time_info": "06时21分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "航运数据显示，伊朗5月份石油出口量降至每日30万桶以下，创至少六年来的新低。",
@@ -466,16 +787,39 @@
           "time_info": "01时48分"
         },
         {
+          "title": "哈马斯高官与伊朗外长通话，讨论地区局势",
+          "url": "https://wallstreetcn.com/livenews/3114653",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
           "title": "伊朗“圣城旅”喊话以色列",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E2%80%9C%E5%9C%A3%E5%9F%8E%E6%97%85%E2%80%9D%E5%96%8A%E8%AF%9D%E4%BB%A5%E8%89%B2%E5%88%97",
           "source": "百度热搜",
           "ranks": [
             26,
-            9
+            9,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时48分 ~ 04时08分]"
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 06时21分]"
+        },
+        {
+          "title": "据CNN：视频显示，今年3月参与对伊朗军事行动时发生火灾的美国“福特”号航母，其损坏程度比海军方面所说的要严重得多。",
+          "url": "https://flash.jin10.com/detail/20260605051927289800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
         },
         {
           "title": "波士顿联储：伊朗战争对美国劳动力市场影响有限",
@@ -495,7 +839,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
         },
@@ -517,7 +861,82 @@
           "ranks": [
             19
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "日本",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "两日本人在吉林处理日军遗弃武器受伤",
+          "url": "https://www.toutiao.com/trending/7647473961256619558/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 06时21分]"
+        },
+        {
+          "title": "两名日本人在吉林处理遗弃化学武器，手臂染毒",
+          "url": "https://news.ifeng.com/c/8tgakiDBnfj",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 06时21分]"
+        },
+        {
+          "title": "日本扬言以综合国力应对中国军力",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%89%AC%E8%A8%80%E4%BB%A5%E7%BB%BC%E5%90%88%E5%9B%BD%E5%8A%9B%E5%BA%94%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%86%9B%E5%8A%9B%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 06时21分]"
+        },
+        {
+          "title": "日本黑白包装零食已上线",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354814&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%BB%91%E7%99%BD%E5%8C%85%E8%A3%85%E9%9B%B6%E9%A3%9F%E5%B7%B2%E4%B8%8A%E7%BA%BF",
+          "source": "贴吧",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 06时21分]"
+        },
+        {
+          "title": "中方回应2名日本人处理日遗化武受伤",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%942%E5%90%8D%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%A4%84%E7%90%86%E6%97%A5%E9%81%97%E5%8C%96%E6%AD%A6%E5%8F%97%E4%BC%A4%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "日本在西南诸岛打造“作战基地群”",
+          "url": "https://www.toutiao.com/trending/7646553894135185458/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
         }
@@ -535,8 +954,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时48分 ~ 04时08分]"
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 06时21分]"
         },
         {
           "title": "标普500指数初步收涨0.4%，医疗保健板块涨3.1%，金融板块涨2.6%，电信板块涨2%，能源板块跌0.1%，科技板块跌1.2%。 纳斯达克100指数初步收跌0.4%，成分股中，博通初步收跌12.4%，美光跌7%，Arm控股跌5%，闪迪跌4%，Diamondback Energy跌3.6%，西部数据跌2.7%，谷歌A涨3.8%，迈威尔科技涨5%，Axon涨6.8%。 联合健康初步收涨5.2%，领跑道指成分股，高盛涨5%，Merck涨4.6%，美国运通、摩根大通、波音、思科至少涨2.8%，雪佛龙跌0.7%，Salesforce跌0.9%，霍尼韦尔跌2.3%，VZ跌3.8%。 半导体指数跌2%。",
@@ -545,7 +964,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
         },
@@ -585,71 +1004,8 @@
       ]
     },
     {
-      "keyword_group": "日本",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "两日本人在吉林处理日军遗弃武器受伤",
-          "url": "https://www.toutiao.com/trending/7647473961256619558/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时48分 ~ 04时08分]"
-        },
-        {
-          "title": "两名日本人在吉林处理遗弃化学武器，手臂染毒",
-          "url": "https://news.ifeng.com/c/8tgakiDBnfj",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时48分 ~ 04时08分]"
-        },
-        {
-          "title": "日本黑白包装零食已上线",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354814&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%BB%91%E7%99%BD%E5%8C%85%E8%A3%85%E9%9B%B6%E9%A3%9F%E5%B7%B2%E4%B8%8A%E7%BA%BF",
-          "source": "贴吧",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时48分 ~ 04时08分]"
-        },
-        {
-          "title": "日本扬言以综合国力应对中国军力",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%89%AC%E8%A8%80%E4%BB%A5%E7%BB%BC%E5%90%88%E5%9B%BD%E5%8A%9B%E5%BA%94%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%86%9B%E5%8A%9B%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时48分 ~ 04时08分]"
-        },
-        {
-          "title": "日本在西南诸岛打造“作战基地群”",
-          "url": "https://www.toutiao.com/trending/7646553894135185458/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时08分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
         {
           "title": "中东局势再度升级，原油走高，美股债双杀，标普九连涨终结，金属和加密货币齐跌",
@@ -659,8 +1015,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时48分 ~ 04时08分]"
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 06时21分]"
         },
         {
           "title": "美股已无恐慌，只剩FOMO！华尔街机构：这一幕像极了1998年",
@@ -671,8 +1027,41 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时48分 ~ 04时08分]"
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 06时21分]"
+        },
+        {
+          "title": "李大霄谈美股风险释放",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%B0%88%E7%BE%8E%E8%82%A1%E9%A3%8E%E9%99%A9%E9%87%8A%E6%94%BE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "地产ETF、道指ETF、小盘股指ETF至少收涨1.5%，领跑美股大类资产类ETF",
+          "url": "https://wallstreetcn.com/livenews/3114625",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "银行ETF、医疗业ETF收涨超3%，领跑美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3114624",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
         }
       ]
     },
@@ -688,8 +1077,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时48分 ~ 04时08分]"
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 06时21分]"
         },
         {
           "title": "莫迪呼吁天热多喝水遭印度民众控诉",
@@ -697,11 +1086,12 @@
           "source": "今日头条",
           "ranks": [
             30,
-            25
+            25,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时48分 ~ 04时08分]"
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 06时21分]"
         }
       ]
     },
@@ -716,7 +1106,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
         }
@@ -734,8 +1124,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时48分 ~ 04时08分]"
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 06时21分]"
         }
       ]
     }
