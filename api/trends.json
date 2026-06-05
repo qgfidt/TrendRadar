@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-05T13:17:10.411856+08:00",
-  "total_titles_processed": 825,
+  "generated_at": "2026-06-05T17:45:16.004628+08:00",
+  "total_titles_processed": 1043,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 48,
       "titles": [
         {
           "title": "特朗普：乐见“普泽会”，俄乌会“妥协”",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时07分 ~ 13时17分]"
+          "appearance_count": 5,
+          "time_info": "[08时07分 ~ 17时45分]"
         },
         {
           "title": "特朗普最新支持率曝光，压力骤增",
@@ -153,6 +153,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时48分 ~ 04时08分]"
+        },
+        {
+          "title": "特朗普开会睡觉视频曝光",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%BC%80%E4%BC%9A%E7%9D%A1%E8%A7%89%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时44分 ~ 17时45分]"
         },
         {
           "title": "据福克斯新闻：特朗普政府计划发布一项政策声明，告知各银行在提供抵押贷款和信用卡时，可能会将客户的移民身份作为评估其偿还能力的因素之一。",
@@ -532,7 +543,7 @@
     },
     {
       "keyword_group": "美国",
-      "match_count": 31,
+      "match_count": 34,
       "titles": [
         {
           "title": "商务部回应美国对华实施贸易限制",
@@ -656,6 +667,39 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时48分 ~ 06时21分]"
+        },
+        {
+          "title": "火箭发射突然爆炸，腾起巨大蘑菇云，美国登月计划再添变数",
+          "url": "https://v.ifeng.com/c/8tgYHU5uBap",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时44分 ~ 17时45分]"
+        },
+        {
+          "title": "美籍华人带102名美国学生来中国旅游",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E7%B1%8D%E5%8D%8E%E4%BA%BA%E5%B8%A6102%E5%90%8D%E7%BE%8E%E5%9B%BD%E5%AD%A6%E7%94%9F%E6%9D%A5%E4%B8%AD%E5%9B%BD%E6%97%85%E6%B8%B8",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时44分 ~ 17时45分]"
+        },
+        {
+          "title": "“带队回家”的美籍华人过边检时吐露心声：希望美国学生和家长亲眼看看中国",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33314883",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时44分 ~ 17时45分]"
         },
         {
           "title": "美国两年期国债收益率跌3.5个基点",
@@ -785,7 +829,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
         },
@@ -892,7 +936,7 @@
     },
     {
       "keyword_group": "日本",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "两日本人在吉林处理日军遗弃武器受伤",
@@ -928,8 +972,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时16分 ~ 13时17分]"
+          "appearance_count": 4,
+          "time_info": "[13时16分 ~ 17时45分]"
         },
         {
           "title": "日本4月领先指标初值 115.9，预期 114.5，前值 114。",
@@ -938,7 +982,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
         },
@@ -960,7 +1004,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
         },
@@ -1032,6 +1076,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时21分 ~ 08时07分]"
+        },
+        {
+          "title": "日本为何一直在台湾问题上挑衅",
+          "url": "https://www.toutiao.com/trending/7647502439286145065/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时44分 ~ 17时45分]"
+        },
+        {
+          "title": "日本或将南京大屠杀改为南京事件",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%88%96%E5%B0%86%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%B1%A0%E6%9D%80%E6%94%B9%E4%B8%BA%E5%8D%97%E4%BA%AC%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时44分 ~ 17时45分]"
         },
         {
           "title": "日本被批标榜和平国家却行扩军之事",
@@ -1147,8 +1213,19 @@
     },
     {
       "keyword_group": "印度",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
+        {
+          "title": "印度高温为何还要限制中国空调",
+          "url": "https://www.toutiao.com/trending/7647122233925107750/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时44分 ~ 17时45分]"
+        },
         {
           "title": "印度央行行长：短期投资的限制将被取消，普通渠道下的外资投资集中度将得到放宽。",
           "url": "https://flash.jin10.com/detail/20260605125313908800",
@@ -1156,7 +1233,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
         },
@@ -1167,7 +1244,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
         },
@@ -1178,7 +1255,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
         },
@@ -1189,9 +1266,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
+        },
+        {
+          "title": "委内瑞拉代总统访问印度，能源危机下的“双向奔赴”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33310551",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时16分 ~ 17时45分]"
         },
         {
           "title": "莫迪呼吁天热多喝水遭印度民众控诉",
@@ -1218,15 +1306,15 @@
           "time_info": "[01时48分 ~ 06时21分]"
         },
         {
-          "title": "委内瑞拉代总统访问印度，能源危机下的“双向奔赴”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33310551",
-          "source": "澎湃新闻",
+          "title": "印度人想把喜马拉雅山炸个口子，以解决高温问题，这个思路可行性如何？为什么换成印度人想炸喜马拉雅山了？",
+          "url": "https://www.zhihu.com/question/2045933371537060756",
+          "source": "知乎",
           "ranks": [
-            7
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时16分 ~ 13时17分]"
+          "time_info": "[17时44分 ~ 17时45分]"
         },
         {
           "title": "印度央行行长：强劲的外商直接投资和更高的净外商直接投资凸显了投资者对印度的兴趣。",
@@ -1235,7 +1323,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
         },
@@ -1246,7 +1334,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
         },
@@ -1257,7 +1345,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
         },
@@ -1268,7 +1356,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
         },
@@ -1279,7 +1367,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
         },
@@ -1290,7 +1378,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
         },
@@ -1301,7 +1389,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
         },
@@ -1312,7 +1400,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
         },
@@ -1323,7 +1411,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
         },
@@ -1334,7 +1422,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
         },
@@ -1345,7 +1433,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
         },
@@ -1356,7 +1444,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
         },
@@ -1367,7 +1455,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
         },
@@ -1378,7 +1466,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
         }
@@ -1386,7 +1474,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "航运数据显示，伊朗5月份石油出口量降至每日30万桶以下，创至少六年来的新低。",
@@ -1422,6 +1510,28 @@
           "time_info": "06时21分"
         },
         {
+          "title": "据沙特阿拉伯阿拉比亚电视台：伊朗已通知巴基斯坦，伊方接受将其部分铀库存转移至一个经其同意的第三国。",
+          "url": "https://flash.jin10.com/detail/20260605171456666800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
+        },
+        {
+          "title": "一图看懂｜主战还是主和？伊朗高层有什么分歧？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33310457",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时16分 ~ 17时45分]"
+        },
+        {
           "title": "伊朗“圣城旅”喊话以色列",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E2%80%9C%E5%9C%A3%E5%9F%8E%E6%97%85%E2%80%9D%E5%96%8A%E8%AF%9D%E4%BB%A5%E8%89%B2%E5%88%97",
           "source": "百度热搜",
@@ -1436,15 +1546,15 @@
           "time_info": "[01时48分 ~ 08时07分]"
         },
         {
-          "title": "一图看懂｜主战还是主和？伊朗高层有什么分歧？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33310457",
-          "source": "澎湃新闻",
+          "title": "伊朗外长回忆哈梅内伊遇袭当天细节",
+          "url": "https://news.ifeng.com/c/8thzeBSBwEz",
+          "source": "凤凰网",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时16分 ~ 13时17分]"
+          "time_info": "[17时44分 ~ 17时45分]"
         },
         {
           "title": "据CNN：视频显示，今年3月参与对伊朗军事行动时发生火灾的美国“福特”号航母，其损坏程度比海军方面所说的要严重得多。",
@@ -1687,8 +1797,30 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
+          "url": "https://wallstreetcn.com/articles/3773921",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时44分 ~ 17时45分]"
+        },
+        {
+          "title": "微软CEO深度访谈：过度依赖OpenAI曾让公司陷入被动，软件“未死”但传统SaaS已到转折点",
+          "url": "https://wallstreetcn.com/articles/3773884",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时44分 ~ 17时45分]"
+        },
         {
           "title": "报道：美国就收购OpenAI等多家人工智能公司股份举行了初步讨论",
           "url": "https://wallstreetcn.com/livenews/3114670",
