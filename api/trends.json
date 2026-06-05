@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-06T03:54:08.766693+08:00",
-  "total_titles_processed": 382,
+  "generated_at": "2026-06-06T05:25:52.848764+08:00",
+  "total_titles_processed": 452,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国",
-      "match_count": 32,
+      "match_count": 43,
       "titles": [
         {
           "title": "炸裂！美国5月非农新增就业17.2万人，超过预期近一倍，失业率维持在4.3%",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时54分 ~ 03时54分]"
+          "appearance_count": 4,
+          "time_info": "[01时54分 ~ 05时25分]"
         },
         {
           "title": "美国通胀预期大幅升温！穆迪警告：美联储恐被迫加息",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时54分 ~ 03时54分]"
+          "appearance_count": 4,
+          "time_info": "[01时54分 ~ 05时25分]"
         },
         {
           "title": "美国5月非农延续“爆表”节奏 美联储降息选项被彻底扫下台面",
@@ -38,30 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时54分 ~ 03时54分]"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：6月2日当周，投机者所持NYMEX WTI原油净多头头寸增加8,497手合约，至124,259手合约。 所持布伦特与WTI原油净多头头寸减少16,448手合约，至365,352手合约，创15周新低。 所持NYMEX汽油净多头头寸增至67,957手合约，创10周新高。 所持NYMEX柴油净多头头寸增至12,160手合约，创五周新高。 所持NYMEX天然气净多头头寸增至23,333手合约，创逾两年新高。",
-          "url": "https://wallstreetcn.com/livenews/3115317",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时54分"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：6月2日当周，投机者所持COMEX黄金净多头头寸增加14,410手合约，至111,341手合约，创18周新高。 所持COMEX白银净多头头寸降低至10,433手合约。 所持COMEX铜净多头头寸增至77,131手合约，创逾五年新高。 所持NYMEX铂金净多头头寸减少至11,974手合约，创10周新低。 所持NYMEX钯金净空头头寸降低至3,476手合约。",
-          "url": "https://wallstreetcn.com/livenews/3115316",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时54分"
+          "appearance_count": 4,
+          "time_info": "[01时54分 ~ 05时25分]"
         },
         {
           "title": "美国外卖机器人被当街暴打，该厂商曾称其要替代人工快递员，这一现象反映了哪些问题？",
@@ -72,8 +50,30 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时54分 ~ 03时54分]"
+          "appearance_count": 4,
+          "time_info": "[01时54分 ~ 05时25分]"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：6月2日当周，投机者所持NYMEX WTI原油净多头头寸增加8,497手合约，至124,259手合约。 所持布伦特与WTI原油净多头头寸减少16,448手合约，至365,352手合约，创15周新低。 所持NYMEX汽油净多头头寸增至67,957手合约，创10周新高。 所持NYMEX柴油净多头头寸增至12,160手合约，创五周新高。 所持NYMEX天然气净多头头寸增至23,333手合约，创逾两年新高。",
+          "url": "https://wallstreetcn.com/livenews/3115317",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时54分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：6月2日当周，投机者所持COMEX黄金净多头头寸增加14,410手合约，至111,341手合约，创18周新高。 所持COMEX白银净多头头寸降低至10,433手合约。 所持COMEX铜净多头头寸增至77,131手合约，创逾五年新高。 所持NYMEX铂金净多头头寸减少至11,974手合约，创10周新低。 所持NYMEX钯金净空头头寸降低至3,476手合约。",
+          "url": "https://wallstreetcn.com/livenews/3115316",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时54分"
         },
         {
           "title": "据英国金融时报：美国在与墨西哥的贸易谈判中，要求其对汽车零部件实施更严格的（准入）规则。",
@@ -87,15 +87,15 @@
           "time_info": "01时54分"
         },
         {
-          "title": "美国商品期货交易委员会（CFTC）：截至6月2日当周，WTI原油期货投机性净多头头寸增加12,530手至103,693手。",
-          "url": "https://flash.jin10.com/detail/20260606034144510800",
+          "title": "美国银行存款从上周的19.285万亿美元上升至19.333万亿美元。",
+          "url": "https://flash.jin10.com/detail/20260606041804168800",
           "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时54分"
+          "time_info": "05时25分"
         },
         {
           "title": "美国多个州正在酝酿一份诉讼，希望借机阻挠派拉蒙天舞（Paramount SkyDance）与华纳兄弟探索公司（WBD）之间的并购交易。（路透）",
@@ -115,7 +115,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时54分"
         },
@@ -127,8 +127,32 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时54分 ~ 03时54分]"
+          "appearance_count": 4,
+          "time_info": "[01时54分 ~ 05时25分]"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至6月2日当周，WTI原油期货投机性净多头头寸增加12,530手至103,693手。",
+          "url": "https://flash.jin10.com/detail/20260606034144510800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时54分 ~ 05时25分]"
+        },
+        {
+          "title": "俄乌释放和谈信号之际，美国众议院通过援乌法案施压俄罗斯",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33315101",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时54分 ~ 05时25分]"
         },
         {
           "title": "美国疯狂全球抢铜",
@@ -143,18 +167,6 @@
           "time_info": "[01时54分 ~ 03时54分]"
         },
         {
-          "title": "俄乌释放和谈信号之际，美国众议院通过援乌法案施压俄罗斯",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33315101",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时54分 ~ 03时54分]"
-        },
-        {
           "title": "世界周侃谈美国制裁对古巴的影响",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E5%91%A8%E4%BE%83%E8%B0%88%E7%BE%8E%E5%9B%BD%E5%88%B6%E8%A3%81%E5%AF%B9%E5%8F%A4%E5%B7%B4%E7%9A%84%E5%BD%B1%E5%93%8D",
           "source": "bilibili 热搜",
@@ -162,8 +174,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时53分 ~ 03时54分]"
+          "appearance_count": 3,
+          "time_info": "[03时53分 ~ 05时25分]"
         },
         {
           "title": "市场消息：美国参议员沃伦呼吁英伟达(NVDA.O)总裁于6月11日出席听证会。",
@@ -183,7 +195,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时54分"
         },
@@ -194,7 +206,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时54分"
         },
@@ -208,6 +220,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
+        },
+        {
+          "title": "美国军方报告称，过去两个月内，近1000艘商船通过霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260606040841069800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
         },
         {
           "title": "美国6月5日当周总钻井数 563，前值 562。",
@@ -238,7 +261,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时54分"
         },
@@ -271,9 +294,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时54分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：6月2日当周，投机者所持日元净空头头寸创2024年7月份以来新高。 杠杆交易员所持日元空头头寸达到105,136手合约，持仓价值大约82亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3115336",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
         },
         {
           "title": "德国两年期国债收益率于美国非农日涨超3个基点，本周累涨超16个基点",
@@ -304,9 +338,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时54分"
+        },
+        {
+          "title": "美国消费者借贷再度强劲增加，创2022年以来最大连续两月增幅",
+          "url": "https://wallstreetcn.com/livenews/3115333",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
         },
         {
           "title": "美国至6月5日当周天然气钻井总数 124口，前值125口。",
@@ -320,6 +365,17 @@
           "time_info": "01时54分"
         },
         {
+          "title": "美国商品期货交易委员会（CFTC）：至6月2日当周，美国投机者将标普500指数CME净空头持仓增加38,113手至485,582手，股票基金经理将标普500指数CME净多头持仓减少23,807手至985,207手。",
+          "url": "https://flash.jin10.com/detail/20260606035837273800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
           "title": "美国至6月5日当周总钻井总数 563口，前值562口。",
           "url": "https://flash.jin10.com/detail/20260606010139184800",
           "source": "金十数据",
@@ -329,6 +385,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
+        },
+        {
+          "title": "美国商品期货交易委员会(CFTC)：截至6月2日当周，投机者将CBOT美国2年期国债期货净空头持仓增加94,942手至1,350,188手，美国5年期国债期货净空头持仓增加46,091手至1,369,218手，美国10年期国债期货净空头持仓增加41,621手至829,575手，超长期国债期货净空头持仓增加27,868手至287,710手。",
+          "url": "https://flash.jin10.com/detail/20260606035613689800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
         },
         {
           "title": "美国至6月5日当周石油钻井总数 431口，前值429口。",
@@ -342,15 +409,70 @@
           "time_info": "01时54分"
         },
         {
+          "title": "美国商品期货交易委员会（CFTC）：截至6月2日当周，NYMEX、ICE市场的天然气期货净空头寸减少25,529手至15,892手。",
+          "url": "https://flash.jin10.com/detail/20260606035340145800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至6月2日当周，COMEX铜期货投机性净多头头寸增加5,156手至77,131手。",
+          "url": "https://flash.jin10.com/detail/20260606035236803800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
+          "title": "美联储：美国上周银行存款19.333万亿美元，之前一周19.285万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3115329",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
+          "title": "美国海关与边境保护局：新的铝、钢和铜关税制度将于6月8日生效。",
+          "url": "https://flash.jin10.com/detail/20260606035132854800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
           "title": "美国4月消费信贷 207.3亿美元，预期180亿美元，前值由248.55亿美元修正为222.3亿美元。",
           "url": "https://flash.jin10.com/detail/20260606030021423800",
           "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时54分"
+        },
+        {
+          "title": "美国5月非农就业报告发布当天，标普500指数收跌200.57点，跌幅2.64%，报7383.74点，本周累计下跌2.59%，在非农日打乱6月1-4日大体持稳的状态。 道琼斯工业平均指数收跌695.15点，跌幅1.35%，报50866.78点，本周累跌0.32%。 纳斯达克综合指数（纳指）收跌1121.526点，跌幅4.18%，报25709.432点，本周累跌4.68%。 纳斯达克100指数收跌1450.212点，跌幅4.77%，报28957.599点，本周累跌4.53%。",
+          "url": "https://wallstreetcn.com/livenews/3115323",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
         },
         {
           "title": "中国机器人亮相美国达人秀",
@@ -367,7 +489,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 26,
       "titles": [
         {
           "title": "在这件事上，特朗普宣布要花7亿美元",
@@ -377,8 +499,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时54分 ~ 03时54分]"
+          "appearance_count": 4,
+          "time_info": "[01时54分 ~ 05时25分]"
         },
         {
           "title": "美国总统特朗普：将在十月会议上将降息决定交给美联储主席沃什处理。",
@@ -414,6 +536,17 @@
           "time_info": "01时54分"
         },
         {
+          "title": "美国总统特朗普：加拿大苛刻地对待美国农民。",
+          "url": "https://wallstreetcn.com/livenews/3115348",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
           "title": "美媒：特朗普称已敦促普尔特对国家情报局进行裁员",
           "url": "https://flash.jin10.com/detail/20260606013829444800",
           "source": "金十数据",
@@ -430,11 +563,12 @@
           "source": "知乎",
           "ranks": [
             13,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时54分 ~ 03时54分]"
+          "appearance_count": 4,
+          "time_info": "[01时54分 ~ 05时25分]"
         },
         {
           "title": "特朗普称若达成协议，不排除与伊朗最高领袖会晤",
@@ -445,8 +579,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时54分 ~ 03时54分]"
+          "appearance_count": 4,
+          "time_info": "[01时54分 ~ 05时25分]"
         },
         {
           "title": "美国总统特朗普：伊朗局势似乎进行得相当不错。",
@@ -455,7 +589,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时54分"
         },
@@ -466,9 +600,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时54分"
+        },
+        {
+          "title": "美国总统特朗普：美联储主席沃什将做一份不错的工作。 我们正在处理前美联储主席鲍威尔。",
+          "url": "https://wallstreetcn.com/livenews/3115344",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
         },
         {
           "title": "美国总统特朗普对伊朗局势“进展良好”未提供更多细节。",
@@ -477,9 +622,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时54分"
+        },
+        {
+          "title": "美国总统特朗普：农民们将在未来90天看到好事发生。",
+          "url": "https://wallstreetcn.com/livenews/3115343",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
         },
         {
           "title": "美国总统特朗普：伊朗局势似乎进展顺利。",
@@ -488,9 +644,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时54分"
+        },
+        {
+          "title": "美国总统特朗普：夸赞5月非农就业报告。 为之前两个月的数据得到上修点赞。 当数据好的时候，市场就应该上涨。 （经济）增长实际上遏制通胀",
+          "url": "https://wallstreetcn.com/livenews/3115342",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
         },
         {
           "title": "美国总统特朗普：今天的就业数据非常出色。",
@@ -499,9 +666,31 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时54分"
+        },
+        {
+          "title": "美国总统特朗普：当美国离开伊朗，石油、汽油价格都将下跌。 化肥价格也将下跌。",
+          "url": "https://wallstreetcn.com/livenews/3115340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
+          "title": "美国总统特朗普：我们已经在极大程度上完成了（伊朗协议的磋商），你们会看到（结果）的。 要么用书面（协议）方式结束伊朗问题，要么换一种方式。 相比书面方式，强硬地对待伊朗要容易得多。 美国封锁霍尔木兹海峡取得成果。 很快就会结束伊朗问题。",
+          "url": "https://wallstreetcn.com/livenews/3115339",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
         },
         {
           "title": "据Politico：特朗普最早将于下周与人工智能公司会面，商讨政府利润分成计划。",
@@ -510,7 +699,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时54分"
         },
@@ -521,7 +710,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时54分"
         },
@@ -532,7 +721,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时54分"
         },
@@ -565,7 +754,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时54分"
         },
@@ -576,7 +765,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时54分"
         },
@@ -587,9 +776,125 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "迈威尔科技（美满科技）美股盘后涨5%，该公司将被纳入标普500指数。",
+          "url": "https://wallstreetcn.com/livenews/3115352",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
+          "title": "反“金发姑娘”！今晚非农：好消息和坏消息，对美股而言都是坏消息",
+          "url": "https://wallstreetcn.com/articles/3773949",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时54分 ~ 05时25分]"
+        },
+        {
+          "title": "美股遭遇抛售，但高盛称未见仓位极端拥挤现象",
+          "url": "https://wallstreetcn.com/livenews/3115345",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
+          "title": "金十图示：2026年06月05日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260606040853818800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
+          "title": "金十图示：2026年06月05日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260606040847799800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
+          "title": "CoreWeave美股盘后跌3.6%。 该公司股东Jane Street Singapore登记减持高达920万股，可能还将时不时地出售所持股份。",
+          "url": "https://wallstreetcn.com/livenews/3115338",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
+          "title": "美股收盘：纳指跌超4% 半导体股多数下跌",
+          "url": "https://flash.jin10.com/detail/20260606040542544800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
+          "title": "新兴市场ETF收跌超6.5%，领跌美股大类资产类ETF",
+          "url": "https://wallstreetcn.com/livenews/3115331",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
+          "title": "费城半导体指数在美股午后盘中下跌近9%。",
+          "url": "https://flash.jin10.com/detail/20260606030109177800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时54分"
+        },
+        {
+          "title": "周五（6月5日），美股行业ETF涨跌各异，半导体ETF收盘重挫9.22%，全球科技股指数ETF跌7.32%，科技行业ETF跌6.66%，网络股指数ETF跌3.24%，公用事业ETF涨0.93%，日常消费品ETF涨1.71%。",
+          "url": "https://wallstreetcn.com/livenews/3115328",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
         }
       ]
     },
@@ -605,8 +910,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时54分 ~ 03时54分]"
+          "appearance_count": 4,
+          "time_info": "[01时54分 ~ 05时25分]"
         },
         {
           "title": "印度人想把喜马拉雅山炸个口子，以解决高温问题，这个思路可行性如何？为什么换成印度人想炸喜马拉雅山了？",
@@ -616,8 +921,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时54分 ~ 03时54分]"
+          "appearance_count": 4,
+          "time_info": "[01时54分 ~ 05时25分]"
         },
         {
           "title": "热了几千年的印度为何现在备受关注",
@@ -628,8 +933,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时54分 ~ 03时54分]"
+          "appearance_count": 4,
+          "time_info": "[01时54分 ~ 05时25分]"
         },
         {
           "title": "一天热死3400人，印度也要限制中国空调",
@@ -639,8 +944,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时54分 ~ 03时54分]"
+          "appearance_count": 4,
+          "time_info": "[01时54分 ~ 05时25分]"
         },
         {
           "title": "印度高温为何还要限制中国空调",
@@ -648,11 +953,12 @@
           "source": "今日头条",
           "ranks": [
             17,
-            18
+            18,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时54分 ~ 03时54分]"
+          "appearance_count": 4,
+          "time_info": "[01时54分 ~ 05时25分]"
         }
       ]
     },
@@ -660,17 +966,6 @@
       "keyword_group": "伊朗",
       "match_count": 4,
       "titles": [
-        {
-          "title": "据伊朗媒体Fars News：美国尚未向伊朗足球队的部分技术和行政人员签发世界杯签证。",
-          "url": "https://flash.jin10.com/detail/20260606034147571800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时54分"
-        },
         {
           "title": "一图看懂｜主战还是主和？伊朗高层有什么分歧？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33310457",
@@ -680,8 +975,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时54分 ~ 03时54分]"
+          "appearance_count": 4,
+          "time_info": "[01时54分 ~ 05时25分]"
+        },
+        {
+          "title": "据伊朗媒体Fars News：美国尚未向伊朗足球队的部分技术和行政人员签发世界杯签证。",
+          "url": "https://flash.jin10.com/detail/20260606034147571800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时54分 ~ 05时25分]"
         },
         {
           "title": "伊朗最高领袖顾问重申：伊朗和阿曼对霍尔木兹海峡拥有主权",
@@ -708,6 +1015,86 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "谷歌计划两年内释放 3200 万只蚊子，旨在减少蚊子数抑制疾病传播，放蚊为啥能灭蚊？背后是什么原理？",
+          "url": "https://www.zhihu.com/question/2045932866278895886",
+          "source": "知乎",
+          "ranks": [
+            2,
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时54分 ~ 05时25分]"
+        },
+        {
+          "title": "谷歌与SpaceX签署协议 计划以每月9.2亿美元的价格购买算力",
+          "url": "https://flash.jin10.com/detail/20260606042427126800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
+          "title": "SpaceX与谷歌签署300亿美元算力协议",
+          "url": "https://wallstreetcn.com/livenews/3115327",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "国际金价在非农日跌约3.3%，白银跌8%，纽约铜跌超4%",
+          "url": "https://wallstreetcn.com/livenews/3115341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
+          "title": "现货黄金回吐2026年稍早涨幅，美国5月非农就业报告推高投资者对美联储加息的预期。 金价跌约3.5%，在北京时间02:33刷新日低至4319.19美元——跌穿2025年12月31日底部4319.37美元，2026年3月23日曾跌至4099.17美元。",
+          "url": "https://wallstreetcn.com/livenews/3115302",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时54分"
+        },
+        {
+          "title": "美就业数据推动加息预期 金价承压并回吐年内涨幅",
+          "url": "https://flash.jin10.com/detail/20260606031454932800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时54分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 3,
       "titles": [
@@ -716,11 +1103,12 @@
           "url": "https://wallstreetcn.com/articles/3773946",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时53分 ~ 03时54分]"
+          "appearance_count": 3,
+          "time_info": "[03时53分 ~ 05时25分]"
         },
         {
           "title": "美国如何一次性解决 36 万亿美债问题？",
@@ -731,8 +1119,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时54分 ~ 03时54分]"
+          "appearance_count": 4,
+          "time_info": "[01时54分 ~ 05时25分]"
         },
         {
           "title": "非农大超预期，美债收益率短线拉升，AI降温纳指开盘跌超1.2%，WTI原油跌1%，现货白银跌超2.5%",
@@ -748,62 +1136,6 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "现货黄金回吐2026年稍早涨幅，美国5月非农就业报告推高投资者对美联储加息的预期。 金价跌约3.5%，在北京时间02:33刷新日低至4319.19美元——跌穿2025年12月31日底部4319.37美元，2026年3月23日曾跌至4099.17美元。",
-          "url": "https://wallstreetcn.com/livenews/3115302",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时54分"
-        },
-        {
-          "title": "美就业数据推动加息预期 金价承压并回吐年内涨幅",
-          "url": "https://flash.jin10.com/detail/20260606031454932800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "反“金发姑娘”！今晚非农：好消息和坏消息，对美股而言都是坏消息",
-          "url": "https://wallstreetcn.com/articles/3773949",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时54分 ~ 03时54分]"
-        },
-        {
-          "title": "费城半导体指数在美股午后盘中下跌近9%。",
-          "url": "https://flash.jin10.com/detail/20260606030109177800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时54分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -814,7 +1146,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时54分"
         },
@@ -843,8 +1175,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时54分 ~ 03时54分]"
+          "appearance_count": 4,
+          "time_info": "[01时54分 ~ 05时25分]"
         },
         {
           "title": "日本宅男去世满屋收藏变垃圾",
@@ -855,26 +1187,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时54分 ~ 03时54分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谷歌计划两年内释放 3200 万只蚊子，旨在减少蚊子数抑制疾病传播，放蚊为啥能灭蚊？背后是什么原理？",
-          "url": "https://www.zhihu.com/question/2045932866278895886",
-          "source": "知乎",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时54分 ~ 03时54分]"
+          "appearance_count": 4,
+          "time_info": "[01时54分 ~ 05时25分]"
         }
       ]
     },
@@ -890,8 +1204,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时54分 ~ 03时54分]"
+          "appearance_count": 4,
+          "time_info": "[01时54分 ~ 05时25分]"
         }
       ]
     }
