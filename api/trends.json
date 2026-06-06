@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-06T14:33:59.986275+08:00",
-  "total_titles_processed": 890,
+  "generated_at": "2026-06-06T17:26:11.779519+08:00",
+  "total_titles_processed": 1050,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国",
-      "match_count": 61,
+      "match_count": 63,
       "titles": [
         {
           "title": "炸裂！美国5月非农新增就业17.2万人，超过预期近一倍，失业率维持在4.3%",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时54分 ~ 14时33分]"
+          "appearance_count": 9,
+          "time_info": "[01时54分 ~ 17时26分]"
         },
         {
           "title": "美国5月非农延续“爆表”节奏 美联储降息选项被彻底扫下台面",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时54分 ~ 14时33分]"
+          "appearance_count": 9,
+          "time_info": "[01时54分 ~ 17时26分]"
         },
         {
           "title": "美国通胀预期大幅升温！穆迪警告：美联储恐被迫加息",
@@ -87,7 +87,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
         },
@@ -171,6 +171,19 @@
           "time_info": "[05时25分 ~ 07时08分]"
         },
         {
+          "title": "外交部发言人就美国宣布制裁古巴国家主席等答记者问",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33320842",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时58分 ~ 17时26分]"
+        },
+        {
           "title": "世界周侃谈美国制裁对古巴的影响",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E5%91%A8%E4%BE%83%E8%B0%88%E7%BE%8E%E5%9B%BD%E5%88%B6%E8%A3%81%E5%AF%B9%E5%8F%A4%E5%B7%B4%E7%9A%84%E5%BD%B1%E5%93%8D",
           "source": "bilibili 热搜",
@@ -195,16 +208,16 @@
           "time_info": "[01时54分 ~ 03时54分]"
         },
         {
-          "title": "外交部发言人就美国宣布制裁古巴国家主席等答记者问",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33320842",
-          "source": "澎湃新闻",
+          "title": "俄罗斯总统助理：美国将乌克兰问题“放到次要位置”",
+          "url": "https://wallstreetcn.com/livenews/3115418",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14,
-            11
+            12,
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时58分 ~ 14时33分]"
+          "time_info": "[14时33分 ~ 17时26分]"
         },
         {
           "title": "市场消息：美国参议员沃伦呼吁英伟达(NVDA.O)总裁于6月11日出席听证会。",
@@ -350,15 +363,15 @@
           "time_info": "07时08分"
         },
         {
-          "title": "俄罗斯总统助理：美国将乌克兰问题“放到次要位置”",
-          "url": "https://wallstreetcn.com/livenews/3115418",
-          "source": "华尔街见闻-快讯",
+          "title": "俄罗斯石油公司Rosneft CEO谢钦：根据Rystad Energy公司数据，美国石油和天然气公司今年可能获得超过600亿美元的额外利润。",
+          "url": "https://flash.jin10.com/detail/20260606162715130800",
+          "source": "金十数据",
           "ranks": [
-            12
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时33分"
+          "time_info": "17时26分"
         },
         {
           "title": "受美联储加息预期押注影响，美国市场信用恐慌指标的恶化程度创两个月最大",
@@ -449,6 +462,17 @@
           "time_info": "10时58分"
         },
         {
+          "title": "俄罗斯石油公司Rosneft CEO谢钦：如果对俄罗斯实施额外制裁，我们将对美国加州加油站的汽油价格拭目以待。",
+          "url": "https://flash.jin10.com/detail/20260606161451277800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
+        },
+        {
           "title": "美国两年期国债收益率涨13个基点，报4.17%。",
           "url": "https://wallstreetcn.com/livenews/3115265",
           "source": "华尔街见闻-快讯",
@@ -499,7 +523,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
         },
@@ -543,7 +567,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
         },
@@ -642,7 +666,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
         },
@@ -664,7 +688,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
         },
@@ -694,7 +718,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 52,
       "titles": [
         {
           "title": "在这件事上，特朗普宣布要花7亿美元",
@@ -706,6 +730,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时54分 ~ 07时08分]"
+        },
+        {
+          "title": "特朗普“官宣”：我和马斯克又成朋友了",
+          "url": "https://news.ifeng.com/c/8tjmsxXSCQI",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 17时26分]"
         },
         {
           "title": "特朗普：将迅速结束伊朗战事",
@@ -868,6 +903,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时25分 ~ 07时08分]"
+        },
+        {
+          "title": "特朗普赦免因内幕交易获罪前议员",
+          "url": "https://wallstreetcn.com/livenews/3115419",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时33分 ~ 17时26分]"
         },
         {
           "title": "美国总统特朗普：伊朗领导人尚未与美国达成结束当前战争的协议，因为他们“强硬”且“自负”。但最终“他们别无选择”，只能达成协议。",
@@ -1033,17 +1080,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
-        },
-        {
-          "title": "特朗普赦免因内幕交易获罪前议员",
-          "url": "https://wallstreetcn.com/livenews/3115419",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时33分"
         },
         {
           "title": "美国总统特朗普：（经济）增长实际上会遏制通胀。",
@@ -1269,8 +1305,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 32,
+      "match_count": 42,
       "titles": [
+        {
+          "title": "伊朗外长：哈梅内伊遇害那一刻，我就在他办公室里",
+          "url": "https://news.ifeng.com/c/8tjg7UwVKTV",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 17时26分]"
+        },
         {
           "title": "据CNN，一名美国官员表示伊朗已向霍尔木兹海峡方向发射了多架无人机。该官员表示，美军已击落了其中至少3架。",
           "url": "https://flash.jin10.com/detail/20260606060734761800",
@@ -1294,6 +1341,17 @@
           "time_info": "10时58分"
         },
         {
+          "title": "据伊朗学生通讯社：在过去一个月内，巴基斯坦内政部长已两次前往德黑兰进行双边和区域磋商。",
+          "url": "https://flash.jin10.com/detail/20260606170003477800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
+        },
+        {
           "title": "伊朗称再袭美军第五舰队重要设施",
           "url": "https://flash.jin10.com/detail/20260606102807931800",
           "source": "金十数据",
@@ -1303,6 +1361,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：巴基斯坦内政部长将于周六前往德黑兰。",
+          "url": "https://flash.jin10.com/detail/20260606165323312800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "伊朗称再袭美军第五舰队重要设施",
@@ -1327,17 +1396,6 @@
           "time_info": "10时58分"
         },
         {
-          "title": "白宫：伊朗国足已获得签证",
-          "url": "https://wallstreetcn.com/livenews/3115427",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时33分"
-        },
-        {
           "title": "美军中央司令部称拦截了伊朗导弹和无人机",
           "url": "https://flash.jin10.com/detail/20260606101944957800",
           "source": "金十数据",
@@ -1347,6 +1405,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
+        },
+        {
+          "title": "伊朗副外长加里巴巴迪：如果国际原子能机构希望成为外交解决方案的一部分，就必须避免将技术报告变成政治施压的工具。",
+          "url": "https://flash.jin10.com/detail/20260606164755821800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "一图看懂｜主战还是主和？伊朗高层有什么分歧？",
@@ -1367,7 +1436,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
         },
@@ -1381,6 +1450,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
+        },
+        {
+          "title": "伊朗副外长加里巴巴迪：国际原子能机构正利用美国和以色列对伊朗核设施发动袭击所造成的后果，来制造有关伊朗核计划的“模糊性”。",
+          "url": "https://flash.jin10.com/detail/20260606164742931800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "据伊朗媒体Fars News：美国尚未向伊朗足球队的部分技术和行政人员签发世界杯签证。",
@@ -1407,6 +1487,18 @@
           "time_info": "[10时58分 ~ 14时33分]"
         },
         {
+          "title": "白宫：伊朗国足已获得签证",
+          "url": "https://wallstreetcn.com/livenews/3115427",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时33分 ~ 17时26分]"
+        },
+        {
           "title": "风水轮流转，轮到伊朗威胁美国了",
           "url": "https://news.ifeng.com/c/8tjAgk0yryi",
           "source": "凤凰网",
@@ -1428,6 +1520,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时58分 ~ 14时33分]"
+        },
+        {
+          "title": "伊朗最高领袖军事顾问警告美国或将“损失惨重”",
+          "url": "https://wallstreetcn.com/livenews/3115423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时33分 ~ 17时26分]"
+        },
+        {
+          "title": "伊朗外长：亲历已故最高领袖遇害瞬间",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%EF%BC%9A%E4%BA%B2%E5%8E%86%E5%B7%B2%E6%95%85%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E9%81%87%E5%AE%B3%E7%9E%AC%E9%97%B4",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 17时26分]"
         },
         {
           "title": "伊朗革命卫队：中东地区美军基地遭袭",
@@ -1475,15 +1590,15 @@
           "time_info": "10时58分"
         },
         {
-          "title": "伊朗最高领袖军事顾问警告美国或将“损失惨重”",
-          "url": "https://wallstreetcn.com/livenews/3115423",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗副外长加里巴巴迪：国际原子能机构在某些核设施失去监督是由于发生军事攻击，而非伊朗缺乏合作。",
+          "url": "https://flash.jin10.com/detail/20260606164614805800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时33分"
+          "time_info": "17时26分"
         },
         {
           "title": "伊朗媒体：美军第五舰队总部升起浓烟",
@@ -1495,6 +1610,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
+        },
+        {
+          "title": "伊朗外长：我亲历已故最高领袖遇害瞬间",
+          "url": "https://wallstreetcn.com/livenews/3115437",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "伊朗沿海锡里克地区传出爆炸声",
@@ -1530,6 +1656,17 @@
           "time_info": "10时58分"
         },
         {
+          "title": "伊朗边防指挥官阿里·阿克巴尔·贾维丹：昨晚，一支企图进入伊朗境内并袭击边防基地的恐怖组织小组与边防军发生了激烈交火，经过激烈的火力对抗，边防军成功对恐怖组织造成了重大损失，6名武装恐怖分子已被击毙，",
+          "url": "https://flash.jin10.com/detail/20260606162327329800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
+        },
+        {
           "title": "伊朗外长：伊美沟通渠道仍保持畅通",
           "url": "https://wallstreetcn.com/livenews/3115389",
           "source": "华尔街见闻-快讯",
@@ -1539,6 +1676,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
+        },
+        {
+          "title": "报道：多名伊朗世界杯工作人员被美国拒签",
+          "url": "https://wallstreetcn.com/livenews/3115430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "白宫官员：伊朗世界杯足球运动员已获签证进入美国。",
@@ -1580,7 +1728,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
         },
@@ -1591,7 +1739,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
         },
@@ -1602,7 +1750,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
         },
@@ -1613,7 +1761,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
         },
@@ -1632,8 +1780,32 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
+        {
+          "title": "非农大超预期，美股债“双杀”，纳指重挫超4%，芯片指数暴跌10%，贵金属、加密货币遭“血洗”",
+          "url": "https://wallstreetcn.com/articles/3773946",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时08分 ~ 17时26分]"
+        },
+        {
+          "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
+          "url": "https://www.cls.cn/detail/2392497",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时08分 ~ 17时26分]"
+        },
         {
           "title": "反“金发姑娘”！今晚非农：好消息和坏消息，对美股而言都是坏消息",
           "url": "https://wallstreetcn.com/articles/3773949",
@@ -1647,30 +1819,6 @@
           "time_info": "[01时54分 ~ 14时33分]"
         },
         {
-          "title": "非农大超预期，美股债“双杀”，纳指重挫超4%，芯片指数暴跌10%，贵金属、加密货币遭“血洗”",
-          "url": "https://wallstreetcn.com/articles/3773946",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时08分 ~ 14时33分]"
-        },
-        {
-          "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
-          "url": "https://www.cls.cn/detail/2392497",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时08分 ~ 14时33分]"
-        },
-        {
           "title": "美股三大指数集体收跌，纳指跌超 1100 点，美国非农数据大幅超预期，加息预期升温，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2046360260902909588",
           "source": "知乎",
@@ -1678,8 +1826,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时58分 ~ 14时33分]"
+          "appearance_count": 4,
+          "time_info": "[10时58分 ~ 17时26分]"
         },
         {
           "title": "迈威尔科技（美满科技）美股盘后涨5%，该公司将被纳入标普500指数。",
@@ -1703,6 +1851,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时25分 ~ 07时08分]"
+        },
+        {
+          "title": "美股一夜蒸发超万亿美元市值",
+          "url": "https://www.toutiao.com/trending/7648103085272731199/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 17时26分]"
         },
         {
           "title": "金十图示：2026年06月05日（周五）美股热门股票行情一览（美股收盘）",
@@ -1850,6 +2009,140 @@
       ]
     },
     {
+      "keyword_group": "印度",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "印度人想把喜马拉雅山炸个口子，以解决高温问题，这个思路可行性如何？为什么换成印度人想炸喜马拉雅山了？",
+          "url": "https://www.zhihu.com/question/2045933371537060756",
+          "source": "知乎",
+          "ranks": [
+            6,
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时54分 ~ 10时58分]"
+        },
+        {
+          "title": "委内瑞拉代总统访问印度，能源危机下的“双向奔赴”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33310551",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时54分 ~ 07时08分]"
+        },
+        {
+          "title": "一天热死3400人，印度也要限制中国空调",
+          "url": "https://news.ifeng.com/c/8tiDgtqK41Q",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时54分 ~ 07时08分]"
+        },
+        {
+          "title": "热了几千年的印度为何现在备受关注",
+          "url": "https://www.toutiao.com/trending/7647738670014795283/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时54分 ~ 07时08分]"
+        },
+        {
+          "title": "印度高温为何还要限制中国空调",
+          "url": "https://www.toutiao.com/trending/7647122233925107750/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时54分 ~ 07时08分]"
+        },
+        {
+          "title": "为什么空调在印度难以普及？",
+          "url": "https://www.zhihu.com/question/2043478687870341842",
+          "source": "知乎",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时33分 ~ 17时26分]"
+        },
+        {
+          "title": "博主：印度不愧为“外资坟场”",
+          "url": "https://www.toutiao.com/trending/7647808932869574186/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 17时26分]"
+        },
+        {
+          "title": "印度20岁厨师被冰箱炸死",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A620%E5%B2%81%E5%8E%A8%E5%B8%88%E8%A2%AB%E5%86%B0%E7%AE%B1%E7%82%B8%E6%AD%BB",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 17时26分]"
+        },
+        {
+          "title": "印度20岁厨师被冰箱炸死",
+          "url": "https://www.toutiao.com/trending/7647713177127387177/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 17时26分]"
+        },
+        {
+          "title": "印度20岁厨师不幸被冰箱炸死",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A620%E5%B2%81%E5%8E%A8%E5%B8%88%E4%B8%8D%E5%B9%B8%E8%A2%AB%E5%86%B0%E7%AE%B1%E7%82%B8%E6%AD%BB%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 17时26分]"
+        },
+        {
+          "title": "印度高温背后的AI问题",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8D%B0%E5%BA%A6%E9%AB%98%E6%B8%A9%E8%83%8C%E5%90%8E%E7%9A%84AI%E9%97%AE%E9%A2%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 17时26分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 8,
       "titles": [
@@ -1951,87 +2244,97 @@
       ]
     },
     {
-      "keyword_group": "印度",
+      "keyword_group": "日本",
       "match_count": 6,
       "titles": [
         {
-          "title": "印度人想把喜马拉雅山炸个口子，以解决高温问题，这个思路可行性如何？为什么换成印度人想炸喜马拉雅山了？",
-          "url": "https://www.zhihu.com/question/2045933371537060756",
-          "source": "知乎",
+          "title": "日本宅男去世,满屋收藏变垃圾",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354911&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%AE%85%E7%94%B7%E5%8E%BB%E4%B8%96%2C%E6%BB%A1%E5%B1%8B%E6%94%B6%E8%97%8F%E5%8F%98%E5%9E%83%E5%9C%BE",
+          "source": "贴吧",
           "ranks": [
-            6,
-            11,
-            16
+            4,
+            8,
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时54分 ~ 10时58分]"
+          "appearance_count": 9,
+          "time_info": "[01时54分 ~ 17时26分]"
         },
         {
-          "title": "委内瑞拉代总统访问印度，能源危机下的“双向奔赴”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33310551",
-          "source": "澎湃新闻",
+          "title": "日本宅男去世满屋收藏变垃圾",
+          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%AE%85%E7%94%B7%E5%8E%BB%E4%B8%96%E6%BB%A1%E5%B1%8B%E6%94%B6%E8%97%8F%E5%8F%98%E5%9E%83%E5%9C%BE&t=31&band_rank=26&Refer=top",
+          "source": "微博",
           "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时54分 ~ 07时08分]"
-        },
-        {
-          "title": "一天热死3400人，印度也要限制中国空调",
-          "url": "https://news.ifeng.com/c/8tiDgtqK41Q",
-          "source": "凤凰网",
-          "ranks": [
-            7
+            26,
+            22
           ],
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时54分 ~ 07时08分]"
         },
         {
-          "title": "热了几千年的印度为何现在备受关注",
-          "url": "https://www.toutiao.com/trending/7647738670014795283/",
+          "title": "日本福冈和名古屋加入“副首都”争夺战",
+          "url": "https://wallstreetcn.com/livenews/3115403",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时58分 ~ 14时33分]"
+        },
+        {
+          "title": "日本出生人口跌至历史新低",
+          "url": "https://www.toutiao.com/trending/7647007731447054355/",
           "source": "今日头条",
           "ranks": [
-            7,
-            6,
-            9
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时54分 ~ 07时08分]"
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 17时26分]"
         },
         {
-          "title": "印度高温为何还要限制中国空调",
-          "url": "https://www.toutiao.com/trending/7647122233925107750/",
-          "source": "今日头条",
+          "title": "否认南京大屠杀 日本已形成一套话术",
+          "url": "https://www.baidu.com/s?wd=%E5%90%A6%E8%AE%A4%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%B1%A0%E6%9D%80+%E6%97%A5%E6%9C%AC%E5%B7%B2%E5%BD%A2%E6%88%90%E4%B8%80%E5%A5%97%E8%AF%9D%E6%9C%AF",
+          "source": "百度热搜",
           "ranks": [
-            17,
-            18,
-            24
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时54分 ~ 07时08分]"
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 17时26分]"
         },
         {
-          "title": "为什么空调在印度难以普及？",
-          "url": "https://www.zhihu.com/question/2043478687870341842",
-          "source": "知乎",
+          "title": "日本福冈和名古屋加入“副首都”争夺战",
+          "url": "https://flash.jin10.com/detail/20260606100502124800",
+          "source": "金十数据",
           "ranks": [
-            10
+            12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时33分"
+          "time_info": "10时58分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "金价跌回2025年",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%8C%E5%9B%9E2025%E5%B9%B4%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 17时26分]"
+        },
         {
           "title": "国际金价在非农日跌约3.3%，白银跌8%，纽约铜跌超4%",
           "url": "https://wallstreetcn.com/livenews/3115341",
@@ -2088,11 +2391,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时58分 ~ 14时33分]"
+          "appearance_count": 4,
+          "time_info": "[10时58分 ~ 17时26分]"
         },
         {
           "title": "美元指数在非农日涨超0.6%，使得本周涨幅扩大至超过1.1%",
@@ -2126,60 +2430,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "日本",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "日本宅男去世,满屋收藏变垃圾",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354911&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%AE%85%E7%94%B7%E5%8E%BB%E4%B8%96%2C%E6%BB%A1%E5%B1%8B%E6%94%B6%E8%97%8F%E5%8F%98%E5%9E%83%E5%9C%BE",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时54分 ~ 14时33分]"
-        },
-        {
-          "title": "日本宅男去世满屋收藏变垃圾",
-          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%AE%85%E7%94%B7%E5%8E%BB%E4%B8%96%E6%BB%A1%E5%B1%8B%E6%94%B6%E8%97%8F%E5%8F%98%E5%9E%83%E5%9C%BE&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时54分 ~ 07时08分]"
-        },
-        {
-          "title": "日本福冈和名古屋加入“副首都”争夺战",
-          "url": "https://wallstreetcn.com/livenews/3115403",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时58分 ~ 14时33分]"
-        },
-        {
-          "title": "日本福冈和名古屋加入“副首都”争夺战",
-          "url": "https://flash.jin10.com/detail/20260606100502124800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时58分"
         }
       ]
     },
@@ -2245,11 +2495,12 @@
           "url": "https://www.cls.cn/detail/2392488",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时33分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时33分 ~ 17时26分]"
         }
       ]
     },
