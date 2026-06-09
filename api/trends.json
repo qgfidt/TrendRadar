@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-09T13:05:31.016939+08:00",
-  "total_titles_processed": 819,
+  "generated_at": "2026-06-09T17:42:02.001861+08:00",
+  "total_titles_processed": 1026,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 47,
       "titles": [
         {
           "title": "沃什上任后第一次敲打！特朗普公开发声：没有任何理由加息，加息就是想扼杀我们的成功",
@@ -32,6 +32,42 @@
           "time_info": "[04时13分 ~ 13时05分]"
         },
         {
+          "title": "以伊军事冲突升级，特朗普：双方“正寻求”立即停火",
+          "url": "https://wallstreetcn.com/articles/3774115",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时52分 ~ 17时42分]"
+        },
+        {
+          "title": "特朗普：内塔尼亚胡，你最好小心点！",
+          "url": "https://news.ifeng.com/c/8toEUKCFcdF",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时05分 ~ 17时42分]"
+        },
+        {
+          "title": "洛杉矶市长选情逆转，特朗普、马斯克发声质疑",
+          "url": "https://news.ifeng.com/c/8toKe0HelhI",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时05分 ~ 17时42分]"
+        },
+        {
           "title": "特朗普：未来两周将对伊朗全面胜利",
           "url": "https://news.ifeng.com/c/8to7gfqUzZi",
           "source": "凤凰网",
@@ -41,18 +77,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时05分 ~ 08时06分]"
-        },
-        {
-          "title": "以伊军事冲突升级，特朗普：双方“正寻求”立即停火",
-          "url": "https://wallstreetcn.com/articles/3774115",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时52分 ~ 13时05分]"
         },
         {
           "title": "特朗普：伊朗最高领袖伤得很重",
@@ -90,24 +114,13 @@
           "time_info": "[01时52分 ~ 08时06分]"
         },
         {
-          "title": "特朗普：内塔尼亚胡，你最好小心点！",
-          "url": "https://news.ifeng.com/c/8toEUKCFcdF",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时05分"
-        },
-        {
           "title": "美国总统特朗普：（被问及尼克斯球迷对他的反应时）我认为大多数是欢呼声。声音很大，气氛非常热烈。",
           "url": "https://flash.jin10.com/detail/20260609125116958800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
         },
@@ -118,7 +131,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
         },
@@ -134,26 +147,27 @@
           "time_info": "08时06分"
         },
         {
-          "title": "洛杉矶市长选情逆转，特朗普、马斯克发声质疑",
-          "url": "https://news.ifeng.com/c/8toKe0HelhI",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时05分"
-        },
-        {
           "title": "特朗普：我们正处于有望达成一项好协议的最后阵痛阶段，非常接近达成一项强有力的好协议。",
           "url": "https://wallstreetcn.com/livenews/3116543",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
+        },
+        {
+          "title": "特朗普“积极介入斡旋”后，伊朗宣布对以打击“告一段落”",
+          "url": "https://wallstreetcn.com/articles/3774122",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时05分 ~ 17时42分]"
         },
         {
           "title": "路透社/益普索调查显示，仅有22%的人认可特朗普对生活成本问题的处理，70%的人表示不认可。",
@@ -214,16 +228,48 @@
           "time_info": "[04时13分 ~ 06时27分]"
         },
         {
-          "title": "特朗普“积极介入斡旋”后，伊朗宣布对以打击“告一段落”",
-          "url": "https://wallstreetcn.com/articles/3774122",
-          "source": "华尔街见闻",
+          "title": "特朗普：未来两周将对伊朗“全面胜利” 油价将会暴跌！",
+          "url": "https://www.cls.cn/detail/2394559",
+          "source": "财联社热门",
           "ranks": [
-            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时41分 ~ 17时42分]"
+        },
+        {
+          "title": "特朗普：美伊谈判进入“最后关头”",
+          "url": "https://news.ifeng.com/c/8tooQUA09O3",
+          "source": "凤凰网",
+          "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时05分 ~ 13时05分]"
+          "appearance_count": 2,
+          "time_info": "[17时41分 ~ 17时42分]"
+        },
+        {
+          "title": "特朗普出席NBA总决赛遭全场狂嘘，事后“挽尊”辩解",
+          "url": "https://v.ifeng.com/c/8tojH1TtuMo",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时41分 ~ 17时42分]"
+        },
+        {
+          "title": "特朗普支持率降至政治生涯最低 汽油价格居高不下拖垮民意",
+          "url": "https://www.cls.cn/detail/2394276",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时41分 ~ 17时42分]"
         },
         {
           "title": "路透社/益普索调查显示，特朗普的支持率为35%，与5月中旬持平，仅略高于其本届任期内34%的最低水平。",
@@ -243,7 +289,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
         },
@@ -287,7 +333,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
         },
@@ -331,7 +377,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
         },
@@ -342,7 +388,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
         },
@@ -364,9 +410,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
+        },
+        {
+          "title": "据Axios：消息人士透露，特朗普政府担心随着世界杯在美国举行，国际旅行可能加速埃博拉病毒的传播，因此正施压欧洲大幅调整其预防感染的策略。",
+          "url": "https://flash.jin10.com/detail/20260609171444957800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
         },
         {
           "title": "法官驳回美国总统特朗普政府的10万美元H-1B签证费用制度。",
@@ -397,7 +454,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
         },
@@ -411,6 +468,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        },
+        {
+          "title": "特朗普称美伊谈判进入“最后关头”，将在“两到三天内”达成协议",
+          "url": "https://wallstreetcn.com/livenews/3116681",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
         },
         {
           "title": "24小时惊险内幕：以色列与伊朗如何险些将特朗普拖回战争？",
@@ -430,7 +498,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
         },
@@ -441,7 +509,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
         },
@@ -452,7 +520,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
         },
@@ -471,8 +539,32 @@
     },
     {
       "keyword_group": "美国",
-      "match_count": 30,
+      "match_count": 34,
       "titles": [
+        {
+          "title": "世界杯主裁被美国拒签",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E8%A3%81%E8%A2%AB%E7%BE%8E%E5%9B%BD%E6%8B%92%E7%AD%BE",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时05分 ~ 17时42分]"
+        },
+        {
+          "title": "香港开户行不通，又转向新加坡美国？实情调查",
+          "url": "https://www.cls.cn/detail/2394464",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时05分 ~ 17时42分]"
+        },
         {
           "title": "美银Hartnett：迎接“6月风暴”，美国CPI将“刺破泡沫”",
           "url": "https://wallstreetcn.com/articles/3774051",
@@ -483,17 +575,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时52分 ~ 08时06分]"
-        },
-        {
-          "title": "世界杯主裁被美国拒签",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E8%A3%81%E8%A2%AB%E7%BE%8E%E5%9B%BD%E6%8B%92%E7%AD%BE",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时05分"
         },
         {
           "title": "乌克兰总统泽连斯基：今天我与美国总统特使威特科夫和库什纳行了交谈。谈话非常积极。",
@@ -513,7 +594,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
         },
@@ -545,22 +626,12 @@
           "url": "https://wallstreetcn.com/articles/3774144",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时05分"
-        },
-        {
-          "title": "香港开户行不通，又转向新加坡美国？实情调查",
-          "url": "https://www.cls.cn/detail/2394464",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时05分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时05分 ~ 17时42分]"
         },
         {
           "title": "螺旋蝇疫情在美国多地扩散 联邦政府正在释放“不育蝇”加以应对",
@@ -569,7 +640,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
         },
@@ -610,6 +681,17 @@
           "time_info": "[06时27分 ~ 08时06分]"
         },
         {
+          "title": "阿里巴巴、百度、药明康德回应“被美国防部列入中国军工企业名单”",
+          "url": "https://www.cls.cn/detail/2394636",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时41分 ~ 17时42分]"
+        },
+        {
           "title": "迷惑！美国顶流歌手演唱会现场直接把观众手机扔了",
           "url": "https://v.ifeng.com/c/8tnURPNnxME",
           "source": "凤凰网",
@@ -619,6 +701,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时05分 ~ 08时06分]"
+        },
+        {
+          "title": "释疑｜史上最贵世界杯？想去美国看场球，到底要花多少钱？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33315985",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时41分 ~ 17时42分]"
+        },
+        {
+          "title": "花近10亿美元换道达尔放弃海上风电？ 美国七州联合起诉联邦政府",
+          "url": "https://flash.jin10.com/detail/20260609171749659800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
         },
         {
           "title": "美国科技记者古尔曼：到目前为止，苹果(AAPL.O)正在逐一阐述多年来众多用户期待已久的性能提升内容。",
@@ -649,7 +753,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
         },
@@ -660,7 +764,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
         },
@@ -693,7 +797,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
         },
@@ -715,7 +819,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
         },
@@ -759,9 +863,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
+        },
+        {
+          "title": "花旗策略师：交易员们正在积极建立美国股票的空头头寸，而对科技板块的看涨押注仍然过高，这给市场带来了风险。",
+          "url": "https://flash.jin10.com/detail/20260609170313972800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
         },
         {
           "title": "据日经新闻：日本电信电话集团（NTT）将向美国和韩国投资者募集资金，设立规模为5亿美元的光网络基金。预计约有20家企业将参与NTT的该项基金，其中包括三星电子。",
@@ -781,7 +896,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
         },
@@ -792,7 +907,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
         },
@@ -811,8 +926,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 17,
+      "match_count": 22,
       "titles": [
+        {
+          "title": "伊朗电力协会表示，他们正面临运营发电厂所需燃料短缺的问题。",
+          "url": "https://flash.jin10.com/detail/20260609172320129800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
+        },
         {
           "title": "伊朗和以色列先后宣布停止袭击对方",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%92%8C%E4%BB%A5%E8%89%B2%E5%88%97%E5%85%88%E5%90%8E%E5%AE%A3%E5%B8%83%E5%81%9C%E6%AD%A2%E8%A2%AD%E5%87%BB%E5%AF%B9%E6%96%B9",
@@ -834,7 +960,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
         },
@@ -919,6 +1045,17 @@
           "time_info": "[04时13分 ~ 06时27分]"
         },
         {
+          "title": "伊朗开启世界杯史上最特殊参赛模式",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%BC%80%E5%90%AF%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8F%B2%E4%B8%8A%E6%9C%80%E7%89%B9%E6%AE%8A%E5%8F%82%E8%B5%9B%E6%A8%A1%E5%BC%8F%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时41分 ~ 17时42分]"
+        },
+        {
           "title": "伊朗宣布停止对以色列军事行动",
           "url": "https://www.douyin.com/hot/2527773",
           "source": "抖音",
@@ -963,13 +1100,35 @@
           "time_info": "06时27分"
         },
         {
+          "title": "伊朗足协世界杯配额门票被收回",
+          "url": "https://wallstreetcn.com/livenews/3116683",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
+        },
+        {
+          "title": "黎巴嫩真主党：伊朗为捍卫黎巴嫩人民而发动的导弹回应，是伊斯向黎巴嫩发出的道义、政治和军事层面的坚定承诺。",
+          "url": "https://flash.jin10.com/detail/20260609170726962800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
+        },
+        {
           "title": "伊朗开启世界杯史上最特殊参赛模式",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%BC%80%E5%90%AF%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8F%B2%E4%B8%8A%E6%9C%80%E7%89%B9%E6%AE%8A%E5%8F%82%E8%B5%9B%E6%A8%A1%E5%BC%8F",
           "source": "百度热搜",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
         },
@@ -980,7 +1139,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
         },
@@ -1005,12 +1164,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
+        },
+        {
+          "title": "万斯：无论以色列是否喜欢 达成伊朗协议于美国人民都是“大成功”",
+          "url": "https://flash.jin10.com/detail/20260609165445216800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "芯片股力撑美股反弹，半导体指数涨超5%，英特尔大涨11%，中东局势缓和，原油冲高回落",
@@ -1020,8 +1190,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时26分 ~ 13时05分]"
+          "appearance_count": 7,
+          "time_info": "[06时26分 ~ 17时42分]"
         },
         {
           "title": "【早报】美股芯片、光通信股全线反弹，半导体指数大涨5.6%；油价冲高回落，金银探底企稳",
@@ -1059,6 +1229,17 @@
           "time_info": "[01时52分 ~ 04时13分]"
         },
         {
+          "title": "花旗：交易员大举搭建美股空仓 诸多重大风险事件临近",
+          "url": "https://wallstreetcn.com/livenews/3116699",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
+        },
+        {
           "title": "中东炮火暂歇 美股期指回血 苹果WWDC接棒登场 | 今夜看点",
           "url": "https://www.cls.cn/detail/2393996",
           "source": "财联社热门",
@@ -1070,6 +1251,30 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时52分 ~ 08时06分]"
+        },
+        {
+          "title": "熊市信号触发70%！美银建议获利了结，现在美股正如“2000年泡沫破灭前1个月”",
+          "url": "https://wallstreetcn.com/articles/3774155",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时05分 ~ 17时42分]"
+        },
+        {
+          "title": "什么信号？美股70%熊市信号被触发，美银建议获利了结！",
+          "url": "https://www.cls.cn/detail/2394381",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时05分 ~ 17时42分]"
         },
         {
           "title": "美股",
@@ -1105,28 +1310,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时05分 ~ 08时06分]"
-        },
-        {
-          "title": "熊市信号触发70%！美银建议获利了结，现在美股正如“2000年泡沫破灭前1个月”",
-          "url": "https://wallstreetcn.com/articles/3774155",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时05分"
-        },
-        {
-          "title": "什么信号？美股70%熊市信号被触发，美银建议获利了结！",
-          "url": "https://www.cls.cn/detail/2394381",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时05分"
         },
         {
           "title": "新兴市场ETF收涨将近1.8%，领跑美股大类资产类ETF",
@@ -1176,7 +1359,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "OpenAI计划在首次公开募股（IPO）之前启动员工/股东股票要约收购案（Tender Sale）。 据知情人士透露，该公司将在未来几周内正式举行该股票要约收购（Tender）。（彭博）",
@@ -1191,6 +1374,18 @@
           "time_info": "[06时27分 ~ 08时06分]"
         },
         {
+          "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
+          "url": "https://wallstreetcn.com/articles/3774156",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时05分 ~ 17时42分]"
+        },
+        {
           "title": "“聊天已死”？OpenAI拟大改ChatGPT，打造超级AI应用",
           "url": "https://m.thepaper.cn/newsDetail_forward_33333027",
           "source": "澎湃新闻",
@@ -1200,6 +1395,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时13分 ~ 06时27分]"
+        },
+        {
+          "title": "美大学生因ChatGPT与母亲争吵后死亡",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9B%A0ChatGPT%E4%B8%8E%E6%AF%8D%E4%BA%B2%E4%BA%89%E5%90%B5%E5%90%8E%E6%AD%BB%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时41分 ~ 17时42分]"
         },
         {
           "title": "OpenAI秘密提交美国IPO文件，加入竞争对手竞相上市的行列",
@@ -1213,24 +1419,13 @@
           "time_info": "06时27分"
         },
         {
-          "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
-          "url": "https://wallstreetcn.com/articles/3774156",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时05分"
-        },
-        {
           "title": "OpenAI官宣已递交IPO申请文件 AI巨头资本大战或全面打响",
           "url": "https://www.cls.cn/detail/2394212",
           "source": "财联社热门",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
         },
@@ -1241,7 +1436,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
         },
@@ -1303,6 +1498,145 @@
       ]
     },
     {
+      "keyword_group": "日本",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "日本陆上自卫队举行最大规模实弹演习",
+          "url": "https://news.ifeng.com/c/8tmmgtm0QyG",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时52分 ~ 08时06分]"
+        },
+        {
+          "title": "日本多次跟监辽宁舰航母编队，国防部回应",
+          "url": "https://news.ifeng.com/c/8tojX3VRqfM",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时41分 ~ 17时42分]"
+        },
+        {
+          "title": "日本5月广义货币流动性年率 4.7%，前值2.8%。",
+          "url": "https://flash.jin10.com/detail/20260609075145093800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
+          "title": "日本5月货币供应M3年率 1.7%，前值1.60%。",
+          "url": "https://flash.jin10.com/detail/20260609075140960800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
+          "title": "日本5月货币供应M2年率 2.5%，前值2.30%。",
+          "url": "https://flash.jin10.com/detail/20260609075135875800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
+          "title": "对冲基金对赌日本央行6月加息孤掌难鸣，难阻日元继续沉沦",
+          "url": "https://wallstreetcn.com/livenews/3116361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时27分"
+        },
+        {
+          "title": "日本5月货币存量M2同比 2.5%，前值 2.3%。",
+          "url": "https://wallstreetcn.com/livenews/3116397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
+          "title": "日本首都近百所中小学紧急停课",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%A6%96%E9%83%BD%E8%BF%91%E7%99%BE%E6%89%80%E4%B8%AD%E5%B0%8F%E5%AD%A6%E7%B4%A7%E6%80%A5%E5%81%9C%E8%AF%BE",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时41分 ~ 17时42分]"
+        },
+        {
+          "title": "日本开始在南鸟岛部署导弹发射装置",
+          "url": "https://www.toutiao.com/trending/7649014664638971958/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时52分 ~ 04时13分]"
+        },
+        {
+          "title": "“日本炒作中方正当行动不可能得逞”",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%97%A5%E6%9C%AC%E7%82%92%E4%BD%9C%E4%B8%AD%E6%96%B9%E6%AD%A3%E5%BD%93%E8%A1%8C%E5%8A%A8%E4%B8%8D%E5%8F%AF%E8%83%BD%E5%BE%97%E9%80%9E%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时41分 ~ 17时42分]"
+        },
+        {
+          "title": "日本5月货币存量M3同比 1.7%，前值 1.6%。",
+          "url": "https://wallstreetcn.com/livenews/3116396",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
+          "title": "周一（6月8日），彭博电动汽车价格回报指数跌2.02%，报3706.35点。 全天处于下跌状态，亚太时段持续走低，北京时间09:31以来持续交投于3700点附近、15:00刷新日低至3672.92点。 成分股阿内卡矿业股份收跌8%，淡水河谷印尼公司跌7.22%，日本电产株式会社跌6.06%，Panasonic株式会社跌4.79%，小鹏集团H股跌4.62%，浙江零跑科技跌4.22%跌幅第六大，意法半导体法国巴黎股价则收涨4.01%，特斯拉涨4.59%，安霸股份涨8.19%。",
+          "url": "https://wallstreetcn.com/livenews/3116344",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时27分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 10,
       "titles": [
@@ -1330,6 +1664,17 @@
           "time_info": "[08时05分 ~ 13时05分]"
         },
         {
+          "title": "英特尔盘前涨超14%，报道：谷歌拟下单三百万AI芯片、英伟达测试其18A工艺",
+          "url": "https://wallstreetcn.com/articles/3774134",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时05分 ~ 17时42分]"
+        },
+        {
           "title": "苹果公司Federighi：我们并没有采用谷歌公司向用户部署的那些模型。",
           "url": "https://wallstreetcn.com/livenews/3116327",
           "source": "华尔街见闻-快讯",
@@ -1351,17 +1696,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
-        },
-        {
-          "title": "英特尔盘前涨超14%，报道：谷歌拟下单三百万AI芯片、英伟达测试其18A工艺",
-          "url": "https://wallstreetcn.com/articles/3774134",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时05分"
         },
         {
           "title": "苹果软件主管克雷格·费德里吉：苹果最大的模型“AFM Cloud Pro”将运行在谷歌云基础设施上。",
@@ -1421,114 +1755,8 @@
       ]
     },
     {
-      "keyword_group": "日本",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "日本陆上自卫队举行最大规模实弹演习",
-          "url": "https://news.ifeng.com/c/8tmmgtm0QyG",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时52分 ~ 08时06分]"
-        },
-        {
-          "title": "日本5月广义货币流动性年率 4.7%，前值2.8%。",
-          "url": "https://flash.jin10.com/detail/20260609075145093800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时06分"
-        },
-        {
-          "title": "日本5月货币供应M3年率 1.7%，前值1.60%。",
-          "url": "https://flash.jin10.com/detail/20260609075140960800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时06分"
-        },
-        {
-          "title": "日本5月货币供应M2年率 2.5%，前值2.30%。",
-          "url": "https://flash.jin10.com/detail/20260609075135875800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时06分"
-        },
-        {
-          "title": "对冲基金对赌日本央行6月加息孤掌难鸣，难阻日元继续沉沦",
-          "url": "https://wallstreetcn.com/livenews/3116361",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时27分"
-        },
-        {
-          "title": "日本5月货币存量M2同比 2.5%，前值 2.3%。",
-          "url": "https://wallstreetcn.com/livenews/3116397",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时06分"
-        },
-        {
-          "title": "日本开始在南鸟岛部署导弹发射装置",
-          "url": "https://www.toutiao.com/trending/7649014664638971958/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时52分 ~ 04时13分]"
-        },
-        {
-          "title": "日本5月货币存量M3同比 1.7%，前值 1.6%。",
-          "url": "https://wallstreetcn.com/livenews/3116396",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时06分"
-        },
-        {
-          "title": "周一（6月8日），彭博电动汽车价格回报指数跌2.02%，报3706.35点。 全天处于下跌状态，亚太时段持续走低，北京时间09:31以来持续交投于3700点附近、15:00刷新日低至3672.92点。 成分股阿内卡矿业股份收跌8%，淡水河谷印尼公司跌7.22%，日本电产株式会社跌6.06%，Panasonic株式会社跌4.79%，小鹏集团H股跌4.62%，浙江零跑科技跌4.22%跌幅第六大，意法半导体法国巴黎股价则收涨4.01%，特斯拉涨4.59%，安霸股份涨8.19%。",
-          "url": "https://wallstreetcn.com/livenews/3116344",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时27分"
-        }
-      ]
-    },
-    {
       "keyword_group": "印度",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "印度博主蹭吃白嫖被拒",
@@ -1536,22 +1764,36 @@
           "source": "贴吧",
           "ranks": [
             5,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时52分 ~ 13时05分]"
+          "appearance_count": 9,
+          "time_info": "[01时52分 ~ 17时42分]"
         },
         {
           "title": "印度人热死也不用中国空调",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354993&amp;topic_name=%E5%8D%B0%E5%BA%A6%E4%BA%BA%E7%83%AD%E6%AD%BB%E4%B9%9F%E4%B8%8D%E7%94%A8%E4%B8%AD%E5%9B%BD%E7%A9%BA%E8%B0%83",
           "source": "贴吧",
           "ranks": [
-            3
+            3,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时05分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时05分 ~ 17时42分]"
+        },
+        {
+          "title": "跌跌不休!印度抛黄金救卢比",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354999&amp;topic_name=%E8%B7%8C%E8%B7%8C%E4%B8%8D%E4%BC%91%21%E5%8D%B0%E5%BA%A6%E6%8A%9B%E9%BB%84%E9%87%91%E6%95%91%E5%8D%A2%E6%AF%94",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时05分 ~ 17时42分]"
         },
         {
           "title": "奇瑞回应“与印度塔塔集团相关合作”",
@@ -1566,15 +1808,15 @@
           "time_info": "[01时52分 ~ 06时27分]"
         },
         {
-          "title": "跌跌不休!印度抛黄金救卢比",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354999&amp;topic_name=%E8%B7%8C%E8%B7%8C%E4%B8%8D%E4%BC%91%21%E5%8D%B0%E5%BA%A6%E6%8A%9B%E9%BB%84%E9%87%91%E6%95%91%E5%8D%A2%E6%AF%94",
-          "source": "贴吧",
+          "title": "印度钢铁厂1600摄氏度铁水泄露引发火灾，致8人被活活烧死",
+          "url": "https://v.ifeng.com/c/8tofl9UCp0F",
+          "source": "凤凰网",
           "ranks": [
-            8
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时05分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时41分 ~ 17时42分]"
         },
         {
           "title": "假如印度举办世界杯",
@@ -1583,9 +1825,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
+        },
+        {
+          "title": "*ST闻泰：重大资产出售印度业务资产包存争议 已启动法律应对程序",
+          "url": "https://flash.jin10.com/detail/20260609171235116800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
         },
         {
           "title": "委内瑞拉代总统Delcy Rodriguez会见土耳其总统埃尔多安。 双方讨论实现30亿美元贸易额的措施。 双方侧重于推进贸易、能源、矿业合作。 Rodriguez此前结束了对印度持续五天的行程。",
@@ -1605,7 +1858,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
         }
@@ -1613,7 +1866,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "金价下跌后郑州金店被挤爆",
@@ -1650,6 +1903,57 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时05分 ~ 13时05分]"
+        },
+        {
+          "title": "消费者盼金价降至500元每克",
+          "url": "https://www.baidu.com/s?wd=%E6%B6%88%E8%B4%B9%E8%80%85%E7%9B%BC%E9%87%91%E4%BB%B7%E9%99%8D%E8%87%B3500%E5%85%83%E6%AF%8F%E5%85%8B",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时41分 ~ 17时42分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "30年期美债收益率涨约4个基点",
+          "url": "https://wallstreetcn.com/livenews/3116333",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时13分 ~ 06时27分]"
+        },
+        {
+          "title": "世界杯或分散交易员注意力 花旗称赛期欧美债市波动通常减弱",
+          "url": "https://wallstreetcn.com/livenews/3116529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        },
+        {
+          "title": "美债市场向美联储主席沃什发出明确信号：利率不够高",
+          "url": "https://wallstreetcn.com/livenews/3116675",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
         }
       ]
     },
@@ -1694,35 +1998,6 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "30年期美债收益率涨约4个基点",
-          "url": "https://wallstreetcn.com/livenews/3116333",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时13分 ~ 06时27分]"
-        },
-        {
-          "title": "世界杯或分散交易员注意力 花旗称赛期欧美债市波动通常减弱",
-          "url": "https://wallstreetcn.com/livenews/3116529",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时05分"
-        }
-      ]
-    },
-    {
       "keyword_group": "天津",
       "match_count": 1,
       "titles": [
@@ -1731,11 +2006,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355000&amp;topic_name=%E5%AB%8C%E4%B8%89%E6%89%8B%E9%9A%BE%3F%E5%A4%A9%E6%B4%A5%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%E6%9B%B4%E7%A3%A8%E4%BA%BA",
           "source": "贴吧",
           "ranks": [
-            1
+            1,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时05分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时05分 ~ 17时42分]"
         }
       ]
     }
