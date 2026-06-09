@@ -1,11 +1,688 @@
 {
-  "generated_at": "2026-06-09T20:37:28.895408+08:00",
-  "total_titles_processed": 1201,
+  "generated_at": "2026-06-09T23:55:10.014720+08:00",
+  "total_titles_processed": 1376,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "美国",
+      "match_count": 60,
+      "titles": [
+        {
+          "title": "纽约联储调查：美国求职者前景预期恶化，通胀预期小幅回落，家庭财务前景创4年最差",
+          "url": "https://wallstreetcn.com/articles/3774144",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时05分 ~ 23时55分]"
+        },
+        {
+          "title": "世界杯主裁被美国拒签",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E8%A3%81%E8%A2%AB%E7%BE%8E%E5%9B%BD%E6%8B%92%E7%AD%BE",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时05分 ~ 17时42分]"
+        },
+        {
+          "title": "香港开户行不通，又转向新加坡美国？实情调查",
+          "url": "https://www.cls.cn/detail/2394464",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时05分 ~ 17时42分]"
+        },
+        {
+          "title": "央视披露：美国曾关闭GPS信号让中国船只失去方向，被迫接受美方登船检查，此后中国开启北斗系统自研之路",
+          "url": "https://www.cls.cn/detail/2395235",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时54分 ~ 23时55分]"
+        },
+        {
+          "title": "美银Hartnett：迎接“6月风暴”，美国CPI将“刺破泡沫”",
+          "url": "https://wallstreetcn.com/articles/3774051",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时52分 ~ 08时06分]"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：今天我与美国总统特使威特科夫和库什纳行了交谈。谈话非常积极。",
+          "url": "https://flash.jin10.com/detail/20260609035302665800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
+          "title": "ADP周度数据显示，美国就业增长连续第三周放缓。",
+          "url": "https://flash.jin10.com/detail/20260609201721148800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
+          "title": "美国曾关闭GPS让中国船漂泊大海33天",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%9B%BE%E5%85%B3%E9%97%ADGPS%E8%AE%A9%E4%B8%AD%E5%9B%BD%E8%88%B9%E6%BC%82%E6%B3%8A%E5%A4%A7%E6%B5%B733%E5%A4%A9",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
+          "title": "美国4月贸易帐 -559亿美元，预期 -561亿美元，前值 -603亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3116832",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
+          "title": "美国农业部在得州La Salle County新发现一例螺旋蝇（Screwworm）病例。",
+          "url": "https://wallstreetcn.com/livenews/3116938",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
+          "title": "世界杯主裁被美国拒签",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E8%A3%81%E8%A2%AB%E7%BE%8E%E5%9B%BD%E6%8B%92%E7%AD%BE%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        },
+        {
+          "title": "美国曾关闭GPS让中国船失去方向",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%9B%BE%E5%85%B3%E9%97%ADGPS%E8%AE%A9%E4%B8%AD%E5%9B%BD%E8%88%B9%E5%A4%B1%E5%8E%BB%E6%96%B9%E5%90%91%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
+          "title": "苹果(AAPL.O)：正与美国医生团体合作制定设备使用指南。",
+          "url": "https://flash.jin10.com/detail/20260609012125134800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时52分"
+        },
+        {
+          "title": "美国至5月23日当周ADP就业人数周度变动 2.9万人，前值3.575万人。",
+          "url": "https://flash.jin10.com/detail/20260609201502513800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
+          "title": "美国财政部拍卖六周期国债，得标利率3.6%，投标倍数3.25。 拍卖52周期国债，得标利率3.750%，投标倍数3.34。",
+          "url": "https://wallstreetcn.com/livenews/3116937",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
+          "title": "美国女孩26年前奇迹般预言新郎名字",
+          "url": "https://www.toutiao.com/trending/7649048153247203364/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时05分 ~ 13时05分]"
+        },
+        {
+          "title": "阿里巴巴、百度、药明康德回应“被美国防部列入中国军工企业名单”",
+          "url": "https://www.cls.cn/detail/2394636",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时41分 ~ 20时37分]"
+        },
+        {
+          "title": "螺旋蝇疫情在美国多地扩散 联邦政府正在释放“不育蝇”加以应对",
+          "url": "https://wallstreetcn.com/livenews/3116542",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        },
+        {
+          "title": "释疑｜史上最贵世界杯？想去美国看场球，到底要花多少钱？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33315985",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时41分 ~ 23时55分]"
+        },
+        {
+          "title": "纽约联储调查：美国求职者前景预期恶化，通胀预期小幅回落",
+          "url": "https://wallstreetcn.com/articles/3774144",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时26分 ~ 08时06分]"
+        },
+        {
+          "title": "美国农业部（USDA）将在饲料中试验使用伊维菌素，以控制野生动物中的螺旋蝇疫情。",
+          "url": "https://wallstreetcn.com/livenews/3116331",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时13分 ~ 06时27分]"
+        },
+        {
+          "title": "摩根大通、美国银行因为网络安全威胁问题而被美国国会山成员质询。",
+          "url": "https://wallstreetcn.com/livenews/3116362",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时27分 ~ 08时06分]"
+        },
+        {
+          "title": "迷惑！美国顶流歌手演唱会现场直接把观众手机扔了",
+          "url": "https://v.ifeng.com/c/8tnURPNnxME",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 08时06分]"
+        },
+        {
+          "title": "被美国国防部盯上 药明康德能做什么",
+          "url": "https://www.toutiao.com/trending/7649328512267980331/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时54分 ~ 23时55分]"
+        },
+        {
+          "title": "比亚迪、阿里等回应“被美国防部列入中国军工企业名单”：没有正当理由，无任何依据",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33344289",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时54分 ~ 23时55分]"
+        },
+        {
+          "title": "花近10亿美元换道达尔放弃海上风电？ 美国七州联合起诉联邦政府",
+          "url": "https://flash.jin10.com/detail/20260609171749659800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时42分"
+        },
+        {
+          "title": "美国航空航天局（NASA）：阿尔忒弥斯III号任务在明年此时之前不会实施。",
+          "url": "https://flash.jin10.com/detail/20260609233754573800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
+          "title": "ADP：截至5月23日的四周，美国私营部门就业人数平均每周增加2.9万人。",
+          "url": "https://wallstreetcn.com/livenews/3116826",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
+          "title": "美国科技记者古尔曼：到目前为止，苹果(AAPL.O)正在逐一阐述多年来众多用户期待已久的性能提升内容。",
+          "url": "https://flash.jin10.com/detail/20260609011707678800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时52分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基6月8日与美国特使Witkoff、库什纳通电话。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3116323",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
+          "title": "在美国西部拍公路电影",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9C%A8%E7%BE%8E%E5%9B%BD%E8%A5%BF%E9%83%A8%E6%8B%8D%E5%85%AC%E8%B7%AF%E7%94%B5%E5%BD%B1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
+          "title": "美国至6月9日6周国债竞拍-得标利率配置百分比 26.63%，前值63.21%。",
+          "url": "https://flash.jin10.com/detail/20260609233302471800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
+          "title": "阿里巴巴：美国将公司列入中国军工企业名单是一个错误",
+          "url": "https://wallstreetcn.com/livenews/3116536",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        },
+        {
+          "title": "美国至6月9日6周国债竞拍-投标倍数 3.25，前值3.28。",
+          "url": "https://flash.jin10.com/detail/20260609233254230800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
+          "title": "据知情人士透露，SpaceX美国IPO获得多倍超额认购。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3116929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
+          "title": "世界杯主裁被美国拒签",
+          "url": "https://www.toutiao.com/trending/7649028060897525779/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        },
+        {
+          "title": "据日经新闻：日本制铁将向美国钢铁(X.N)公司位于宾夕法尼亚州的综合设施投资至多25亿美元。",
+          "url": "https://flash.jin10.com/detail/20260609033724034800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
+          "title": "美国至6月9日6周国债竞拍-得标利率 3.6%，前值3.63%。",
+          "url": "https://flash.jin10.com/detail/20260609233242949800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
+          "title": "苹果：与美国医生团队合作，共同制定相关医疗器械设备的使用指南。",
+          "url": "https://wallstreetcn.com/livenews/3116294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时52分"
+        },
+        {
+          "title": "蔚来：关注到美国国防部将本公司列入其“中国军事企业”名单，公司相信被列入该名单缺乏正当依据",
+          "url": "https://wallstreetcn.com/livenews/3116533",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        },
+        {
+          "title": "亚马逊(AMZN.O)：向美国证券交易委员会提交文件，拟发行五期加元计价债券，总规模最高达140亿加元。",
+          "url": "https://flash.jin10.com/detail/20260609053024906800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时27分"
+        },
+        {
+          "title": "美国至6月9日1年期国债竞拍-投标倍数 3.34，前值3.41。",
+          "url": "https://flash.jin10.com/detail/20260609233207057800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
+          "title": "百度：获悉美国国防部将本公司列入国防部的中国军工企业名单 公司认为将其列入该名单并无正当理由",
+          "url": "https://wallstreetcn.com/livenews/3116532",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        },
+        {
+          "title": "美国至6月9日1年期国债竞拍-得标利率配置百分比 70.95%，前值4.56%。",
+          "url": "https://flash.jin10.com/detail/20260609233207045800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
+          "title": "Meta Platforms(META.O)：美国劳动力学院是一个无成本的项目，支持所有参与者学习，并为所有毕业生提供就业保障。",
+          "url": "https://flash.jin10.com/detail/20260609052125306800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时27分"
+        },
+        {
+          "title": "美国至6月9日1年期国债竞拍-得标利率 3.75%，前值3.65%。",
+          "url": "https://flash.jin10.com/detail/20260609233207041800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
+          "title": "明晟公司（MSCI）：将按照标准程序处理SpaceX美国IPO。",
+          "url": "https://wallstreetcn.com/livenews/3116346",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时27分"
+        },
+        {
+          "title": "Meta Platforms(META.O)：美国劳动力学院正式启动，首年获1.15亿美元启动资金支持。该项目将于2026年在路易斯安那州、俄亥俄州、印第安纳州和得克萨斯州启动试点。",
+          "url": "https://flash.jin10.com/detail/20260609052012949800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时27分"
+        },
+        {
+          "title": "阿里巴巴：注意到美国国防部已将阿里巴巴集团列入中国军工企业名单",
+          "url": "https://flash.jin10.com/detail/20260609122502333800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        },
+        {
+          "title": "美国至5月23日当周ADP就业人数周度变动将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20260609200500000800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
+          "title": "花旗策略师：交易员们正在积极建立美国股票的空头头寸，而对科技板块的看涨押注仍然过高，这给市场带来了风险。",
+          "url": "https://flash.jin10.com/detail/20260609170313972800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时42分"
+        },
+        {
+          "title": "美国三大股指转跌",
+          "url": "https://wallstreetcn.com/livenews/3116913",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
+          "title": "据日经新闻：日本电信电话集团（NTT）将向美国和韩国投资者募集资金，设立规模为5亿美元的光网络基金。预计约有20家企业将参与NTT的该项基金，其中包括三星电子。",
+          "url": "https://flash.jin10.com/detail/20260609004519849800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时52分"
+        },
+        {
+          "title": "预测市场大爆发之际，美国CFTC取消新总部搬迁计划",
+          "url": "https://wallstreetcn.com/livenews/3116911",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
+          "title": "蔚来-SW：关注到美国国防部将本公司列入其“中国军事企业”名单",
+          "url": "https://flash.jin10.com/detail/20260609121623342800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        },
+        {
+          "title": "国际足联回应世界杯裁判被美国拒签",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E5%9B%9E%E5%BA%94%E4%B8%96%E7%95%8C%E6%9D%AF%E8%A3%81%E5%88%A4%E8%A2%AB%E7%BE%8E%E5%9B%BD%E6%8B%92%E7%AD%BE",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
+          "title": "百度：获悉美国国防部将本公司列入国防部的中国军工企业名单，公司不是中国军工企业",
+          "url": "https://flash.jin10.com/detail/20260609121129873800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        },
+        {
+          "title": "机构：年轻劳动者收入渠道表明，美国劳动力市场的形态已经发生了意义深远的改变",
+          "url": "https://wallstreetcn.com/livenews/3116276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时52分"
+        },
+        {
+          "title": "美国能源部长Wright：霍尔木兹海峡与波斯湾的石油出口料将上升。",
+          "url": "https://wallstreetcn.com/livenews/3116904",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
+          "title": "Crusoe狂揽5 GW数据中心订单，却紧急叫停美国怀俄明州大型项目",
+          "url": "https://wallstreetcn.com/livenews/3116903",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 49,
       "titles": [
         {
           "title": "沃什上任后第一次敲打！特朗普公开发声：没有任何理由加息，加息就是想扼杀我们的成功",
@@ -182,6 +859,18 @@
           "time_info": "13时05分"
         },
         {
+          "title": "特朗普：美伊谈判进入“最后关头”",
+          "url": "https://news.ifeng.com/c/8tooQUA09O3",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时41分 ~ 23时55分]"
+        },
+        {
           "title": "路透社/益普索调查显示，仅有22%的人认可特朗普对生活成本问题的处理，70%的人表示不认可。",
           "url": "https://flash.jin10.com/detail/20260609034919706800",
           "source": "金十数据",
@@ -240,18 +929,6 @@
           "time_info": "[04时13分 ~ 06时27分]"
         },
         {
-          "title": "特朗普：美伊谈判进入“最后关头”",
-          "url": "https://news.ifeng.com/c/8tooQUA09O3",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时41分 ~ 20时37分]"
-        },
-        {
           "title": "特朗普出席NBA总决赛遭全场狂嘘，事后“挽尊”辩解",
           "url": "https://v.ifeng.com/c/8tojH1TtuMo",
           "source": "凤凰网",
@@ -261,6 +938,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时41分 ~ 17时42分]"
+        },
+        {
+          "title": "特朗普警告：若美伊和谈破裂 霍尔木兹海峡或数月无法恢复通航",
+          "url": "https://www.cls.cn/detail/2395258",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时54分 ~ 23时55分]"
         },
         {
           "title": "特朗普支持率降至政治生涯最低 汽油价格居高不下拖垮民意",
@@ -511,7 +1199,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时37分"
         },
@@ -551,496 +1239,8 @@
       ]
     },
     {
-      "keyword_group": "美国",
-      "match_count": 43,
-      "titles": [
-        {
-          "title": "世界杯主裁被美国拒签",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E8%A3%81%E8%A2%AB%E7%BE%8E%E5%9B%BD%E6%8B%92%E7%AD%BE",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时05分 ~ 17时42分]"
-        },
-        {
-          "title": "香港开户行不通，又转向新加坡美国？实情调查",
-          "url": "https://www.cls.cn/detail/2394464",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时05分 ~ 17时42分]"
-        },
-        {
-          "title": "纽约联储调查：美国求职者前景预期恶化，通胀预期小幅回落，家庭财务前景创4年最差",
-          "url": "https://wallstreetcn.com/articles/3774144",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时05分 ~ 20时37分]"
-        },
-        {
-          "title": "美银Hartnett：迎接“6月风暴”，美国CPI将“刺破泡沫”",
-          "url": "https://wallstreetcn.com/articles/3774051",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时52分 ~ 08时06分]"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：今天我与美国总统特使威特科夫和库什纳行了交谈。谈话非常积极。",
-          "url": "https://flash.jin10.com/detail/20260609035302665800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时13分"
-        },
-        {
-          "title": "ADP周度数据显示，美国就业增长连续第三周放缓。",
-          "url": "https://flash.jin10.com/detail/20260609201721148800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
-        },
-        {
-          "title": "美国曾关闭GPS让中国船漂泊大海33天",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%9B%BE%E5%85%B3%E9%97%ADGPS%E8%AE%A9%E4%B8%AD%E5%9B%BD%E8%88%B9%E6%BC%82%E6%B3%8A%E5%A4%A7%E6%B5%B733%E5%A4%A9",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
-        },
-        {
-          "title": "美国4月贸易帐 -559亿美元，预期 -561亿美元，前值 -603亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3116832",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
-        },
-        {
-          "title": "世界杯主裁被美国拒签",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E8%A3%81%E8%A2%AB%E7%BE%8E%E5%9B%BD%E6%8B%92%E7%AD%BE%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时05分"
-        },
-        {
-          "title": "美国曾关闭GPS让中国船失去方向",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%9B%BE%E5%85%B3%E9%97%ADGPS%E8%AE%A9%E4%B8%AD%E5%9B%BD%E8%88%B9%E5%A4%B1%E5%8E%BB%E6%96%B9%E5%90%91%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
-        },
-        {
-          "title": "苹果(AAPL.O)：正与美国医生团体合作制定设备使用指南。",
-          "url": "https://flash.jin10.com/detail/20260609012125134800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "美国至5月23日当周ADP就业人数周度变动 2.9万人，前值3.575万人。",
-          "url": "https://flash.jin10.com/detail/20260609201502513800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
-        },
-        {
-          "title": "美国女孩26年前奇迹般预言新郎名字",
-          "url": "https://www.toutiao.com/trending/7649048153247203364/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时05分 ~ 13时05分]"
-        },
-        {
-          "title": "阿里巴巴、百度、药明康德回应“被美国防部列入中国军工企业名单”",
-          "url": "https://www.cls.cn/detail/2394636",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时41分 ~ 20时37分]"
-        },
-        {
-          "title": "螺旋蝇疫情在美国多地扩散 联邦政府正在释放“不育蝇”加以应对",
-          "url": "https://wallstreetcn.com/livenews/3116542",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时05分"
-        },
-        {
-          "title": "纽约联储调查：美国求职者前景预期恶化，通胀预期小幅回落",
-          "url": "https://wallstreetcn.com/articles/3774144",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时26分 ~ 08时06分]"
-        },
-        {
-          "title": "美国农业部（USDA）将在饲料中试验使用伊维菌素，以控制野生动物中的螺旋蝇疫情。",
-          "url": "https://wallstreetcn.com/livenews/3116331",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时13分 ~ 06时27分]"
-        },
-        {
-          "title": "摩根大通、美国银行因为网络安全威胁问题而被美国国会山成员质询。",
-          "url": "https://wallstreetcn.com/livenews/3116362",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时27分 ~ 08时06分]"
-        },
-        {
-          "title": "释疑｜史上最贵世界杯？想去美国看场球，到底要花多少钱？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33315985",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时41分 ~ 20时37分]"
-        },
-        {
-          "title": "迷惑！美国顶流歌手演唱会现场直接把观众手机扔了",
-          "url": "https://v.ifeng.com/c/8tnURPNnxME",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时05分 ~ 08时06分]"
-        },
-        {
-          "title": "花近10亿美元换道达尔放弃海上风电？ 美国七州联合起诉联邦政府",
-          "url": "https://flash.jin10.com/detail/20260609171749659800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时42分"
-        },
-        {
-          "title": "ADP：截至5月23日的四周，美国私营部门就业人数平均每周增加2.9万人。",
-          "url": "https://wallstreetcn.com/livenews/3116826",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
-        },
-        {
-          "title": "美国科技记者古尔曼：到目前为止，苹果(AAPL.O)正在逐一阐述多年来众多用户期待已久的性能提升内容。",
-          "url": "https://flash.jin10.com/detail/20260609011707678800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基6月8日与美国特使Witkoff、库什纳通电话。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3116323",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时13分"
-        },
-        {
-          "title": "在美国西部拍公路电影",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9C%A8%E7%BE%8E%E5%9B%BD%E8%A5%BF%E9%83%A8%E6%8B%8D%E5%85%AC%E8%B7%AF%E7%94%B5%E5%BD%B1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
-        },
-        {
-          "title": "阿里巴巴：美国将公司列入中国军工企业名单是一个错误",
-          "url": "https://wallstreetcn.com/livenews/3116536",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时05分"
-        },
-        {
-          "title": "世界杯主裁被美国拒签",
-          "url": "https://www.toutiao.com/trending/7649028060897525779/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时05分"
-        },
-        {
-          "title": "据日经新闻：日本制铁将向美国钢铁(X.N)公司位于宾夕法尼亚州的综合设施投资至多25亿美元。",
-          "url": "https://flash.jin10.com/detail/20260609033724034800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时13分"
-        },
-        {
-          "title": "苹果：与美国医生团队合作，共同制定相关医疗器械设备的使用指南。",
-          "url": "https://wallstreetcn.com/livenews/3116294",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "蔚来：关注到美国国防部将本公司列入其“中国军事企业”名单，公司相信被列入该名单缺乏正当依据",
-          "url": "https://wallstreetcn.com/livenews/3116533",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时05分"
-        },
-        {
-          "title": "亚马逊(AMZN.O)：向美国证券交易委员会提交文件，拟发行五期加元计价债券，总规模最高达140亿加元。",
-          "url": "https://flash.jin10.com/detail/20260609053024906800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时27分"
-        },
-        {
-          "title": "百度：获悉美国国防部将本公司列入国防部的中国军工企业名单 公司认为将其列入该名单并无正当理由",
-          "url": "https://wallstreetcn.com/livenews/3116532",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时05分"
-        },
-        {
-          "title": "Meta Platforms(META.O)：美国劳动力学院是一个无成本的项目，支持所有参与者学习，并为所有毕业生提供就业保障。",
-          "url": "https://flash.jin10.com/detail/20260609052125306800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时27分"
-        },
-        {
-          "title": "明晟公司（MSCI）：将按照标准程序处理SpaceX美国IPO。",
-          "url": "https://wallstreetcn.com/livenews/3116346",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时27分"
-        },
-        {
-          "title": "Meta Platforms(META.O)：美国劳动力学院正式启动，首年获1.15亿美元启动资金支持。该项目将于2026年在路易斯安那州、俄亥俄州、印第安纳州和得克萨斯州启动试点。",
-          "url": "https://flash.jin10.com/detail/20260609052012949800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时27分"
-        },
-        {
-          "title": "阿里巴巴：注意到美国国防部已将阿里巴巴集团列入中国军工企业名单",
-          "url": "https://flash.jin10.com/detail/20260609122502333800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时05分"
-        },
-        {
-          "title": "美国至5月23日当周ADP就业人数周度变动将于十分钟后公布。",
-          "url": "https://flash.jin10.com/detail/20260609200500000800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
-        },
-        {
-          "title": "花旗策略师：交易员们正在积极建立美国股票的空头头寸，而对科技板块的看涨押注仍然过高，这给市场带来了风险。",
-          "url": "https://flash.jin10.com/detail/20260609170313972800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时42分"
-        },
-        {
-          "title": "据日经新闻：日本电信电话集团（NTT）将向美国和韩国投资者募集资金，设立规模为5亿美元的光网络基金。预计约有20家企业将参与NTT的该项基金，其中包括三星电子。",
-          "url": "https://flash.jin10.com/detail/20260609004519849800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "蔚来-SW：关注到美国国防部将本公司列入其“中国军事企业”名单",
-          "url": "https://flash.jin10.com/detail/20260609121623342800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时05分"
-        },
-        {
-          "title": "国际足联回应世界杯裁判被美国拒签",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E5%9B%9E%E5%BA%94%E4%B8%96%E7%95%8C%E6%9D%AF%E8%A3%81%E5%88%A4%E8%A2%AB%E7%BE%8E%E5%9B%BD%E6%8B%92%E7%AD%BE",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
-        },
-        {
-          "title": "百度：获悉美国国防部将本公司列入国防部的中国军工企业名单，公司不是中国军工企业",
-          "url": "https://flash.jin10.com/detail/20260609121129873800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时05分"
-        },
-        {
-          "title": "机构：年轻劳动者收入渠道表明，美国劳动力市场的形态已经发生了意义深远的改变",
-          "url": "https://wallstreetcn.com/livenews/3116276",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        }
-      ]
-    },
-    {
       "keyword_group": "伊朗",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "伊朗电力协会表示，他们正面临运营发电厂所需燃料短缺的问题。",
@@ -1247,6 +1447,17 @@
           "time_info": "13时05分"
         },
         {
+          "title": "伊朗最高领袖：我们从未寻求战争，也不寻求战争，但我们绝不会放弃我们的合法权利。",
+          "url": "https://flash.jin10.com/detail/20260609233159062800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
           "title": "伊朗官员：伊朗不排斥推进谈判 但美必须拿出诚意",
           "url": "https://wallstreetcn.com/livenews/3116523",
           "source": "华尔街见闻-快讯",
@@ -1294,7 +1505,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "芯片股力撑美股反弹，半导体指数涨超5%，英特尔大涨11%，中东局势缓和，原油冲高回落",
@@ -1305,8 +1516,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时26分 ~ 20时37分]"
+          "appearance_count": 10,
+          "time_info": "[06时26分 ~ 23时55分]"
+        },
+        {
+          "title": "熊市信号触发70%！美银建议获利了结，现在美股正如“2000年泡沫破灭前1个月”",
+          "url": "https://wallstreetcn.com/articles/3774155",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时05分 ~ 23时55分]"
         },
         {
           "title": "【早报】美股芯片、光通信股全线反弹，半导体指数大涨5.6%；油价冲高回落，金银探底企稳",
@@ -1344,16 +1567,15 @@
           "time_info": "[01时52分 ~ 04时13分]"
         },
         {
-          "title": "熊市信号触发70%！美银建议获利了结，现在美股正如“2000年泡沫破灭前1个月”",
-          "url": "https://wallstreetcn.com/articles/3774155",
+          "title": "美股指跳水，纳指跌超1%，科技股回落，迈威尔科技跌超8%，金银油齐跌",
+          "url": "https://wallstreetcn.com/articles/3774176",
           "source": "华尔街见闻",
           "ranks": [
-            6,
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时05分 ~ 20时37分]"
+          "appearance_count": 2,
+          "time_info": "[23时54分 ~ 23时55分]"
         },
         {
           "title": "花旗：交易员大举搭建美股空仓 诸多重大风险事件临近",
@@ -1416,6 +1638,17 @@
           "time_info": "[06时26分 ~ 06时27分]"
         },
         {
+          "title": "美股高开高走 存储芯片又大涨",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E9%AB%98%E5%BC%80%E9%AB%98%E8%B5%B0+%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E5%8F%88%E5%A4%A7%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时54分 ~ 23时55分]"
+        },
+        {
           "title": "美股三大指数涨跌不一 芯片股反弹",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E6%B6%A8%E8%B7%8C%E4%B8%8D%E4%B8%80+%E8%8A%AF%E7%89%87%E8%82%A1%E5%8F%8D%E5%BC%B9",
           "source": "百度热搜",
@@ -1425,6 +1658,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时05分 ~ 08时06分]"
+        },
+        {
+          "title": "摩根资管：美股将挺过任何短暂且剧烈的回调",
+          "url": "https://wallstreetcn.com/livenews/3116931",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         },
         {
           "title": "新兴市场ETF收涨将近1.8%，领跑美股大类资产类ETF",
@@ -1477,7 +1721,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时37分"
         }
@@ -1485,7 +1729,7 @@
     },
     {
       "keyword_group": "日本",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
         {
           "title": "日本陆上自卫队举行最大规模实弹演习",
@@ -1503,11 +1747,34 @@
           "url": "https://news.ifeng.com/c/8tojX3VRqfM",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时41分 ~ 23时55分]"
+        },
+        {
+          "title": "外媒称美方请中国恢复对日本的稀土出口",
+          "url": "https://news.ifeng.com/c/8tokPxm8mua",
+          "source": "凤凰网",
+          "ranks": [
+            4
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时41分 ~ 20时37分]"
+          "time_info": "[20时37分 ~ 23时55分]"
+        },
+        {
+          "title": "中国海事巡航期间发现疑似日本飞机",
+          "url": "https://v.ifeng.com/c/8tos3hBXZUo",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时54分 ~ 23时55分]"
         },
         {
           "title": "日本5月广义货币流动性年率 4.7%，前值2.8%。",
@@ -1530,17 +1797,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
-        },
-        {
-          "title": "外媒称美方请中国恢复对日本的稀土出口",
-          "url": "https://news.ifeng.com/c/8tokPxm8mua",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
         },
         {
           "title": "日本5月货币供应M2年率 2.5%，前值2.30%。",
@@ -1587,6 +1843,17 @@
           "time_info": "[17时41分 ~ 17时42分]"
         },
         {
+          "title": "中国为什么要对日本断供钨",
+          "url": "https://www.toutiao.com/trending/7649080538980007955/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时54分 ~ 23时55分]"
+        },
+        {
           "title": "日本开始在南鸟岛部署导弹发射装置",
           "url": "https://www.toutiao.com/trending/7649014664638971958/",
           "source": "今日头条",
@@ -1599,6 +1866,17 @@
           "time_info": "[01时52分 ~ 04时13分]"
         },
         {
+          "title": "邱毅：日本拉着菲律宾在外制造纷争",
+          "url": "https://www.toutiao.com/trending/7649321480739651627/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时54分 ~ 23时55分]"
+        },
+        {
           "title": "“日本炒作中方正当行动不可能得逞”",
           "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%97%A5%E6%9C%AC%E7%82%92%E4%BD%9C%E4%B8%AD%E6%96%B9%E6%AD%A3%E5%BD%93%E8%A1%8C%E5%8A%A8%E4%B8%8D%E5%8F%AF%E8%83%BD%E5%BE%97%E9%80%9E%E2%80%9D",
           "source": "百度热搜",
@@ -1608,6 +1886,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时41分 ~ 17时42分]"
+        },
+        {
+          "title": "中国海事巡航期间发现疑似日本飞机",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B5%B7%E4%BA%8B%E5%B7%A1%E8%88%AA%E6%9C%9F%E9%97%B4%E5%8F%91%E7%8E%B0%E7%96%91%E4%BC%BC%E6%97%A5%E6%9C%AC%E9%A3%9E%E6%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时54分 ~ 23时55分]"
         },
         {
           "title": "日本5月货币存量M3同比 1.7%，前值 1.6%。",
@@ -1638,7 +1927,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时37分"
         },
@@ -1649,9 +1938,179 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "印度",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "印度博主蹭吃白嫖被拒",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354970&amp;topic_name=%E5%8D%B0%E5%BA%A6%E5%8D%9A%E4%B8%BB%E8%B9%AD%E5%90%83%E7%99%BD%E5%AB%96%E8%A2%AB%E6%8B%92",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            13,
+            16,
+            19,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[01时52分 ~ 23时55分]"
+        },
+        {
+          "title": "印度人热死也不用中国空调",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354993&amp;topic_name=%E5%8D%B0%E5%BA%A6%E4%BA%BA%E7%83%AD%E6%AD%BB%E4%B9%9F%E4%B8%8D%E7%94%A8%E4%B8%AD%E5%9B%BD%E7%A9%BA%E8%B0%83",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时05分 ~ 23时55分]"
+        },
+        {
+          "title": "跌跌不休!印度抛黄金救卢比",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354999&amp;topic_name=%E8%B7%8C%E8%B7%8C%E4%B8%8D%E4%BC%91%21%E5%8D%B0%E5%BA%A6%E6%8A%9B%E9%BB%84%E9%87%91%E6%95%91%E5%8D%A2%E6%AF%94",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时05分 ~ 23时55分]"
+        },
+        {
+          "title": "印度14.5亿人口，也生不动了",
+          "url": "https://news.ifeng.com/c/8tosTkc8mLZ",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时37分 ~ 23时55分]"
+        },
+        {
+          "title": "针对中国？印度空调爆炸烧死前高官，却仍在收紧压缩机进口",
+          "url": "https://news.ifeng.com/c/8tontSRAbju",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时37分 ~ 23时55分]"
+        },
+        {
+          "title": "奇瑞回应“与印度塔塔集团相关合作”",
+          "url": "https://www.toutiao.com/trending/7648157589721563190/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时52分 ~ 06时27分]"
+        },
+        {
+          "title": "一个模仿印度人制作饮料的视频火了",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%80%E4%B8%AA%E6%A8%A1%E4%BB%BF%E5%8D%B0%E5%BA%A6%E4%BA%BA%E5%88%B6%E4%BD%9C%E9%A5%AE%E6%96%99%E7%9A%84%E8%A7%86%E9%A2%91%E7%81%AB%E4%BA%86&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时54分 ~ 23时55分]"
+        },
+        {
+          "title": "印度钢铁厂1600摄氏度铁水泄露引发火灾，致8人被活活烧死",
+          "url": "https://v.ifeng.com/c/8tofl9UCp0F",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时41分 ~ 17时42分]"
+        },
+        {
+          "title": "假如印度举办世界杯",
+          "url": "https://search.bilibili.com/all?keyword=%E5%81%87%E5%A6%82%E5%8D%B0%E5%BA%A6%E4%B8%BE%E5%8A%9E%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        },
+        {
+          "title": "*ST闻泰：重大资产出售印度业务资产包存争议 已启动法律应对程序",
+          "url": "https://flash.jin10.com/detail/20260609171235116800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时42分"
+        },
+        {
+          "title": "印度外交部长苏杰生将于6月10日至11日访问保加利亚和芬兰。",
+          "url": "https://flash.jin10.com/detail/20260609201000462800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
+          "title": "印度权衡将石化产品进口免税期延长至6月30日之后",
+          "url": "https://wallstreetcn.com/livenews/3116921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
+          "title": "委内瑞拉代总统Delcy Rodriguez会见土耳其总统埃尔多安。 双方讨论实现30亿美元贸易额的措施。 双方侧重于推进贸易、能源、矿业合作。 Rodriguez此前结束了对印度持续五天的行程。",
+          "url": "https://wallstreetcn.com/livenews/3116367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
+          "title": "印度街头有多少中国制造",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8D%B0%E5%BA%A6%E8%A1%97%E5%A4%B4%E6%9C%89%E5%A4%9A%E5%B0%91%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时05分"
         }
       ]
     },
@@ -1665,11 +2124,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时05分 ~ 20时37分]"
+          "appearance_count": 6,
+          "time_info": "[13时05分 ~ 23时55分]"
         },
         {
           "title": "OpenAI计划在首次公开募股（IPO）之前启动员工/股东股票要约收购案（Tender Sale）。 据知情人士透露，该公司将在未来几周内正式举行该股票要约收购（Tender）。（彭博）",
@@ -1792,152 +2252,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "印度",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "印度博主蹭吃白嫖被拒",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354970&amp;topic_name=%E5%8D%B0%E5%BA%A6%E5%8D%9A%E4%B8%BB%E8%B9%AD%E5%90%83%E7%99%BD%E5%AB%96%E8%A2%AB%E6%8B%92",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            13,
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时52分 ~ 20时37分]"
-        },
-        {
-          "title": "印度人热死也不用中国空调",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354993&amp;topic_name=%E5%8D%B0%E5%BA%A6%E4%BA%BA%E7%83%AD%E6%AD%BB%E4%B9%9F%E4%B8%8D%E7%94%A8%E4%B8%AD%E5%9B%BD%E7%A9%BA%E8%B0%83",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时05分 ~ 20时37分]"
-        },
-        {
-          "title": "跌跌不休!印度抛黄金救卢比",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354999&amp;topic_name=%E8%B7%8C%E8%B7%8C%E4%B8%8D%E4%BC%91%21%E5%8D%B0%E5%BA%A6%E6%8A%9B%E9%BB%84%E9%87%91%E6%95%91%E5%8D%A2%E6%AF%94",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时05分 ~ 20时37分]"
-        },
-        {
-          "title": "奇瑞回应“与印度塔塔集团相关合作”",
-          "url": "https://www.toutiao.com/trending/7648157589721563190/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时52分 ~ 06时27分]"
-        },
-        {
-          "title": "印度钢铁厂1600摄氏度铁水泄露引发火灾，致8人被活活烧死",
-          "url": "https://v.ifeng.com/c/8tofl9UCp0F",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时41分 ~ 17时42分]"
-        },
-        {
-          "title": "假如印度举办世界杯",
-          "url": "https://search.bilibili.com/all?keyword=%E5%81%87%E5%A6%82%E5%8D%B0%E5%BA%A6%E4%B8%BE%E5%8A%9E%E4%B8%96%E7%95%8C%E6%9D%AF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时05分"
-        },
-        {
-          "title": "印度14.5亿人口，也生不动了",
-          "url": "https://news.ifeng.com/c/8tosTkc8mLZ",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
-        },
-        {
-          "title": "针对中国？印度空调爆炸烧死前高官，却仍在收紧压缩机进口",
-          "url": "https://news.ifeng.com/c/8tontSRAbju",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
-        },
-        {
-          "title": "*ST闻泰：重大资产出售印度业务资产包存争议 已启动法律应对程序",
-          "url": "https://flash.jin10.com/detail/20260609171235116800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时42分"
-        },
-        {
-          "title": "印度外交部长苏杰生将于6月10日至11日访问保加利亚和芬兰。",
-          "url": "https://flash.jin10.com/detail/20260609201000462800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
-        },
-        {
-          "title": "委内瑞拉代总统Delcy Rodriguez会见土耳其总统埃尔多安。 双方讨论实现30亿美元贸易额的措施。 双方侧重于推进贸易、能源、矿业合作。 Rodriguez此前结束了对印度持续五天的行程。",
-          "url": "https://wallstreetcn.com/livenews/3116367",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时06分"
-        },
-        {
-          "title": "印度街头有多少中国制造",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8D%B0%E5%BA%A6%E8%A1%97%E5%A4%B4%E6%9C%89%E5%A4%9A%E5%B0%91%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时05分"
         }
       ]
     },
@@ -2082,7 +2396,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时37分"
         },
@@ -2217,8 +2531,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时05分 ~ 20时37分]"
+          "appearance_count": 6,
+          "time_info": "[13时05分 ~ 23时55分]"
         }
       ]
     }
