@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-10T08:13:22.354877+08:00",
-  "total_titles_processed": 584,
+  "generated_at": "2026-06-10T13:18:13.541791+08:00",
+  "total_titles_processed": 806,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 53,
+      "match_count": 65,
       "titles": [
         {
           "title": "伊朗队全员佩戴「168」纪念徽章出征世界杯，这一举动有何深远意义？",
@@ -22,13 +22,24 @@
           "time_info": "[02时04分 ~ 08时13分]"
         },
         {
+          "title": "伊朗称摧毁约旦美军基地F-35机库",
+          "url": "https://news.ifeng.com/c/8tq2f02mk4u",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时17分 ~ 13时18分]"
+        },
+        {
           "title": "美军称对伊朗发动“自卫性”打击",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E7%A7%B0%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8F%91%E5%8A%A8%E2%80%9C%E8%87%AA%E5%8D%AB%E6%80%A7%E2%80%9D%E6%89%93%E5%87%BB",
           "source": "百度热搜",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
         },
@@ -53,6 +64,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
+        },
+        {
+          "title": "伊朗外交部：伊朗外长阿拉格齐与沙特外交大臣和土耳其外长就美国袭击后的局势进行了电话交流。",
+          "url": "https://flash.jin10.com/detail/20260610130057318800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
         },
         {
           "title": "美媒披露美伊核谈判四大议题：伊朗暂停铀浓缩15年、稀释现有浓缩铀、拆除核设施、接受“突击检查”",
@@ -121,6 +143,17 @@
           "time_info": "06时26分"
         },
         {
+          "title": "伊朗外交部谴责美国对伊军事行动",
+          "url": "https://flash.jin10.com/detail/20260610125258381800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
+        },
+        {
           "title": "据纽约时报，美国与伊朗在磋商中聚焦于四个核问题。 美国认为，伊朗同意暂停铀浓缩活动15年。 标普500指数跌幅收窄至1.2%，道指跌幅不足0.5%，纳指跌2.1%，半导体指数跌幅也收窄至4.8%。",
           "url": "https://wallstreetcn.com/livenews/3116971",
           "source": "华尔街见闻-快讯",
@@ -138,7 +171,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
         },
@@ -167,13 +200,90 @@
           "time_info": "[06时26分 ~ 08时13分]"
         },
         {
+          "title": "伊朗袭击美军第五舰队",
+          "url": "https://www.toutiao.com/trending/7649563798306557482/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时17分 ~ 13时18分]"
+        },
+        {
+          "title": "伊朗袭击美军第五舰队",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E8%A2%AD%E5%87%BB%E7%BE%8E%E5%86%9B%E7%AC%AC%E4%BA%94%E8%88%B0%E9%98%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时17分 ~ 13时18分]"
+        },
+        {
+          "title": "伊朗袭击美军第五舰队",
+          "url": "https://www.douyin.com/hot/2529144",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时17分 ~ 13时18分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 103 天，当前局势如何？有哪些值得关注的信息？",
+          "url": "https://www.zhihu.com/question/2047888566534067312",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时17分 ~ 13时18分]"
+        },
+        {
+          "title": "美军对伊朗发动打击",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%86%9B%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8F%91%E5%8A%A8%E6%89%93%E5%87%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时17分 ~ 13时18分]"
+        },
+        {
+          "title": "美军报复性打击伊朗回应直升机被击落，伊朗对美目标发动袭击，局势会进一步升级吗？对双方谈判有哪些影响？",
+          "url": "https://www.zhihu.com/question/2047951657120396654",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时17分 ~ 13时18分]"
+        },
+        {
+          "title": "伊朗称对美军第五舰队发动袭击",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%AF%B9%E7%BE%8E%E5%86%9B%E7%AC%AC%E4%BA%94%E8%88%B0%E9%98%9F%E5%8F%91%E5%8A%A8%E8%A2%AD%E5%87%BB",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时17分 ~ 13时18分]"
+        },
+        {
           "title": "伊朗击落一架美军阿帕奇直升机",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%87%BB%E8%90%BD%E4%B8%80%E6%9E%B6%E7%BE%8E%E5%86%9B%E9%98%BF%E5%B8%95%E5%A5%87%E7%9B%B4%E5%8D%87%E6%9C%BA",
           "source": "百度热搜",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
         },
@@ -195,7 +305,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
         },
@@ -239,9 +349,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
+        },
+        {
+          "title": "伊朗警告地区各国不要允许美国使用其领土。",
+          "url": "https://wallstreetcn.com/livenews/3117225",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
         },
         {
           "title": "据Axios：一位美国高级官员表示，调查认定一架伊朗无人机撞击了这架直升机并导致其坠毁。该官员称，调查尚未确定此次撞击是否为蓄意行为，相关事宜仍在调查中。",
@@ -261,7 +382,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
         },
@@ -283,7 +404,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
         },
@@ -294,7 +415,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
         },
@@ -316,7 +437,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
         },
@@ -338,7 +459,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
         },
@@ -349,7 +470,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
         },
@@ -442,6 +563,17 @@
           "time_info": "06时26分"
         },
         {
+          "title": "约旦武装部队称击落5枚从伊朗发射的导弹",
+          "url": "https://wallstreetcn.com/livenews/3117210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
+        },
+        {
           "title": "伊朗霍尔木兹甘省部分地区发生爆炸",
           "url": "https://flash.jin10.com/detail/20260610053650672800",
           "source": "金十数据",
@@ -459,7 +591,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
         },
@@ -470,7 +602,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
         },
@@ -492,7 +624,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
         },
@@ -503,7 +635,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
         },
@@ -536,7 +668,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
         },
@@ -547,7 +679,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
         },
@@ -569,7 +701,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
         },
@@ -591,7 +723,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
         }
@@ -599,7 +731,7 @@
     },
     {
       "keyword_group": "美国",
-      "match_count": 33,
+      "match_count": 36,
       "titles": [
         {
           "title": "央视披露：美国曾关闭GPS信号让中国船只失去方向，被迫接受美方登船检查，此后中国开启北斗系统自研之路",
@@ -613,6 +745,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时04分 ~ 08时13分]"
+        },
+        {
+          "title": "比亚迪、阿里等回应“被美国防部列入中国军工企业名单”：没有正当理由，无任何依据",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33344289",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            8,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时04分 ~ 13时18分]"
         },
         {
           "title": "行业周报：美国上周API原油库存锐减超900万桶",
@@ -681,18 +826,6 @@
           "time_info": "04时57分"
         },
         {
-          "title": "比亚迪、阿里等回应“被美国防部列入中国军工企业名单”：没有正当理由，无任何依据",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33344289",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时04分 ~ 08时13分]"
-        },
-        {
           "title": "释疑｜史上最贵世界杯？想去美国看场球，到底要花多少钱？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33315985",
           "source": "澎湃新闻",
@@ -717,6 +850,17 @@
           "time_info": "[02时04分 ~ 06时26分]"
         },
         {
+          "title": "美国专家盯上世界杯“下水道”",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%93%E5%AE%B6%E7%9B%AF%E4%B8%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E2%80%9C%E4%B8%8B%E6%B0%B4%E9%81%93%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时17分 ~ 13时18分]"
+        },
+        {
           "title": "美国至6月5日当周API成品油进口 -5.1万桶/日，前值33.4万桶/日。",
           "url": "https://flash.jin10.com/detail/20260610043624847800",
           "source": "金十数据",
@@ -737,6 +881,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
+        },
+        {
+          "title": "泡泡玛特：其他产品只是被Labubu遮住光芒 实已贡献约半数美国收入",
+          "url": "https://wallstreetcn.com/livenews/3117228",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
         },
         {
           "title": "纽约联储调查：美国求职者前景预期恶化，通胀预期小幅回落，家庭财务前景创4年最差",
@@ -844,9 +999,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
+        },
+        {
+          "title": "泡泡玛特：非Labubu产品去年占美国总收入约50%",
+          "url": "https://flash.jin10.com/detail/20260610124316505800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
         },
         {
           "title": "美国三年期国债收益率在拍卖后保持稳定，最新下跌1.8个基点，报4.189% 。",
@@ -932,7 +1098,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
         },
@@ -973,7 +1139,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "特朗普证实美军打击伊朗",
@@ -982,9 +1148,43 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时13分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时13分 ~ 13时18分]"
+        },
+        {
+          "title": "特朗普：美伊谈判进入“最后关头”",
+          "url": "https://news.ifeng.com/c/8tooQUA09O3",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时04分 ~ 13时18分]"
+        },
+        {
+          "title": "美伊和谈又受扰？美军再对伊朗发动打击 特朗普称“行动非常强硬”",
+          "url": "https://www.cls.cn/detail/2395455",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时17分 ~ 13时18分]"
+        },
+        {
+          "title": "专家：达成协议是大势所趋，特朗普比伊朗更着急",
+          "url": "https://news.ifeng.com/c/8tq3SJCc0lq",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时17分 ~ 13时18分]"
         },
         {
           "title": "特朗普训以总理对赖清德意味着什么",
@@ -993,7 +1193,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
         },
@@ -1022,17 +1222,6 @@
           "time_info": "06时26分"
         },
         {
-          "title": "特朗普：美伊谈判进入“最后关头”",
-          "url": "https://news.ifeng.com/c/8tooQUA09O3",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时04分 ~ 08时13分]"
-        },
-        {
           "title": "37次“即将达成”！特朗普不断预告伊朗协议，却一次次落空",
           "url": "https://wallstreetcn.com/articles/3774230",
           "source": "华尔街见闻",
@@ -1049,11 +1238,35 @@
           "url": "https://www.toutiao.com/trending/7649536140243897906/",
           "source": "今日头条",
           "ranks": [
-            6
+            6,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时13分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时13分 ~ 13时18分]"
+        },
+        {
+          "title": "美伊协议曙光风险并存：白宫放风核谈判取得积极成果，特朗普称必须回应伊朗击落美直升机，美军称发动打击报复",
+          "url": "https://wallstreetcn.com/articles/3774257",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时13分 ~ 13时18分]"
+        },
+        {
+          "title": "特朗普称对伊朗进行打击“非常重要” | 环球市场",
+          "url": "https://www.cls.cn/detail/2395421",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时17分 ~ 13时18分]"
         },
         {
           "title": "特朗普称对伊朗进行打击“非常重要”",
@@ -1073,7 +1286,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
         },
@@ -1087,17 +1300,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
-        },
-        {
-          "title": "美伊协议曙光风险并存：白宫放风核谈判取得积极成果，特朗普称必须回应伊朗击落美直升机，美军称发动打击报复",
-          "url": "https://wallstreetcn.com/articles/3774257",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时13分"
         },
         {
           "title": "特朗普称对伊朗进行打击“非常重要”",
@@ -1150,7 +1352,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
         },
@@ -1161,7 +1363,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
         },
@@ -1190,8 +1392,218 @@
       ]
     },
     {
+      "keyword_group": "日本",
+      "match_count": 18,
+      "titles": [
+        {
+          "title": "中国海事巡航期间发现疑似日本飞机",
+          "url": "https://v.ifeng.com/c/8tos3hBXZUo",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时04分 ~ 08时13分]"
+        },
+        {
+          "title": "外媒称美方请中国恢复对日本的稀土出口",
+          "url": "https://news.ifeng.com/c/8tokPxm8mua",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时04分 ~ 08时13分]"
+        },
+        {
+          "title": "日本多次跟监辽宁舰航母编队，国防部回应",
+          "url": "https://news.ifeng.com/c/8tojX3VRqfM",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时04分 ~ 06时26分]"
+        },
+        {
+          "title": "中国为什么要对日本断供钨",
+          "url": "https://www.toutiao.com/trending/7649080538980007955/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            15,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时04分 ~ 13时18分]"
+        },
+        {
+          "title": "中国海事巡航期间发现疑似日本飞机",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B5%B7%E4%BA%8B%E5%B7%A1%E8%88%AA%E6%9C%9F%E9%97%B4%E5%8F%91%E7%8E%B0%E7%96%91%E4%BC%BC%E6%97%A5%E6%9C%AC%E9%A3%9E%E6%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            18,
+            15,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时04分 ~ 08时13分]"
+        },
+        {
+          "title": "日本5月国内企业商品物价指数年率 6.3%，预期5.50%，前值4.90%。",
+          "url": "https://flash.jin10.com/detail/20260610075004001800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时13分"
+        },
+        {
+          "title": "日本5月国内企业商品物价指数同比 6.3%，预期 5.6%，前值 4.9%。",
+          "url": "https://wallstreetcn.com/livenews/3117091",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时13分"
+        },
+        {
+          "title": "日本5月国内企业商品物价指数月率 0.9%，预期0.50%，前值2.30%。",
+          "url": "https://flash.jin10.com/detail/20260610075003836800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时13分"
+        },
+        {
+          "title": "日本5月国内企业商品物价指数环比 0.9%，预期 0.8%，前值 2.3%。",
+          "url": "https://wallstreetcn.com/livenews/3117090",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时13分"
+        },
+        {
+          "title": "日本10年期国债收益率上升2.5个基点，至2.690%。",
+          "url": "https://flash.jin10.com/detail/20260610074959603800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时13分"
+        },
+        {
+          "title": "日本气象厅：厄尔尼诺现象似乎已经形成。",
+          "url": "https://wallstreetcn.com/livenews/3117233",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
+        },
+        {
+          "title": "日本大猩猩与配偶争吵后沉思走红",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%A4%A7%E7%8C%A9%E7%8C%A9%E4%B8%8E%E9%85%8D%E5%81%B6%E4%BA%89%E5%90%B5%E5%90%8E%E6%B2%89%E6%80%9D%E8%B5%B0%E7%BA%A2%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时17分 ~ 13时18分]"
+        },
+        {
+          "title": "警惕日本情报集权成祸源",
+          "url": "https://www.douyin.com/hot/2528222",
+          "source": "抖音",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 06时26分]"
+        },
+        {
+          "title": "日本气象厅：厄尔尼诺现象有100%的可能性持续至秋季。",
+          "url": "https://flash.jin10.com/detail/20260610125132499800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
+        },
+        {
+          "title": "日本气象厅：自2026年春季以来，厄尔尼诺现象似乎已开始出现。",
+          "url": "https://flash.jin10.com/detail/20260610125113344800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
+        },
+        {
+          "title": "日本与英国料将围绕离岸（海上）风电合作达成共识。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3117048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时26分"
+        },
+        {
+          "title": "日本拍卖30年期国债，认购倍数为2.94，为2025年6月来新低，过去12个月均值为3.4。日本国债期货在拍卖结果出炉后扩大跌幅。",
+          "url": "https://wallstreetcn.com/livenews/3117205",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
+        },
+        {
+          "title": "邱毅：日本拉着菲律宾在外制造纷争",
+          "url": "https://www.toutiao.com/trending/7649321480739651627/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时04分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "芯片股力撑美股反弹，半导体指数涨超5%，英特尔大涨11%，中东局势缓和，原油冲高回落",
@@ -1203,6 +1615,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时04分 ~ 06时26分]"
+        },
+        {
+          "title": "美股收盘：芯片板块“惊魂一跳”后持续修复 纳指收盘跌约1%",
+          "url": "https://www.cls.cn/detail/2395384",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时25分 ~ 13时18分]"
         },
         {
           "title": "美股",
@@ -1238,18 +1662,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
-        },
-        {
-          "title": "美股收盘：芯片板块“惊魂一跳”后持续修复 纳指收盘跌约1%",
-          "url": "https://www.cls.cn/detail/2395384",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时25分 ~ 08时13分]"
         },
         {
           "title": "美股大类资产类ETF多数收涨，房地产ETF涨2.3%，黄金ETF跌超1.6%",
@@ -1296,6 +1708,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时57分 ~ 06时26分]"
+        },
+        {
+          "title": "当半导体成“震中”！一文读懂：美股投资者当前在哪里避险？",
+          "url": "https://www.cls.cn/detail/2395632",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时17分 ~ 13时18分]"
         },
         {
           "title": "周二（6月9日），美股行业ETF多数收涨，全球航空业ETF涨3.10%，生物科技指数ETF、银行业ETF、医疗业ETF、区域银行ETF、日常消费品ETF、公用事业ETF至多涨1.46%，网络股指数ETF、半导体ETF至多收跌1.20%，全球科技股指数ETF、能源业ETF、科技行业ETF至多跌1.85%。",
@@ -1366,173 +1789,56 @@
       ]
     },
     {
-      "keyword_group": "日本",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "中国海事巡航期间发现疑似日本飞机",
-          "url": "https://v.ifeng.com/c/8tos3hBXZUo",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时04分 ~ 08时13分]"
-        },
-        {
-          "title": "外媒称美方请中国恢复对日本的稀土出口",
-          "url": "https://news.ifeng.com/c/8tokPxm8mua",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时04分 ~ 08时13分]"
-        },
-        {
-          "title": "日本多次跟监辽宁舰航母编队，国防部回应",
-          "url": "https://news.ifeng.com/c/8tojX3VRqfM",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时04分 ~ 06时26分]"
-        },
-        {
-          "title": "中国海事巡航期间发现疑似日本飞机",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B5%B7%E4%BA%8B%E5%B7%A1%E8%88%AA%E6%9C%9F%E9%97%B4%E5%8F%91%E7%8E%B0%E7%96%91%E4%BC%BC%E6%97%A5%E6%9C%AC%E9%A3%9E%E6%9C%BA",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            18,
-            15,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时04分 ~ 08时13分]"
-        },
-        {
-          "title": "日本5月国内企业商品物价指数年率 6.3%，预期5.50%，前值4.90%。",
-          "url": "https://flash.jin10.com/detail/20260610075004001800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时13分"
-        },
-        {
-          "title": "日本5月国内企业商品物价指数同比 6.3%，预期 5.6%，前值 4.9%。",
-          "url": "https://wallstreetcn.com/livenews/3117091",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时13分"
-        },
-        {
-          "title": "日本5月国内企业商品物价指数月率 0.9%，预期0.50%，前值2.30%。",
-          "url": "https://flash.jin10.com/detail/20260610075003836800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时13分"
-        },
-        {
-          "title": "日本5月国内企业商品物价指数环比 0.9%，预期 0.8%，前值 2.3%。",
-          "url": "https://wallstreetcn.com/livenews/3117090",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时13分"
-        },
-        {
-          "title": "日本10年期国债收益率上升2.5个基点，至2.690%。",
-          "url": "https://flash.jin10.com/detail/20260610074959603800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时13分"
-        },
-        {
-          "title": "中国为什么要对日本断供钨",
-          "url": "https://www.toutiao.com/trending/7649080538980007955/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时04分 ~ 08时13分]"
-        },
-        {
-          "title": "警惕日本情报集权成祸源",
-          "url": "https://www.douyin.com/hot/2528222",
-          "source": "抖音",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时25分 ~ 06时26分]"
-        },
-        {
-          "title": "日本与英国料将围绕离岸（海上）风电合作达成共识。（日经新闻）",
-          "url": "https://wallstreetcn.com/livenews/3117048",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时26分"
-        },
-        {
-          "title": "邱毅：日本拉着菲律宾在外制造纷争",
-          "url": "https://www.toutiao.com/trending/7649321480739651627/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时04分"
-        }
-      ]
-    },
-    {
       "keyword_group": "印度",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "印度人热死也不用中国空调",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354993&amp;topic_name=%E5%8D%B0%E5%BA%A6%E4%BA%BA%E7%83%AD%E6%AD%BB%E4%B9%9F%E4%B8%8D%E7%94%A8%E4%B8%AD%E5%9B%BD%E7%A9%BA%E8%B0%83",
           "source": "贴吧",
           "ranks": [
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时04分 ~ 08时13分]"
+          "appearance_count": 7,
+          "time_info": "[02时04分 ~ 13时18分]"
+        },
+        {
+          "title": "印度14.5亿人口，也生不动了",
+          "url": "https://news.ifeng.com/c/8tosTkc8mLZ",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时04分 ~ 13时18分]"
+        },
+        {
+          "title": "跌跌不休!印度抛黄金救卢比",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354999&amp;topic_name=%E8%B7%8C%E8%B7%8C%E4%B8%8D%E4%BC%91%21%E5%8D%B0%E5%BA%A6%E6%8A%9B%E9%BB%84%E9%87%91%E6%95%91%E5%8D%A2%E6%AF%94",
+          "source": "贴吧",
+          "ranks": [
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时04分 ~ 13时18分]"
+        },
+        {
+          "title": "印度博主蹭吃白嫖被拒",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354970&amp;topic_name=%E5%8D%B0%E5%BA%A6%E5%8D%9A%E4%B8%BB%E8%B9%AD%E5%90%83%E7%99%BD%E5%AB%96%E8%A2%AB%E6%8B%92",
+          "source": "贴吧",
+          "ranks": [
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时04分 ~ 13时18分]"
         },
         {
           "title": "一个模仿印度人制作饮料的视频火了",
@@ -1542,17 +1848,6 @@
             7,
             8,
             18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时04分 ~ 08时13分]"
-        },
-        {
-          "title": "印度14.5亿人口，也生不动了",
-          "url": "https://news.ifeng.com/c/8tosTkc8mLZ",
-          "source": "凤凰网",
-          "ranks": [
-            9
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -1570,33 +1865,44 @@
           "time_info": "[02时04分 ~ 08时13分]"
         },
         {
-          "title": "跌跌不休!印度抛黄金救卢比",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354999&amp;topic_name=%E8%B7%8C%E8%B7%8C%E4%B8%8D%E4%BC%91%21%E5%8D%B0%E5%BA%A6%E6%8A%9B%E9%BB%84%E9%87%91%E6%95%91%E5%8D%A2%E6%AF%94",
-          "source": "贴吧",
+          "title": "今年印度真的比过往热吗",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8A%E5%B9%B4%E5%8D%B0%E5%BA%A6%E7%9C%9F%E7%9A%84%E6%AF%94%E8%BF%87%E5%BE%80%E7%83%AD%E5%90%97",
+          "source": "bilibili 热搜",
           "ranks": [
-            13
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时04分 ~ 08时13分]"
-        },
-        {
-          "title": "印度博主蹭吃白嫖被拒",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354970&amp;topic_name=%E5%8D%B0%E5%BA%A6%E5%8D%9A%E4%B8%BB%E8%B9%AD%E5%90%83%E7%99%BD%E5%AB%96%E8%A2%AB%E6%8B%92",
-          "source": "贴吧",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时04分 ~ 08时13分]"
+          "appearance_count": 2,
+          "time_info": "[13时17分 ~ 13时18分]"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "国际油价金价大跌",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E6%B2%B9%E4%BB%B7%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时17分 ~ 13时18分]"
+        },
+        {
+          "title": "金价连续大跌",
+          "url": "https://www.douyin.com/hot/2529220",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时17分 ~ 13时18分]"
+        },
         {
           "title": "金价调整导致相关ETF规模缩水，业内人士：黄金结构性支撑力量仍存",
           "url": "https://wallstreetcn.com/livenews/3117058",
@@ -1604,7 +1910,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
         },
@@ -1615,7 +1921,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
         }
@@ -1713,11 +2019,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355000&amp;topic_name=%E5%AB%8C%E4%B8%89%E6%89%8B%E9%9A%BE%3F%E5%A4%A9%E6%B4%A5%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%E6%9B%B4%E7%A3%A8%E4%BA%BA",
           "source": "贴吧",
           "ranks": [
-            3
+            3,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时04分 ~ 08时13分]"
+          "appearance_count": 7,
+          "time_info": "[02时04分 ~ 13时18分]"
         }
       ]
     }
