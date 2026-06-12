@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-13T05:43:35.586538+08:00",
-  "total_titles_processed": 515,
+  "generated_at": "2026-06-13T07:17:05.448332+08:00",
+  "total_titles_processed": 553,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国",
-      "match_count": 39,
+      "match_count": 42,
       "titles": [
         {
           "title": "民调显示：欧洲对美国信任崩塌",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 05时43分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 07时17分]"
         },
         {
           "title": "美国银行存款从上周的19.338万亿美元降至19.296万亿美元。",
@@ -25,9 +25,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 07时17分]"
+        },
+        {
+          "title": "SpaceX上市首日上涨19% 市值破2万亿美元成美国第六大公司",
+          "url": "https://flash.jin10.com/detail/20260613041809603800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 07时17分]"
+        },
+        {
+          "title": "据Politico：美国司法部批准派拉蒙收购华纳兄弟。",
+          "url": "https://flash.jin10.com/detail/20260613041529766800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 07时17分]"
         },
         {
           "title": "提醒：SpaceX于周五美国IPO之后，其期权将从下周二开始交易。",
@@ -52,26 +74,49 @@
           "time_info": "03时05分"
         },
         {
-          "title": "SpaceX上市首日上涨19% 市值破2万亿美元成美国第六大公司",
-          "url": "https://flash.jin10.com/detail/20260613041809603800",
-          "source": "金十数据",
+          "title": "专访｜中国美国商会会长眼中的中美关系新变化：回归正常与稳定预期",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33361470",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 07时17分]"
+        },
+        {
+          "title": "美国正开发「两倍做多中际旭创」杠杆产品，预计 2 个月后上市，未来或配对应做空杠杆么，你怎么看？",
+          "url": "https://www.zhihu.com/question/2048753376565973819",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 07时17分]"
+        },
+        {
+          "title": "世界杯美国vs巴拉圭前瞻",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E7%BE%8E%E5%9B%BDvs%E5%B7%B4%E6%8B%89%E5%9C%AD%E5%89%8D%E7%9E%BB",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 07时17分]"
+        },
+        {
+          "title": "华尔街对历史性的SpaceX美国IPO给出出极端两极分化的看法",
+          "url": "https://wallstreetcn.com/livenews/3119101",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
-          "title": "据Politico：美国司法部批准派拉蒙收购华纳兄弟。",
-          "url": "https://flash.jin10.com/detail/20260613041529766800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时43分"
+          "time_info": "07时17分"
         },
         {
           "title": "古巴国家主席谴责美国收紧对古石油封锁",
@@ -96,37 +141,16 @@
           "time_info": "[00时17分 ~ 05时43分]"
         },
         {
-          "title": "专访｜中国美国商会会长眼中的中美关系新变化：回归正常与稳定预期",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33361470",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 05时43分]"
-        },
-        {
-          "title": "美国正开发「两倍做多中际旭创」杠杆产品，预计 2 个月后上市，未来或配对应做空杠杆么，你怎么看？",
-          "url": "https://www.zhihu.com/question/2048753376565973819",
+          "title": "SpaceX 今日上市，超级 IPO 能否助力美国国际收支平衡，并让美元再度走强？",
+          "url": "https://www.zhihu.com/question/2048345137051444395",
           "source": "知乎",
           "ranks": [
-            15
+            14,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 05时43分]"
-        },
-        {
-          "title": "世界杯美国vs巴拉圭前瞻",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E7%BE%8E%E5%9B%BDvs%E5%B7%B4%E6%8B%89%E5%9C%AD%E5%89%8D%E7%9E%BB",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 05时43分]"
+          "appearance_count": 3,
+          "time_info": "[05时43分 ~ 07时17分]"
         },
         {
           "title": "美国五角大楼被封锁",
@@ -139,6 +163,63 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时17分 ~ 03时05分]"
+        },
+        {
+          "title": "美国法官同意暂缓撤销10万美元H-1B签证费的裁决",
+          "url": "https://wallstreetcn.com/livenews/3119080",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 07时17分]"
+        },
+        {
+          "title": "美联储：美国上周银行存款19.296万亿美元，之前一周19.338万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3119075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 07时17分]"
+        },
+        {
+          "title": "据沙特阿拉伯阿拉比亚电视台援引消息人士称，美国谈判方案将允许黎巴嫩军队逐步重返利塔尼河以南地区。",
+          "url": "https://flash.jin10.com/detail/20260613035332598800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 07时17分]"
+        },
+        {
+          "title": "印度外交部长：我重申了印度对美国海军在海湾袭击导致三名印度水手遇难的强烈抗议。",
+          "url": "https://flash.jin10.com/detail/20260613033650521800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 07时17分]"
+        },
+        {
+          "title": "印度外交部长：今晚与美国国务卿鲁比奥通了电话。",
+          "url": "https://flash.jin10.com/detail/20260613033624642800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 07时17分]"
         },
         {
           "title": "美国得克萨斯州发生大规模枪击事件致2死10伤",
@@ -174,6 +255,17 @@
           "time_info": "03时05分"
         },
         {
+          "title": "美国司法部完成分析，批准派拉蒙天舞与华纳兄弟探索的合并案。",
+          "url": "https://wallstreetcn.com/livenews/3119096",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        },
+        {
           "title": "美国环境保护署：已向国会提交四项加州豁免规则。这些规则此前赋予加州制定自身排放标准的权限，其中包括针对汽车和卡车的排放标准。",
           "url": "https://flash.jin10.com/detail/20260613023152352800",
           "source": "金十数据",
@@ -183,17 +275,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
-        },
-        {
-          "title": "美国法官同意暂缓撤销10万美元H-1B签证费的裁决",
-          "url": "https://wallstreetcn.com/livenews/3119080",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时43分"
         },
         {
           "title": "美国法官下令长期叫停“反武器化”基金，要求政府提供“彻底废除”的书面保证",
@@ -207,6 +288,17 @@
           "time_info": "00时17分"
         },
         {
+          "title": "SpaceX美国IPO要点总结：马斯克的财富相当于七个巴菲特",
+          "url": "https://wallstreetcn.com/livenews/3119089",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        },
+        {
           "title": "提醒：SpaceX美国IPO开盘预示价已经下滑至150美元——意味着涨幅将为11%，之前最高曾到过175美元；IPO发行价为每股135美元。",
           "url": "https://wallstreetcn.com/livenews/3118982",
           "source": "华尔街见闻-快讯",
@@ -216,17 +308,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
-        },
-        {
-          "title": "美联储：美国上周银行存款19.296万亿美元，之前一周19.338万亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3119075",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时43分"
         },
         {
           "title": "美国官员：巴基斯坦与卡塔尔一直起到很好的调停作用。",
@@ -240,17 +321,6 @@
           "time_info": "03时05分"
         },
         {
-          "title": "SpaceX 今日上市，超级 IPO 能否助力美国国际收支平衡，并让美元再度走强？",
-          "url": "https://www.zhihu.com/question/2048345137051444395",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
           "title": "因频率问题，美国联邦航空管理局（FAA）发布对纽瓦克机场的航班停飞指令，持续至当地时间中午12:45。",
           "url": "https://flash.jin10.com/detail/20260612233000390800",
           "source": "金十数据",
@@ -260,17 +330,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
-        },
-        {
-          "title": "据沙特阿拉伯阿拉比亚电视台援引消息人士称，美国谈判方案将允许黎巴嫩军队逐步重返利塔尼河以南地区。",
-          "url": "https://flash.jin10.com/detail/20260613035332598800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时43分"
         },
         {
           "title": "提醒：SpaceX美国IPO开盘预示价已经下滑至160美元——意味着涨幅将为19%，之前最高曾到过175美元；IPO发行价为每股135美元。",
@@ -290,7 +349,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
         },
@@ -312,7 +371,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
         },
@@ -389,18 +448,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
-          "title": "印度外交部长：我重申了印度对美国海军在海湾袭击导致三名印度水手遇难的强烈抗议。",
-          "url": "https://flash.jin10.com/detail/20260613033650521800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
         },
@@ -411,18 +459,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
-          "title": "印度外交部长：今晚与美国国务卿鲁比奥通了电话。",
-          "url": "https://flash.jin10.com/detail/20260613033624642800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
         },
@@ -433,7 +470,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
         }
@@ -441,7 +478,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 34,
+      "match_count": 37,
       "titles": [
         {
           "title": "伊朗发布“头骨世界杯”海报",
@@ -456,6 +493,31 @@
           "time_info": "[00时17分 ~ 03时05分]"
         },
         {
+          "title": "阿联酋外交部驳斥媒体报道，称：我们尚未释放任何被冻结的伊朗资金。",
+          "url": "https://wallstreetcn.com/livenews/3119102",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        },
+        {
+          "title": "美以袭击伊朗进入第 105 天，当前局势如何？有哪些值得关注的信息？",
+          "url": "https://www.zhihu.com/question/2048669431962625669",
+          "source": "知乎",
+          "ranks": [
+            18,
+            13,
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 07时17分]"
+        },
+        {
           "title": "真主党：根据伊朗官员向我们传达的信息，以色列将依据该协议从黎巴嫩领土撤军。黎巴嫩也被纳入伊朗与美国停火协议之中。",
           "url": "https://flash.jin10.com/detail/20260613024716162800",
           "source": "金十数据",
@@ -465,17 +527,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
-        },
-        {
-          "title": "美官员称有信心未来几天内与伊朗签署谅解备忘录",
-          "url": "https://wallstreetcn.com/livenews/3119085",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时43分"
         },
         {
           "title": "阿联酋已同意向伊朗释放总计100亿美元的资金。（路透）",
@@ -489,17 +540,138 @@
           "time_info": "03时05分"
         },
         {
-          "title": "美以袭击伊朗进入第 105 天，当前局势如何？有哪些值得关注的信息？",
-          "url": "https://www.zhihu.com/question/2048669431962625669",
-          "source": "知乎",
+          "title": "美官员称有信心未来几天内与伊朗签署谅解备忘录",
+          "url": "https://wallstreetcn.com/livenews/3119085",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18,
-            13,
-            12
+            3,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 05时43分]"
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 07时17分]"
+        },
+        {
+          "title": "伊朗外长：伊美谅解备忘录可能在几天内签署",
+          "url": "https://flash.jin10.com/detail/20260613040333383800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 07时17分]"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：如果谈判的最后阶段完成，协议将由双方以远程方式签署，随后再对外公布。",
+          "url": "https://flash.jin10.com/detail/20260613035630897800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 07时17分]"
+        },
+        {
+          "title": "伊朗外长：伊美谅解备忘录可能在几天内签署",
+          "url": "https://wallstreetcn.com/livenews/3119069",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 07时17分]"
+        },
+        {
+          "title": "伊朗外长：霍尔木兹海峡相关服务将收费",
+          "url": "https://flash.jin10.com/detail/20260613035052032800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 07时17分]"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：我们的剑将始终高悬在霍尔木兹海峡上。",
+          "url": "https://flash.jin10.com/detail/20260613034446617800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 07时17分]"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：霍尔木兹海峡不存在国际水域。",
+          "url": "https://flash.jin10.com/detail/20260613034424534800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 07时17分]"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：对德黑兰而言，处置高浓缩铀库存的唯一优选方案是将相关材料降纯稀释。",
+          "url": "https://flash.jin10.com/detail/20260613034201146800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 07时17分]"
+        },
+        {
+          "title": "伊朗外长：谅解备忘录草案内容涵盖黎巴嫩战线止战",
+          "url": "https://flash.jin10.com/detail/20260613033925939800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 07时17分]"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：伊朗被冻结资金将被释放。",
+          "url": "https://flash.jin10.com/detail/20260613033747065800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 07时17分]"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：伊朗将确保船只安全通过霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260613033658913800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 07时17分]"
+        },
+        {
+          "title": "伊朗外长：美国在谅解备忘录中承诺不发动战争",
+          "url": "https://flash.jin10.com/detail/20260613033606513800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 07时17分]"
         },
         {
           "title": "【伊朗外交部：伊方正在审议谅解备忘录草案】伊朗外交部发言人巴加埃表示，目前伊美双方已经在大多数问题上达成谅解，伊朗内部正在对谅解备忘录文本进行最后阶段的汇总。因此，伊朗外长阿拉格齐此前关于“双方已非常接近达成谅解”的表态是准确且值得关注的。相关决策机构的会议正在举行，这是一个持续推进的过程。为达成一个最终且具有决定性的结果，决策机构和相关部门之间必须形成共识。 巴加埃还表示，目前有关协议文本内容的各种猜测均未获得证实。虽然外交进程中的具体细节暂不便公开讨论，但这并不意味着公众没有知情权。（央视）",
@@ -511,6 +683,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
+        },
+        {
+          "title": "渣打银行驻纽约经济学家Dan Pan：（美国与伊朗达成）协议前景仍存在大量不确定性。 如果我们看到风险情绪因突发新闻而出现回调，我也不会感到惊讶。",
+          "url": "https://wallstreetcn.com/livenews/3119092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
         },
         {
           "title": "美国中央司令部：美国军队持续对伊朗实施严格封锁。自4月13日以来，美国中央司令部已引导139艘服从指令的商业船只改变航线，并使9艘不遵守命令的船只失去航行能力。",
@@ -535,15 +718,15 @@
           "time_info": "03时05分"
         },
         {
-          "title": "伊朗外长：伊美谅解备忘录可能在几天内签署",
-          "url": "https://flash.jin10.com/detail/20260613040333383800",
-          "source": "金十数据",
+          "title": "伊朗南部爆炸声因警告性射击",
+          "url": "https://wallstreetcn.com/livenews/3119090",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时43分"
+          "time_info": "07时17分"
         },
         {
           "title": "美官员：伊朗承诺永久放弃核武器，但美方需建立核查机制",
@@ -590,17 +773,6 @@
           "time_info": "03时05分"
         },
         {
-          "title": "伊朗外长阿拉格齐：如果谈判的最后阶段完成，协议将由双方以远程方式签署，随后再对外公布。",
-          "url": "https://flash.jin10.com/detail/20260613035630897800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
           "title": "据路透：消息人士称，阿联酋已同意为伊朗解冻数十亿美元资金。",
           "url": "https://flash.jin10.com/detail/20260613021007048800",
           "source": "金十数据",
@@ -610,17 +782,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
-        },
-        {
-          "title": "伊朗外长：伊美谅解备忘录可能在几天内签署",
-          "url": "https://wallstreetcn.com/livenews/3119069",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时43分"
         },
         {
           "title": "伊朗外交部：伊方正在审议谅解备忘录草案",
@@ -634,17 +795,6 @@
           "time_info": "03时05分"
         },
         {
-          "title": "伊朗外长：霍尔木兹海峡相关服务将收费",
-          "url": "https://flash.jin10.com/detail/20260613035052032800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
           "title": "以防长暗示未来以色列或再动武阻止伊朗拥核",
           "url": "https://flash.jin10.com/detail/20260613020537749800",
           "source": "金十数据",
@@ -656,17 +806,6 @@
           "time_info": "03时05分"
         },
         {
-          "title": "伊朗外长阿拉格齐：我们的剑将始终高悬在霍尔木兹海峡上。",
-          "url": "https://flash.jin10.com/detail/20260613034446617800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
           "title": "伊朗外长称伊美“从未如此接近达成”谅解备忘录",
           "url": "https://wallstreetcn.com/livenews/3118972",
           "source": "华尔街见闻-快讯",
@@ -676,17 +815,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
-        },
-        {
-          "title": "伊朗外长阿拉格齐：霍尔木兹海峡不存在国际水域。",
-          "url": "https://flash.jin10.com/detail/20260613034424534800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时43分"
         },
         {
           "title": "万斯：伊朗被冻结的资金不会仅仅因签署美伊协议而解冻",
@@ -711,17 +839,6 @@
           "time_info": "03时05分"
         },
         {
-          "title": "伊朗外长阿拉格齐：对德黑兰而言，处置高浓缩铀库存的唯一优选方案是将相关材料降纯稀释。",
-          "url": "https://flash.jin10.com/detail/20260613034201146800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
           "title": "伊朗总统佩泽希齐扬：伊朗人民将继续捍卫国家的独立、尊严和领土完整。",
           "url": "https://flash.jin10.com/detail/20260612232107988800",
           "source": "金十数据",
@@ -733,35 +850,13 @@
           "time_info": "00时17分"
         },
         {
-          "title": "伊朗外长：谅解备忘录草案内容涵盖黎巴嫩战线止战",
-          "url": "https://flash.jin10.com/detail/20260613033925939800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
           "title": "伊朗外长：伊朗仅接受在境内“稀释处理”浓缩铀库存",
           "url": "https://wallstreetcn.com/livenews/3119061",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
-          "title": "伊朗外长阿拉格齐：伊朗被冻结资金将被释放。",
-          "url": "https://flash.jin10.com/detail/20260613033747065800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
         },
@@ -772,18 +867,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
-          "title": "伊朗外长阿拉格齐：伊朗将确保船只安全通过霍尔木兹海峡。",
-          "url": "https://flash.jin10.com/detail/20260613033658913800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
         },
@@ -805,18 +889,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
-          "title": "伊朗外长：美国在谅解备忘录中承诺不发动战争",
-          "url": "https://flash.jin10.com/detail/20260613033606513800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
         }
@@ -824,7 +897,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普“TACO”主导市场，原油大跌，美股债大反弹，半导体指数大涨8%，黄金收复4200",
@@ -834,8 +907,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 05时43分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 07时17分]"
         },
         {
           "title": "SpaceX开盘狂飙29%，美股指转跌，太空概念股跳水，布油跌幅收窄",
@@ -850,15 +923,49 @@
           "time_info": "[00时17分 ~ 05时43分]"
         },
         {
+          "title": "美伊协议曙光重燃，原油两连跌，美股指全线收涨、债汇承压，SpaceX首日大涨19%",
+          "url": "https://wallstreetcn.com/articles/3774481",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时16分 ~ 07时17分]"
+        },
+        {
+          "title": "SpaceX上市引发“虹吸效应” 美股太空概念集体跳水",
+          "url": "https://www.cls.cn/detail/2398893",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时43分 ~ 07时17分]"
+        },
+        {
           "title": "金十图示：2026年06月12日（周五）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260613040515542800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 07时17分]"
+        },
+        {
+          "title": "美股收盘：SpaceX首秀升19%市值破2万亿 三大指数集体上涨",
+          "url": "https://www.cls.cn/detail/2398916",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时16分 ~ 07时17分]"
         },
         {
           "title": "金十图示：2026年06月12日（周五）热门中概股行情一览（美股收盘）",
@@ -867,86 +974,81 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 07时17分]"
         },
         {
           "title": "周五（6月12日），美股存储芯片与硬件供应链指数涨3.91%，报233.15点，美股早盘显著上涨，北京时间22:00以来持续交投于2340点附近、高位窄幅震荡，本周累计上涨17.34%。 成分股普遍走高，希捷科技涨7.25%，西部数据涨6.35%，泰瑞达、闪迪至少涨5.24%，应用材料、Rambus、拉姆研究至少涨1.18%，美光科技则收跌1.43%。",
           "url": "https://wallstreetcn.com/livenews/3119078",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 07时17分]"
         },
         {
           "title": "美股七巨头收盘播报｜周五（6月12日），美国科技股七巨头（Magnificent 7）指数跌0.23%，报210.45点，本周累跌2.86%，6月8-11日持续走低，期内主要持稳于210点附近。 “超大”市值科技股指数涨0.60%，报433.85点，本周累跌1.50%。",
           "url": "https://wallstreetcn.com/livenews/3119077",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 07时17分]"
         },
         {
           "title": "周五（6月12日），彭博电动汽车价格回报指数涨3.59%，报3785.58点，北京时间08:00高开高走，12:00之前开始持稳于3760点附近，美股开盘后略微扩大涨幅。 本周累计上涨0.07%，整体呈现出W形走势。 成分股中，淡水河谷印尼公司收涨10.30%，ITM能源涨8.98%，“特斯拉劲敌”Rivian涨7.85%，理想汽车H股涨7.24%，美国雅宝涨7.14%表现第五，在下跌的六只成分股中，普拉格动力跌2.47%，MobilEye跌2.51%。",
           "url": "https://wallstreetcn.com/livenews/3119076",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
-          "title": "SpaceX上市引发“虹吸效应” 美股太空概念集体跳水",
-          "url": "https://www.cls.cn/detail/2398893",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 07时17分]"
         },
         {
           "title": "华纳兄弟探索公司（WBD）美股盘后增长2%，据Politico报道，美国总统特朗普的司法部批准派拉蒙天舞（Paramount SkyDance）收购该公司的交易。",
           "url": "https://wallstreetcn.com/livenews/3119074",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 07时17分]"
         },
         {
           "title": "美股大类资产类ETF涨跌各异，可转债ETF涨约1.2%，布油基金跌约2.7%",
           "url": "https://wallstreetcn.com/livenews/3119073",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 07时17分]"
         },
         {
           "title": "周五（6月12日），美股行业ETF多数收涨，全球航空业ETF涨1.93%，半导体ETF、区域银行ETF、银行业ETF、金融业ETF、公用事业ETF至多涨1.72%，科技行业ETF、能源业ETF、全球科技股指数ETF至多涨0.87%，网络股指数ETF跌0.26%。",
           "url": "https://wallstreetcn.com/livenews/3119072",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            15,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 07时17分]"
         },
         {
           "title": "美股收盘，SpaceX上市首日收涨19%",
@@ -955,9 +1057,9 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 07时17分]"
         },
         {
           "title": "数字货币市场最近七天至少涨超2%，比特币在周五美股开盘后一度突破6340美元",
@@ -995,8 +1097,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 05时43分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 07时17分]"
         },
         {
           "title": "特朗普说了30多次“即将达成协议”，市场却一直相信他",
@@ -1004,11 +1106,23 @@
           "source": "澎湃新闻",
           "ranks": [
             12,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 05时43分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 07时17分]"
+        },
+        {
+          "title": "美国内政部长道格·伯格姆：（谈及伊朗谈判）特朗普已经让该地区各方与其保持一致立场。",
+          "url": "https://flash.jin10.com/detail/20260613033812680800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 07时17分]"
         },
         {
           "title": "提醒：美国总统特朗普在自家社交媒体平台上张贴伊朗外长关于两国“协议”（谅解备忘录/MoU）社交媒体帖子的截图。",
@@ -1066,17 +1180,6 @@
           "time_info": "00时17分"
         },
         {
-          "title": "美国内政部长道格·伯格姆：（谈及伊朗谈判）特朗普已经让该地区各方与其保持一致立场。",
-          "url": "https://flash.jin10.com/detail/20260613033812680800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
           "title": "美国总统特朗普称伊朗外长阿拉格齐在X上发的帖子“非常积极”。 特朗普称他已要求伊朗澄清有关美伊协议的报道。 可能会在周末、或下周一签署协议。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3119010",
           "source": "华尔街见闻-快讯",
@@ -1091,7 +1194,7 @@
     },
     {
       "keyword_group": "日本",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "日本炸鸡店一锅油用了66年",
@@ -1100,11 +1203,12 @@
           "ranks": [
             6,
             10,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 05时43分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 07时17分]"
         },
         {
           "title": "日媒：中国发起“氢能攻势”，日本已落入下风",
@@ -1114,8 +1218,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 05时43分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 07时17分]"
         },
         {
           "title": "日本男足队长宣布退役",
@@ -1128,6 +1232,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时17分 ~ 03时05分]"
+        },
+        {
+          "title": "日本拟设军工业支持机构，强化武器出口与技术发展",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33368139",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时16分 ~ 07时17分]"
         }
       ]
     },
@@ -1153,7 +1268,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
         }
@@ -1171,8 +1286,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 05时43分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 07时17分]"
         },
         {
           "title": "奇葩脑回路!印度自制发电图",
@@ -1184,8 +1299,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 05时43分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 07时17分]"
         }
       ]
     },
@@ -1217,11 +1332,12 @@
           "ranks": [
             25,
             8,
-            9
+            9,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 05时43分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 07时17分]"
         }
       ]
     },
@@ -1234,11 +1350,12 @@
           "url": "https://wallstreetcn.com/livenews/3119088",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 07时17分]"
         }
       ]
     }
