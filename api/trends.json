@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-13T18:28:24.624964+08:00",
-  "total_titles_processed": 1070,
+  "generated_at": "2026-06-13T20:25:11.200818+08:00",
+  "total_titles_processed": 1187,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国",
-      "match_count": 81,
+      "match_count": 83,
       "titles": [
         {
           "title": "民调显示：欧洲对美国信任崩塌",
@@ -19,19 +19,6 @@
           "time_info": "[00时17分 ~ 07时17分]"
         },
         {
-          "title": "美加墨世界杯美国开幕式",
-          "url": "https://www.douyin.com/hot/2532678",
-          "source": "抖音",
-          "ranks": [
-            4,
-            2,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时34分 ~ 18时28分]"
-        },
-        {
           "title": "美国五角大楼被封锁",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%BA%94%E8%A7%92%E5%A4%A7%E6%A5%BC%E8%A2%AB%E5%B0%81%E9%94%81",
           "source": "bilibili 热搜",
@@ -43,8 +30,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 18时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 20时25分]"
         },
         {
           "title": "开门红!美国4-1大胜巴拉圭",
@@ -55,8 +42,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时34分 ~ 18时28分]"
+          "appearance_count": 7,
+          "time_info": "[11时34分 ~ 20时25分]"
         },
         {
           "title": "美国4-1巴拉圭",
@@ -66,8 +53,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时45分 ~ 18时28分]"
+          "appearance_count": 5,
+          "time_info": "[15时45分 ~ 20时25分]"
         },
         {
           "title": "美国4:1巴拉圭",
@@ -78,8 +65,47 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时34分 ~ 20时25分]"
+        },
+        {
+          "title": "美加墨世界杯美国开幕式",
+          "url": "https://www.douyin.com/hot/2532678",
+          "source": "抖音",
+          "ranks": [
+            4,
+            2,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时34分 ~ 20时25分]"
+        },
+        {
+          "title": "意想不到！美国主导比赛，巴拉圭疲于奔命，美国4比1大胜",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33372840",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[11时34分 ~ 18时28分]"
+          "time_info": "[15时45分 ~ 20时25分]"
+        },
+        {
+          "title": "英格兰队大量训练装备在美国被盗，凯恩、贝林厄姆等人球鞋失踪，为啥会出现这种情况？对球队备战影响有多大？",
+          "url": "https://www.zhihu.com/question/2049101471308669244",
+          "source": "知乎",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时28分 ~ 20时25分]"
         },
         {
           "title": "现场观战美国队揭幕战",
@@ -205,16 +231,16 @@
           "time_info": "[00时17分 ~ 07时17分]"
         },
         {
-          "title": "意想不到！美国主导比赛，巴拉圭疲于奔命，美国4比1大胜",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33372840",
-          "source": "澎湃新闻",
+          "title": "水均益：美国举办的世界杯是战争杯",
+          "url": "https://www.baidu.com/s?wd=%E6%B0%B4%E5%9D%87%E7%9B%8A%EF%BC%9A%E7%BE%8E%E5%9B%BD%E4%B8%BE%E5%8A%9E%E7%9A%84%E4%B8%96%E7%95%8C%E6%9D%AF%E6%98%AF%E6%88%98%E4%BA%89%E6%9D%AF",
+          "source": "百度热搜",
           "ranks": [
-            7,
-            4
+            26,
+            2
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时45分 ~ 18时28分]"
+          "time_info": "[18时28分 ~ 20时25分]"
         },
         {
           "title": "古巴国家主席谴责美国收紧对古石油封锁",
@@ -226,17 +252,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
-        },
-        {
-          "title": "英格兰队大量训练装备在美国被盗，凯恩、贝林厄姆等人球鞋失踪，为啥会出现这种情况？对球队备战影响有多大？",
-          "url": "https://www.zhihu.com/question/2049101471308669244",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时28分"
         },
         {
           "title": "《宝可梦 GO》被荷兰媒体《Trouw》曝光成为美国军方数据供应商，训练无人机导航系统，如何看待此事？",
@@ -273,6 +288,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时34分 ~ 18时28分]"
+        },
+        {
+          "title": "美国女市长性侵16岁男孩被判90天监禁",
+          "url": "https://www.toutiao.com/trending/7650696109162135598/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时45分 ~ 20时25分]"
         },
         {
           "title": "华尔街对历史性的SpaceX美国IPO给出出极端两极分化的看法",
@@ -324,6 +350,19 @@
           "time_info": "[11时34分 ~ 15时46分]"
         },
         {
+          "title": "古巴确定系列举措应对美国极限施压",
+          "url": "https://wallstreetcn.com/livenews/3119125",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时46分 ~ 20时25分]"
+        },
+        {
           "title": "2026 年世界杯小组赛 D 组，美国 4-1 大胜巴拉圭，如何评价本场比赛？",
           "url": "https://www.zhihu.com/question/2048794235315250277",
           "source": "知乎",
@@ -334,18 +373,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时34分 ~ 15时46分]"
-        },
-        {
-          "title": "古巴确定系列举措应对美国极限施压",
-          "url": "https://wallstreetcn.com/livenews/3119125",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时46分 ~ 18时28分]"
         },
         {
           "title": "Lisa世界杯美国开幕式表演",
@@ -372,27 +399,17 @@
           "time_info": "[05时43分 ~ 07时17分]"
         },
         {
-          "title": "美国女市长性侵16岁男孩被判90天监禁",
-          "url": "https://www.toutiao.com/trending/7650696109162135598/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时45分 ~ 18时28分]"
-        },
-        {
           "title": "美国将大幅减少驻欧洲战机数量",
           "url": "https://wallstreetcn.com/livenews/3119124",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            19
+            19,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时46分 ~ 18时28分]"
+          "appearance_count": 3,
+          "time_info": "[15时46分 ~ 20时25分]"
         },
         {
           "title": "美国4比1巴拉圭",
@@ -521,6 +538,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时35分 ~ 15时46分]"
+        },
+        {
+          "title": "普京宣布俄罗斯版「星链」要来了，称技术性能不逊于美国星链，在某些方面更胜一筹，俄版星链性能究竟如何？",
+          "url": "https://www.zhihu.com/question/2049121142619599290",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时24分 ~ 20时25分]"
+        },
+        {
+          "title": "C罗率队抵达美国开启世界杯征程",
+          "url": "https://www.baidu.com/s?wd=C%E7%BD%97%E7%8E%87%E9%98%9F%E6%8A%B5%E8%BE%BE%E7%BE%8E%E5%9B%BD%E5%BC%80%E5%90%AF%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BE%81%E7%A8%8B",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时24分 ~ 20时25分]"
         },
         {
           "title": "据沙特阿拉伯阿拉比亚电视台援引消息人士称，美国谈判方案将允许黎巴嫩军队逐步重返利塔尼河以南地区。",
@@ -864,17 +903,6 @@
           "time_info": "03时05分"
         },
         {
-          "title": "水均益：美国举办的世界杯是战争杯",
-          "url": "https://www.baidu.com/s?wd=%E6%B0%B4%E5%9D%87%E7%9B%8A%EF%BC%9A%E7%BE%8E%E5%9B%BD%E4%B8%BE%E5%8A%9E%E7%9A%84%E4%B8%96%E7%95%8C%E6%9D%AF%E6%98%AF%E6%88%98%E4%BA%89%E6%9D%AF",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时28分"
-        },
-        {
           "title": "Anthropic：今日下午5点21分收到美国政府的指令，该信函未说明其国家安全关切的具体细节。",
           "url": "https://flash.jin10.com/detail/20260613085514501800",
           "source": "金十数据",
@@ -933,7 +961,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 56,
+      "match_count": 65,
       "titles": [
         {
           "title": "美伊达成一致，伊朗外长：第一阶段将以远程电子方式签署",
@@ -970,6 +998,31 @@
           "time_info": "[00时17分 ~ 03时05分]"
         },
         {
+          "title": "伊朗外长披露伊美谅解备忘录草案部分内容",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33372202",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            15,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时34分 ~ 20时25分]"
+        },
+        {
+          "title": "伊朗称霍尔木兹收服务费完全合理",
+          "url": "https://wallstreetcn.com/livenews/3119155",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
           "title": "美以袭击伊朗进入第 105 天，当前局势如何？有哪些值得关注的信息？",
           "url": "https://www.zhihu.com/question/2048669431962625669",
           "source": "知乎",
@@ -995,6 +1048,29 @@
           "time_info": "03时05分"
         },
         {
+          "title": "多名伊朗国足代表团成员签证被拒，美国回应",
+          "url": "https://news.ifeng.com/c/8tvGP2lQey4",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时45分 ~ 20时25分]"
+        },
+        {
+          "title": "伊朗称霍尔木兹收服务费完全合理",
+          "url": "https://flash.jin10.com/detail/20260613195458355800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
           "title": "阿联酋已同意向伊朗释放总计100亿美元的资金。（路透）",
           "url": "https://wallstreetcn.com/livenews/3119037",
           "source": "华尔街见闻-快讯",
@@ -1006,17 +1082,17 @@
           "time_info": "03时05分"
         },
         {
-          "title": "伊朗外长披露伊美谅解备忘录草案部分内容",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33372202",
+          "title": "伊朗外长：伊朗仅接受在境内“稀释处理”浓缩铀库存",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33372320",
           "source": "澎湃新闻",
           "ranks": [
             19,
-            15,
-            12
+            17,
+            14
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[11时34分 ~ 18时28分]"
+          "time_info": "[15时45分 ~ 20时25分]"
         },
         {
           "title": "阿联酋外交部驳斥媒体报道，称：我们尚未释放任何被冻结的伊朗资金。",
@@ -1070,27 +1146,39 @@
           "time_info": "[11时34分 ~ 15时46分]"
         },
         {
-          "title": "多名伊朗国足代表团成员签证被拒，美国回应",
-          "url": "https://news.ifeng.com/c/8tvGP2lQey4",
-          "source": "凤凰网",
+          "title": "世界杯伊朗队训练场旁发现腐尸",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BC%8A%E6%9C%97%E9%98%9F%E8%AE%AD%E7%BB%83%E5%9C%BA%E6%97%81%E5%8F%91%E7%8E%B0%E8%85%90%E5%B0%B8",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时28分 ~ 20时25分]"
+        },
+        {
+          "title": "“美伊协议即将达成”叙事回归，但伊朗拒绝放弃霍尔木兹海峡“筹码”",
+          "url": "https://wallstreetcn.com/articles/3774540",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时28分 ~ 20时25分]"
+        },
+        {
+          "title": "伊朗已故最高领袖将于7月9日下葬",
+          "url": "https://www.toutiao.com/trending/7650457789692825107/",
+          "source": "今日头条",
           "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时45分 ~ 18时28分]"
-        },
-        {
-          "title": "伊朗外长：伊朗仅接受在境内“稀释处理”浓缩铀库存",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33372320",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时45分 ~ 18时28分]"
+          "appearance_count": 2,
+          "time_info": "[20时24分 ~ 20时25分]"
         },
         {
           "title": "渣打银行驻纽约经济学家Dan Pan：（美国与伊朗达成）协议前景仍存在大量不确定性。 如果我们看到风险情绪因突发新闻而出现回调，我也不会感到惊讶。",
@@ -1261,15 +1349,15 @@
           "time_info": "[11时34分 ~ 11时35分]"
         },
         {
-          "title": "世界杯伊朗队训练场旁发现腐尸",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BC%8A%E6%9C%97%E9%98%9F%E8%AE%AD%E7%BB%83%E5%9C%BA%E6%97%81%E5%8F%91%E7%8E%B0%E8%85%90%E5%B0%B8",
-          "source": "百度热搜",
+          "title": "伊朗司法总监：绝不信任美国",
+          "url": "https://wallstreetcn.com/livenews/3119149",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时28分"
+          "time_info": "20时25分"
         },
         {
           "title": "巴基斯坦外长：与瑞士外长一致希望美国与伊朗的努力能促进地区和平与稳定。",
@@ -1278,7 +1366,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -1300,7 +1388,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -1327,26 +1415,26 @@
           "time_info": "03时05分"
         },
         {
-          "title": "“美伊协议即将达成”叙事回归，但伊朗拒绝放弃霍尔木兹海峡“筹码”",
-          "url": "https://wallstreetcn.com/articles/3774540",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时28分"
-        },
-        {
           "title": "黎巴嫩外长：即使伊朗政权没有垮台，黎巴嫩也有能力终结真主党的武器问题。",
           "url": "https://flash.jin10.com/detail/20260613173245745800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
+        },
+        {
+          "title": "伊朗已故最高领袖将于7月9日下葬",
+          "url": "https://wallstreetcn.com/livenews/3119145",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "美中央司令部：伊朗发射了多架单向攻击无人机，试图袭击通过霍尔木兹海峡的商船。美军在数小时内击落了所有这些无人机，海峡通航未受影响。这条国际贸易通道仍然保持开放。",
@@ -1358,6 +1446,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
+        },
+        {
+          "title": "伊朗公布已故最高领袖哈梅内伊葬礼安排",
+          "url": "https://wallstreetcn.com/livenews/3119144",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "美官员：伊朗承诺永久放弃核武器，但美方需建立核查机制",
@@ -1391,6 +1490,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
+        },
+        {
+          "title": "伊朗司法总监：绝不信任美国",
+          "url": "https://flash.jin10.com/detail/20260613191057762800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "美国官员宣称，伊朗将承诺永远放弃核计划",
@@ -1437,13 +1547,24 @@
           "time_info": "03时05分"
         },
         {
+          "title": "伊朗外长阿拉格齐：伊朗和阿曼将就霍尔木兹海峡发布联合声明。",
+          "url": "https://flash.jin10.com/detail/20260613185617701800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
           "title": "伊朗国足被美国卡脖子后近况曝光",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%9B%BD%E8%B6%B3%E8%A2%AB%E7%BE%8E%E5%9B%BD%E5%8D%A1%E8%84%96%E5%AD%90%E5%90%8E%E8%BF%91%E5%86%B5%E6%9B%9D%E5%85%89%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -1465,7 +1586,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -1525,6 +1646,17 @@
           "time_info": "00时17分"
         },
         {
+          "title": "伊朗已故最高领袖哈梅内伊将于7月9日下葬",
+          "url": "https://flash.jin10.com/detail/20260613183636185800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
           "title": "伊朗外长：伊朗仅接受在境内“稀释处理”浓缩铀库存",
           "url": "https://wallstreetcn.com/livenews/3119061",
           "source": "华尔街见闻-快讯",
@@ -1572,7 +1704,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "特朗普说了30多次“即将达成协议”，市场却一直相信他",
@@ -1600,6 +1732,18 @@
           "time_info": "[00时17分 ~ 03时05分]"
         },
         {
+          "title": "特朗普否认伊媒披露的美伊协议草案：与双方书面协议毫无关系",
+          "url": "https://www.cls.cn/detail/2398839",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时34分 ~ 20时25分]"
+        },
+        {
           "title": "特朗普涉伊朗表态“大转弯”，以总理“猝不及防”",
           "url": "https://news.ifeng.com/c/8ttnDWEmW7E",
           "source": "凤凰网",
@@ -1622,18 +1766,6 @@
           "time_info": "11时35分"
         },
         {
-          "title": "特朗普否认伊媒披露的美伊协议草案：与双方书面协议毫无关系",
-          "url": "https://www.cls.cn/detail/2398839",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时34分 ~ 18时28分]"
-        },
-        {
           "title": "特朗普：美军打死“阿拉瓜火车”组织首领",
           "url": "https://news.ifeng.com/c/8tuxrPNiEYB",
           "source": "凤凰网",
@@ -1644,6 +1776,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时45分 ~ 18时28分]"
+        },
+        {
+          "title": "特朗普姓名被从肯尼迪中心外墙移除",
+          "url": "https://news.ifeng.com/c/8tvV5h0ssCW",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时24分 ~ 20时25分]"
         },
         {
           "title": "特朗普说打死委内瑞拉一黑帮团伙头目",
@@ -1796,17 +1939,6 @@
       "match_count": 16,
       "titles": [
         {
-          "title": "特朗普“TACO”主导市场，原油大跌，美股债大反弹，半导体指数大涨8%，黄金收复4200",
-          "url": "https://wallstreetcn.com/articles/3774389",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 07时17分]"
-        },
-        {
           "title": "美股收盘：SpaceX首秀升19%市值破2万亿 三大指数集体上涨",
           "url": "https://www.cls.cn/detail/2398916",
           "source": "财联社热门",
@@ -1816,8 +1948,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时16分 ~ 18时28分]"
+          "appearance_count": 9,
+          "time_info": "[07时16分 ~ 20时25分]"
         },
         {
           "title": "美伊协议曙光重燃，原油两连跌，美股指全线收涨、债汇承压，SpaceX首日大涨19%",
@@ -1829,8 +1961,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时16分 ~ 18时28分]"
+          "appearance_count": 9,
+          "time_info": "[07时16分 ~ 20时25分]"
+        },
+        {
+          "title": "特朗普“TACO”主导市场，原油大跌，美股债大反弹，半导体指数大涨8%，黄金收复4200",
+          "url": "https://wallstreetcn.com/articles/3774389",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 07时17分]"
         },
         {
           "title": "SpaceX上市引发“虹吸效应” 美股太空概念集体跳水",
@@ -1843,8 +1986,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[05时43分 ~ 18时28分]"
+          "appearance_count": 10,
+          "time_info": "[05时43分 ~ 20时25分]"
         },
         {
           "title": "SpaceX开盘狂飙29%，美股指转跌，太空概念股跳水，布油跌幅收窄",
@@ -1990,7 +2133,7 @@
     },
     {
       "keyword_group": "日本",
-      "match_count": 9,
+      "match_count": 13,
       "titles": [
         {
           "title": "日本拟设军工业支持机构，强化武器出口与技术发展",
@@ -2000,11 +2143,34 @@
             20,
             15,
             12,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时16分 ~ 18时28分]"
+          "appearance_count": 9,
+          "time_info": "[07时16分 ~ 20时25分]"
+        },
+        {
+          "title": "日本炸鸡店称一锅油反复用 66 年，从食品安全和健康角度看，这种做法存在哪些潜在风险？",
+          "url": "https://www.zhihu.com/question/2048692040377033581",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时28分 ~ 20时25分]"
+        },
+        {
+          "title": "日本炸鸡秘方:一锅油用66年",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355135&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%82%B8%E9%B8%A1%E7%A7%98%E6%96%B9%3A%E4%B8%80%E9%94%85%E6%B2%B9%E7%94%A866%E5%B9%B4",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时28分 ~ 20时25分]"
         },
         {
           "title": "日本炸鸡店一锅油用了66年",
@@ -2032,17 +2198,6 @@
           "time_info": "[00时17分 ~ 07时17分]"
         },
         {
-          "title": "日本炸鸡店称一锅油反复用 66 年，从食品安全和健康角度看，这种做法存在哪些潜在风险？",
-          "url": "https://www.zhihu.com/question/2048692040377033581",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时28分"
-        },
-        {
           "title": "日本一核电站审查资料发现大量错误",
           "url": "https://flash.jin10.com/detail/20260613104924003800",
           "source": "金十数据",
@@ -2052,17 +2207,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
-        },
-        {
-          "title": "日本炸鸡秘方:一锅油用66年",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355135&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%82%B8%E9%B8%A1%E7%A7%98%E6%96%B9%3A%E4%B8%80%E9%94%85%E6%B2%B9%E7%94%A866%E5%B9%B4",
-          "source": "贴吧",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时28分"
         },
         {
           "title": "日本男足队长宣布退役",
@@ -2097,12 +2241,56 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时45分 ~ 15时46分]"
+        },
+        {
+          "title": "日本流行音乐 (J-POP) 有何特点？",
+          "url": "https://www.zhihu.com/question/22534249",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时24分 ~ 20时25分]"
+        },
+        {
+          "title": "日本频频尾随偷窥辽宁舰",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%A2%91%E9%A2%91%E5%B0%BE%E9%9A%8F%E5%81%B7%E7%AA%A5%E8%BE%BD%E5%AE%81%E8%88%B0",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时24分 ~ 20时25分]"
+        },
+        {
+          "title": "日本核污染水排海再次因异常警报停止",
+          "url": "https://wallstreetcn.com/livenews/3119148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
+          "title": "日本核污染水排海再次因异常警报停止",
+          "url": "https://flash.jin10.com/detail/20260613190525227800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         }
       ]
     },
     {
       "keyword_group": "印度",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "罕见！印度3天内2次召见美外交官表达不满",
@@ -2129,6 +2317,17 @@
           "time_info": "[00时17分 ~ 07时17分]"
         },
         {
+          "title": "运输机在印度空军基地坠毁，现场一片狼藉",
+          "url": "https://v.ifeng.com/c/8tvSK3oz75z",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时28分 ~ 20时25分]"
+        },
+        {
           "title": "印度政府出台汽柴油限购措施",
           "url": "https://wallstreetcn.com/livenews/3119122",
           "source": "华尔街见闻-快讯",
@@ -2141,15 +2340,15 @@
           "time_info": "[15时46分 ~ 18时28分]"
         },
         {
-          "title": "运输机在印度空军基地坠毁，现场一片狼藉",
-          "url": "https://v.ifeng.com/c/8tvSK3oz75z",
-          "source": "凤凰网",
+          "title": "印度警察强行清场逃票者",
+          "url": "https://www.toutiao.com/trending/7650760193818935332/",
+          "source": "今日头条",
           "ranks": [
-            9
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时24分 ~ 20时25分]"
         },
         {
           "title": "印度空军一运输机坠毁",
@@ -2169,7 +2368,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         }
@@ -2177,7 +2376,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "金价回落女子一口气买入90克金手镯",
@@ -2203,6 +2402,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时45分 ~ 15时46分]"
+        },
+        {
+          "title": "央行狂买黄金金价却暴跌",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A1%8C%E7%8B%82%E4%B9%B0%E9%BB%84%E9%87%91%E9%87%91%E4%BB%B7%E5%8D%B4%E6%9A%B4%E8%B7%8C%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时24分 ~ 20时25分]"
         },
         {
           "title": "单线逻辑失效！为何这轮通胀没救起金价？｜大师复盘",
