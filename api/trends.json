@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-06-19T08:26:39.816032+08:00",
-  "total_titles_processed": 652,
+  "generated_at": "2026-06-19T14:18:23.936750+08:00",
+  "total_titles_processed": 867,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 39,
+      "match_count": 44,
       "titles": [
         {
           "title": "伊朗称要成为中国真正的伙伴，外交部表态",
           "url": "https://news.ifeng.com/c/8u3juhtDVpR",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时48分 ~ 08时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时48分 ~ 14时18分]"
         },
         {
           "title": "透露伊朗最高领袖罕见涉华举动，伊中商会会长答凤凰",
@@ -48,11 +49,23 @@
           "url": "https://www.cls.cn/detail/2404187",
           "source": "财联社热门",
           "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时26分 ~ 14时18分]"
+        },
+        {
+          "title": "伊朗据称因以军持续袭击黎推迟赴瑞士谈判，万斯指责以色列：醒醒认清现实，不可能通过杀戮解决所有国家安全问题",
+          "url": "https://wallstreetcn.com/articles/3775058",
+          "source": "华尔街见闻",
+          "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时26分"
+          "time_info": "14时18分"
         },
         {
           "title": "以色列总理内塔尼亚胡将于今晚召开安全内阁会议，讨论伊朗协议进展。",
@@ -64,6 +77,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时48分"
+        },
+        {
+          "title": "伊朗推迟赴瑞士行程！黎巴嫩问题成变数 万斯指责以色列对美缺乏信任",
+          "url": "https://www.cls.cn/detail/2404208",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
         },
         {
           "title": "伊朗议会议长卡利巴夫：最高领袖交给我们的任务是推动协议各项条款的落实。",
@@ -100,13 +124,25 @@
           "time_info": "[06时25分 ~ 06时26分]"
         },
         {
+          "title": "新西兰华裔边锋贾斯特世界杯对阵伊朗梅开二度，一战成名，为何我们从来未关注到这位华裔球员？",
+          "url": "https://www.zhihu.com/question/2050210872241476932",
+          "source": "知乎",
+          "ranks": [
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时26分 ~ 14时18分]"
+        },
+        {
           "title": "伊朗最高领袖对伊美备忘录持不同意见",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%AF%B9%E4%BC%8A%E7%BE%8E%E5%A4%87%E5%BF%98%E5%BD%95%E6%8C%81%E4%B8%8D%E5%90%8C%E6%84%8F%E8%A7%81",
           "source": "百度热搜",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时26分"
         },
@@ -164,6 +200,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时34分"
+        },
+        {
+          "title": "消息人士：因以军持续袭击黎巴嫩，伊朗推迟赴瑞士行程",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33413010",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
         },
         {
           "title": "美国副总统万斯：伊朗发射导弹的能力已受到削弱。",
@@ -254,15 +301,15 @@
           "time_info": "06时26分"
         },
         {
-          "title": "新西兰华裔边锋贾斯特世界杯对阵伊朗梅开二度，一战成名，为何我们从来未关注到这位华裔球员？",
-          "url": "https://www.zhihu.com/question/2050210872241476932",
-          "source": "知乎",
+          "title": "瑞士外交部19日证实，美国和伊朗原定当日在瑞士举行的会谈取消。",
+          "url": "https://wallstreetcn.com/livenews/3121978",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时26分"
+          "time_info": "14时18分"
         },
         {
           "title": "美国与伊朗将就释放伊朗被冻结资金进行谈判。",
@@ -430,6 +477,17 @@
           "time_info": "00时48分"
         },
         {
+          "title": "美国五角大楼告诉议员，它需要800亿美元用于伊朗战争。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3121964",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
+        },
+        {
           "title": "美国或赔偿伊朗3千亿",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355216&amp;topic_name=%E7%BE%8E%E5%9B%BD%E6%88%96%E8%B5%94%E5%81%BF%E4%BC%8A%E6%9C%973%E5%8D%83%E4%BA%BF",
           "source": "贴吧",
@@ -443,8 +501,400 @@
       ]
     },
     {
+      "keyword_group": "日本",
+      "match_count": 35,
+      "titles": [
+        {
+          "title": "日本央行副行长冰见野良三：外汇波动是影响日本经济和物价的关键因素之一。",
+          "url": "https://flash.jin10.com/detail/20260619081721948800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时26分"
+        },
+        {
+          "title": "日本央行副行长冰见野良三：日本经济正在温和复苏。",
+          "url": "https://wallstreetcn.com/livenews/3121939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时26分"
+        },
+        {
+          "title": "日本央行副行长冰见野良三：考虑加息的步伐和时机的同时将评估中东冲突的影响。",
+          "url": "https://flash.jin10.com/detail/20260619081716067800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时26分"
+        },
+        {
+          "title": "日本央行副行长冰见野良三：将继续进一步加息。",
+          "url": "https://flash.jin10.com/detail/20260619081700877800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时26分"
+        },
+        {
+          "title": "日本央行4月27-28日货币政策会议纪要：委员们称，将继续加息，以应对经济和物价进展。 委员们称，密切关注中东局势的影响，权衡利率调整步伐。 一位委员表示，日本央行应维持宽松的货币政策，如果日本面临严重的供应链中断，应避免加息。 一位委员表示，日本央行在货币政策中不以汇率为目标，汇率应由市场决定。 内阁办公室代表表示，日本央行必须引导适当的货币政策，以确保日本经济强劲增长，物价稳定，希望日本央行按照与政府的联合声明指导政策。",
+          "url": "https://wallstreetcn.com/livenews/3121937",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时26分"
+        },
+        {
+          "title": "日本央行副行长冰见野良三：日本的金融环境仍然宽松。",
+          "url": "https://flash.jin10.com/detail/20260619081650672800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时26分"
+        },
+        {
+          "title": "日本5月CPI(除生鲜食品及能源)同比 1.8%，预期 1.8%，前值 1.9%。",
+          "url": "https://wallstreetcn.com/livenews/3121936",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时26分"
+        },
+        {
+          "title": "日本5月CPI(除生鲜食品)同比 1.4%，预期 1.4%，前值 1.4%。",
+          "url": "https://wallstreetcn.com/livenews/3121935",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时26分"
+        },
+        {
+          "title": "“重要突破，中国又削弱了日本一个优势”",
+          "url": "https://news.ifeng.com/c/8u3jHsH0DLX",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时48分 ~ 08时26分]"
+        },
+        {
+          "title": "日本焚烧炉中炼出7000多克黄金",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%84%9A%E7%83%A7%E7%82%89%E4%B8%AD%E7%82%BC%E5%87%BA7000%E5%A4%9A%E5%85%8B%E9%BB%84%E9%87%91%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 06时26分]"
+        },
+        {
+          "title": "高市插不上话只能尬笑，日本发G7领导人热聊照被打脸",
+          "url": "https://news.ifeng.com/c/8u4IhcXt301",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
+        },
+        {
+          "title": "日本央行副行长冰见野良三：尽管油价上涨对经济增长造成压力，但由于企业利润和家庭收入高，日本整体经济依然稳健。",
+          "url": "https://flash.jin10.com/detail/20260619081450760800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时26分"
+        },
+        {
+          "title": "俄外交部：日本“再军事化”路线会加剧地区紧张局势",
+          "url": "https://wallstreetcn.com/livenews/3121824",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时48分"
+        },
+        {
+          "title": "日本5月CPI同比 1.5%，预期 1.5%，前值 1.4%。",
+          "url": "https://wallstreetcn.com/livenews/3121934",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时26分"
+        },
+        {
+          "title": "日本央行副行长冰见野良三：近期价格上涨不仅仅是由暂时的供应冲击驱动，潜在通胀偏离我们价格目标的风险依然存在。",
+          "url": "https://flash.jin10.com/detail/20260619081445622800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时26分"
+        },
+        {
+          "title": "日本焚烧炉中炼出7000多克黄金",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%84%9A%E7%83%A7%E7%82%89%E4%B8%AD%E7%82%BC%E5%87%BA7000%E5%A4%9A%E5%85%8B%E9%BB%84%E9%87%91",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时48分"
+        },
+        {
+          "title": "日本为何再次加息",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E4%B8%BA%E4%BD%95%E5%86%8D%E6%AC%A1%E5%8A%A0%E6%81%AF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时34分"
+        },
+        {
+          "title": "日本央行副行长冰见野良三：基础通胀接近2%。",
+          "url": "https://flash.jin10.com/detail/20260619081439391800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时26分"
+        },
+        {
+          "title": "日本焚烧炉中炼出7000多克黄金",
+          "url": "https://www.toutiao.com/trending/7652597493637283894/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时48分"
+        },
+        {
+          "title": "日本一小学发生火灾，约300名学生被疏散",
+          "url": "https://news.ifeng.com/c/8u5132DMswV",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
+        },
+        {
+          "title": "日本5年期国债收益率上升2.0个基点，至1.880%。",
+          "url": "https://flash.jin10.com/detail/20260619080145437800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时26分"
+        },
+        {
+          "title": "日本东证指数日内跌幅扩大至1%。",
+          "url": "https://wallstreetcn.com/livenews/3121981",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
+        },
+        {
+          "title": "日本央行会议纪要：内阁办公室表示希望日本央行的政策指引与政府的联合声明保持一致。",
+          "url": "https://flash.jin10.com/detail/20260619075956420800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时26分"
+        },
+        {
+          "title": "日本央行会议纪要：内阁办公室代表表示，日本央行必须引导适当的货币政策，以确保日本实现强劲的经济增长和稳定的物价。",
+          "url": "https://flash.jin10.com/detail/20260619075937493800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时26分"
+        },
+        {
+          "title": "日本央行会议纪要：一名成员表示，日本央行的货币政策中并不以外汇汇率为目标，外汇汇率应由市场决定。",
+          "url": "https://flash.jin10.com/detail/20260619075855947800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时26分"
+        },
+        {
+          "title": "日本央行会议纪要：一名成员表示，日本央行应维持宽松货币政策，避免在日本面临严重供应链中断时加息。",
+          "url": "https://flash.jin10.com/detail/20260619075802799800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时26分"
+        },
+        {
+          "title": "日本央行会议纪要：一名成员表示，日本央行不应犹豫加快加息步伐，例如每几个月一次。",
+          "url": "https://flash.jin10.com/detail/20260619075753306800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时26分"
+        },
+        {
+          "title": "日本央行会议纪要：部分成员表示，如果中东冲突持续，日本央行应更快加息，以避免潜在通胀过高。",
+          "url": "https://flash.jin10.com/detail/20260619075658211800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时26分"
+        },
+        {
+          "title": "日本央行会议纪要：一名成员表示，下一次会议及之后的加息取决于经济和价格面临的风险的大小。",
+          "url": "https://flash.jin10.com/detail/20260619075617037800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时26分"
+        },
+        {
+          "title": "日本央行会议纪要：多位成员表示，如果基线预测实现的可能性增加，日本央行可以适度调整货币政策的宽松程度。",
+          "url": "https://flash.jin10.com/detail/20260619075601460800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时26分"
+        },
+        {
+          "title": "日本央行会议纪要：成员们一致认为，未来加息的时机和步伐将取决于日本央行基准预测实现的可能性以及经济增长和价格的风险。",
+          "url": "https://flash.jin10.com/detail/20260619075450168800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时26分"
+        },
+        {
+          "title": "日本央行会议纪要：部分成员表示，如果通胀风险远超经济增长的下行风险，日本央行可能会讨论加息的利弊。",
+          "url": "https://flash.jin10.com/detail/20260619075353546800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时26分"
+        },
+        {
+          "title": "日本女护士杀人解压",
+          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%A5%B3%E6%8A%A4%E5%A3%AB%E6%9D%80%E4%BA%BA%E8%A7%A3%E5%8E%8B&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时26分"
+        },
+        {
+          "title": "日本央行会议纪要：成员一致认为，针对经济、价格和金融形势的发展，继续加息是合适的。",
+          "url": "https://flash.jin10.com/detail/20260619075336967800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时26分"
+        },
+        {
+          "title": "日本央行会议纪要：一名成员表示，当前形势并不紧迫，不需要急于加息。",
+          "url": "https://flash.jin10.com/detail/20260619075235693800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时26分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美国",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "美国投资公司协会（ICI）：货币市场基金资产规模升至创纪录的7.919万亿美元。",
@@ -519,7 +969,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时26分"
         },
@@ -541,11 +991,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             27,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时34分 ~ 06时26分]"
+          "appearance_count": 4,
+          "time_info": "[03时34分 ~ 14时18分]"
         },
         {
           "title": "美国副总统万斯：人们会意识到这对美国人民来说是件好事。",
@@ -614,6 +1065,17 @@
           "time_info": "00时48分"
         },
         {
+          "title": "白宫向美国会高层通报美伊谅解备忘录细节",
+          "url": "https://wallstreetcn.com/livenews/3121983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
+        },
+        {
           "title": "房地美：美国上周30年期按揭贷款/抵押贷款利率6.47%，创一个月新低（继续脱离2025年8月份以来最高位6.53%），前值6.52%。",
           "url": "https://wallstreetcn.com/livenews/3121818",
           "source": "华尔街见闻-快讯",
@@ -642,7 +1104,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时26分"
         },
@@ -686,7 +1148,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时26分"
         },
@@ -803,367 +1265,8 @@
       ]
     },
     {
-      "keyword_group": "日本",
-      "match_count": 32,
-      "titles": [
-        {
-          "title": "日本央行副行长冰见野良三：外汇波动是影响日本经济和物价的关键因素之一。",
-          "url": "https://flash.jin10.com/detail/20260619081721948800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时26分"
-        },
-        {
-          "title": "日本央行副行长冰见野良三：日本经济正在温和复苏。",
-          "url": "https://wallstreetcn.com/livenews/3121939",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时26分"
-        },
-        {
-          "title": "日本央行副行长冰见野良三：考虑加息的步伐和时机的同时将评估中东冲突的影响。",
-          "url": "https://flash.jin10.com/detail/20260619081716067800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时26分"
-        },
-        {
-          "title": "日本央行副行长冰见野良三：将继续进一步加息。",
-          "url": "https://flash.jin10.com/detail/20260619081700877800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时26分"
-        },
-        {
-          "title": "日本央行4月27-28日货币政策会议纪要：委员们称，将继续加息，以应对经济和物价进展。 委员们称，密切关注中东局势的影响，权衡利率调整步伐。 一位委员表示，日本央行应维持宽松的货币政策，如果日本面临严重的供应链中断，应避免加息。 一位委员表示，日本央行在货币政策中不以汇率为目标，汇率应由市场决定。 内阁办公室代表表示，日本央行必须引导适当的货币政策，以确保日本经济强劲增长，物价稳定，希望日本央行按照与政府的联合声明指导政策。",
-          "url": "https://wallstreetcn.com/livenews/3121937",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时26分"
-        },
-        {
-          "title": "日本央行副行长冰见野良三：日本的金融环境仍然宽松。",
-          "url": "https://flash.jin10.com/detail/20260619081650672800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时26分"
-        },
-        {
-          "title": "日本5月CPI(除生鲜食品及能源)同比 1.8%，预期 1.8%，前值 1.9%。",
-          "url": "https://wallstreetcn.com/livenews/3121936",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时26分"
-        },
-        {
-          "title": "日本5月CPI(除生鲜食品)同比 1.4%，预期 1.4%，前值 1.4%。",
-          "url": "https://wallstreetcn.com/livenews/3121935",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时26分"
-        },
-        {
-          "title": "“重要突破，中国又削弱了日本一个优势”",
-          "url": "https://news.ifeng.com/c/8u3jHsH0DLX",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时48分 ~ 08时26分]"
-        },
-        {
-          "title": "日本焚烧炉中炼出7000多克黄金",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%84%9A%E7%83%A7%E7%82%89%E4%B8%AD%E7%82%BC%E5%87%BA7000%E5%A4%9A%E5%85%8B%E9%BB%84%E9%87%91%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 06时26分]"
-        },
-        {
-          "title": "日本央行副行长冰见野良三：尽管油价上涨对经济增长造成压力，但由于企业利润和家庭收入高，日本整体经济依然稳健。",
-          "url": "https://flash.jin10.com/detail/20260619081450760800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时26分"
-        },
-        {
-          "title": "俄外交部：日本“再军事化”路线会加剧地区紧张局势",
-          "url": "https://wallstreetcn.com/livenews/3121824",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
-        },
-        {
-          "title": "日本5月CPI同比 1.5%，预期 1.5%，前值 1.4%。",
-          "url": "https://wallstreetcn.com/livenews/3121934",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时26分"
-        },
-        {
-          "title": "日本央行副行长冰见野良三：近期价格上涨不仅仅是由暂时的供应冲击驱动，潜在通胀偏离我们价格目标的风险依然存在。",
-          "url": "https://flash.jin10.com/detail/20260619081445622800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时26分"
-        },
-        {
-          "title": "日本焚烧炉中炼出7000多克黄金",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%84%9A%E7%83%A7%E7%82%89%E4%B8%AD%E7%82%BC%E5%87%BA7000%E5%A4%9A%E5%85%8B%E9%BB%84%E9%87%91",
-          "source": "百度热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
-        },
-        {
-          "title": "日本为何再次加息",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E4%B8%BA%E4%BD%95%E5%86%8D%E6%AC%A1%E5%8A%A0%E6%81%AF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时34分"
-        },
-        {
-          "title": "日本央行副行长冰见野良三：基础通胀接近2%。",
-          "url": "https://flash.jin10.com/detail/20260619081439391800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时26分"
-        },
-        {
-          "title": "日本焚烧炉中炼出7000多克黄金",
-          "url": "https://www.toutiao.com/trending/7652597493637283894/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
-        },
-        {
-          "title": "日本5年期国债收益率上升2.0个基点，至1.880%。",
-          "url": "https://flash.jin10.com/detail/20260619080145437800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时26分"
-        },
-        {
-          "title": "日本央行会议纪要：内阁办公室表示希望日本央行的政策指引与政府的联合声明保持一致。",
-          "url": "https://flash.jin10.com/detail/20260619075956420800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时26分"
-        },
-        {
-          "title": "日本央行会议纪要：内阁办公室代表表示，日本央行必须引导适当的货币政策，以确保日本实现强劲的经济增长和稳定的物价。",
-          "url": "https://flash.jin10.com/detail/20260619075937493800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时26分"
-        },
-        {
-          "title": "日本央行会议纪要：一名成员表示，日本央行的货币政策中并不以外汇汇率为目标，外汇汇率应由市场决定。",
-          "url": "https://flash.jin10.com/detail/20260619075855947800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时26分"
-        },
-        {
-          "title": "日本央行会议纪要：一名成员表示，日本央行应维持宽松货币政策，避免在日本面临严重供应链中断时加息。",
-          "url": "https://flash.jin10.com/detail/20260619075802799800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时26分"
-        },
-        {
-          "title": "日本央行会议纪要：一名成员表示，日本央行不应犹豫加快加息步伐，例如每几个月一次。",
-          "url": "https://flash.jin10.com/detail/20260619075753306800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时26分"
-        },
-        {
-          "title": "日本央行会议纪要：部分成员表示，如果中东冲突持续，日本央行应更快加息，以避免潜在通胀过高。",
-          "url": "https://flash.jin10.com/detail/20260619075658211800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时26分"
-        },
-        {
-          "title": "日本央行会议纪要：一名成员表示，下一次会议及之后的加息取决于经济和价格面临的风险的大小。",
-          "url": "https://flash.jin10.com/detail/20260619075617037800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时26分"
-        },
-        {
-          "title": "日本央行会议纪要：多位成员表示，如果基线预测实现的可能性增加，日本央行可以适度调整货币政策的宽松程度。",
-          "url": "https://flash.jin10.com/detail/20260619075601460800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时26分"
-        },
-        {
-          "title": "日本央行会议纪要：成员们一致认为，未来加息的时机和步伐将取决于日本央行基准预测实现的可能性以及经济增长和价格的风险。",
-          "url": "https://flash.jin10.com/detail/20260619075450168800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时26分"
-        },
-        {
-          "title": "日本央行会议纪要：部分成员表示，如果通胀风险远超经济增长的下行风险，日本央行可能会讨论加息的利弊。",
-          "url": "https://flash.jin10.com/detail/20260619075353546800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时26分"
-        },
-        {
-          "title": "日本女护士杀人解压",
-          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%A5%B3%E6%8A%A4%E5%A3%AB%E6%9D%80%E4%BA%BA%E8%A7%A3%E5%8E%8B&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时26分"
-        },
-        {
-          "title": "日本央行会议纪要：成员一致认为，针对经济、价格和金融形势的发展，继续加息是合适的。",
-          "url": "https://flash.jin10.com/detail/20260619075336967800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时26分"
-        },
-        {
-          "title": "日本央行会议纪要：一名成员表示，当前形势并不紧迫，不需要急于加息。",
-          "url": "https://flash.jin10.com/detail/20260619075235693800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时26分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "为美伊协议辩护，特朗普称“不想看到经济灾难”，不想做“导致1929年崩盘的胡佛”",
@@ -1176,6 +1279,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时48分 ~ 06时26分]"
+        },
+        {
+          "title": "特朗普吐露的真相，比战争结局更让人警醒",
+          "url": "https://news.ifeng.com/c/8u4qoy7X1Wi",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
         },
         {
           "title": "特朗普称预计“所有战线都将实现全面停火”",
@@ -1393,6 +1507,17 @@
           "time_info": "03时34分"
         },
         {
+          "title": "韩国总统李在明：特朗普询问我韩国能否尽快帮助建造美国海军舰艇。",
+          "url": "https://flash.jin10.com/detail/20260619130852219800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
+        },
+        {
           "title": "沃什为何敢“硬刚”特朗普",
           "url": "https://www.toutiao.com/trending/7652718457070292523/",
           "source": "今日头条",
@@ -1439,11 +1564,12 @@
           "ranks": [
             6,
             5,
-            4
+            4,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时48分 ~ 08时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时48分 ~ 14时18分]"
         },
         {
           "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
@@ -1452,9 +1578,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时26分 ~ 14时18分]"
         },
         {
           "title": "周四（6月18日），美股人工智能（AI）赢家指数涨4.57%，报457.59点，时隔一个交易日再创收盘历史新高。 成分股中，Bloom能源收涨15.41%，闪迪、Astera Labs、康宁公司、超微电脑涨11.54%-10.37%紧随其后，微软涨0.13%涨幅最小，天弘股份跌2.06%跌幅第三大，Lumentum跌2.30%，戴尔科技跌2.34%。",
@@ -1527,19 +1653,92 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "霍尔木兹海峡重开提振股债，半导体指数收创新高，原油走V，美元两连涨，黄金承压",
+          "url": "https://wallstreetcn.com/articles/3774963",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时26分 ~ 14时18分]"
+        },
+        {
+          "title": "美元指数DXY日内涨超0.50%，现报100.89。",
+          "url": "https://flash.jin10.com/detail/20260619030346669800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时34分"
+        },
+        {
+          "title": "美伊瑞士会谈生变，日韩股市盘中跳水，纳指期货跌1%，美元指数站上101关口",
+          "url": "https://wallstreetcn.com/articles/3775074",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
+        },
+        {
+          "title": "美元指数升至一年多新高 美国电力监管下场推动数据中心入网 | 环球市场",
+          "url": "https://www.cls.cn/detail/2404205",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
+        },
+        {
+          "title": "美元指数涨破101.00关口，创下2025年5月以来最高水平。",
+          "url": "https://wallstreetcn.com/livenews/3121982",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "融资消息曝光后DeepSeek上线识图模式，但认不出梁文锋",
           "url": "https://m.thepaper.cn/newsDetail_forward_33408923",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时26分 ~ 14时18分]"
+        },
+        {
+          "title": "如何评价 DeepSeek 的识图模式？",
+          "url": "https://www.zhihu.com/question/2032903059739767247",
+          "source": "知乎",
+          "ranks": [
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时26分"
+          "time_info": "14时18分"
         },
         {
           "title": "DeepSeek正式上线识图模式",
@@ -1559,9 +1758,50 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "印度",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "印度17岁少年徒手单杀豹子",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355265&amp;topic_name=%E5%8D%B0%E5%BA%A617%E5%B2%81%E5%B0%91%E5%B9%B4%E5%BE%92%E6%89%8B%E5%8D%95%E6%9D%80%E8%B1%B9%E5%AD%90",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时48分 ~ 14时18分]"
+        },
+        {
+          "title": "印度法院支持维持对Telegraph的临时禁令。",
+          "url": "https://wallstreetcn.com/livenews/3121987",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
+        },
+        {
+          "title": "印度股指Sensex指数下跌1%。 印度Nifty IT指数下跌6.4%，为2月4日来最大跌幅。",
+          "url": "https://wallstreetcn.com/livenews/3121973",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
         }
       ]
     },
@@ -1576,11 +1816,12 @@
           "ranks": [
             11,
             12,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时48分 ~ 08时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时48分 ~ 14时18分]"
         },
         {
           "title": "周四（6月18日），美股超大规模云服务商（Hyperscalers）涨1.39%，报95.20点。 成分股中，亚马逊收涨2.90%，Meta涨1.70%，谷歌A涨1.17%，甲骨文涨0.41%，微软涨0.13%。",
@@ -1592,6 +1833,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "高盛将金价目标下调500美元",
+          "url": "https://wallstreetcn.com/livenews/3121969",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
+        },
+        {
+          "title": "金价上下乱跳",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E4%B8%8A%E4%B8%8B%E4%B9%B1%E8%B7%B3%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时48分"
         }
       ]
     },
@@ -1624,34 +1893,6 @@
       ]
     },
     {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "霍尔木兹海峡重开提振股债，半导体指数收创新高，原油走V，美元两连涨，黄金承压",
-          "url": "https://wallstreetcn.com/articles/3774963",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时26分"
-        },
-        {
-          "title": "美元指数DXY日内涨超0.50%，现报100.89。",
-          "url": "https://flash.jin10.com/detail/20260619030346669800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时34分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -1665,41 +1906,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金价上下乱跳",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E4%B8%8A%E4%B8%8B%E4%B9%B1%E8%B7%B3%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "印度",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "印度17岁少年徒手单杀豹子",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355265&amp;topic_name=%E5%8D%B0%E5%BA%A617%E5%B2%81%E5%B0%91%E5%B9%B4%E5%BE%92%E6%89%8B%E5%8D%95%E6%9D%80%E8%B1%B9%E5%AD%90",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时48分 ~ 08时26分]"
         }
       ]
     }
