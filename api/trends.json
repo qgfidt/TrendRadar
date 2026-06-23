@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-23T06:47:44.613380+08:00",
-  "total_titles_processed": 525,
+  "generated_at": "2026-06-23T08:06:10.960987+08:00",
+  "total_titles_processed": 608,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 31,
+      "match_count": 36,
       "titles": [
         {
           "title": "王毅会见伊朗最高国家安全委员会副秘书",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时44分 ~ 06时47分]"
+          "appearance_count": 5,
+          "time_info": "[01时44分 ~ 08时06分]"
         },
         {
           "title": "伊媒：伊朗代表团拒绝继续在瑞士进行伊美谈判",
@@ -26,8 +26,45 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时44分 ~ 08时06分]"
+        },
+        {
+          "title": "如何看待伊朗队在洛杉矶更衣室留下的感谢信？",
+          "url": "https://www.zhihu.com/question/2052442119843701055",
+          "source": "知乎",
+          "ranks": [
+            12,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时44分 ~ 08时06分]"
+        },
+        {
+          "title": "伊朗谈判团队称伊美谈判达成5项要点",
+          "url": "https://wallstreetcn.com/articles/3775177",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时44分 ~ 08时06分]"
+        },
+        {
+          "title": "伊朗议长：霍尔木兹海峡将按伊方制定的机制进行管理",
+          "url": "https://news.ifeng.com/c/8u8tDRAoBuA",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时44分 ~ 06时47分]"
+          "time_info": "[06时47分 ~ 08时06分]"
         },
         {
           "title": "伊朗公布哈梅内伊葬礼安排",
@@ -52,39 +89,32 @@
           "time_info": "01时44分"
         },
         {
-          "title": "伊朗谈判团队称伊美谈判达成5项要点",
-          "url": "https://wallstreetcn.com/articles/3775177",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时44分 ~ 06时47分]"
-        },
-        {
-          "title": "如何看待伊朗队在洛杉矶更衣室留下的感谢信？",
-          "url": "https://www.zhihu.com/question/2052442119843701055",
+          "title": "伊朗的抗争是否在实际意义上阻止了第三次世界大战的爆发？",
+          "url": "https://www.zhihu.com/question/2050890957483202069",
           "source": "知乎",
           "ranks": [
-            12,
-            3
+            19,
+            13,
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时44分 ~ 06时47分]"
+          "appearance_count": 5,
+          "time_info": "[01时44分 ~ 08时06分]"
         },
         {
-          "title": "伊朗议长：霍尔木兹海峡将按伊方制定的机制进行管理",
-          "url": "https://news.ifeng.com/c/8u8tDRAoBuA",
-          "source": "凤凰网",
+          "title": "比利时0-0伊朗",
+          "url": "https://search.bilibili.com/all?keyword=%E6%AF%94%E5%88%A9%E6%97%B60-0%E4%BC%8A%E6%9C%97",
+          "source": "bilibili 热搜",
           "ranks": [
-            5
+            19,
+            17,
+            18,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时47分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时44分 ~ 08时06分]"
         },
         {
           "title": "头条世界杯｜贝兰万德封神！坚硬的不是球门，是这支伊朗的命",
@@ -92,19 +122,6 @@
           "source": "澎湃新闻",
           "ranks": [
             9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时44分 ~ 06时47分]"
-        },
-        {
-          "title": "伊朗的抗争是否在实际意义上阻止了第三次世界大战的爆发？",
-          "url": "https://www.zhihu.com/question/2050890957483202069",
-          "source": "知乎",
-          "ranks": [
-            19,
-            13,
-            10
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -124,17 +141,39 @@
           "time_info": "[01时44分 ~ 06时47分]"
         },
         {
-          "title": "比利时0-0伊朗",
-          "url": "https://search.bilibili.com/all?keyword=%E6%AF%94%E5%88%A9%E6%97%B60-0%E4%BC%8A%E6%9C%97",
-          "source": "bilibili 热搜",
+          "title": "日企掏钱,伊朗白捡三千亿",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355283&amp;topic_name=%E6%97%A5%E4%BC%81%E6%8E%8F%E9%92%B1%2C%E4%BC%8A%E6%9C%97%E7%99%BD%E6%8D%A1%E4%B8%89%E5%8D%83%E4%BA%BF",
+          "source": "贴吧",
           "ranks": [
-            19,
-            17,
-            18
+            20,
+            21
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时44分 ~ 06时47分]"
+          "time_info": "[06时47分 ~ 08时06分]"
+        },
+        {
+          "title": "伊朗外交部：伊美达成协议文件",
+          "url": "https://www.douyin.com/hot/2543079",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 08时06分]"
+        },
+        {
+          "title": "120亿美元？伊朗否认将用解冻资金买美农产品",
+          "url": "https://wallstreetcn.com/livenews/3123047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时47分 ~ 08时06分]"
         },
         {
           "title": "据伊朗媒体报道，伊朗议会议长卡利巴夫、外长阿拉格齐、美国副总统万斯、卡塔尔首相阿尔萨尼及巴基斯坦总理谢里夫将监督未来的谈判。",
@@ -143,7 +182,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时47分"
         },
@@ -165,7 +204,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时47分"
         },
@@ -181,6 +220,17 @@
           "time_info": "01时44分"
         },
         {
+          "title": "伊朗副外长披露伊美谈判后续技术层面磋商机制",
+          "url": "https://wallstreetcn.com/livenews/3123064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
           "title": "伊朗总统佩泽希齐扬：在德黑兰和华盛顿根据最近签署的谅解备忘录继续进行谈判之际，伊朗绝不会屈服于过分的要求，也不会容忍对其人民权利的压制。",
           "url": "https://flash.jin10.com/detail/20260623010707201800",
           "source": "金十数据",
@@ -192,24 +242,13 @@
           "time_info": "01时44分"
         },
         {
-          "title": "120亿美元？伊朗否认将用解冻资金买美农产品",
-          "url": "https://wallstreetcn.com/livenews/3123047",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时47分"
-        },
-        {
           "title": "阿曼外长：今晚在马斯喀特欢迎了伊朗议会议长卡利巴夫和外长阿拉格齐。双方就近期伊朗与美国的谅解备忘录进行了建设性讨论，特别是霍尔木兹海峡的相关内容。",
           "url": "https://flash.jin10.com/detail/20260623050922347800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时47分"
         },
@@ -225,26 +264,37 @@
           "time_info": "01时44分"
         },
         {
-          "title": "日企掏钱,伊朗白捡三千亿",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355283&amp;topic_name=%E6%97%A5%E4%BC%81%E6%8E%8F%E9%92%B1%2C%E4%BC%8A%E6%9C%97%E7%99%BD%E6%8D%A1%E4%B8%89%E5%8D%83%E4%BA%BF",
-          "source": "贴吧",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时47分"
-        },
-        {
           "title": "伊朗央行行长：剩余的被冻结资金不一定仅用于基本商品，伊朗将能够购买其他未受制裁的商品。",
           "url": "https://flash.jin10.com/detail/20260623044927151800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时47分"
+        },
+        {
+          "title": "历史性逆转！美国数十年来首允伊朗以美元卖油",
+          "url": "https://flash.jin10.com/detail/20260623064916486800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
+          "title": "伊朗副外长披露伊美谈判后续技术层面磋商机制",
+          "url": "https://flash.jin10.com/detail/20260623064531073800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
         },
         {
           "title": "伊朗议长：伊美应共同保障黎巴嫩领土完整",
@@ -253,7 +303,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时47分"
         },
@@ -286,7 +336,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时47分"
         },
@@ -313,6 +363,17 @@
           "time_info": "01时44分"
         },
         {
+          "title": "伊朗原油重返市场预期升温 油价回归平静",
+          "url": "https://flash.jin10.com/detail/20260623063758383800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
           "title": "伊朗外交部发言人：伊美瑞士谈判未涉及核问题",
           "url": "https://wallstreetcn.com/livenews/3122949",
           "source": "华尔街见闻-快讯",
@@ -330,7 +391,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时47分"
         },
@@ -341,7 +402,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时47分"
         },
@@ -370,8 +431,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时44分 ~ 06时47分]"
+          "appearance_count": 5,
+          "time_info": "[01时44分 ~ 08时06分]"
         },
         {
           "title": "美国总统特朗普签署量子领域行政令。",
@@ -424,7 +485,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时47分"
         },
@@ -438,6 +499,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
+        },
+        {
+          "title": "特朗普威胁伊朗,美伊谈判暂停",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355324&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E4%BC%8A%E6%9C%97%2C%E7%BE%8E%E4%BC%8A%E8%B0%88%E5%88%A4%E6%9A%82%E5%81%9C",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时47分 ~ 08时06分]"
         },
         {
           "title": "伊朗代表团暂停伊美谈判，抗议特朗普威胁言论",
@@ -460,17 +533,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
-        },
-        {
-          "title": "特朗普威胁伊朗,美伊谈判暂停",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355324&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E4%BC%8A%E6%9C%97%2C%E7%BE%8E%E4%BC%8A%E8%B0%88%E5%88%A4%E6%9A%82%E5%81%9C",
-          "source": "贴吧",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时47分"
         },
         {
           "title": "特朗普政府将叙利亚比特币交易所XChange纳入制裁清单。",
@@ -633,7 +695,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时47分"
         },
@@ -655,7 +717,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时47分"
         },
@@ -666,7 +728,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时47分"
         }
@@ -699,6 +761,19 @@
           "time_info": "04时46分"
         },
         {
+          "title": "财政部：在政府采购活动中不得采购46家美国企业生产的产品",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33426362",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时44分 ~ 08时06分]"
+        },
+        {
           "title": "商务部公布将艾维奥克斯公司等 10 家美国实体列入出口管制管控名单，有哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2052316614541027284",
           "source": "知乎",
@@ -712,16 +787,16 @@
           "time_info": "[01时44分 ~ 06时47分]"
         },
         {
-          "title": "财政部：在政府采购活动中不得采购46家美国企业生产的产品",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33426362",
-          "source": "澎湃新闻",
+          "title": "美国芝加哥联储主席Goolsbee（2027年FOMC票委）：不后悔在6月份FOMC货币政策会议上投出反对票。 市场依然保持稳定。 通胀远高于目标水平，且正在朝着错误的方向发展。 我们尚未遭遇滞胀冲击，就业市场一直保持稳定。 需要证据来证明当前的通胀只是暂时的。 服务业通胀情况令人有些担忧。 在我看来，需要确定此次通胀是否会持续下去。（Marketplace）",
+          "url": "https://wallstreetcn.com/livenews/3123038",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20,
-            19
+            18,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时44分 ~ 06时47分]"
+          "appearance_count": 2,
+          "time_info": "[06时47分 ~ 08时06分]"
         },
         {
           "title": "美国将从战略石油储备（SPR）向Vitol释放50万桶石油。",
@@ -768,17 +843,6 @@
           "time_info": "01时44分"
         },
         {
-          "title": "美国芝加哥联储主席Goolsbee（2027年FOMC票委）：不后悔在6月份FOMC货币政策会议上投出反对票。 市场依然保持稳定。 通胀远高于目标水平，且正在朝着错误的方向发展。 我们尚未遭遇滞胀冲击，就业市场一直保持稳定。 需要证据来证明当前的通胀只是暂时的。 服务业通胀情况令人有些担忧。 在我看来，需要确定此次通胀是否会持续下去。（Marketplace）",
-          "url": "https://wallstreetcn.com/livenews/3123038",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时47分"
-        },
-        {
           "title": "据塔斯尼姆通讯社援引知情人士：美国似乎正在散布此类消息，以转移外界对有关石油及其衍生产品销售获得税收豁免决定的关注。",
           "url": "https://flash.jin10.com/detail/20260623005126647800",
           "source": "金十数据",
@@ -818,7 +882,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时47分"
         },
@@ -884,6 +948,18 @@
           "time_info": "[01时44分 ~ 04时46分]"
         },
         {
+          "title": "美股收盘：三大股指涨跌不一 SpaceX暴跌16% 美光续创历史新高",
+          "url": "https://www.cls.cn/detail/2406186",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时47分 ~ 08时06分]"
+        },
+        {
           "title": "布油基金收跌超1.7%，领跌美股大类资产类ETF",
           "url": "https://wallstreetcn.com/livenews/3123022",
           "source": "华尔街见闻-快讯",
@@ -903,19 +979,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时44分 ~ 06时47分]"
-        },
-        {
-          "title": "美股收盘：三大股指涨跌不一 SpaceX暴跌16% 美光续创历史新高",
-          "url": "https://www.cls.cn/detail/2406186",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时47分"
+          "appearance_count": 5,
+          "time_info": "[01时44分 ~ 08时06分]"
         },
         {
           "title": "IBM美股盘后涨2.4%。",
@@ -990,15 +1055,41 @@
       "match_count": 8,
       "titles": [
         {
+          "title": "钧正平评日本旭日旗现身世界杯看台",
+          "url": "https://www.baidu.com/s?wd=%E9%92%A7%E6%AD%A3%E5%B9%B3%E8%AF%84%E6%97%A5%E6%9C%AC%E6%97%AD%E6%97%A5%E6%97%97%E7%8E%B0%E8%BA%AB%E4%B8%96%E7%95%8C%E6%9D%AF%E7%9C%8B%E5%8F%B0",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时44分 ~ 08时06分]"
+        },
+        {
+          "title": "视频丨辽宁舰编队专业稳妥处置应对日本舰机滋扰挑衅，画面公布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33428369",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时44分 ~ 08时06分]"
+        },
+        {
           "title": "黑石集团总裁Jon Gray：投资日本（多个）数据中心。（日经新闻）",
           "url": "https://wallstreetcn.com/livenews/3123060",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时47分 ~ 08时06分]"
         },
         {
           "title": "央视直播世界杯日本 vs 突尼斯比赛收视率超 3%，这是什么水平？可能受哪些因素影响？",
@@ -1014,16 +1105,16 @@
           "time_info": "[01时44分 ~ 06时47分]"
         },
         {
-          "title": "视频丨辽宁舰编队专业稳妥处置应对日本舰机滋扰挑衅，画面公布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33428369",
-          "source": "澎湃新闻",
+          "title": "泳装屈原!日本手游整狠活",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355298&amp;topic_name=%E6%B3%B3%E8%A3%85%E5%B1%88%E5%8E%9F%21%E6%97%A5%E6%9C%AC%E6%89%8B%E6%B8%B8%E6%95%B4%E7%8B%A0%E6%B4%BB",
+          "source": "贴吧",
           "ranks": [
-            19,
-            18
+            16,
+            17
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时44分 ~ 06时47分]"
+          "time_info": "[06时47分 ~ 08时06分]"
         },
         {
           "title": "全面压制,日本送突尼斯出局",
@@ -1035,28 +1126,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时44分 ~ 04时46分]"
-        },
-        {
-          "title": "钧正平评日本旭日旗现身世界杯看台",
-          "url": "https://www.baidu.com/s?wd=%E9%92%A7%E6%AD%A3%E5%B9%B3%E8%AF%84%E6%97%A5%E6%9C%AC%E6%97%AD%E6%97%A5%E6%97%97%E7%8E%B0%E8%BA%AB%E4%B8%96%E7%95%8C%E6%9D%AF%E7%9C%8B%E5%8F%B0",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时44分 ~ 04时46分]"
-        },
-        {
-          "title": "泳装屈原!日本手游整狠活",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355298&amp;topic_name=%E6%B3%B3%E8%A3%85%E5%B1%88%E5%8E%9F%21%E6%97%A5%E6%9C%AC%E6%89%8B%E6%B8%B8%E6%95%B4%E7%8B%A0%E6%B4%BB",
-          "source": "贴吧",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时47分"
         },
         {
           "title": "钧正平：日本铁了心走军国主义不归路",
@@ -1087,6 +1156,34 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "印度4男子坐充气车胎聊天被炸飞致1死",
+          "url": "https://www.toutiao.com/trending/7654182310362824754/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            17,
+            29,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时44分 ~ 08时06分]"
+        },
+        {
+          "title": "不平等的热浪：印度人的高温生存战",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33389887",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时44分 ~ 08时06分]"
+        },
+        {
           "title": "周一（6月22日）纽约尾盘，欧元兑美元跌0.41%，英镑兑美元涨0.10%，美元兑瑞郎涨0.26%。 商品货币对中，澳元兑美元跌0.20%，纽元兑美元跌0.51%，美元兑加元涨0.07%。 瑞典克朗兑美元跌0.46%，挪威克朗兑美元大致持平，丹麦克朗兑美元跌0.45%。 波兰兹罗提兑美元跌0.72%，美元兑匈牙利福林涨0.53%。 印度卢比兑美元（收）跌0.37%，土耳其里拉兑美元跌0.04%，南非兰特兑美元涨0.24%，墨西哥比索兑美元跌0.20%，巴西雷亚尔兑美元涨0.15%。",
           "url": "https://wallstreetcn.com/livenews/3123027",
           "source": "华尔街见闻-快讯",
@@ -1099,41 +1196,16 @@
           "time_info": "[04时46分 ~ 06时47分]"
         },
         {
-          "title": "印度4男子坐充气车胎聊天被炸飞致1死",
-          "url": "https://www.toutiao.com/trending/7654182310362824754/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            17,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时44分 ~ 06时47分]"
-        },
-        {
-          "title": "不平等的热浪：印度人的高温生存战",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33389887",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时44分 ~ 06时47分]"
-        },
-        {
           "title": "印度14岁学生布局定居中国",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355304&amp;topic_name=%E5%8D%B0%E5%BA%A614%E5%B2%81%E5%AD%A6%E7%94%9F%E5%B8%83%E5%B1%80%E5%AE%9A%E5%B1%85%E4%B8%AD%E5%9B%BD",
           "source": "贴吧",
           "ranks": [
-            13
+            13,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时47分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时47分 ~ 08时06分]"
         }
       ]
     },
@@ -1169,6 +1241,45 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "科技巨头下挫拖累美股大盘，芯片股指新高，原油转跌，美债收益率“补涨”",
+          "url": "https://wallstreetcn.com/articles/3775156",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 08时06分]"
+        },
+        {
+          "title": "科技巨头下挫拖累美股大盘，芯片股指、小盘股指逆市新高，原油高开走跌，美债收益率“补涨”",
+          "url": "https://wallstreetcn.com/articles/3775156",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时47分"
+        },
+        {
+          "title": "长周末归来，美债收益率普遍涨超5个基点",
+          "url": "https://wallstreetcn.com/livenews/3123002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -1244,34 +1355,6 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "科技巨头下挫拖累美股大盘，芯片股指、小盘股指逆市新高，原油高开走跌，美债收益率“补涨”",
-          "url": "https://wallstreetcn.com/articles/3775156",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时47分"
-        },
-        {
-          "title": "长周末归来，美债收益率普遍涨超5个基点",
-          "url": "https://wallstreetcn.com/livenews/3123002",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -1284,8 +1367,25 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时44分 ~ 06时47分]"
+          "appearance_count": 5,
+          "time_info": "[01时44分 ~ 08时06分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "【早报】SpaceX三日暴跌23%；油价下挫、金价收涨；梅西梅开二度，加冕世界杯历史射手王",
+          "url": "https://www.cls.cn/detail/2406212",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 08时06分]"
         }
       ]
     },
