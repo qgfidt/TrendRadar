@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-25T00:21:39.168004+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-25T02:52:13.433870+08:00",
+  "total_titles_processed": 419,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国",
-      "match_count": 15,
+      "match_count": 26,
       "titles": [
         {
           "title": "美国国务卿鲁比奥：我们希望黎巴嫩与以色列的谈判取得成功。",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "消息人士：美国将在北约峰会前推进向土耳其出售飞机发动机的计划",
+          "url": "https://flash.jin10.com/detail/20260625023601591800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时52分"
         },
         {
           "title": "市场消息：美国国家运输安全委员会（NTSB）针对6月19日发生的特斯拉(TSLA.O)Model 3车祸展开安全调查。",
@@ -63,6 +74,28 @@
           "time_info": "00时21分"
         },
         {
+          "title": "美财长大放厥词：AI的最大风险是中国超越美国",
+          "url": "https://news.ifeng.com/c/8uDioiTwhfp",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时52分]"
+        },
+        {
+          "title": "岚目镜观｜“我是谁？”：250岁的美国面临自我审判（上）",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33438057",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时51分 ~ 02时52分]"
+        },
+        {
           "title": "据半岛电视台：科威特埃米尔与美国国务卿鲁比奥讨论了地区局势发展。",
           "url": "https://flash.jin10.com/detail/20260625000913960800",
           "source": "金十数据",
@@ -85,15 +118,15 @@
           "time_info": "00时21分"
         },
         {
-          "title": "美财长大放厥词：AI的最大风险是中国超越美国",
-          "url": "https://news.ifeng.com/c/8uDioiTwhfp",
-          "source": "凤凰网",
+          "title": "美国国家运输安全委员会（NTSB）：将在30天内初步形成特斯拉撞车事故的初步（调查）报告。 将调查驾驶员（对于驾车）的参与程度和（特斯拉的）自动驾驶技术。",
+          "url": "https://wallstreetcn.com/livenews/3124187",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            7
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时21分"
+          "time_info": "02时52分"
         },
         {
           "title": "美国国务卿鲁比奥：美国对海湾地区的安全保证是“实实在在的”。",
@@ -105,6 +138,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "美联储理事库克并未置评美国经济前景或FOMC货币政策。",
+          "url": "https://wallstreetcn.com/livenews/3124184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时52分"
         },
         {
           "title": "美国国务卿鲁比奥：坚持认为霍尔木兹海峡应保持开放与自由。",
@@ -129,6 +173,61 @@
           "time_info": "00时21分"
         },
         {
+          "title": "美国交通部：2026年头三个月美国国内机票价格上涨4.7%。",
+          "url": "https://flash.jin10.com/detail/20260625022212131800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时52分"
+        },
+        {
+          "title": "美国参议员沃伦将呼吁对AI进行反垄断审查和改革并购审查机制",
+          "url": "https://flash.jin10.com/detail/20260625022136260800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时52分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）起诉肯塔基州，指控当地州政府手伸得太长，触碰到归CFTC监管的预测市场行业。",
+          "url": "https://wallstreetcn.com/livenews/3124177",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时52分"
+        },
+        {
+          "title": "美国七年期国债收益率跌10个基点，报4.27%。",
+          "url": "https://wallstreetcn.com/livenews/3124176",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时52分"
+        },
+        {
+          "title": "加拿大央行会议纪要：不利的美国墨西哥加拿大贸易协议（USMCA）评审结果可能会加重经济困境，其对就业和投资的影响可能会更广泛地波及加拿大整体经济。 USMCA谈判若能取得有利结果，将有助于恢复部分确定性，并有望提振投资。 一季度GDP数据中，最大的意外是政府开支。 经济表现疲软，处于供大于求的状态，劳动力市场存在闲置产能，但经济并未陷入衰退。 重申央行将看淡油价对通胀的短期影响。 委员们一致同意，如果通胀数据开始显示通胀压力正在蔓延的证据，这将表明有必要收紧货币政策。 管理委员会成员一致认为，货币政策需要保持灵活性，当前的经济形势给货币政策制定带来了两难困境。",
+          "url": "https://wallstreetcn.com/livenews/3124175",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时52分"
+        },
+        {
           "title": "市场消息：美国、卡塔尔、尼日利亚和阿尔及利亚敦促欧盟修改甲烷法规，并警告此举可能对天然气供应和价格造成风险。",
           "url": "https://flash.jin10.com/detail/20260624234937894800",
           "source": "金十数据",
@@ -138,6 +237,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "诺和诺德美国主管Jamey Millar：选择GLP-1口服药而非注射剂的Medicare（美国联邦医疗保险）患者数量是选择后者的两倍。（彭博电视）",
+          "url": "https://wallstreetcn.com/livenews/3124170",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时52分"
         },
         {
           "title": "美国加利福尼亚州北部地区发生5.5级地震",
@@ -171,6 +281,156 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "美国财政部拍卖700亿美元五年期国债，得标利率4.2%、创2025年1月份以来新高（5月下旬报4.182%），投标倍数2.35（前次为2.34）。",
+          "url": "https://wallstreetcn.com/livenews/3124163",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "特朗普对石油公司开刀：下令调查哄抬行为，称油价已断崖式下跌",
+          "url": "https://news.ifeng.com/c/8uDgRGX21RF",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时52分]"
+        },
+        {
+          "title": "美国总统特朗普：与国会参议院共和党成员的午餐会情况不错。 （兜售）石油价格（下跌）和就业数据。 伊朗同意我想要的一切。",
+          "url": "https://wallstreetcn.com/livenews/3124195",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时52分"
+        },
+        {
+          "title": "盘点｜“G7团结”演不下去了，特朗普如何惹恼多国领导人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33439614",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时52分]"
+        },
+        {
+          "title": "据Punchbowl：一位共和党参议员形容特朗普的这次会议“更像是总统的一次发泄会”。",
+          "url": "https://flash.jin10.com/detail/20260625022804523800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时52分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普在与共和党议员进行午宴时，“90%”的时间都在抨击丽莎·穆尔科斯基、比尔·卡西迪和米奇·麦康奈尔这些“名义上的共和党人”（RINO）。",
+          "url": "https://flash.jin10.com/detail/20260625022715934800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时52分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗正同意我想要的一切，而且他们别无选择。",
+          "url": "https://flash.jin10.com/detail/20260625022323219800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时52分"
+        },
+        {
+          "title": "美国总统特朗普：我不喜欢其中的几个议员，但我想你们知道他们是谁。",
+          "url": "https://flash.jin10.com/detail/20260625022306102800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时52分"
+        },
+        {
+          "title": "美国总统特朗普：与立法者进行了很好的会晤。",
+          "url": "https://flash.jin10.com/detail/20260625022152928800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时52分"
+        },
+        {
+          "title": "特朗普：美方将参与国际原子能机构对伊朗核查行动",
+          "url": "https://flash.jin10.com/detail/20260624235934784800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时21分"
+        },
+        {
+          "title": "消息人士：特朗普政府计划继续向土耳其出售价值数亿美元的喷气发动机。",
+          "url": "https://flash.jin10.com/detail/20260624234907236800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时21分"
+        },
+        {
+          "title": "美国众议院议长约翰逊：今天已经与总统特朗普对话。 我们讨论了“拯救美国法案”。 我理解特朗普将在某个时间点签署住房草案为法律。",
+          "url": "https://wallstreetcn.com/livenews/3124117",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时21分"
+        },
+        {
+          "title": "美国总统特朗普在国会山宣称：伊朗做出重大让步。 进展非常顺利。",
+          "url": "https://wallstreetcn.com/livenews/3124166",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时52分"
         }
       ]
     },
@@ -178,6 +438,17 @@
       "keyword_group": "伊朗",
       "match_count": 9,
       "titles": [
+        {
+          "title": "美媒担忧：白宫想用制裁逼伊朗让步，却把人民币“送”上桌",
+          "url": "https://news.ifeng.com/c/8uDfZ9C9pMR",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时52分]"
+        },
         {
           "title": "美国国务卿鲁比奥：负责伊朗事务的技术小组将于本月晚些时候重返。",
           "url": "https://flash.jin10.com/detail/20260625001227488800",
@@ -190,15 +461,16 @@
           "time_info": "00时21分"
         },
         {
-          "title": "美媒担忧：白宫想用制裁逼伊朗让步，却把人民币“送”上桌",
-          "url": "https://news.ifeng.com/c/8uDfZ9C9pMR",
-          "source": "凤凰网",
+          "title": "伊朗：签谅解备忘录表明“美国战败”",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E7%AD%BE%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95%E8%A1%A8%E6%98%8E%E2%80%9C%E7%BE%8E%E5%9B%BD%E6%88%98%E8%B4%A5%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
-            5
+            26,
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时52分]"
         },
         {
           "title": "美国国务卿鲁比奥：我们期望伊朗履行其义务。",
@@ -265,84 +537,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
-        },
-        {
-          "title": "伊朗：签谅解备忘录表明“美国战败”",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E7%AD%BE%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95%E8%A1%A8%E6%98%8E%E2%80%9C%E7%BE%8E%E5%9B%BD%E6%88%98%E8%B4%A5%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "特朗普对石油公司开刀：下令调查哄抬行为，称油价已断崖式下跌",
-          "url": "https://news.ifeng.com/c/8uDgRGX21RF",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "盘点｜“G7团结”演不下去了，特朗普如何惹恼多国领导人",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33439614",
-          "source": "澎湃新闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "特朗普：美方将参与国际原子能机构对伊朗核查行动",
-          "url": "https://flash.jin10.com/detail/20260624235934784800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "消息人士：特朗普政府计划继续向土耳其出售价值数亿美元的喷气发动机。",
-          "url": "https://flash.jin10.com/detail/20260624234907236800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "美国众议院议长约翰逊：今天已经与总统特朗普对话。 我们讨论了“拯救美国法案”。 我理解特朗普将在某个时间点签署住房草案为法律。",
-          "url": "https://wallstreetcn.com/livenews/3124117",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
         }
       ]
     },
     {
       "keyword_group": "日本",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "2名日本人被中方拘留，外交部回应",
@@ -352,8 +552,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时52分]"
         },
         {
           "title": "“日本驻华大使多次请求与中方会面，均未成功”",
@@ -363,8 +563,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时52分]"
         },
         {
           "title": "中国海军的“御用摄影师”不灵了，日本防卫省跟丢辽宁舰编队",
@@ -374,19 +574,31 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时52分]"
         },
         {
           "title": "外交部：两名日本人因违反中国法律被拘留",
           "url": "https://www.cls.cn/detail/2407880",
           "source": "财联社热门",
           "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时52分]"
+        },
+        {
+          "title": "中国赴日游客连续 6 个月减少，5 月同比暴跌 60.4%，原因为何？客流断崖下滑，日本旅游业会受多大冲击？",
+          "url": "https://www.zhihu.com/question/2052721837830935858",
+          "source": "知乎",
+          "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 2,
+          "time_info": "[02时51分 ~ 02时52分]"
         },
         {
           "title": "报道：草案显示，日本计划更好地管理用于日元干预的“弹药”",
@@ -402,6 +614,56 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "报道：谷歌另外两名主要的AI员工恐将跳槽至Anthropic",
+          "url": "https://wallstreetcn.com/livenews/3124193",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时52分"
+        },
+        {
+          "title": "谷歌又有两名重量级AI人才即将转投Anthropic",
+          "url": "https://flash.jin10.com/detail/20260625022949974800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时52分"
+        },
+        {
+          "title": "谷歌(GOOG.O)短线下挫，消息称谷歌再有两名人工智能员工或将跳槽至Anthropic公司。",
+          "url": "https://flash.jin10.com/detail/20260625021946400800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时52分"
+        },
+        {
+          "title": "STT与塔塔通信德里数据中心起火：客户担忧数十年数据丢失，谷歌云受波及",
+          "url": "https://wallstreetcn.com/livenews/3124168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时52分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 4,
       "titles": [
@@ -413,8 +675,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时52分]"
         },
         {
           "title": "温蒂汉堡（WEN）维持超过24%的涨幅，报7.777美元，美股盘初曾涨42.24%至8.89美元。 美股散户抱团概念股（meme概念股）指数涨1.13%，暂报13.42点，此前一度涨超2.03%。",
@@ -432,22 +694,93 @@
           "url": "https://www.zhihu.com/question/2052869201178652833",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时52分]"
         },
         {
           "title": "美股期指小幅上涨 科技股反弹迎接美光财报“大考” | 今夜看点",
           "url": "https://www.cls.cn/detail/2408279",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时52分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "印度",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "印度5名歹徒轮奸30岁已婚女子",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A65%E5%90%8D%E6%AD%B9%E5%BE%92%E8%BD%AE%E5%A5%B830%E5%B2%81%E5%B7%B2%E5%A9%9A%E5%A5%B3%E5%AD%90%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时52分]"
+        },
+        {
+          "title": "印度歹徒轮奸女子警方拒立案引众怒",
+          "url": "https://www.toutiao.com/trending/7654106920257224755/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时51分 ~ 02时52分]"
+        },
+        {
+          "title": "印度塔塔通信：6月5日德里数据中心发生火灾后，迅速启动业务连续性协议以应对不可抗力事件。",
+          "url": "https://flash.jin10.com/detail/20260624235629178800",
+          "source": "金十数据",
+          "ranks": [
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "现货黄金价格跌破4000美元大关",
+          "url": "https://www.douyin.com/hot/2546511",
+          "source": "抖音",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时52分]"
+        },
+        {
+          "title": "受美元走强及加息预期影响，金价收于4000美元下方",
+          "url": "https://flash.jin10.com/detail/20260625023404741800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时52分"
         }
       ]
     },
@@ -463,8 +796,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时52分]"
         },
         {
           "title": "瑞穗经济学家：若要有效利用外储，意味着日本要抛售美债",
@@ -472,34 +805,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "印度",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "印度塔塔通信：6月5日德里数据中心发生火灾后，迅速启动业务连续性协议以应对不可抗力事件。",
-          "url": "https://flash.jin10.com/detail/20260624235629178800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "印度5名歹徒轮奸30岁已婚女子",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A65%E5%90%8D%E6%AD%B9%E5%BE%92%E8%BD%AE%E5%A5%B830%E5%B2%81%E5%B7%B2%E5%A9%9A%E5%A5%B3%E5%AD%90%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -519,8 +824,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时52分]"
         },
         {
           "title": "亿万年张掖丹霞靠人工染色系谣言",
@@ -530,25 +835,25 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时52分]"
         }
       ]
     },
     {
-      "keyword_group": "金价",
+      "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
         {
-          "title": "现货黄金价格跌破4000美元大关",
-          "url": "https://www.douyin.com/hot/2546511",
-          "source": "抖音",
+          "title": "OpenAI：推出新版GPT-5.5 Instant，今日面向付费用户开放，明日面向免费用户开放。",
+          "url": "https://flash.jin10.com/detail/20260625020749576800",
+          "source": "金十数据",
           "ranks": [
-            6
+            20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时21分"
+          "time_info": "02时52分"
         }
       ]
     }
