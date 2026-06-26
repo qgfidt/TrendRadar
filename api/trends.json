@@ -1,23 +1,183 @@
 {
-  "generated_at": "2026-06-27T00:16:31.716915+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-27T02:52:07.513687+08:00",
+  "total_titles_processed": 432,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "伊朗",
-      "match_count": 8,
+      "keyword_group": "美国",
+      "match_count": 15,
       "titles": [
         {
-          "title": "伊朗和阿曼海关负责人提议：成立联合委员会以落实海关协议。（伊朗媒体IRNA）",
-          "url": "https://wallstreetcn.com/livenews/3125386",
+          "title": "美国法官未立即驳回对印度阿达尼的刑事指控",
+          "url": "https://wallstreetcn.com/livenews/3125435",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时52分"
+        },
+        {
+          "title": "美国明尼阿波利斯联储主席卡什卡利（Neel Kashkari）：预计2026年将加息一次，2027年利率将维持不变。 我们需要看看没有前瞻指引的效果如何。",
+          "url": "https://wallstreetcn.com/livenews/3125387",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
         },
+        {
+          "title": "美国法官命令司法部解释其撤销对印度商人高塔姆·阿达尼刑事指控的决定。",
+          "url": "https://flash.jin10.com/detail/20260627021412684800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时52分"
+        },
+        {
+          "title": "消息人士：美国众议院民主党人将于周日晚上召开党团会议。会议预计将重点讨论拨款问题，特别是即将进行的与以色列援助相关的修正案投票。",
+          "url": "https://flash.jin10.com/detail/20260627021353172800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时52分"
+        },
+        {
+          "title": "以色列交通部：美军将加速撤离停在以机场的美国军机",
+          "url": "https://wallstreetcn.com/livenews/3125427",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时52分"
+        },
+        {
+          "title": "美国、以色列、黎巴嫩签署三边框架协议。",
+          "url": "https://wallstreetcn.com/livenews/3125425",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时52分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：以色列与黎巴嫩在华盛顿会谈后达成框架协议。 未来还需付出更多努力。",
+          "url": "https://wallstreetcn.com/livenews/3125421",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时52分"
+        },
+        {
+          "title": "美国上诉法院裁决：驳回环保局（EPA）要求撤销2024年针对发电厂和工厂的烟尘排放限值的请求。",
+          "url": "https://wallstreetcn.com/livenews/3125376",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        },
+        {
+          "title": "以色列交通部：美军将加速撤离停在以机场的美国军机",
+          "url": "https://flash.jin10.com/detail/20260627015529839800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时52分"
+        },
+        {
+          "title": "美国、以色列、黎巴嫩签署了三边框架协议。",
+          "url": "https://flash.jin10.com/detail/20260627014300413800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时52分"
+        },
+        {
+          "title": "以色列驻美国大使：三边框架以实际表现为导向。",
+          "url": "https://flash.jin10.com/detail/20260627014148207800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时52分"
+        },
+        {
+          "title": "美国天然气钻井机单周增幅创四年最大",
+          "url": "https://wallstreetcn.com/livenews/3125409",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时52分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：前方还有很多工作要做。",
+          "url": "https://flash.jin10.com/detail/20260627013648879800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时52分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：宣布以色列与黎巴嫩在华盛顿会谈后达成框架协议。",
+          "url": "https://flash.jin10.com/detail/20260627013506595800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时52分"
+        },
+        {
+          "title": "据媒体报道：美国国务院一位消息人士表示，外交部长进入了以色列-黎巴嫩谈判厅。",
+          "url": "https://wallstreetcn.com/livenews/3125404",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 13,
+      "titles": [
         {
           "title": "霍尔木兹海峡再起波澜：伊朗被曝谋求一年400亿“买路钱”，船只遇袭后疏散行动暂停",
           "url": "https://wallstreetcn.com/articles/3775543",
@@ -26,8 +186,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 02时52分]"
         },
         {
           "title": "意大利协助美国打伊朗？梅洛尼：吕特你别乱说",
@@ -35,6 +195,40 @@
           "source": "凤凰网",
           "ranks": [
             11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 02时52分]"
+        },
+        {
+          "title": "关关难过关关过，伊朗终于迎来世界杯命运一战",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33460376",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 02时52分]"
+        },
+        {
+          "title": "伊朗外交部谴责美国与海合会联合声明",
+          "url": "https://www.toutiao.com/trending/7655052095490326578/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时51分 ~ 02时52分]"
+        },
+        {
+          "title": "伊朗和阿曼海关负责人提议：成立联合委员会以落实海关协议。（伊朗媒体IRNA）",
+          "url": "https://wallstreetcn.com/livenews/3125386",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -52,15 +246,37 @@
           "time_info": "00时16分"
         },
         {
-          "title": "关关难过关关过，伊朗终于迎来世界杯命运一战",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33460376",
-          "source": "澎湃新闻",
+          "title": "据以色列i24News：以色列总理内塔尼亚胡将协议描述为伊朗的战略失败，并表示德黑兰在黎巴嫩的未来中没有任何角色。",
+          "url": "https://flash.jin10.com/detail/20260627020711882800",
+          "source": "金十数据",
           "ranks": [
-            20
+            13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时16分"
+          "time_info": "02时52分"
+        },
+        {
+          "title": "伊朗否认伊美就霍尔木兹海峡问题建立沟通热线",
+          "url": "https://wallstreetcn.com/livenews/3125416",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时52分"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队发言人：驳斥有关“与美国建立霍尔木兹海峡‘热线’”的说法，海峡是伊朗的领海，与美国没有任何关系。（NourNews）",
+          "url": "https://wallstreetcn.com/livenews/3125406",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时52分"
         },
         {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗和阿曼海关负责人提议成立联合委员会以落实海关协议。",
@@ -94,96 +310,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "日本",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "日本对华外交是否在朝错误方向发展？岸田文雄答凤凰",
-          "url": "https://news.ifeng.com/c/8uH1gpjZ7Lh",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
         },
         {
-          "title": "如何看待韩国网友怒骂德国故意输球，日本不帮韩国队出线？客观分析，韩国出线概率真的很渺茫吗？",
-          "url": "https://www.zhihu.com/question/2053827210838893606",
-          "source": "知乎",
+          "title": "阿联酋与伊朗外长通话讨论地区局势",
+          "url": "https://wallstreetcn.com/livenews/3125424",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            29
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时16分"
-        },
-        {
-          "title": "日本多个经济团体来华参观访问，外交部回应",
-          "url": "https://news.ifeng.com/c/8uGxUkiEJuX",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        },
-        {
-          "title": "不挑对手直面巴西，日本挑战世界杯淘汰赛魔咒",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33458371",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        },
-        {
-          "title": "辽宁舰编队完成远海实战化训练，让号称中国海军「御用摄影师」的日本防卫省拍不到、跟不上，反映出哪些信息？",
-          "url": "https://www.zhihu.com/question/2053125507613470786",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        },
-        {
-          "title": "知情人称因出口管制对日本企业造成冲击，日本驻华大使多次请求与中方会面，但均未成功，传递了什么信号？",
-          "url": "https://www.zhihu.com/question/2053182874514364148",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        },
-        {
-          "title": "强势之组,荷兰日本瑞典携手晋级",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355656&amp;topic_name=%E5%BC%BA%E5%8A%BF%E4%B9%8B%E7%BB%84%2C%E8%8D%B7%E5%85%B0%E6%97%A5%E6%9C%AC%E7%91%9E%E5%85%B8%E6%90%BA%E6%89%8B%E6%99%8B%E7%BA%A7",
-          "source": "贴吧",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
+          "time_info": "02时52分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "委内瑞拉强震突发，特朗普火速援救背后全是霸权算计",
+          "url": "https://news.ifeng.com/c/8uHCasu8tQC",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 02时52分]"
+        },
         {
           "title": "美国总统特朗普：伊朗向穿越霍尔木兹海峡的船只发射了至少四架单向攻击无人机。这是对我们停火协议的愚蠢违反。",
           "url": "https://flash.jin10.com/detail/20260626235210506800",
@@ -194,6 +349,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        },
+        {
+          "title": "美国总统特朗普批评纽约市的租金冻结措施。",
+          "url": "https://flash.jin10.com/detail/20260627022215773800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时52分"
+        },
+        {
+          "title": "美国总统特朗普：（纽约）市长马姆达尼看起来是个和蔼可亲的人，他说他会确保人们的房租不会上涨，尽管能源价格上涨了。",
+          "url": "https://flash.jin10.com/detail/20260627022141001800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时52分"
         },
         {
           "title": "美国总统 特朗普谈及伊朗：伊朗向至少四架穿越霍尔木兹海峡的船只发射了自杀式无人机（单向攻击无人机）。 其中一架无人机击中了一艘货船的上层甲板，美国击落了另外三架无人机。 这是对我们停火协议的愚蠢违反。",
@@ -207,15 +384,37 @@
           "time_info": "00时16分"
         },
         {
-          "title": "委内瑞拉强震突发，特朗普火速援救背后全是霸权算计",
-          "url": "https://news.ifeng.com/c/8uHCasu8tQC",
-          "source": "凤凰网",
+          "title": "美国总统特朗普：伊朗仍然具备某些（军事打击）能力，但不太大。 （美国）汽油价格很快就会跌到每加仑2.5美元。",
+          "url": "https://wallstreetcn.com/livenews/3125432",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时16分"
+          "time_info": "02时52分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普施压参议员丽莎·默科斯基投票支持《拯救美国法案》。",
+          "url": "https://flash.jin10.com/detail/20260627021241822800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时52分"
+        },
+        {
+          "title": "据一位美国官员透露：尽管特朗普总统表示伊朗违反了停火协议，美国与伊朗的谈判预计仍将进行。（NewsNation）",
+          "url": "https://wallstreetcn.com/livenews/3125418",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时52分"
         },
         {
           "title": "奥巴马回应总被特朗普骂",
@@ -238,6 +437,176 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        },
+        {
+          "title": "市场消息：特朗普即将发表讲话。",
+          "url": "https://flash.jin10.com/detail/20260627015056714800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时52分"
+        },
+        {
+          "title": "特朗普指责伊朗攻击霍尔木兹海峡船只违反停火协议",
+          "url": "https://wallstreetcn.com/livenews/3125410",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "日本",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "日本对华外交是否在朝错误方向发展？岸田文雄答凤凰",
+          "url": "https://news.ifeng.com/c/8uH1gpjZ7Lh",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 02时52分]"
+        },
+        {
+          "title": "如何看待韩国网友怒骂德国故意输球，日本不帮韩国队出线？客观分析，韩国出线概率真的很渺茫吗？",
+          "url": "https://www.zhihu.com/question/2053827210838893606",
+          "source": "知乎",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 02时52分]"
+        },
+        {
+          "title": "日本多个经济团体来华参观访问，外交部回应",
+          "url": "https://news.ifeng.com/c/8uGxUkiEJuX",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 02时52分]"
+        },
+        {
+          "title": "知情人称因出口管制对日本企业造成冲击，日本驻华大使多次请求与中方会面，但均未成功，传递了什么信号？",
+          "url": "https://www.zhihu.com/question/2053182874514364148",
+          "source": "知乎",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 02时52分]"
+        },
+        {
+          "title": "不挑对手直面巴西，日本挑战世界杯淘汰赛魔咒",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33458371",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 02时52分]"
+        },
+        {
+          "title": "辽宁舰编队完成远海实战化训练，让号称中国海军「御用摄影师」的日本防卫省拍不到、跟不上，反映出哪些信息？",
+          "url": "https://www.zhihu.com/question/2053125507613470786",
+          "source": "知乎",
+          "ranks": [
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 02时52分]"
+        },
+        {
+          "title": "强势之组,荷兰日本瑞典携手晋级",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355656&amp;topic_name=%E5%BC%BA%E5%8A%BF%E4%B9%8B%E7%BB%84%2C%E8%8D%B7%E5%85%B0%E6%97%A5%E6%9C%AC%E7%91%9E%E5%85%B8%E6%90%BA%E6%89%8B%E6%99%8B%E7%BA%A7",
+          "source": "贴吧",
+          "ranks": [
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 02时52分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "OpenAI：开启下一代模型GPT-5.6系列的限量预览",
+          "url": "https://flash.jin10.com/detail/20260627021924211800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时52分"
+        },
+        {
+          "title": "OpenAI：开启下一代模型GPT-5.6系列的限量预览，其中Sol最强",
+          "url": "https://wallstreetcn.com/livenews/3125429",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时52分"
+        },
+        {
+          "title": "报道：美国政府将决定谁可以使用新版ChatGPT",
+          "url": "https://wallstreetcn.com/livenews/3125428",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时52分"
+        },
+        {
+          "title": "据CNBC：OpenAI在特朗普政府的要求下，计划限制GPT 5.6的推出。",
+          "url": "https://flash.jin10.com/detail/20260626233456947800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        },
+        {
+          "title": "美媒：美国政府将决定谁可以使用新版ChatGPT",
+          "url": "https://flash.jin10.com/detail/20260627020005789800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时52分"
         }
       ]
     },
@@ -253,8 +622,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 02时52分]"
         },
         {
           "title": "DeepSeek 宣布所有部门至少扩大一倍，进行大规模招聘，这一举动意味着什么？",
@@ -264,8 +633,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 02时52分]"
         },
         {
           "title": "DeepSeek招聘薪资待遇",
@@ -292,8 +661,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 02时52分]"
         },
         {
           "title": "AI投资可持续性遭质疑 美股期指集体走低 芯片股再度承压 | 今夜看点",
@@ -303,8 +672,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 02时52分]"
         },
         {
           "title": "美股盘初，主要行业ETF涨跌不一，医疗业ETF涨近3%，生物科技指数ETF涨超2%，半导体ETF跌超3%，科技行业ETF跌1.5%。",
@@ -312,51 +681,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美国",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美国明尼阿波利斯联储主席卡什卡利（Neel Kashkari）：预计2026年将加息一次，2027年利率将维持不变。 我们需要看看没有前瞻指引的效果如何。",
-          "url": "https://wallstreetcn.com/livenews/3125387",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        },
-        {
-          "title": "美国上诉法院裁决：驳回环保局（EPA）要求撤销2024年针对发电厂和工厂的烟尘排放限值的请求。",
-          "url": "https://wallstreetcn.com/livenews/3125376",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "据CNBC：OpenAI在特朗普政府的要求下，计划限制GPT 5.6的推出。",
-          "url": "https://flash.jin10.com/detail/20260626233456947800",
-          "source": "金十数据",
-          "ranks": [
-            15
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -390,11 +714,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355667&amp;topic_name=%E5%8D%B0%E5%BA%A6%E6%B8%B8%E5%AE%A2%E8%BA%B2%E6%B7%B1%E5%B1%B1%E6%9E%B6%E6%98%8E%E7%81%AB%E7%83%A7%E7%83%A4",
           "source": "贴吧",
           "ranks": [
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 02时52分]"
         }
       ]
     }
