@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-06-26T11:33:32.403845+08:00",
-  "total_titles_processed": 779,
+  "generated_at": "2026-06-26T15:52:30.686122+08:00",
+  "total_titles_processed": 991,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国",
-      "match_count": 44,
+      "match_count": 53,
       "titles": [
-        {
-          "title": "美国“拉清单”，商务部：中方不得不进行反制",
-          "url": "https://news.ifeng.com/c/8uFTPywHCdU",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时12分 ~ 07时18分]"
-        },
         {
           "title": "美国5月PCE物价指数同比上升4.1%，核心PCE同比3.4%创三年新高",
           "url": "https://wallstreetcn.com/articles/3775530",
@@ -29,8 +18,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 11时33分]"
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 15时52分]"
+        },
+        {
+          "title": "美国“拉清单”，商务部：中方不得不进行反制",
+          "url": "https://news.ifeng.com/c/8uFTPywHCdU",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 07时18分]"
         },
         {
           "title": "美国画饼，欧盟走过场，立陶宛挑衅中国最后却落得一地尴尬",
@@ -53,6 +53,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时12分 ~ 07时18分]"
+        },
+        {
+          "title": "土耳其3-2绝杀美国",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9C%9F%E8%80%B3%E5%85%B63-2%E7%BB%9D%E6%9D%80%E7%BE%8E%E5%9B%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
         },
         {
           "title": "全球咨询公司ICF International：美国电网正以惊人的速度扩张，到2030年，其新增规模可能相当于该国目前最大的区域电力系统。",
@@ -116,7 +127,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时33分"
         },
@@ -203,6 +214,17 @@
           "time_info": "[05时49分 ~ 11时33分]"
         },
         {
+          "title": "“1/6的价格，打爆美国AI护城河”——智谱开源模型GLM 5.2震动硅谷",
+          "url": "https://wallstreetcn.com/articles/3775500",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时33分 ~ 15时52分]"
+        },
+        {
           "title": "美国至6月25日7年期国债竞拍-得标利率 4.26%，前值4.29%。",
           "url": "https://flash.jin10.com/detail/20260626010206150800",
           "source": "金十数据",
@@ -258,6 +280,17 @@
           "time_info": "03时59分"
         },
         {
+          "title": "黎巴嫩真主党领导人纳伊姆·卡西姆：我们打破了以色列和美国的阴谋，进入了一个新阶段。",
+          "url": "https://flash.jin10.com/detail/20260626154505124800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
           "title": "房地美：美国上周30年期按揭贷款/抵押贷款利率6.49%，前值6.47%。",
           "url": "https://wallstreetcn.com/livenews/3124774",
           "source": "华尔街见闻-快讯",
@@ -280,26 +313,26 @@
           "time_info": "03时59分"
         },
         {
-          "title": "“1/6的价格，打爆美国AI护城河”——智谱开源模型GLM 5.2震动硅谷",
-          "url": "https://wallstreetcn.com/articles/3775500",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时33分"
-        },
-        {
           "title": "美国跑了，海湾国家面临“灾难性转折点”",
           "url": "https://news.ifeng.com/c/8uFe87ncSe4",
           "source": "凤凰网",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时33分"
+        },
+        {
+          "title": "“中国车到了加拿大，美国人肯定想越境搞回家”",
+          "url": "https://news.ifeng.com/c/8uGaPrP080h",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
         },
         {
           "title": "世界杯：土耳其vs美国",
@@ -308,7 +341,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时33分"
         },
@@ -352,7 +385,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时33分"
         },
@@ -377,6 +410,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
+        },
+        {
+          "title": "黎巴嫩真主党领导人纳伊姆·卡西姆：谅解备忘录是美国和以色列正式宣告失败的声明。",
+          "url": "https://flash.jin10.com/detail/20260626154214256800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
         },
         {
           "title": "市场消息：美国陆军基地将设立关键矿物工厂，以推动本土化生产。",
@@ -412,6 +456,17 @@
           "time_info": "01时12分"
         },
         {
+          "title": "美国2-3遭土耳其绝杀",
+          "url": "https://www.toutiao.com/trending/7655527532683722758/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
           "title": "法国总统马克龙：美国已结束对乌克兰的中立立场，其支持基辅的领土完整、军事援助、能源支持以及对俄罗斯的制裁。",
           "url": "https://flash.jin10.com/detail/20260626031925149800",
           "source": "金十数据",
@@ -421,6 +476,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
+        },
+        {
+          "title": "土耳其3比2绝杀美国",
+          "url": "https://www.baidu.com/s?wd=%E5%9C%9F%E8%80%B3%E5%85%B63%E6%AF%942%E7%BB%9D%E6%9D%80%E7%BE%8E%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
+          "title": "土耳其3:2绝杀美国",
+          "url": "https://www.douyin.com/hot/2547894",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
         },
         {
           "title": "美国芝加哥联储主席Goolsbee（2027年FOMC票委）：赞赏FOMC上周发布的精简声明。",
@@ -443,6 +520,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
+        },
+        {
+          "title": "民众谈委内瑞拉强震：以为是美国袭击",
+          "url": "https://www.toutiao.com/trending/7655167209207119913/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
         },
         {
           "title": "市场消息：由罗伯特·弗里德兰（Robert Friedland）联合创立的 I-Pulse Inc. 将获得 2.5 亿美元的美国资金，用于半导体和脉冲功率技术的开发。",
@@ -498,24 +586,24 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
+        },
+        {
+          "title": "土耳其3比2绝杀美国",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9C%9F%E8%80%B3%E5%85%B63%E6%AF%942%E7%BB%9D%E6%9D%80%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
         }
       ]
     },
     {
       "keyword_group": "日本",
-      "match_count": 18,
+      "match_count": 26,
       "titles": [
-        {
-          "title": "日本1-1瑞典",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC1-1%E7%91%9E%E5%85%B8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时33分"
-        },
         {
           "title": "主导电动车之后，中国发动机也对日本穷追不舍",
           "url": "https://news.ifeng.com/c/8uFLQzUmjSj",
@@ -534,9 +622,31 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时33分"
+        },
+        {
+          "title": "日本队小组赛不放水将在淘汰赛硬刚巴西，怎样看待这一选择？日本有赢球晋级的可能吗？",
+          "url": "https://www.zhihu.com/question/2053788614824129085",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
+          "title": "外交部：希望日本为政者倾听正视日本经济界声音",
+          "url": "https://wallstreetcn.com/livenews/3125123",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
         },
         {
           "title": "日本主帅森保一的数学时刻又到了",
@@ -548,6 +658,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时12分 ~ 07时18分]"
+        },
+        {
+          "title": "日本1-1瑞典",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC1-1%E7%91%9E%E5%85%B8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时33分 ~ 15时52分]"
         },
         {
           "title": "日本vs瑞典",
@@ -562,6 +684,18 @@
           "time_info": "[01时12分 ~ 07时18分]"
         },
         {
+          "title": "强势之组,荷兰日本瑞典携手晋级",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355656&amp;topic_name=%E5%BC%BA%E5%8A%BF%E4%B9%8B%E7%BB%84%2C%E8%8D%B7%E5%85%B0%E6%97%A5%E6%9C%AC%E7%91%9E%E5%85%B8%E6%90%BA%E6%89%8B%E6%99%8B%E7%BA%A7",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时33分 ~ 15时52分]"
+        },
+        {
           "title": "日本vs瑞典",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%ACvs%E7%91%9E%E5%85%B8%23&t=31&band_rank=24&Refer=top",
           "source": "微博",
@@ -573,24 +707,13 @@
           "time_info": "[07时17分 ~ 07时18分]"
         },
         {
-          "title": "强势之组,荷兰日本瑞典携手晋级",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355656&amp;topic_name=%E5%BC%BA%E5%8A%BF%E4%B9%8B%E7%BB%84%2C%E8%8D%B7%E5%85%B0%E6%97%A5%E6%9C%AC%E7%91%9E%E5%85%B8%E6%90%BA%E6%89%8B%E6%99%8B%E7%BA%A7",
-          "source": "贴吧",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时33分"
-        },
-        {
           "title": "日本也在报复韩国",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B9%9F%E5%9C%A8%E6%8A%A5%E5%A4%8D%E9%9F%A9%E5%9B%BD%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时33分"
         },
@@ -601,9 +724,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时33分"
+        },
+        {
+          "title": "知情人称因出口管制对日本企业造成冲击，日本驻华大使多次请求与中方会面，但均未成功，传递了什么信号？",
+          "url": "https://www.zhihu.com/question/2053182874514364148",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
         },
         {
           "title": "日本队也坑了韩国队",
@@ -612,7 +746,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时33分"
         },
@@ -634,7 +768,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时33分"
         },
@@ -645,7 +779,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时33分"
         },
@@ -656,7 +790,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时33分"
         },
@@ -672,13 +806,24 @@
           "time_info": "01时12分"
         },
         {
+          "title": "如何看待韩国网友怒骂德国故意输球，日本不帮韩国队出线？客观分析，韩国出线概率真的很渺茫吗？",
+          "url": "https://www.zhihu.com/question/2053827210838893606",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
           "title": "日本男足是否已经是世界一流强队",
           "url": "https://www.toutiao.com/trending/7655091537709694982/",
           "source": "今日头条",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时33分"
         },
@@ -689,9 +834,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时33分"
+        },
+        {
+          "title": "不挑对手直面巴西，日本挑战世界杯淘汰赛魔咒",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33458371",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
         },
         {
           "title": "日本1比1瑞典 淘汰赛将战巴西",
@@ -700,9 +856,225 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时33分"
+        },
+        {
+          "title": "韩国日本网友对骂",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%97%A5%E6%9C%AC%E7%BD%91%E5%8F%8B%E5%AF%B9%E9%AA%82%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
+          "title": "外交部：希望日本为政者倾听正视日本经济界声音",
+          "url": "https://flash.jin10.com/detail/20260626153800850800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
+          "title": "韩国网友怒骂德国日本",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E7%BD%91%E5%8F%8B%E6%80%92%E9%AA%82%E5%BE%B7%E5%9B%BD%E6%97%A5%E6%9C%AC",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "霍尔木兹波澜又起！有船只遭袭、疏散行动暂停 伊朗再发警告",
+          "url": "https://www.cls.cn/detail/2409704",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时33分 ~ 15时52分]"
+        },
+        {
+          "title": "伊朗外交部：希望那些领土和设施曾被美以侵略者用于近期强加战争中对伊朗发动攻击的地区国家，能够重新审视其立场。",
+          "url": "https://flash.jin10.com/detail/20260626155047553800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
+          "title": "意大利协助美国打伊朗？梅洛尼：吕特你别乱说",
+          "url": "https://news.ifeng.com/c/8uGv7gSoz4a",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
+          "title": "伊朗外交部：关于“美国对海湾合作委员会成员国安全的持久承诺”的说法，不过是空洞言论和对现实的歪曲。",
+          "url": "https://flash.jin10.com/detail/20260626155025723800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
+          "title": "意大利总理梅洛尼：我们从未参与伊朗冲突。",
+          "url": "https://flash.jin10.com/detail/20260626010507176800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时12分"
+        },
+        {
+          "title": "伊朗外交部：伊朗外交部认为，美国国务卿鲁比奥与海湾合作委员会外长于2026年6月25日发表的联合声明中所持立场具有干预性、不负责任且具有挑衅性，并地区好战及干预行为的持续提出警告。",
+          "url": "https://flash.jin10.com/detail/20260626154937869800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
+          "title": "美飞行员曝伊朗「创新武器」，简直是外星来的东西，具体情况如何？伊朗无人机研发是什么水平？",
+          "url": "https://www.zhihu.com/question/2053109056487822677",
+          "source": "知乎",
+          "ranks": [
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 07时18分]"
+        },
+        {
+          "title": "黎巴嫩真主党领导人纳伊姆·卡西姆：美国和以色列试图通过改变伊朗政权并控制该国来消灭伊朗，他们相信自己能够做到这一点。",
+          "url": "https://flash.jin10.com/detail/20260626154516356800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
+          "title": "在伊华商：战争改变伊朗民众对中国的看法",
+          "url": "https://news.ifeng.com/c/8uGjlCe4dNV",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
+          "title": "伊朗“波斯湾海峡管理局”：未按照PGSA设定航线航行的船只，将无法获得安全通行的保障",
+          "url": "https://wallstreetcn.com/livenews/3124821",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        },
+        {
+          "title": "消息人士：以军撤离黎巴嫩是伊朗重要“红线”",
+          "url": "https://flash.jin10.com/detail/20260626004406200800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时12分"
+        },
+        {
+          "title": "伊朗阿曼外长通话讨论霍尔木兹海峡问题",
+          "url": "https://wallstreetcn.com/livenews/3124766",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时12分"
+        },
+        {
+          "title": "伊朗测算：若建霍尔木兹海峡“收费站”，或可年赚400亿美元",
+          "url": "https://flash.jin10.com/detail/20260626153928285800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
+          "title": "伊朗警告船舶勿使用未经授权的海峡航线",
+          "url": "https://flash.jin10.com/detail/20260626030730178800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        },
+        {
+          "title": "美国官员：伊朗袭击了霍尔木兹海峡的一艘船。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3124808",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        },
+        {
+          "title": "欧盟石油协调小组：来自伊朗/中东地区的供应到达欧洲将需要时间。",
+          "url": "https://flash.jin10.com/detail/20260626153534754800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
         }
       ]
     },
@@ -719,8 +1091,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时17分 ~ 11时33分]"
+          "appearance_count": 4,
+          "time_info": "[07时17分 ~ 15时52分]"
         },
         {
           "title": "【早报】苹果市值一夜蒸发1.8万亿元，美股七巨头集体下挫；原油大涨超2%，黄金、白银收涨",
@@ -729,9 +1101,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时33分 ~ 15时52分]"
         },
         {
           "title": "美股",
@@ -866,7 +1238,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时33分"
         }
@@ -937,6 +1309,18 @@
           "time_info": "[05时49分 ~ 07时18分]"
         },
         {
+          "title": "曾嘲讽泽连斯基“无牌可打”，如今特朗普又夸“打得不错”",
+          "url": "https://news.ifeng.com/c/8uFlkiiXNU5",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时33分 ~ 15时52分]"
+        },
+        {
           "title": "特朗普寻求为陷入困境的美国农民提供111亿美元新援助",
           "url": "https://wallstreetcn.com/livenews/3124855",
           "source": "华尔街见闻-快讯",
@@ -978,18 +1362,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时33分"
-        },
-        {
-          "title": "曾嘲讽泽连斯基“无牌可打”，如今特朗普又夸“打得不错”",
-          "url": "https://news.ifeng.com/c/8uFlkiiXNU5",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时33分"
         },
@@ -1086,7 +1459,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时33分"
         },
@@ -1137,101 +1510,6 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "意大利总理梅洛尼：我们从未参与伊朗冲突。",
-          "url": "https://flash.jin10.com/detail/20260626010507176800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
-        },
-        {
-          "title": "霍尔木兹波澜又起！有船只遭袭、疏散行动暂停 伊朗再发警告",
-          "url": "https://www.cls.cn/detail/2409704",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时33分"
-        },
-        {
-          "title": "美飞行员曝伊朗「创新武器」，简直是外星来的东西，具体情况如何？伊朗无人机研发是什么水平？",
-          "url": "https://www.zhihu.com/question/2053109056487822677",
-          "source": "知乎",
-          "ranks": [
-            17,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时12分 ~ 07时18分]"
-        },
-        {
-          "title": "伊朗“波斯湾海峡管理局”：未按照PGSA设定航线航行的船只，将无法获得安全通行的保障",
-          "url": "https://wallstreetcn.com/livenews/3124821",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时59分"
-        },
-        {
-          "title": "消息人士：以军撤离黎巴嫩是伊朗重要“红线”",
-          "url": "https://flash.jin10.com/detail/20260626004406200800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
-        },
-        {
-          "title": "伊朗阿曼外长通话讨论霍尔木兹海峡问题",
-          "url": "https://wallstreetcn.com/livenews/3124766",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
-        },
-        {
-          "title": "伊朗警告船舶勿使用未经授权的海峡航线",
-          "url": "https://flash.jin10.com/detail/20260626030730178800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时59分"
-        },
-        {
-          "title": "美国官员：伊朗袭击了霍尔木兹海峡的一艘船。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3124808",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时59分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 6,
       "titles": [
@@ -1272,6 +1550,18 @@
           "time_info": "[05时49分 ~ 07时18分]"
         },
         {
+          "title": "网传 Google 内部称 Gemini 模型竞争力下降至行业第四，具体情况如何？下降原因可能有哪些？",
+          "url": "https://www.zhihu.com/question/2052444159282082405",
+          "source": "知乎",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时33分 ~ 15时52分]"
+        },
+        {
           "title": "谷歌公司为安卓系统推出新款谷歌理财（Google Finance）APP。",
           "url": "https://wallstreetcn.com/livenews/3124775",
           "source": "华尔街见闻-快讯",
@@ -1281,17 +1571,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
-        },
-        {
-          "title": "网传 Google 内部称 Gemini 模型竞争力下降至行业第四，具体情况如何？下降原因可能有哪些？",
-          "url": "https://www.zhihu.com/question/2052444159282082405",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时33分"
         },
         {
           "title": "据The Information：谷歌的人工智能项目推动出版商允许内容用于人工智能模型训练。",
@@ -1315,44 +1594,36 @@
           "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E8%B7%8C%E5%9B%9E3%E5%AD%97%E5%A4%B4+%E5%8D%8A%E5%B9%B4%E5%9B%9E%E6%92%A430%25",
           "source": "百度热搜",
           "ranks": [
-            5
+            5,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时33分 ~ 15时52分]"
         },
         {
           "title": "金价持续下跌",
           "url": "https://www.douyin.com/hot/2547979",
           "source": "抖音",
           "ranks": [
-            5
+            5,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时33分"
-        },
-        {
-          "title": "麦格里：下调年终金价预期至4300美元，预计黄金从明年开始逐年下跌至2030年",
-          "url": "https://flash.jin10.com/detail/20260626110850758800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时33分 ~ 15时52分]"
         },
         {
           "title": "国际金价跌破4000美元后重返关口，华安黄金ETF近三日遭净赎回21亿",
           "url": "https://m.thepaper.cn/newsDetail_forward_33454301",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时33分 ~ 15时52分]"
         },
         {
           "title": "金价跌回3字头半年回撤30%",
@@ -1361,7 +1632,18 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时33分 ~ 15时52分]"
+        },
+        {
+          "title": "麦格里：下调年终金价预期至4300美元，预计黄金从明年开始逐年下跌至2030年",
+          "url": "https://flash.jin10.com/detail/20260626110850758800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时33分"
         }
@@ -1378,20 +1660,21 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时33分 ~ 15时52分]"
         },
         {
           "title": "所有部门规模至少扩大一倍！DeepSeek发布“英雄帖”：人类正处于AGI前夜",
           "url": "https://m.thepaper.cn/newsDetail_forward_33454877",
           "source": "澎湃新闻",
           "ranks": [
-            10
+            10,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时33分 ~ 15时52分]"
         },
         {
           "title": "DeepSeek大规模招聘",
@@ -1400,7 +1683,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时33分"
         }
@@ -1449,8 +1732,19 @@
     },
     {
       "keyword_group": "印度",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "印度游客躲深山架明火烧烤",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355667&amp;topic_name=%E5%8D%B0%E5%BA%A6%E6%B8%B8%E5%AE%A2%E8%BA%B2%E6%B7%B1%E5%B1%B1%E6%9E%B6%E6%98%8E%E7%81%AB%E7%83%A7%E7%83%A4",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
         {
           "title": "中国人民银行公告，授权南非标准银行有限公司和中国工商银行股份有限公司担任非洲人民币联合清算行。授权中国银行(香港)有限公司雅加达分行担任印度尼西亚人民币清算行。",
           "url": "https://wallstreetcn.com/livenews/3125018",
@@ -1458,7 +1752,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时33分"
         },
@@ -1469,7 +1763,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时33分"
         }
