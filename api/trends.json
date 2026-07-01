@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-01T16:12:24.554263+08:00",
-  "total_titles_processed": 970,
+  "generated_at": "2026-07-01T20:07:05.115843+08:00",
+  "total_titles_processed": 1181,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国",
-      "match_count": 48,
+      "match_count": 53,
       "titles": [
         {
           "title": "美国常驻北约代表：美国通过援乌，已“变现”60亿美元",
@@ -123,6 +123,52 @@
           "time_info": "[03时54分 ~ 05时28分]"
         },
         {
+          "title": "中方回应美国解除对伊单边制裁",
+          "url": "https://news.ifeng.com/c/8uPFngdR3ec",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时12分 ~ 20时07分]"
+        },
+        {
+          "title": "僵局打开！美国解除对Anthropic两大AI旗舰模型的出口管控",
+          "url": "https://www.cls.cn/detail/2413870",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时12分 ~ 20时07分]"
+        },
+        {
+          "title": "美国对Anthropic Fable 5顶尖模型“解禁”，Anthropic：周三起恢复访问",
+          "url": "https://wallstreetcn.com/articles/3775902",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时12分 ~ 20时07分]"
+        },
+        {
+          "title": "美国司法部要求严查“赴美产子游”",
+          "url": "https://news.ifeng.com/c/8uPKl5IFXO6",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时06分 ~ 20时07分]"
+        },
+        {
           "title": "行业周报：美国上周API原油库存锐减超600万桶",
           "url": "https://wallstreetcn.com/livenews/3126984",
           "source": "华尔街见闻-快讯",
@@ -159,17 +205,6 @@
           "time_info": "[01时52分 ~ 07时11分]"
         },
         {
-          "title": "中方回应美国解除对伊单边制裁",
-          "url": "https://news.ifeng.com/c/8uPFngdR3ec",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时12分"
-        },
-        {
           "title": "富国银行：美国劳动力需求大致持稳，未有明显的再加速迹象",
           "url": "https://flash.jin10.com/detail/20260701113053265800",
           "source": "金十数据",
@@ -187,18 +222,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时12分"
-        },
-        {
-          "title": "僵局打开！美国解除对Anthropic两大AI旗舰模型的出口管控",
-          "url": "https://www.cls.cn/detail/2413870",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时12分"
         },
@@ -223,17 +247,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
-        },
-        {
-          "title": "美国对Anthropic Fable 5顶尖模型“解禁”，Anthropic：周三起恢复访问",
-          "url": "https://wallstreetcn.com/articles/3775902",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时12分"
         },
         {
           "title": "市场消息：美国国际贸易委员会裁定，在对墨西哥新鲜番茄的“情势变化复审”中未作出有利于调整贸易限制的决定。",
@@ -390,6 +403,17 @@
           "time_info": "05时28分"
         },
         {
+          "title": "美国白宫国家经济委员会主任哈塞特：预计美国下半年经济增长约为4%。 霍尔木兹海峡交通在经历了几天的波折后再次开始恢复。",
+          "url": "https://wallstreetcn.com/livenews/3127379",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时07分"
+        },
+        {
           "title": "美国副总统万斯：如果将黎以和平安排与美伊协议进行协调，两者的核心内容都强调尊重黎巴嫩的领土完整。",
           "url": "https://flash.jin10.com/detail/20260701031707956800",
           "source": "金十数据",
@@ -489,6 +513,17 @@
           "time_info": "01时52分"
         },
         {
+          "title": "美国6月26日当周MBA抵押贷款申请活动指数周环比 0%，前值 1%。",
+          "url": "https://wallstreetcn.com/livenews/3127374",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时07分"
+        },
+        {
           "title": "美国农业部（USDA）：美国二季度大豆库存10.61亿蒲式耳，预计2026年播种面积8540万英亩。 玉米库存52.95亿蒲式耳，预计2026年播种面积9530万英亩。 小麦库存9.20亿蒲式耳，预计2026年播种面积4270万英亩。 预计棉花播种面积990万英亩。",
           "url": "https://wallstreetcn.com/livenews/3126916",
           "source": "华尔街见闻-快讯",
@@ -506,7 +541,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时12分"
         },
@@ -533,6 +568,17 @@
           "time_info": "01时52分"
         },
         {
+          "title": "美国白宫国家经济委员会主任哈塞特：提高利率将是一个错误。",
+          "url": "https://flash.jin10.com/detail/20260701191847063800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时07分"
+        },
+        {
           "title": "美国财政部拍卖六周期国债，得标利率3.655%，投标倍数2.71。",
           "url": "https://wallstreetcn.com/livenews/3126907",
           "source": "华尔街见闻-快讯",
@@ -542,12 +588,672 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
+        },
+        {
+          "title": "以色列和美国签署在耶路撒冷设立永久大使馆的协议。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3127363",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "日本",
+      "match_count": 28,
+      "titles": [
+        {
+          "title": "中国军舰在日本周边海域“刷屏出现”",
+          "url": "https://news.ifeng.com/c/8uPIesrcCOt",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时06分 ~ 20时07分]"
+        },
+        {
+          "title": "“日本公民在大连是否被逮捕”，中方回应",
+          "url": "https://news.ifeng.com/c/8uPG12w50KX",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时06分 ~ 20时07分]"
+        },
+        {
+          "title": "世界杯赛后日本球迷在现场清理垃圾，被嘲「每四年表演一次文明」，你怎么看？这种行为真的是有组织的吗？",
+          "url": "https://www.zhihu.com/question/2055329815301813727",
+          "source": "知乎",
+          "ranks": [
+            18,
+            15,
+            10,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时52分 ~ 11时40分]"
+        },
+        {
+          "title": "输球捡垃圾,日本人又开演",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355747&amp;topic_name=%E8%BE%93%E7%90%83%E6%8D%A1%E5%9E%83%E5%9C%BE%2C%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%8F%88%E5%BC%80%E6%BC%94",
+          "source": "贴吧",
+          "ranks": [
+            14,
+            15,
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时52分 ~ 16时12分]"
+        },
+        {
+          "title": "惊险翻盘,巴西绝杀日本",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355744&amp;topic_name=%E6%83%8A%E9%99%A9%E7%BF%BB%E7%9B%98%2C%E5%B7%B4%E8%A5%BF%E7%BB%9D%E6%9D%80%E6%97%A5%E6%9C%AC",
+          "source": "贴吧",
+          "ranks": [
+            15,
+            16,
+            25,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时52分 ~ 16时12分]"
+        },
+        {
+          "title": "日本球迷被披上巴西国旗",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E7%90%83%E8%BF%B7%E8%A2%AB%E6%8A%AB%E4%B8%8A%E5%B7%B4%E8%A5%BF%E5%9B%BD%E6%97%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19,
+            16,
+            20,
+            24,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时52分 ~ 16时12分]"
+        },
+        {
+          "title": "日元跌破 1 美元兑 162 日元关口，创下近 40 年来新低，日本央行已加息至 1%，为何完全挡不住日元贬值颓势？",
+          "url": "https://www.zhihu.com/question/2055222122289558459",
+          "source": "知乎",
+          "ranks": [
+            2,
+            8,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时52分 ~ 07时11分]"
+        },
+        {
+          "title": "日本淘汰赛白卷,四强全靠吹",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355756&amp;topic_name=%E6%97%A5%E6%9C%AC%E6%B7%98%E6%B1%B0%E8%B5%9B%E7%99%BD%E5%8D%B7%2C%E5%9B%9B%E5%BC%BA%E5%85%A8%E9%9D%A0%E5%90%B9",
+          "source": "贴吧",
+          "ranks": [
+            17,
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时52分 ~ 11时40分]"
+        },
+        {
+          "title": "球评巴西绝杀逆转日本",
+          "url": "https://search.bilibili.com/all?keyword=%E7%90%83%E8%AF%84%E5%B7%B4%E8%A5%BF%E7%BB%9D%E6%9D%80%E9%80%86%E8%BD%AC%E6%97%A5%E6%9C%AC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            26,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时54分 ~ 20时07分]"
+        },
+        {
+          "title": "拆解日本队出局原因",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8B%86%E8%A7%A3%E6%97%A5%E6%9C%AC%E9%98%9F%E5%87%BA%E5%B1%80%E5%8E%9F%E5%9B%A0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29,
+            26,
+            23,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时52分 ~ 20时07分]"
+        },
+        {
+          "title": "日本为什么会流行起来枯山水，毕竟这风格很容易招流浪猫过来上厕所？",
+          "url": "https://www.zhihu.com/question/2050396904736002428",
+          "source": "知乎",
+          "ranks": [
+            13,
+            9,
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时52分 ~ 07时11分]"
+        },
+        {
+          "title": "内马尔安慰日本球员",
+          "url": "https://www.douyin.com/hot/2553088",
+          "source": "抖音",
+          "ranks": [
+            21,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时52分 ~ 07时11分]"
+        },
+        {
+          "title": "火药味浓!日本巴西激情互怼",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355742&amp;topic_name=%E7%81%AB%E8%8D%AF%E5%91%B3%E6%B5%93%21%E6%97%A5%E6%9C%AC%E5%B7%B4%E8%A5%BF%E6%BF%80%E6%83%85%E4%BA%92%E6%80%BC",
+          "source": "贴吧",
+          "ranks": [
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时52分 ~ 07时11分]"
+        },
+        {
+          "title": "巴西2:1绝杀日本",
+          "url": "https://www.douyin.com/hot/2551903",
+          "source": "抖音",
+          "ranks": [
+            27,
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时52分 ~ 07时11分]"
+        },
+        {
+          "title": "日本男球迷公然猥亵女记者",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355796&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%94%B7%E7%90%83%E8%BF%B7%E5%85%AC%E7%84%B6%E7%8C%A5%E4%BA%B5%E5%A5%B3%E8%AE%B0%E8%80%85",
+          "source": "贴吧",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时06分 ~ 20时07分]"
+        },
+        {
+          "title": "日本政坛，发生稀奇一幕(图)",
+          "url": "https://news.ifeng.com/c/8uNzhjnVAG3",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时40分 ~ 16时12分]"
+        },
+        {
+          "title": "日本物价三连跳,老百姓麻了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355799&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%89%A9%E4%BB%B7%E4%B8%89%E8%BF%9E%E8%B7%B3%2C%E8%80%81%E7%99%BE%E5%A7%93%E9%BA%BB%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时06分 ~ 20时07分]"
+        },
+        {
+          "title": "外交部再回应两名日本人在华被拘留",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%86%8D%E5%9B%9E%E5%BA%94%E4%B8%A4%E5%90%8D%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%9C%A8%E5%8D%8E%E8%A2%AB%E6%8B%98%E7%95%99",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时06分 ~ 20时07分]"
+        },
+        {
+          "title": "中国军舰在日本周边海域“刷屏出现”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%86%9B%E8%88%B0%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%91%A8%E8%BE%B9%E6%B5%B7%E5%9F%9F%E2%80%9C%E5%88%B7%E5%B1%8F%E5%87%BA%E7%8E%B0%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时06分 ~ 20时07分]"
+        },
+        {
+          "title": "中国军舰在日本周边海域“刷屏出现”",
+          "url": "https://www.toutiao.com/trending/7657385985998684179/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时06分 ~ 20时07分]"
+        },
+        {
+          "title": "日本“短观”释放信号！景气与通胀预期齐升，10月加息稳了？",
+          "url": "https://flash.jin10.com/detail/20260701112735816800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时40分"
+        },
+        {
+          "title": "大和证券：日本企业景气度料将进一步改善",
+          "url": "https://flash.jin10.com/detail/20260701112723554800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时40分"
+        },
+        {
+          "title": "日本物价持续上涨",
+          "url": "https://www.toutiao.com/trending/7656756619632279558/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时12分"
+        },
+        {
+          "title": "日本男球迷猥亵女记者",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%94%B7%E7%90%83%E8%BF%B7%E7%8C%A5%E4%BA%B5%E5%A5%B3%E8%AE%B0%E8%80%85%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时40分"
+        },
+        {
+          "title": "王曼昱不敌日本削球手佐藤瞳",
+          "url": "https://www.toutiao.com/trending/7656518517240741939/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时40分"
+        },
+        {
+          "title": "日本为何输给巴西",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%B8%BA%E4%BD%95%E8%BE%93%E7%BB%99%E5%B7%B4%E8%A5%BF",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时40分"
+        },
+        {
+          "title": "被披巴西国旗日本球迷痛哭回应",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%8A%AB%E5%B7%B4%E8%A5%BF%E5%9B%BD%E6%97%97%E6%97%A5%E6%9C%AC%E7%90%83%E8%BF%B7%E7%97%9B%E5%93%AD%E5%9B%9E%E5%BA%94%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时54分"
+        },
+        {
+          "title": "如何评价日本对战巴西表现",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E6%97%A5%E6%9C%AC%E5%AF%B9%E6%88%98%E5%B7%B4%E8%A5%BF%E8%A1%A8%E7%8E%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 27,
+      "titles": [
+        {
+          "title": "伊朗：未来几天暂无与美方会晤计划",
+          "url": "https://news.ifeng.com/c/8uNt8EVi3KV",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时52分 ~ 07时11分]"
+        },
+        {
+          "title": "美国副总统万斯：伊朗一方面公开否认和平谈判正在进行，但另一方面，美伊之间关于协议的技术性讨论仍在持续。这种做法是伊朗在谈判与话语上的一种“策略性手法”。",
+          "url": "https://flash.jin10.com/detail/20260701032915175800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时54分"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：将向中央银行提供120亿美元资金，用于其在全球范围内以任何价格、任何货币采购所需商品。这一安排是可行的，相关流程正在推进中。",
+          "url": "https://flash.jin10.com/detail/20260701032847648800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时54分"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：（若出现）第三次强加于伊朗的战争将被视为对国家的全面侵略。",
+          "url": "https://flash.jin10.com/detail/20260701032838370800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时54分"
+        },
+        {
+          "title": "凤凰女记者：伊朗对霍尔木兹海峡态度十分强硬，只能美国做出妥协",
+          "url": "https://news.ifeng.com/c/8uNZON3SysC",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时52分 ~ 07时11分]"
+        },
+        {
+          "title": "伊朗石油出口在美国封锁解除后超过4000万桶",
+          "url": "https://wallstreetcn.com/livenews/3126957",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时54分 ~ 05时28分]"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：（被问及资金是否仅限用于向美国农民购买粮食时）绝对不是。",
+          "url": "https://flash.jin10.com/detail/20260701032725618800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时54分"
+        },
+        {
+          "title": "伊朗称将适时启动伊美最终协议谈判",
+          "url": "https://wallstreetcn.com/livenews/3127397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时07分"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：如果美国试图剥夺伊朗出售石油的权利，那么“没有人会从石油中受益”。",
+          "url": "https://flash.jin10.com/detail/20260701032333102800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时54分"
+        },
+        {
+          "title": "伊朗称将适时启动伊美最终协议谈判",
+          "url": "https://flash.jin10.com/detail/20260701194504364800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时07分"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：霍尔木兹海峡的价值在于通行量日益增加，而不是减少。不应让霍尔木兹海峡被“反向利用”或变成对自身不利的工具。",
+          "url": "https://flash.jin10.com/detail/20260701032311132800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时54分"
+        },
+        {
+          "title": "多哈谈判方已达成初步协议，将向伊朗释放30亿美元资金",
+          "url": "https://flash.jin10.com/detail/20260701194313786800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时07分"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：对伊朗的石油制裁已经解除。伊朗目前以较之前高出约20%的溢价出售原油。",
+          "url": "https://flash.jin10.com/detail/20260701032222463800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时54分"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：必须逐步提升霍尔木兹海峡的繁荣与通行能力。我认为应对美国和以色列实施限制措施，海峡通行量仍需增加。",
+          "url": "https://flash.jin10.com/detail/20260701032035526800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时54分"
+        },
+        {
+          "title": "据以色列第12频道援引沙特媒体报道：多哈谈判方已达成一项初步协议，将向伊朗释放30亿美元资金。",
+          "url": "https://flash.jin10.com/detail/20260701193723259800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时07分"
+        },
+        {
+          "title": "伊朗队启程回国",
+          "url": "https://wallstreetcn.com/livenews/3126925",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时52分"
+        },
+        {
+          "title": "霍尔木兹海峡正被重新定义，伊朗坚持安全航行不是“免费公共服务”",
+          "url": "https://flash.jin10.com/detail/20260701111507956800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时40分"
+        },
+        {
+          "title": "伊朗外交部发言人：最终协议谈判须以五项条款落实为前提，黎巴嫩停火仍脆弱。",
+          "url": "https://flash.jin10.com/detail/20260701005528456800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时52分"
+        },
+        {
+          "title": "美国副总统万斯：美国希望达成可持续、可核查的承诺，并通过实地核查加以保障。目标是确保伊朗实现全面无核化。",
+          "url": "https://flash.jin10.com/detail/20260701031620480800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时54分"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：铀浓缩是伊朗的权利。伊朗遵守《不扩散核武器条约》的相关规定。",
+          "url": "https://flash.jin10.com/detail/20260701031357327800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时54分"
+        },
+        {
+          "title": "伊朗副外长会见卡塔尔首相。伊朗副外长讨论美国谅解备忘录的落实情况。伊朗表示最终协议的谈判尚未开始。（IRNA）",
+          "url": "https://wallstreetcn.com/livenews/3127372",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时07分"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：霍尔木兹海峡的主权属于伊朗和阿曼。海峡通行由伊朗方面制定相关安排。同时，伊朗会就通行事宜与波斯湾沿岸国家进行协商。",
+          "url": "https://flash.jin10.com/detail/20260701031218904800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时54分"
+        },
+        {
+          "title": "伊朗称美若无法约束宠物伊朗将出手",
+          "url": "https://wallstreetcn.com/livenews/3127371",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时07分"
+        },
+        {
+          "title": "伊朗外交部发言人：明天的会议将主要讨论被冻结资金的解冻问题以及黎巴嫩停火问题。<br/>",
+          "url": "https://flash.jin10.com/detail/20260701004154828800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时52分"
+        },
+        {
+          "title": "伊朗队启程回国",
+          "url": "https://www.toutiao.com/trending/7657225179856408091/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时52分"
+        },
+        {
+          "title": "以色列国防部长：如有必要 以色列将再次打击伊朗",
+          "url": "https://wallstreetcn.com/livenews/3127367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时07分"
+        },
+        {
+          "title": "伊朗足协主席发声",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%B6%B3%E5%8D%8F%E4%B8%BB%E5%B8%AD%E5%8F%91%E5%A3%B0",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时28分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "“我不在乎中期选举”：特朗普惹恼共和党议员",
@@ -650,6 +1356,17 @@
           "time_info": "[01时52分 ~ 03时54分]"
         },
         {
+          "title": "特朗普限制出生公民权被裁定违宪",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E9%99%90%E5%88%B6%E5%87%BA%E7%94%9F%E5%85%AC%E6%B0%91%E6%9D%83%E8%A2%AB%E8%A3%81%E5%AE%9A%E8%BF%9D%E5%AE%AA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时06分 ~ 20时07分]"
+        },
+        {
           "title": "特朗普政府，遭全美半数州集体起诉",
           "url": "https://news.ifeng.com/c/8uO4jG3X5zq",
           "source": "凤凰网",
@@ -738,6 +1455,17 @@
           "time_info": "11时40分"
         },
         {
+          "title": "白宫经济顾问哈塞特：提高利率将是一个错误。 新任美联储主席沃什不得不应付一些棘手问题，工作艰巨。 部分美联储官员可能出于针对特朗普的目的作出政策投票。",
+          "url": "https://wallstreetcn.com/livenews/3127387",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时07分"
+        },
+        {
           "title": "美国政府伦理办公室发布经认证的特朗普年度财务披露报告。",
           "url": "https://flash.jin10.com/detail/20260701043754582800",
           "source": "金十数据",
@@ -817,502 +1545,8 @@
       ]
     },
     {
-      "keyword_group": "日本",
-      "match_count": 21,
-      "titles": [
-        {
-          "title": "世界杯赛后日本球迷在现场清理垃圾，被嘲「每四年表演一次文明」，你怎么看？这种行为真的是有组织的吗？",
-          "url": "https://www.zhihu.com/question/2055329815301813727",
-          "source": "知乎",
-          "ranks": [
-            18,
-            15,
-            10,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时52分 ~ 11时40分]"
-        },
-        {
-          "title": "输球捡垃圾,日本人又开演",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355747&amp;topic_name=%E8%BE%93%E7%90%83%E6%8D%A1%E5%9E%83%E5%9C%BE%2C%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%8F%88%E5%BC%80%E6%BC%94",
-          "source": "贴吧",
-          "ranks": [
-            14,
-            15,
-            24,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时52分 ~ 16时12分]"
-        },
-        {
-          "title": "惊险翻盘,巴西绝杀日本",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355744&amp;topic_name=%E6%83%8A%E9%99%A9%E7%BF%BB%E7%9B%98%2C%E5%B7%B4%E8%A5%BF%E7%BB%9D%E6%9D%80%E6%97%A5%E6%9C%AC",
-          "source": "贴吧",
-          "ranks": [
-            15,
-            16,
-            25,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时52分 ~ 16时12分]"
-        },
-        {
-          "title": "日本球迷被披上巴西国旗",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E7%90%83%E8%BF%B7%E8%A2%AB%E6%8A%AB%E4%B8%8A%E5%B7%B4%E8%A5%BF%E5%9B%BD%E6%97%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19,
-            16,
-            20,
-            24,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时52分 ~ 16时12分]"
-        },
-        {
-          "title": "日元跌破 1 美元兑 162 日元关口，创下近 40 年来新低，日本央行已加息至 1%，为何完全挡不住日元贬值颓势？",
-          "url": "https://www.zhihu.com/question/2055222122289558459",
-          "source": "知乎",
-          "ranks": [
-            2,
-            8,
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时52分 ~ 07时11分]"
-        },
-        {
-          "title": "日本淘汰赛白卷,四强全靠吹",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355756&amp;topic_name=%E6%97%A5%E6%9C%AC%E6%B7%98%E6%B1%B0%E8%B5%9B%E7%99%BD%E5%8D%B7%2C%E5%9B%9B%E5%BC%BA%E5%85%A8%E9%9D%A0%E5%90%B9",
-          "source": "贴吧",
-          "ranks": [
-            17,
-            18,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时52分 ~ 11时40分]"
-        },
-        {
-          "title": "日本为什么会流行起来枯山水，毕竟这风格很容易招流浪猫过来上厕所？",
-          "url": "https://www.zhihu.com/question/2050396904736002428",
-          "source": "知乎",
-          "ranks": [
-            13,
-            9,
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时52分 ~ 07时11分]"
-        },
-        {
-          "title": "内马尔安慰日本球员",
-          "url": "https://www.douyin.com/hot/2553088",
-          "source": "抖音",
-          "ranks": [
-            21,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时52分 ~ 07时11分]"
-        },
-        {
-          "title": "火药味浓!日本巴西激情互怼",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355742&amp;topic_name=%E7%81%AB%E8%8D%AF%E5%91%B3%E6%B5%93%21%E6%97%A5%E6%9C%AC%E5%B7%B4%E8%A5%BF%E6%BF%80%E6%83%85%E4%BA%92%E6%80%BC",
-          "source": "贴吧",
-          "ranks": [
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时52分 ~ 07时11分]"
-        },
-        {
-          "title": "巴西2:1绝杀日本",
-          "url": "https://www.douyin.com/hot/2551903",
-          "source": "抖音",
-          "ranks": [
-            27,
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时52分 ~ 07时11分]"
-        },
-        {
-          "title": "球评巴西绝杀逆转日本",
-          "url": "https://search.bilibili.com/all?keyword=%E7%90%83%E8%AF%84%E5%B7%B4%E8%A5%BF%E7%BB%9D%E6%9D%80%E9%80%86%E8%BD%AC%E6%97%A5%E6%9C%AC",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27,
-            26,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时54分 ~ 16时12分]"
-        },
-        {
-          "title": "拆解日本队出局原因",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8B%86%E8%A7%A3%E6%97%A5%E6%9C%AC%E9%98%9F%E5%87%BA%E5%B1%80%E5%8E%9F%E5%9B%A0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29,
-            26,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时52分 ~ 05时28分]"
-        },
-        {
-          "title": "日本政坛，发生稀奇一幕(图)",
-          "url": "https://news.ifeng.com/c/8uNzhjnVAG3",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时40分 ~ 16时12分]"
-        },
-        {
-          "title": "日本“短观”释放信号！景气与通胀预期齐升，10月加息稳了？",
-          "url": "https://flash.jin10.com/detail/20260701112735816800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时40分"
-        },
-        {
-          "title": "大和证券：日本企业景气度料将进一步改善",
-          "url": "https://flash.jin10.com/detail/20260701112723554800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时40分"
-        },
-        {
-          "title": "日本物价持续上涨",
-          "url": "https://www.toutiao.com/trending/7656756619632279558/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时12分"
-        },
-        {
-          "title": "日本男球迷猥亵女记者",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%94%B7%E7%90%83%E8%BF%B7%E7%8C%A5%E4%BA%B5%E5%A5%B3%E8%AE%B0%E8%80%85%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时40分"
-        },
-        {
-          "title": "王曼昱不敌日本削球手佐藤瞳",
-          "url": "https://www.toutiao.com/trending/7656518517240741939/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时40分"
-        },
-        {
-          "title": "日本为何输给巴西",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%B8%BA%E4%BD%95%E8%BE%93%E7%BB%99%E5%B7%B4%E8%A5%BF",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时40分"
-        },
-        {
-          "title": "被披巴西国旗日本球迷痛哭回应",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%8A%AB%E5%B7%B4%E8%A5%BF%E5%9B%BD%E6%97%97%E6%97%A5%E6%9C%AC%E7%90%83%E8%BF%B7%E7%97%9B%E5%93%AD%E5%9B%9E%E5%BA%94%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时54分"
-        },
-        {
-          "title": "如何评价日本对战巴西表现",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E6%97%A5%E6%9C%AC%E5%AF%B9%E6%88%98%E5%B7%B4%E8%A5%BF%E8%A1%A8%E7%8E%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 20,
-      "titles": [
-        {
-          "title": "伊朗：未来几天暂无与美方会晤计划",
-          "url": "https://news.ifeng.com/c/8uNt8EVi3KV",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时52分 ~ 07时11分]"
-        },
-        {
-          "title": "美国副总统万斯：伊朗一方面公开否认和平谈判正在进行，但另一方面，美伊之间关于协议的技术性讨论仍在持续。这种做法是伊朗在谈判与话语上的一种“策略性手法”。",
-          "url": "https://flash.jin10.com/detail/20260701032915175800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时54分"
-        },
-        {
-          "title": "伊朗议会议长卡利巴夫：将向中央银行提供120亿美元资金，用于其在全球范围内以任何价格、任何货币采购所需商品。这一安排是可行的，相关流程正在推进中。",
-          "url": "https://flash.jin10.com/detail/20260701032847648800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时54分"
-        },
-        {
-          "title": "伊朗议会议长卡利巴夫：（若出现）第三次强加于伊朗的战争将被视为对国家的全面侵略。",
-          "url": "https://flash.jin10.com/detail/20260701032838370800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时54分"
-        },
-        {
-          "title": "凤凰女记者：伊朗对霍尔木兹海峡态度十分强硬，只能美国做出妥协",
-          "url": "https://news.ifeng.com/c/8uNZON3SysC",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时52分 ~ 07时11分]"
-        },
-        {
-          "title": "伊朗石油出口在美国封锁解除后超过4000万桶",
-          "url": "https://wallstreetcn.com/livenews/3126957",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时54分 ~ 05时28分]"
-        },
-        {
-          "title": "伊朗议会议长卡利巴夫：（被问及资金是否仅限用于向美国农民购买粮食时）绝对不是。",
-          "url": "https://flash.jin10.com/detail/20260701032725618800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时54分"
-        },
-        {
-          "title": "伊朗议会议长卡利巴夫：如果美国试图剥夺伊朗出售石油的权利，那么“没有人会从石油中受益”。",
-          "url": "https://flash.jin10.com/detail/20260701032333102800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时54分"
-        },
-        {
-          "title": "伊朗议会议长卡利巴夫：霍尔木兹海峡的价值在于通行量日益增加，而不是减少。不应让霍尔木兹海峡被“反向利用”或变成对自身不利的工具。",
-          "url": "https://flash.jin10.com/detail/20260701032311132800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时54分"
-        },
-        {
-          "title": "伊朗议会议长卡利巴夫：对伊朗的石油制裁已经解除。伊朗目前以较之前高出约20%的溢价出售原油。",
-          "url": "https://flash.jin10.com/detail/20260701032222463800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时54分"
-        },
-        {
-          "title": "伊朗议会议长卡利巴夫：必须逐步提升霍尔木兹海峡的繁荣与通行能力。我认为应对美国和以色列实施限制措施，海峡通行量仍需增加。",
-          "url": "https://flash.jin10.com/detail/20260701032035526800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时54分"
-        },
-        {
-          "title": "伊朗队启程回国",
-          "url": "https://wallstreetcn.com/livenews/3126925",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "霍尔木兹海峡正被重新定义，伊朗坚持安全航行不是“免费公共服务”",
-          "url": "https://flash.jin10.com/detail/20260701111507956800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时40分"
-        },
-        {
-          "title": "伊朗外交部发言人：最终协议谈判须以五项条款落实为前提，黎巴嫩停火仍脆弱。",
-          "url": "https://flash.jin10.com/detail/20260701005528456800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "美国副总统万斯：美国希望达成可持续、可核查的承诺，并通过实地核查加以保障。目标是确保伊朗实现全面无核化。",
-          "url": "https://flash.jin10.com/detail/20260701031620480800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时54分"
-        },
-        {
-          "title": "伊朗议会议长卡利巴夫：铀浓缩是伊朗的权利。伊朗遵守《不扩散核武器条约》的相关规定。",
-          "url": "https://flash.jin10.com/detail/20260701031357327800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时54分"
-        },
-        {
-          "title": "伊朗议会议长卡利巴夫：霍尔木兹海峡的主权属于伊朗和阿曼。海峡通行由伊朗方面制定相关安排。同时，伊朗会就通行事宜与波斯湾沿岸国家进行协商。",
-          "url": "https://flash.jin10.com/detail/20260701031218904800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时54分"
-        },
-        {
-          "title": "伊朗外交部发言人：明天的会议将主要讨论被冻结资金的解冻问题以及黎巴嫩停火问题。<br/>",
-          "url": "https://flash.jin10.com/detail/20260701004154828800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "伊朗队启程回国",
-          "url": "https://www.toutiao.com/trending/7657225179856408091/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "伊朗足协主席发声",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%B6%B3%E5%8D%8F%E4%B8%BB%E5%B8%AD%E5%8F%91%E5%A3%B0",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时28分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "【早报】多只A股公司业绩大增；美股存储概念半年涨超3倍；黄金、原油收跌；法国、挪威晋级世界杯16强",
@@ -1349,6 +1583,18 @@
           "time_info": "05时28分"
         },
         {
+          "title": "人工智能领域“权力更迭”：美股三大芯片股市值Q2增加约2万亿美元",
+          "url": "https://www.cls.cn/detail/2413957",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时12分 ~ 20时07分]"
+        },
+        {
           "title": "美股冲击近6年最强季度表现 美伊代表齐赴多哈 | 今夜看点",
           "url": "https://www.cls.cn/detail/2413394",
           "source": "财联社热门",
@@ -1359,6 +1605,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时52分 ~ 11时40分]"
+        },
+        {
+          "title": "“炒币”高手特朗普！官方披露2025年加密货币业务斩获超10亿美元，重仓美股科技巨头",
+          "url": "https://wallstreetcn.com/articles/3775893",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时40分 ~ 20时07分]"
         },
         {
           "title": "AI热情驱动，美股指走高，太阳能板块普涨，日元创40年新低，金银油齐涨",
@@ -1372,16 +1630,15 @@
           "time_info": "[01时52分 ~ 05时28分]"
         },
         {
-          "title": "“炒币”高手特朗普！官方披露2025年加密货币业务斩获超10亿美元，重仓美股科技巨头",
-          "url": "https://wallstreetcn.com/articles/3775893",
+          "title": "市场等待沃什讲话与非农数据，美股盘前存储芯片股走低，康宁跌超4%，黄金再跌1%",
+          "url": "https://wallstreetcn.com/articles/3775932",
           "source": "华尔街见闻",
           "ranks": [
-            8,
             9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时40分 ~ 16时12分]"
+          "time_info": "[20时06分 ~ 20时07分]"
         },
         {
           "title": "美股大类资产类ETF多数收跌，上半年布油基金涨超43%，新兴市场ETF、纳指ETF等涨超20%",
@@ -1428,17 +1685,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
-        },
-        {
-          "title": "人工智能领域“权力更迭”：美股三大芯片股市值Q2增加约2万亿美元",
-          "url": "https://www.cls.cn/detail/2413957",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时12分"
         },
         {
           "title": "受美联储风险及美元走强拖累，拉美股市终结季度连涨势头",
@@ -1520,8 +1766,83 @@
       ]
     },
     {
+      "keyword_group": "印度",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "劝离无效,印度游客强占栈道",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355781&amp;topic_name=%E5%8A%9D%E7%A6%BB%E6%97%A0%E6%95%88%2C%E5%8D%B0%E5%BA%A6%E6%B8%B8%E5%AE%A2%E5%BC%BA%E5%8D%A0%E6%A0%88%E9%81%93",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时40分 ~ 20时07分]"
+        },
+        {
+          "title": "张家界玻璃桥印度游客堵塞栈道",
+          "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%AE%B6%E7%95%8C%E7%8E%BB%E7%92%83%E6%A1%A5%E5%8D%B0%E5%BA%A6%E6%B8%B8%E5%AE%A2%E5%A0%B5%E5%A1%9E%E6%A0%88%E9%81%93&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26,
+            25,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时52分 ~ 07时11分]"
+        },
+        {
+          "title": "俄罗斯从印度进口汽油以应对短缺 至少已运送6万吨",
+          "url": "https://flash.jin10.com/detail/20260701194622598800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时07分"
+        },
+        {
+          "title": "巴基斯坦与印度交换在押人员名单",
+          "url": "https://wallstreetcn.com/livenews/3127390",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时07分"
+        },
+        {
+          "title": "税收优惠后，外国投资者购买印度债券量创纪录",
+          "url": "https://flash.jin10.com/detail/20260701111802363800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时40分"
+        },
+        {
+          "title": "印度NIFTY IT指数跌超1%。",
+          "url": "https://flash.jin10.com/detail/20260701153652299800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时12分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "科技股力撑美股反弹，标普纳指终结五连跌，谷歌涨5%，油价反弹，日元跌至40年低位",
@@ -1548,6 +1869,17 @@
           "time_info": "[01时52分 ~ 03时54分]"
         },
         {
+          "title": "谷歌发言人：（就瑞典法院反垄断案件裁决）我们不同意法院的决定，将考虑我们的法律选项。",
+          "url": "https://flash.jin10.com/detail/20260701194530894800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时07分"
+        },
+        {
           "title": "Anthropic：将与亚马逊、微软、谷歌及其他Glasswing合作伙伴共同制定评估AI越狱严重性的框架。",
           "url": "https://flash.jin10.com/detail/20260701111702765800",
           "source": "金十数据",
@@ -1572,52 +1904,50 @@
       ]
     },
     {
-      "keyword_group": "印度",
+      "keyword_group": "金价",
       "match_count": 4,
       "titles": [
         {
-          "title": "劝离无效,印度游客强占栈道",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355781&amp;topic_name=%E5%8A%9D%E7%A6%BB%E6%97%A0%E6%95%88%2C%E5%8D%B0%E5%BA%A6%E6%B8%B8%E5%AE%A2%E5%BC%BA%E5%8D%A0%E6%A0%88%E9%81%93",
-          "source": "贴吧",
+          "title": "世界黄金协会：亚洲投资者（及消费者）在价格发现和金价走向中日益重要",
+          "url": "https://wallstreetcn.com/livenews/3127404",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            3
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时40分 ~ 16时12分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时07分"
         },
         {
-          "title": "张家界玻璃桥印度游客堵塞栈道",
-          "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%AE%B6%E7%95%8C%E7%8E%BB%E7%92%83%E6%A1%A5%E5%8D%B0%E5%BA%A6%E6%B8%B8%E5%AE%A2%E5%A0%B5%E5%A1%9E%E6%A0%88%E9%81%93&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26,
-            25,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时52分 ~ 07时11分]"
-        },
-        {
-          "title": "税收优惠后，外国投资者购买印度债券量创纪录",
-          "url": "https://flash.jin10.com/detail/20260701111802363800",
+          "title": "受加息担忧影响 金价跌回4000美元下方",
+          "url": "https://flash.jin10.com/detail/20260701154243991800",
           "source": "金十数据",
           "ranks": [
-            15
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时40分"
+          "time_info": "16时12分"
         },
         {
-          "title": "印度NIFTY IT指数跌超1%。",
-          "url": "https://flash.jin10.com/detail/20260701153652299800",
+          "title": "世界黄金协会：基准情景下，金价年内或将在4100美元附近交投",
+          "url": "https://flash.jin10.com/detail/20260701192900896800",
           "source": "金十数据",
           "ranks": [
-            19
+            21
           ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时07分"
+        },
+        {
+          "title": "金价4000美元之下是陷阱还是机会？",
+          "url": "https://flash.jin10.com/detail/20260701153202436800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时12分"
         }
@@ -1645,35 +1975,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "受加息担忧影响 金价跌回4000美元下方",
-          "url": "https://flash.jin10.com/detail/20260701154243991800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时12分"
-        },
-        {
-          "title": "金价4000美元之下是陷阱还是机会？",
-          "url": "https://flash.jin10.com/detail/20260701153202436800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时12分"
         }
@@ -1689,11 +1991,12 @@
           "source": "华尔街见闻",
           "ranks": [
             2,
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时11分 ~ 16时12分]"
+          "appearance_count": 5,
+          "time_info": "[07时11分 ~ 20时07分]"
         },
         {
           "title": "6月份两年期美债实际收益率涨超77个基点，二季度两年期收益率涨超35个基点",
@@ -1742,6 +2045,40 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时54分 ~ 05时28分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "情感",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何评价优必选情感陪伴超仿生机器人正式亮相？看完后，你会购买吗？",
+          "url": "https://www.zhihu.com/question/2055332858051257824",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时06分 ~ 20时07分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "天津",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "天津现1380元煎饼果子",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E7%8E%B01380%E5%85%83%E7%85%8E%E9%A5%BC%E6%9E%9C%E5%AD%90",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时06分 ~ 20时07分]"
         }
       ]
     }
