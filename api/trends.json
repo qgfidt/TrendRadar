@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-01T07:11:49.446758+08:00",
-  "total_titles_processed": 541,
+  "generated_at": "2026-07-01T11:40:50.781931+08:00",
+  "total_titles_processed": 773,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国",
-      "match_count": 34,
+      "match_count": 43,
       "titles": [
         {
           "title": "美国常驻北约代表：美国通过援乌，已“变现”60亿美元",
@@ -30,6 +30,28 @@
           "time_info": "01时52分"
         },
         {
+          "title": "分析师：美国6月失业率料持稳于4.3%，就业市场韧性尚存",
+          "url": "https://flash.jin10.com/detail/20260701113332163800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
+        },
+        {
+          "title": "以色列逮捕一名美国公民：涉嫌从事间谍活动",
+          "url": "https://news.ifeng.com/c/8uOc5SgmL8Y",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
+        },
+        {
           "title": "卡塔尔外交部：卡塔尔首相在与美国特使威特科夫及库什纳的会晤中表示，卡塔尔将继续推进调解努力，并支持基于谅解备忘录的所有谈判路径。",
           "url": "https://flash.jin10.com/detail/20260701050044249800",
           "source": "金十数据",
@@ -41,13 +63,24 @@
           "time_info": "05时28分"
         },
         {
+          "title": "中方敦促美国：快点交钱",
+          "url": "https://news.ifeng.com/c/8uOlmTced5k",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
+        },
+        {
           "title": "美国高级官员：美国特使Witkoff、库什纳、以及（中东）地区领导人在多哈进行了积极的会谈。 霍尔木兹海峡的船只通行规模提高了。 技术层面的会谈继续进行，将取得良好进展。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3127008",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -124,6 +157,17 @@
           "time_info": "[01时52分 ~ 07时11分]"
         },
         {
+          "title": "富国银行：美国劳动力需求大致持稳，未有明显的再加速迹象",
+          "url": "https://flash.jin10.com/detail/20260701113053265800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
+        },
+        {
           "title": "美国国务卿鲁比奥：祝贺秘鲁当选总统藤森惠子赢得选举。",
           "url": "https://flash.jin10.com/detail/20260701044909862800",
           "source": "金十数据",
@@ -133,6 +177,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
+        },
+        {
+          "title": "美国5月JOLTS职位空缺小幅回升至759万人，高于预期，劳动力需求保持稳定",
+          "url": "https://wallstreetcn.com/articles/3775872",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
         },
         {
           "title": "市场消息：美国国际贸易委员会裁定，在对墨西哥新鲜番茄的“情势变化复审”中未作出有利于调整贸易限制的决定。",
@@ -207,9 +262,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        },
+        {
+          "title": "跟风欧盟，美国也要对中国逆变器下手",
+          "url": "https://wallstreetcn.com/livenews/3127111",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
         },
         {
           "title": "美国至6月26日当周API成品油进口 21.3万桶/日，前值-15.2万桶/日。",
@@ -229,7 +295,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -306,9 +372,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        },
+        {
+          "title": "Anthropic：将继续与美国政府协调，扩大“Glasswing”计划下Mythos 5模型的开放范围，使更多美国国内及国际合作伙伴能够获得使用权限。",
+          "url": "https://flash.jin10.com/detail/20260701111441386800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
         },
         {
           "title": "美国货币监理署（OCC）：美国银行业一季度交易收入增长5.6%。",
@@ -322,6 +399,17 @@
           "time_info": "03时54分"
         },
         {
+          "title": "WTT 美国大满贯，王曼昱 0-3 不敌削球选手佐藤瞳，无缘下一轮，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/2055587834388537861",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
+        },
+        {
           "title": "美国至6月26日当周API精炼油库存 292.2万桶，预期-85.2万桶，前值144.7万桶。",
           "url": "https://flash.jin10.com/detail/20260701043458751800",
           "source": "金十数据",
@@ -331,6 +419,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
+        },
+        {
+          "title": "特斯拉官方微博消息，首台量产赛博无人驾驶电动车Cybercab已在美国得州奥斯汀开启工程测试。",
+          "url": "https://wallstreetcn.com/livenews/3127102",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
         },
         {
           "title": "美国最高法院将审议拥有“攻击性武器”的权利。",
@@ -391,7 +490,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
         {
           "title": "“我不在乎中期选举”：特朗普惹恼共和党议员",
@@ -403,6 +502,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时52分 ~ 07时11分]"
+        },
+        {
+          "title": "美国驻印大使爆料：特朗普想早上6点给莫迪打电话",
+          "url": "https://v.ifeng.com/c/8uNtTRMWXNr",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
         },
         {
           "title": "美国总统特朗普2025年度的财务报告称，其至少买入10万零1美元以上的Palantir(PLTR.N)股票。",
@@ -433,7 +543,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -483,6 +593,17 @@
           "time_info": "[01时52分 ~ 03时54分]"
         },
         {
+          "title": "特朗普政府，遭全美半数州集体起诉",
+          "url": "https://news.ifeng.com/c/8uO4jG3X5zq",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：承认与特朗普之间有时会存在一些分歧。",
           "url": "https://flash.jin10.com/detail/20260701032453750800",
           "source": "金十数据",
@@ -516,6 +637,17 @@
           "time_info": "03时54分"
         },
         {
+          "title": "特朗普在最高法院输了，为什么又扯上中国？",
+          "url": "https://news.ifeng.com/c/8uOgMuQGNSM",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
+        },
+        {
           "title": "市场消息：美国总统特朗普提交2025年度财务披露报告，披露其通过加密货币获得数亿美元收入。",
           "url": "https://flash.jin10.com/detail/20260701044849105800",
           "source": "金十数据",
@@ -533,9 +665,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        },
+        {
+          "title": "美媒爆料：特朗普因加密货币获利超10亿美元",
+          "url": "https://news.ifeng.com/c/8uOrOAberkf",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
         },
         {
           "title": "美国政府伦理办公室发布经认证的特朗普年度财务披露报告。",
@@ -566,7 +709,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -599,7 +742,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -610,7 +753,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         }
@@ -618,7 +761,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "伊朗：未来几天暂无与美方会晤计划",
@@ -754,6 +897,17 @@
           "time_info": "01时52分"
         },
         {
+          "title": "霍尔木兹海峡正被重新定义，伊朗坚持安全航行不是“免费公共服务”",
+          "url": "https://flash.jin10.com/detail/20260701111507956800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
+        },
+        {
           "title": "伊朗外交部发言人：最终协议谈判须以五项条款落实为前提，黎巴嫩停火仍脆弱。",
           "url": "https://flash.jin10.com/detail/20260701005528456800",
           "source": "金十数据",
@@ -833,182 +987,24 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 15,
-      "titles": [
-        {
-          "title": "美股收盘：三大指数齐升道指刷新高 费城半导体指数半年翻倍",
-          "url": "https://www.cls.cn/detail/2413598",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时11分"
-        },
-        {
-          "title": "耐克美股盘后跌幅扩大至6.6%。",
-          "url": "https://wallstreetcn.com/livenews/3126991",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时28分"
-        },
-        {
-          "title": "美股冲击近6年最强季度表现 美伊代表齐赴多哈 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2413394",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时52分 ~ 07时11分]"
-        },
-        {
-          "title": "AI热情驱动，美股指走高，太阳能板块普涨，日元创40年新低，金银油齐涨",
-          "url": "https://wallstreetcn.com/articles/3775797",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时52分 ~ 05时28分]"
-        },
-        {
-          "title": "美股大类资产类ETF多数收跌，上半年布油基金涨超43%，新兴市场ETF、纳指ETF等涨超20%",
-          "url": "https://wallstreetcn.com/livenews/3126980",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时28分 ~ 07时11分]"
-        },
-        {
-          "title": "耐克第四财季营收109.7亿美元，同比下滑1.1%。 第四财季总体耐克品牌营收107.2亿美元，同比下滑0.4%。 第四财季大中华区EBIT为2.43亿美元，同比下降20%。 第四财季毛利润率49.2%，上年同期40.3%。 第四财季每股收益（EPS）为0.72美元，上年同期0.14美元。 耐克美股盘后涨5%。",
-          "url": "https://wallstreetcn.com/livenews/3126979",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时28分 ~ 07时11分]"
-        },
-        {
-          "title": "芝商所：将于7月27日推出覆盖50多只美股的单股期货产品。",
-          "url": "https://flash.jin10.com/detail/20260701044747249800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时28分"
-        },
-        {
-          "title": "周二（6月30日），美股存储芯片与硬件供应链指数收涨3.83%，报268.03点，6月份累涨27.26%，二季度累涨159.01%，上半年持续上扬——从69.59点涨至277.74点。 二季度，成分股闪迪累涨257.88%，美光科技涨241.67%，希捷科技涨146.55%，西部数据涨136.19%，应用材料涨111.78%，拉姆研究涨103.01%，泰瑞达涨63.28%，Rambus反弹54.30%。",
-          "url": "https://wallstreetcn.com/livenews/3127000",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时11分"
-        },
-        {
-          "title": "受美联储风险及美元走强拖累，拉美股市终结季度连涨势头",
-          "url": "https://wallstreetcn.com/livenews/3126998",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时11分"
-        },
-        {
-          "title": "投资者无视中东战事 美股第二季度有望创数年来最大涨幅",
-          "url": "https://flash.jin10.com/detail/20260701031803596800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时54分"
-        },
-        {
-          "title": "周二（6月30日），美股行业ETF多数收涨，半导体ETF涨3.78%，全球科技股指数ETF、科技行业ETF至少涨2.76%，医疗业ETF、日常消费品ETF、公用事业ETF、日常消费品ETF跌1.29%-1.54%。 上半年，半导体ETF累计上涨82.13%，全球科技股指数ETF、科技行业ETF至少涨32.66%，能源业ETF、工业ETF至少涨20.04%，金融业ETF、可选消费ETF、网络股指数ETF则至多累跌1.66%。",
-          "url": "https://wallstreetcn.com/livenews/3126976",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时28分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜美国科技股七巨头（Magnificent 7）指数6月份累计下跌8.9%，创2025年3月份以来最差单月表现。",
-          "url": "https://wallstreetcn.com/livenews/3126975",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时28分"
-        },
-        {
-          "title": "耐克美股盘后跌幅扩大至6.6%，虽然最新季度业绩超出预期，但其提振作用被公司高管谨慎的言论所抵消。 该公司即将离任的首席财务官Matt Friend表示，耐克对产品去库存的举措“仍然面临挑战”，而首席执行官Elliott Hill指出营收增长面临“不利因素”。",
-          "url": "https://wallstreetcn.com/livenews/3126991",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时11分"
-        },
-        {
-          "title": "金十图示：2026年06月30日（周二）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260701003659797800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "城堡证券称散户以创纪录速度抄底美股，6月有望成为交易最活跃月份",
-          "url": "https://wallstreetcn.com/livenews/3126910",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        }
-      ]
-    },
-    {
       "keyword_group": "日本",
-      "match_count": 14,
+      "match_count": 20,
       "titles": [
+        {
+          "title": "世界杯赛后日本球迷在现场清理垃圾，被嘲「每四年表演一次文明」，你怎么看？这种行为真的是有组织的吗？",
+          "url": "https://www.zhihu.com/question/2055329815301813727",
+          "source": "知乎",
+          "ranks": [
+            18,
+            15,
+            10,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时52分 ~ 11时40分]"
+        },
         {
           "title": "日元跌破 1 美元兑 162 日元关口，创下近 40 年来新低，日本央行已加息至 1%，为何完全挡不住日元贬值颓势？",
           "url": "https://www.zhihu.com/question/2055222122289558459",
@@ -1024,18 +1020,58 @@
           "time_info": "[01时52分 ~ 07时11分]"
         },
         {
-          "title": "世界杯赛后日本球迷在现场清理垃圾，被嘲「每四年表演一次文明」，你怎么看？这种行为真的是有组织的吗？",
-          "url": "https://www.zhihu.com/question/2055329815301813727",
-          "source": "知乎",
+          "title": "输球捡垃圾,日本人又开演",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355747&amp;topic_name=%E8%BE%93%E7%90%83%E6%8D%A1%E5%9E%83%E5%9C%BE%2C%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%8F%88%E5%BC%80%E6%BC%94",
+          "source": "贴吧",
           "ranks": [
-            18,
+            14,
             15,
-            10,
-            5
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时52分 ~ 07时11分]"
+          "appearance_count": 5,
+          "time_info": "[01时52分 ~ 11时40分]"
+        },
+        {
+          "title": "惊险翻盘,巴西绝杀日本",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355744&amp;topic_name=%E6%83%8A%E9%99%A9%E7%BF%BB%E7%9B%98%2C%E5%B7%B4%E8%A5%BF%E7%BB%9D%E6%9D%80%E6%97%A5%E6%9C%AC",
+          "source": "贴吧",
+          "ranks": [
+            15,
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时52分 ~ 11时40分]"
+        },
+        {
+          "title": "日本球迷被披上巴西国旗",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E7%90%83%E8%BF%B7%E8%A2%AB%E6%8A%AB%E4%B8%8A%E5%B7%B4%E8%A5%BF%E5%9B%BD%E6%97%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19,
+            16,
+            20,
+            24,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时52分 ~ 11时40分]"
+        },
+        {
+          "title": "日本淘汰赛白卷,四强全靠吹",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355756&amp;topic_name=%E6%97%A5%E6%9C%AC%E6%B7%98%E6%B1%B0%E8%B5%9B%E7%99%BD%E5%8D%B7%2C%E5%9B%9B%E5%BC%BA%E5%85%A8%E9%9D%A0%E5%90%B9",
+          "source": "贴吧",
+          "ranks": [
+            17,
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时52分 ~ 11时40分]"
         },
         {
           "title": "日本为什么会流行起来枯山水，毕竟这风格很容易招流浪猫过来上厕所？",
@@ -1046,56 +1082,6 @@
             9,
             12,
             8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时52分 ~ 07时11分]"
-        },
-        {
-          "title": "输球捡垃圾,日本人又开演",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355747&amp;topic_name=%E8%BE%93%E7%90%83%E6%8D%A1%E5%9E%83%E5%9C%BE%2C%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%8F%88%E5%BC%80%E6%BC%94",
-          "source": "贴吧",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时52分 ~ 07时11分]"
-        },
-        {
-          "title": "惊险翻盘,巴西绝杀日本",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355744&amp;topic_name=%E6%83%8A%E9%99%A9%E7%BF%BB%E7%9B%98%2C%E5%B7%B4%E8%A5%BF%E7%BB%9D%E6%9D%80%E6%97%A5%E6%9C%AC",
-          "source": "贴吧",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时52分 ~ 07时11分]"
-        },
-        {
-          "title": "日本球迷被披上巴西国旗",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E7%90%83%E8%BF%B7%E8%A2%AB%E6%8A%AB%E4%B8%8A%E5%B7%B4%E8%A5%BF%E5%9B%BD%E6%97%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19,
-            16,
-            20,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时52分 ~ 07时11分]"
-        },
-        {
-          "title": "日本淘汰赛白卷,四强全靠吹",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355756&amp;topic_name=%E6%97%A5%E6%9C%AC%E6%B7%98%E6%B1%B0%E8%B5%9B%E7%99%BD%E5%8D%B7%2C%E5%9B%9B%E5%BC%BA%E5%85%A8%E9%9D%A0%E5%90%B9",
-          "source": "贴吧",
-          "ranks": [
-            17,
-            18
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -1164,6 +1150,72 @@
           "time_info": "[03时54分 ~ 07时11分]"
         },
         {
+          "title": "日本“短观”释放信号！景气与通胀预期齐升，10月加息稳了？",
+          "url": "https://flash.jin10.com/detail/20260701112735816800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
+        },
+        {
+          "title": "大和证券：日本企业景气度料将进一步改善",
+          "url": "https://flash.jin10.com/detail/20260701112723554800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
+        },
+        {
+          "title": "日本政坛，发生稀奇一幕(图)",
+          "url": "https://news.ifeng.com/c/8uNzhjnVAG3",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
+        },
+        {
+          "title": "日本男球迷猥亵女记者",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%94%B7%E7%90%83%E8%BF%B7%E7%8C%A5%E4%BA%B5%E5%A5%B3%E8%AE%B0%E8%80%85%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
+        },
+        {
+          "title": "王曼昱不敌日本削球手佐藤瞳",
+          "url": "https://www.toutiao.com/trending/7656518517240741939/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
+        },
+        {
+          "title": "日本为何输给巴西",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%B8%BA%E4%BD%95%E8%BE%93%E7%BB%99%E5%B7%B4%E8%A5%BF",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
+        },
+        {
           "title": "被披巴西国旗日本球迷痛哭回应",
           "url": "https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%8A%AB%E5%B7%B4%E8%A5%BF%E5%9B%BD%E6%97%97%E6%97%A5%E6%9C%AC%E7%90%83%E8%BF%B7%E7%97%9B%E5%93%AD%E5%9B%9E%E5%BA%94%23&t=31&band_rank=25&Refer=top",
           "source": "微博",
@@ -1188,8 +1240,205 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 17,
+      "titles": [
+        {
+          "title": "美股收盘：三大指数齐升道指刷新高 费城半导体指数半年翻倍",
+          "url": "https://www.cls.cn/detail/2413598",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时11分 ~ 11时40分]"
+        },
+        {
+          "title": "【早报】多只A股公司业绩大增；美股存储概念半年涨超3倍；黄金、原油收跌；法国、挪威晋级世界杯16强",
+          "url": "https://www.cls.cn/detail/2413612",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
+        },
+        {
+          "title": "耐克美股盘后跌幅扩大至6.6%。",
+          "url": "https://wallstreetcn.com/livenews/3126991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
+        {
+          "title": "美股冲击近6年最强季度表现 美伊代表齐赴多哈 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2413394",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时52分 ~ 11时40分]"
+        },
+        {
+          "title": "AI热情驱动，美股指走高，太阳能板块普涨，日元创40年新低，金银油齐涨",
+          "url": "https://wallstreetcn.com/articles/3775797",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时52分 ~ 05时28分]"
+        },
+        {
+          "title": "美股大类资产类ETF多数收跌，上半年布油基金涨超43%，新兴市场ETF、纳指ETF等涨超20%",
+          "url": "https://wallstreetcn.com/livenews/3126980",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 07时11分]"
+        },
+        {
+          "title": "耐克第四财季营收109.7亿美元，同比下滑1.1%。 第四财季总体耐克品牌营收107.2亿美元，同比下滑0.4%。 第四财季大中华区EBIT为2.43亿美元，同比下降20%。 第四财季毛利润率49.2%，上年同期40.3%。 第四财季每股收益（EPS）为0.72美元，上年同期0.14美元。 耐克美股盘后涨5%。",
+          "url": "https://wallstreetcn.com/livenews/3126979",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 07时11分]"
+        },
+        {
+          "title": "“炒币”高手特朗普！官方披露2025年加密货币业务斩获超10亿美元，重仓美股科技巨头",
+          "url": "https://wallstreetcn.com/articles/3775893",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
+        },
+        {
+          "title": "芝商所：将于7月27日推出覆盖50多只美股的单股期货产品。",
+          "url": "https://flash.jin10.com/detail/20260701044747249800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
+        {
+          "title": "周二（6月30日），美股存储芯片与硬件供应链指数收涨3.83%，报268.03点，6月份累涨27.26%，二季度累涨159.01%，上半年持续上扬——从69.59点涨至277.74点。 二季度，成分股闪迪累涨257.88%，美光科技涨241.67%，希捷科技涨146.55%，西部数据涨136.19%，应用材料涨111.78%，拉姆研究涨103.01%，泰瑞达涨63.28%，Rambus反弹54.30%。",
+          "url": "https://wallstreetcn.com/livenews/3127000",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时11分"
+        },
+        {
+          "title": "受美联储风险及美元走强拖累，拉美股市终结季度连涨势头",
+          "url": "https://wallstreetcn.com/livenews/3126998",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时11分"
+        },
+        {
+          "title": "投资者无视中东战事 美股第二季度有望创数年来最大涨幅",
+          "url": "https://flash.jin10.com/detail/20260701031803596800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时54分"
+        },
+        {
+          "title": "周二（6月30日），美股行业ETF多数收涨，半导体ETF涨3.78%，全球科技股指数ETF、科技行业ETF至少涨2.76%，医疗业ETF、日常消费品ETF、公用事业ETF、日常消费品ETF跌1.29%-1.54%。 上半年，半导体ETF累计上涨82.13%，全球科技股指数ETF、科技行业ETF至少涨32.66%，能源业ETF、工业ETF至少涨20.04%，金融业ETF、可选消费ETF、网络股指数ETF则至多累跌1.66%。",
+          "url": "https://wallstreetcn.com/livenews/3126976",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜美国科技股七巨头（Magnificent 7）指数6月份累计下跌8.9%，创2025年3月份以来最差单月表现。",
+          "url": "https://wallstreetcn.com/livenews/3126975",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
+        {
+          "title": "耐克美股盘后跌幅扩大至6.6%，虽然最新季度业绩超出预期，但其提振作用被公司高管谨慎的言论所抵消。 该公司即将离任的首席财务官Matt Friend表示，耐克对产品去库存的举措“仍然面临挑战”，而首席执行官Elliott Hill指出营收增长面临“不利因素”。",
+          "url": "https://wallstreetcn.com/livenews/3126991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时11分"
+        },
+        {
+          "title": "金十图示：2026年06月30日（周二）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260701003659797800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时52分"
+        },
+        {
+          "title": "城堡证券称散户以创纪录速度抄底美股，6月有望成为交易最活跃月份",
+          "url": "https://wallstreetcn.com/livenews/3126910",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时52分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "科技股力撑美股反弹，标普纳指终结五连跌，谷歌涨5%，油价反弹，日元跌至40年低位",
@@ -1214,6 +1463,69 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时52分 ~ 03时54分]"
+        },
+        {
+          "title": "Anthropic：将与亚马逊、微软、谷歌及其他Glasswing合作伙伴共同制定评估AI越狱严重性的框架。",
+          "url": "https://flash.jin10.com/detail/20260701111702765800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
+        },
+        {
+          "title": "Anthropic：将尽快在AWS、谷歌云和微软Foundry上重新启用Fable 5访问。",
+          "url": "https://flash.jin10.com/detail/20260701111504167800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "印度",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "劝离无效,印度游客强占栈道",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355781&amp;topic_name=%E5%8A%9D%E7%A6%BB%E6%97%A0%E6%95%88%2C%E5%8D%B0%E5%BA%A6%E6%B8%B8%E5%AE%A2%E5%BC%BA%E5%8D%A0%E6%A0%88%E9%81%93",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
+        },
+        {
+          "title": "张家界玻璃桥印度游客堵塞栈道",
+          "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%AE%B6%E7%95%8C%E7%8E%BB%E7%92%83%E6%A1%A5%E5%8D%B0%E5%BA%A6%E6%B8%B8%E5%AE%A2%E5%A0%B5%E5%A1%9E%E6%A0%88%E9%81%93&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26,
+            25,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时52分 ~ 07时11分]"
+        },
+        {
+          "title": "税收优惠后，外国投资者购买印度债券量创纪录",
+          "url": "https://flash.jin10.com/detail/20260701111802363800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
         }
       ]
     },
@@ -1226,11 +1538,12 @@
           "url": "https://wallstreetcn.com/articles/3775797",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时11分 ~ 11时40分]"
         },
         {
           "title": "6月份两年期美债实际收益率涨超77个基点，二季度两年期收益率涨超35个基点",
@@ -1296,25 +1609,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时54分 ~ 05时28分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "印度",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "张家界玻璃桥印度游客堵塞栈道",
-          "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%AE%B6%E7%95%8C%E7%8E%BB%E7%92%83%E6%A1%A5%E5%8D%B0%E5%BA%A6%E6%B8%B8%E5%AE%A2%E5%A0%B5%E5%A1%9E%E6%A0%88%E9%81%93&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26,
-            25,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时52分 ~ 07时11分]"
         }
       ]
     }
