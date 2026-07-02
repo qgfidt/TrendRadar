@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-07-02T15:32:29.774043+08:00",
-  "total_titles_processed": 947,
+  "generated_at": "2026-07-02T18:38:09.735959+08:00",
+  "total_titles_processed": 1140,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国",
-      "match_count": 52,
+      "match_count": 55,
       "titles": [
+        {
+          "title": "“小非农”降温！美国6月ADP新增就业人数降至9.8万，远低于预期",
+          "url": "https://wallstreetcn.com/articles/3775979",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时54分 ~ 18时38分]"
+        },
         {
           "title": "中方回应美国解除对伊单边制裁",
           "url": "https://news.ifeng.com/c/8uPFngdR3ec",
@@ -19,17 +32,26 @@
           "time_info": "[01时54分 ~ 07时15分]"
         },
         {
-          "title": "“小非农”降温！美国6月ADP新增就业人数降至9.8万，远低于预期",
-          "url": "https://wallstreetcn.com/articles/3775979",
-          "source": "华尔街见闻",
+          "title": "中方回应“降低或取消对美国农产品关税”",
+          "url": "https://news.ifeng.com/c/8uQtVYEOilH",
+          "source": "凤凰网",
           "ranks": [
-            7,
-            6,
-            5
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时54分 ~ 15时32分]"
+          "appearance_count": 2,
+          "time_info": "[18时37分 ~ 18时38分]"
+        },
+        {
+          "title": "美联储加息究竟是不是“危言耸听”？今晚美国非农夜重磅来袭！",
+          "url": "https://www.cls.cn/detail/2415231",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时37分 ~ 18时38分]"
         },
         {
           "title": "美国决定不续签美墨加协定",
@@ -160,6 +182,19 @@
           "time_info": "[05时28分 ~ 07时15分]"
         },
         {
+          "title": "美国淘汰波黑,东道主胜利会师",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355818&amp;topic_name=%E7%BE%8E%E5%9B%BD%E6%B7%98%E6%B1%B0%E6%B3%A2%E9%BB%91%2C%E4%B8%9C%E9%81%93%E4%B8%BB%E8%83%9C%E5%88%A9%E4%BC%9A%E5%B8%88",
+          "source": "贴吧",
+          "ranks": [
+            10,
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时26分 ~ 18时38分]"
+        },
+        {
           "title": "王毅同美国国务卿鲁比奥通电话",
           "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E5%90%8C%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%8A%A1%E5%8D%BF%E9%B2%81%E6%AF%94%E5%A5%A5%E9%80%9A%E7%94%B5%E8%AF%9D",
           "source": "百度热搜",
@@ -219,18 +254,6 @@
           "time_info": "[01时54分 ~ 03时53分]"
         },
         {
-          "title": "美国淘汰波黑,东道主胜利会师",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355818&amp;topic_name=%E7%BE%8E%E5%9B%BD%E6%B7%98%E6%B1%B0%E6%B3%A2%E9%BB%91%2C%E4%B8%9C%E9%81%93%E4%B8%BB%E8%83%9C%E5%88%A9%E4%BC%9A%E5%B8%88",
-          "source": "贴吧",
-          "ranks": [
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 15时32分]"
-        },
-        {
           "title": "美国2:0波黑晋级16强",
           "url": "https://www.douyin.com/hot/2554949",
           "source": "抖音",
@@ -282,7 +305,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -353,6 +376,17 @@
           "time_info": "07时15分"
         },
         {
+          "title": "英国国债在美国就业数据公布前下跌，10年收益率上行5个基点至4.81%。",
+          "url": "https://wallstreetcn.com/livenews/3127966",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
           "title": "美国贸易代表：我们需要针对汽车及其他工业产品制定更严格的北美原产地规则。",
           "url": "https://flash.jin10.com/detail/20260702010813360800",
           "source": "金十数据",
@@ -381,7 +415,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -598,7 +632,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "美国总统特朗普：我们正轻松赢得一场战争。 我们在伊朗问题上进展顺利，就像在委内瑞拉那样。",
@@ -657,6 +691,17 @@
           "time_info": "[11时26分 ~ 15时32分]"
         },
         {
+          "title": "又来施压美联储？特朗普经济顾问：加息应对通胀是错误之举！",
+          "url": "https://www.cls.cn/detail/2414901",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时37分 ~ 18时38分]"
+        },
+        {
           "title": "Vanguard Group Inc.（领航集团）将充当“特朗普账户”的另类基金合作伙伴。 该公司股票ETF被选择为“特朗普账户”的投资选项。",
           "url": "https://wallstreetcn.com/livenews/3127615",
           "source": "华尔街见闻-快讯",
@@ -679,6 +724,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时28分 ~ 07时15分]"
+        },
+        {
+          "title": "释新闻｜创下美国总统新纪录，特朗普重返白宫首年赚了多少钱？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33501745",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时37分 ~ 18时38分]"
         },
         {
           "title": "特朗普又来：绝不让中国接管巴拿马运河",
@@ -742,7 +798,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -860,7 +916,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "【伊朗称美方违反谅解备忘录承诺，将建立监督机制审查违规行为】伊朗外交部副部长、伊方技术谈判代表团团长加里巴巴迪表示，在当天于多哈举行的伊朗、卡塔尔、巴基斯坦三方会谈中，伊朗代表团提出并审查了美国违反美伊谅解备忘录第一条关于结束黎巴嫩战事的承诺，并讨论了有关美国加强地区军事装备和兵力部署的报道和美国官员发表的一些具有威胁性及干涉主义的言论。伊朗代表团在会谈中强调，美伊谅解备忘录中的各项承诺是一个整体，不能单独割裂看待。 加里巴巴迪宣布，将组建监督小组并通过直接沟通渠道通报和审查涉及美伊谅解备忘录的违规行为。他指出，伊朗代表在与卡塔尔央行等官员的会谈中已决定将部分解冻的60亿美元资金用于根据伊朗需求采购必要物资。他同时澄清称“伊朗与美国代表团没有在多哈举行会晤”。（央视）",
@@ -922,6 +978,17 @@
           "time_info": "[01时54分 ~ 03时53分]"
         },
         {
+          "title": "伊朗队回国，接机现场人山人海，仪仗队奏响国歌迎接",
+          "url": "https://news.ifeng.com/c/8uQaMfSWpO8",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时32分 ~ 18时38分]"
+        },
+        {
           "title": "卡塔尔：各方同意推进讨论 下次会晤将在前伊朗最高领袖葬礼后举行",
           "url": "https://flash.jin10.com/detail/20260702044739454800",
           "source": "金十数据",
@@ -946,15 +1013,15 @@
           "time_info": "[01时54分 ~ 03时53分]"
         },
         {
-          "title": "伊朗队回国，接机现场人山人海，仪仗队奏响国歌迎接",
-          "url": "https://news.ifeng.com/c/8uQaMfSWpO8",
-          "source": "凤凰网",
+          "title": "何维将出席伊朗已故最高领袖葬礼",
+          "url": "https://www.douyin.com/hot/2555610",
+          "source": "抖音",
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时37分 ~ 18时38分]"
         },
         {
           "title": "消息人士：伊朗要求分阶段执行美伊谅解备忘录，重点推动资产解冻",
@@ -1034,13 +1101,24 @@
           "time_info": "01时54分"
         },
         {
+          "title": "伊朗武装部队：美干涉霍尔木兹海峡将遭回击",
+          "url": "https://flash.jin10.com/detail/20260702182111058800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
           "title": "伊朗称美若无法约束宠物伊朗将出手",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A7%B0%E7%BE%8E%E8%8B%A5%E6%97%A0%E6%B3%95%E7%BA%A6%E6%9D%9F%E5%AE%A0%E7%89%A9%E4%BC%8A%E6%9C%97%E5%B0%86%E5%87%BA%E6%89%8B%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -1073,9 +1151,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
+        },
+        {
+          "title": "据沙特阿拉伯阿拉比亚电视台：消息人士称，美国与伊朗下一轮谈判将于7月18日举行。",
+          "url": "https://flash.jin10.com/detail/20260702181315167800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
         },
         {
           "title": "美国：超1000万桶原油经霍尔木兹海峡运出，伊朗石油筹码被削弱",
@@ -1119,6 +1208,18 @@
           "time_info": "[07时14分 ~ 15时32分]"
         },
         {
+          "title": "Meta 拟对外出售剩余 AI 算力，引发美股芯片及光通信重挫，对此你怎么看，会是 AI 退潮信号么？",
+          "url": "https://www.zhihu.com/question/2055934590297150773",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时32分 ~ 18时38分]"
+        },
+        {
           "title": "美股",
           "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=16&Refer=top",
           "source": "微博",
@@ -1142,17 +1243,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
-        },
-        {
-          "title": "Meta 拟对外出售剩余 AI 算力，引发美股芯片及光通信重挫，对此你怎么看，会是 AI 退潮信号么？",
-          "url": "https://www.zhihu.com/question/2055934590297150773",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时32分"
         },
         {
           "title": "周三（7月1日）纽约尾盘，现货黄金涨0.57%，报4030.87美元/盎司，日内交投于3960.30-4115.66美元区间，北京时间21:30美股开盘前后显著拉升。 现货白银涨0.90%，报59.0942美元/盎司。 COMEX铜期货跌1.61%，报6.1530美元/磅，日内绝大部分时间处于下跌状态。 现货铂金涨1.74%，现货钯金涨0.27%。",
@@ -1269,7 +1359,7 @@
     },
     {
       "keyword_group": "日本",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "“日本公民在大连是否被逮捕”，中方回应",
@@ -1290,11 +1380,12 @@
             12,
             13,
             17,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时54分 ~ 15时32分]"
+          "appearance_count": 10,
+          "time_info": "[01时54分 ~ 18时38分]"
         },
         {
           "title": "日本物价三连跳,老百姓麻了",
@@ -1316,11 +1407,12 @@
           "source": "今日头条",
           "ranks": [
             1,
-            17
+            17,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 15时32分]"
+          "appearance_count": 4,
+          "time_info": "[11时26分 ~ 18时38分]"
         },
         {
           "title": "馋哭,国产豆花饭征服日本胃",
@@ -1328,11 +1420,36 @@
           "source": "贴吧",
           "ranks": [
             4,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 15时32分]"
+          "appearance_count": 4,
+          "time_info": "[11时26分 ~ 18时38分]"
+        },
+        {
+          "title": "被中方要求停止测量船作业，日本不满提出“抗议”",
+          "url": "https://news.ifeng.com/c/8uQRhu4O0jv",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时32分 ~ 18时38分]"
+        },
+        {
+          "title": "老外开中国车遭日本人骚扰",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355826&amp;topic_name=%E8%80%81%E5%A4%96%E5%BC%80%E4%B8%AD%E5%9B%BD%E8%BD%A6%E9%81%AD%E6%97%A5%E6%9C%AC%E4%BA%BA%E9%AA%9A%E6%89%B0",
+          "source": "贴吧",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时32分 ~ 18时38分]"
         },
         {
           "title": "据日本放送协会NHK：日本上个财政年度的税收预计将达到约84万亿日元，连续6年创下新高。",
@@ -1357,28 +1474,6 @@
           "time_info": "11时26分"
         },
         {
-          "title": "被中方要求停止测量船作业，日本不满提出“抗议”",
-          "url": "https://news.ifeng.com/c/8uQRhu4O0jv",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时32分"
-        },
-        {
-          "title": "老外开中国车遭日本人骚扰",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355826&amp;topic_name=%E8%80%81%E5%A4%96%E5%BC%80%E4%B8%AD%E5%9B%BD%E8%BD%A6%E9%81%AD%E6%97%A5%E6%9C%AC%E4%BA%BA%E9%AA%9A%E6%89%B0",
-          "source": "贴吧",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时32分"
-        },
-        {
           "title": "日本与印度将围绕120个项目、（合计）价值2万亿日元达成共识。（日本读卖新闻）",
           "url": "https://wallstreetcn.com/livenews/3127636",
           "source": "华尔街见闻-快讯",
@@ -1396,9 +1491,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
+        },
+        {
+          "title": "日本最高外汇事务官员三村淳：不就汇率水平置评。",
+          "url": "https://wallstreetcn.com/livenews/3127945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
         },
         {
           "title": "日本东证指数日内涨幅扩大至1%。",
@@ -1418,7 +1524,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -1437,7 +1543,7 @@
     },
     {
       "keyword_group": "印度",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "劝离无效,印度游客强占栈道",
@@ -1447,11 +1553,12 @@
             15,
             16,
             19,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时54分 ~ 15时32分]"
+          "appearance_count": 10,
+          "time_info": "[01时54分 ~ 18时38分]"
         },
         {
           "title": "iPhone 18 Pro大量细节被曝光，印度合作伙伴泄密给苹果敲响哪些警钟",
@@ -1463,8 +1570,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时14分 ~ 15时32分]"
+          "appearance_count": 6,
+          "time_info": "[07时14分 ~ 18时38分]"
+        },
+        {
+          "title": "市场消息：印度炼油产能预计将在2030年前增至3.095亿吨/年。",
+          "url": "https://flash.jin10.com/detail/20260702183509200800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
         },
         {
           "title": "因印度供应商遭网络攻击，iPhone18 Pro Max 银灰色曝光，有哪些亮点？此泄露暴露出哪些问题？",
@@ -1475,8 +1593,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 15时32分]"
+          "appearance_count": 4,
+          "time_info": "[11时26分 ~ 18时38分]"
         },
         {
           "title": "博主印度吃中毒,医院神补刀",
@@ -1485,20 +1603,21 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时32分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时32分 ~ 18时38分]"
         },
         {
           "title": "来论｜如何看待近期关于印度的一些讨论？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33493819",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时32分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时32分 ~ 18时38分]"
         }
       ]
     },
@@ -1540,7 +1659,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -1647,6 +1766,37 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "如何看待 DeepSeek 招聘多处点名要求 Rust？",
+          "url": "https://www.zhihu.com/question/2054320593491715458",
+          "source": "知乎",
+          "ranks": [
+            13,
+            17,
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时54分 ~ 07时15分]"
+        },
+        {
+          "title": "DeepSeek崩了",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B4%A9%E4%BA%86&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时37分 ~ 18时38分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
@@ -1701,26 +1851,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何看待 DeepSeek 招聘多处点名要求 Rust？",
-          "url": "https://www.zhihu.com/question/2054320593491715458",
-          "source": "知乎",
-          "ranks": [
-            13,
-            17,
-            14,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时54分 ~ 07时15分]"
         }
       ]
     },
