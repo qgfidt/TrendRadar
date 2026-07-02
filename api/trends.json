@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-02T07:15:16.132071+08:00",
-  "total_titles_processed": 532,
+  "generated_at": "2026-07-02T11:26:18.618489+08:00",
+  "total_titles_processed": 761,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国",
-      "match_count": 41,
+      "match_count": 50,
       "titles": [
         {
           "title": "中方回应美国解除对伊单边制裁",
@@ -19,22 +19,23 @@
           "time_info": "[01时54分 ~ 07时15分]"
         },
         {
-          "title": "美国决定不续签美墨加协定",
-          "url": "https://news.ifeng.com/c/8uPtQDu3q5e",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时54分 ~ 07时15分]"
-        },
-        {
           "title": "“小非农”降温！美国6月ADP新增就业人数降至9.8万，远低于预期",
           "url": "https://wallstreetcn.com/articles/3775979",
           "source": "华尔街见闻",
           "ranks": [
             7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时54分 ~ 11时26分]"
+        },
+        {
+          "title": "美国决定不续签美墨加协定",
+          "url": "https://news.ifeng.com/c/8uPtQDu3q5e",
+          "source": "凤凰网",
+          "ranks": [
             6
           ],
           "is_new": false,
@@ -82,7 +83,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -121,6 +122,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
+        },
+        {
+          "title": "10人美国淘汰波黑",
+          "url": "https://search.bilibili.com/all?keyword=10%E4%BA%BA%E7%BE%8E%E5%9B%BD%E6%B7%98%E6%B1%B0%E6%B3%A2%E9%BB%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
         },
         {
           "title": "【美军一直升机紧急迫降阿拉伯海，1名机组人员失踪】当地时间7月1日，美国海军中央司令部在社交媒体上发文表示，一架隶属于“布什”号航空母舰的MH-60S“海鹰”直升机在阿拉伯海进行了“水上紧急迫降”。目前没有迹象显示该紧急情况由敌对行动造成。声明称，直升机4名机组人员中已有3人获救，目前状况稳定。美国海军在该地区的力量正在搜寻另一名仍失踪的机组人员。美国海军表示，事故原因尚不清楚，正在调查中。（央视）",
@@ -195,6 +207,28 @@
           "time_info": "[01时54分 ~ 03时53分]"
         },
         {
+          "title": "10人美国2-0波黑 晋级16强",
+          "url": "https://www.baidu.com/s?wd=10%E4%BA%BA%E7%BE%8E%E5%9B%BD2-0%E6%B3%A2%E9%BB%91+%E6%99%8B%E7%BA%A716%E5%BC%BA",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
+          "title": "美国前锋破门后致敬詹姆斯",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%89%8D%E9%94%8B%E7%A0%B4%E9%97%A8%E5%90%8E%E8%87%B4%E6%95%AC%E8%A9%B9%E5%A7%86%E6%96%AF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
           "title": "美联储主席沃什：将选择美国财长贝森特的幕僚萨曼莎·施瓦布(Samantha Schwab)担任顾问。",
           "url": "https://flash.jin10.com/detail/20260702024907146800",
           "source": "金十数据",
@@ -261,6 +295,17 @@
           "time_info": "03时53分"
         },
         {
+          "title": "美国淘汰波黑,东道主胜利会师",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355818&amp;topic_name=%E7%BE%8E%E5%9B%BD%E6%B7%98%E6%B1%B0%E6%B3%A2%E9%BB%91%2C%E4%B8%9C%E9%81%93%E4%B8%BB%E8%83%9C%E5%88%A9%E4%BC%9A%E5%B8%88",
+          "source": "贴吧",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
           "title": "美国贸易代表：很难想象总统的目标如何与行业关税的调整相契合。",
           "url": "https://flash.jin10.com/detail/20260702011444191800",
           "source": "金十数据",
@@ -278,7 +323,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -316,6 +361,17 @@
           "time_info": "03时53分"
         },
         {
+          "title": "美国2:0波黑晋级16强",
+          "url": "https://www.douyin.com/hot/2554949",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
           "title": "美国贸易代表： 我们无意让与《美墨加协定》相关的问题拖延长达10年之久。",
           "url": "https://flash.jin10.com/detail/20260702010502194800",
           "source": "金十数据",
@@ -344,7 +400,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -377,9 +433,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "美国红牌",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E7%BA%A2%E7%89%8C&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
         },
         {
           "title": "华尔街大行分歧引发美国融资利率期货交易狂潮",
@@ -391,6 +458,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
+        },
+        {
+          "title": "世界杯 1/16 决赛，美国 2-0 波黑，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2055662320273942290",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
         },
         {
           "title": "美国贸易代表：美国贸易代表办公室将继续就《美墨加协定》的修订事宜与国会及公众进行磋商。",
@@ -426,6 +504,28 @@
           "time_info": "01时54分"
         },
         {
+          "title": "巴洛贡染红 美国少打一人",
+          "url": "https://www.toutiao.com/trending/7657738562380697138/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
+          "title": "美国ADP数据低于预期；美欧英加四大央行掌门人论坛发言，沃什称通胀预期和通胀风险均有所下降；Meta拟出售过剩的AI算力......当前现货黄金多空拉锯，白银、美油卖出信号高企，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）。",
+          "url": "https://flash.jin10.com/detail/20260702104930268800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
           "title": "北约消息人士：北约将在安卡拉峰会上宣布，欧洲盟国已填补了美国在联盟防务计划中留下的几乎所有空白。",
           "url": "https://flash.jin10.com/detail/20260702005802715800",
           "source": "金十数据",
@@ -454,7 +554,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -473,7 +573,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "美国总统特朗普：我们正轻松赢得一场战争。 我们在伊朗问题上进展顺利，就像在委内瑞拉那样。",
@@ -496,6 +596,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时53分"
+        },
+        {
+          "title": "特朗普回应赚数十亿美元：靠股市上涨，自己“不管投资”",
+          "url": "https://flash.jin10.com/detail/20260702110853685800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
         },
         {
           "title": "美财政部公布“特朗普账户”投资组合标的 主投宽基标普500指数ETF",
@@ -534,6 +645,17 @@
           "time_info": "[05时28分 ~ 07时15分]"
         },
         {
+          "title": "特朗普又来：绝不让中国接管巴拿马运河",
+          "url": "https://news.ifeng.com/c/8uQHApVzfAw",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
           "title": "据纽约时报：美国副总统万斯为特朗普在伊朗相关的战争与谈判立场进行辩护，称美国正在以军事力量作为和平谈判中的重要筹码。他同时表示，特朗普对军方提出的要求明显高于历任前总统。",
           "url": "https://flash.jin10.com/detail/20260702043036201800",
           "source": "金十数据",
@@ -543,6 +665,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
+        },
+        {
+          "title": "美议员：不许苹果找中企买，坏了特朗普大事",
+          "url": "https://news.ifeng.com/c/8uQPHHBXrUC",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
         },
         {
           "title": "美国总统特朗普：油价在下跌。",
@@ -805,7 +938,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -827,7 +960,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -908,11 +1041,12 @@
           "url": "https://www.cls.cn/detail/2414790",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时14分 ~ 07时15分]"
+          "appearance_count": 3,
+          "time_info": "[07时14分 ~ 11时26分]"
         },
         {
           "title": "美股",
@@ -1054,7 +1188,7 @@
     },
     {
       "keyword_group": "日本",
-      "match_count": 5,
+      "match_count": 10,
       "titles": [
         {
           "title": "“日本公民在大连是否被逮捕”，中方回应",
@@ -1073,11 +1207,12 @@
           "source": "贴吧",
           "ranks": [
             12,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时54分 ~ 07时15分]"
+          "appearance_count": 7,
+          "time_info": "[01时54分 ~ 11时26分]"
         },
         {
           "title": "日本物价三连跳,老百姓麻了",
@@ -1085,11 +1220,56 @@
           "source": "贴吧",
           "ranks": [
             16,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时54分 ~ 07时15分]"
+          "appearance_count": 7,
+          "time_info": "[01时54分 ~ 11时26分]"
+        },
+        {
+          "title": "日本市民大排长龙买中国相机",
+          "url": "https://www.toutiao.com/trending/7657553376851296302/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
+          "title": "馋哭,国产豆花饭征服日本胃",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355819&amp;topic_name=%E9%A6%8B%E5%93%AD%2C%E5%9B%BD%E4%BA%A7%E8%B1%86%E8%8A%B1%E9%A5%AD%E5%BE%81%E6%9C%8D%E6%97%A5%E6%9C%AC%E8%83%83",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
+          "title": "据日本放送协会NHK：日本上个财政年度的税收预计将达到约84万亿日元，连续6年创下新高。",
+          "url": "https://flash.jin10.com/detail/20260702110813844800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
+          "title": "日本市民大排长龙买中国相机",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%B8%82%E6%B0%91%E5%A4%A7%E6%8E%92%E9%95%BF%E9%BE%99%E4%B9%B0%E4%B8%AD%E5%9B%BD%E7%9B%B8%E6%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
         },
         {
           "title": "日本与印度将围绕120个项目、（合计）价值2万亿日元达成共识。（日本读卖新闻）",
@@ -1098,9 +1278,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "日本东证指数日内涨幅扩大至1%。",
+          "url": "https://wallstreetcn.com/livenews/3127739",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
         },
         {
           "title": "拆解日本队出局原因",
@@ -1167,8 +1358,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "甲骨文的AI焦虑：建了数千亿数据中心，但就怕OpenAI付不起账单",
+          "url": "https://wallstreetcn.com/articles/3775976",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
         {
           "title": "消息人士：软银就以OpenAI股权为抵押的贷款谈判重启，并作出更多让步",
           "url": "https://flash.jin10.com/detail/20260702041739954800",
@@ -1195,7 +1397,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "国际黄金价格跌破 4000 美元 / 盎司后，未来有可能进一步跌到 3000 美元 / 盎司吗？",
@@ -1223,6 +1425,88 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时54分 ~ 07时15分]"
+        },
+        {
+          "title": "世界黄金协会：下半年金价或区间震荡",
+          "url": "https://www.toutiao.com/trending/7657587029475069494/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "印度",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "劝离无效,印度游客强占栈道",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355781&amp;topic_name=%E5%8A%9D%E7%A6%BB%E6%97%A0%E6%95%88%2C%E5%8D%B0%E5%BA%A6%E6%B8%B8%E5%AE%A2%E5%BC%BA%E5%8D%A0%E6%A0%88%E9%81%93",
+          "source": "贴吧",
+          "ranks": [
+            15,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时54分 ~ 11时26分]"
+        },
+        {
+          "title": "iPhone 18 Pro大量细节被曝光，印度合作伙伴泄密给苹果敲响哪些警钟",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33494648",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时14分 ~ 11时26分]"
+        },
+        {
+          "title": "因印度供应商遭网络攻击，iPhone18 Pro Max 银灰色曝光，有哪些亮点？此泄露暴露出哪些问题？",
+          "url": "https://www.zhihu.com/question/2055321023403095974",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "继美国司法部官司之后，Yelp在针对谷歌公司的反垄断诉讼中获胜。 联邦法院认定，谷歌网络搜索构成垄断。（彭博法律Blaw）",
+          "url": "https://wallstreetcn.com/livenews/3127564",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时54分 ~ 03时53分]"
+        },
+        {
+          "title": "Meta据悉布局AI云业务 拟对外出售算力 挑战亚马逊、微软和谷歌",
+          "url": "https://www.cls.cn/detail/2414683",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
         }
       ]
     },
@@ -1255,35 +1539,6 @@
       ]
     },
     {
-      "keyword_group": "印度",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "劝离无效,印度游客强占栈道",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355781&amp;topic_name=%E5%8A%9D%E7%A6%BB%E6%97%A0%E6%95%88%2C%E5%8D%B0%E5%BA%A6%E6%B8%B8%E5%AE%A2%E5%BC%BA%E5%8D%A0%E6%A0%88%E9%81%93",
-          "source": "贴吧",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时54分 ~ 07时15分]"
-        },
-        {
-          "title": "iPhone 18 Pro大量细节被曝光，印度合作伙伴泄密给苹果敲响哪些警钟",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33494648",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时14分 ~ 07时15分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -1304,20 +1559,19 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
+      "keyword_group": "情感",
       "match_count": 1,
       "titles": [
         {
-          "title": "继美国司法部官司之后，Yelp在针对谷歌公司的反垄断诉讼中获胜。 联邦法院认定，谷歌网络搜索构成垄断。（彭博法律Blaw）",
-          "url": "https://wallstreetcn.com/livenews/3127564",
-          "source": "华尔街见闻-快讯",
+          "title": "卖了一万台的情感陪伴机器人",
+          "url": "https://s.weibo.com/weibo?q=%E5%8D%96%E4%BA%86%E4%B8%80%E4%B8%87%E5%8F%B0%E7%9A%84%E6%83%85%E6%84%9F%E9%99%AA%E4%BC%B4%E6%9C%BA%E5%99%A8%E4%BA%BA&t=31&band_rank=10&Refer=top",
+          "source": "微博",
           "ranks": [
-            6,
-            26
+            10
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时54分 ~ 03时53分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
         }
       ]
     }
