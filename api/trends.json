@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-02T18:38:09.735959+08:00",
-  "total_titles_processed": 1140,
+  "generated_at": "2026-07-02T20:57:38.590089+08:00",
+  "total_titles_processed": 1301,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国",
-      "match_count": 55,
+      "match_count": 84,
       "titles": [
         {
           "title": "“小非农”降温！美国6月ADP新增就业人数降至9.8万，远低于预期",
@@ -39,19 +39,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时37分 ~ 18时38分]"
+          "appearance_count": 3,
+          "time_info": "[18时37分 ~ 20时57分]"
         },
         {
           "title": "美联储加息究竟是不是“危言耸听”？今晚美国非农夜重磅来袭！",
           "url": "https://www.cls.cn/detail/2415231",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时37分 ~ 18时38分]"
+          "appearance_count": 3,
+          "time_info": "[18时37分 ~ 20时57分]"
         },
         {
           "title": "美国决定不续签美墨加协定",
@@ -122,6 +123,17 @@
           "time_info": "07时15分"
         },
         {
+          "title": "“美联储传声筒”Nick Timiraos：美国经济6月份新增就业岗位5.7万个，而5月和4月的数据经修正后共减少了7.4万个就业岗位。失业率小幅下降至4.2%。6月份休闲和酒店业就业岗位减少了6.1万个。",
+          "url": "https://flash.jin10.com/detail/20260702203607472800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "存储三巨头遭美国集体诉讼，被指借机制造「内存末日」，内存涨价有多少人为因素？此番诉讼会带来哪些影响？",
           "url": "https://www.zhihu.com/question/2054955103715422237",
           "source": "知乎",
@@ -147,6 +159,17 @@
           "time_info": "01时54分"
         },
         {
+          "title": "欧洲斯托克600指数在美国非农数据公布后小幅上涨，现涨超1%。",
+          "url": "https://flash.jin10.com/detail/20260702203525261800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "美国中央司令部：在巴林主持召开有12国代表参加的安全会议。",
           "url": "https://flash.jin10.com/detail/20260702012330055800",
           "source": "金十数据",
@@ -156,6 +179,64 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
+        },
+        {
+          "title": "美国短期利率期货在非农数据公布后大幅上涨，市场削减了对美联储加息的押注。市场已充分消化美联储12月加息的预期，此前预期为10月加息。",
+          "url": "https://flash.jin10.com/detail/20260702203438305800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
+          "title": "美国劳工统计局：6月份，失业率4.2%，失业人数总人数为710万。",
+          "url": "https://flash.jin10.com/detail/20260702203422314800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
+          "title": "美国6月非农数据速评",
+          "url": "https://wallstreetcn.com/livenews/3128047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
+          "title": "美国非农数据公布后，市场削减了对美联储加息的押注",
+          "url": "https://wallstreetcn.com/livenews/3128046",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
+          "title": "美国淘汰波黑,东道主胜利会师",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355818&amp;topic_name=%E7%BE%8E%E5%9B%BD%E6%B7%98%E6%B1%B0%E6%B3%A2%E9%BB%91%2C%E4%B8%9C%E9%81%93%E4%B8%BB%E8%83%9C%E5%88%A9%E4%BC%9A%E5%B8%88",
+          "source": "贴吧",
+          "ranks": [
+            10,
+            17,
+            20,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时26分 ~ 20时57分]"
         },
         {
           "title": "【美军一直升机紧急迫降阿拉伯海，1名机组人员失踪】当地时间7月1日，美国海军中央司令部在社交媒体上发文表示，一架隶属于“布什”号航空母舰的MH-60S“海鹰”直升机在阿拉伯海进行了“水上紧急迫降”。目前没有迹象显示该紧急情况由敌对行动造成。声明称，直升机4名机组人员中已有3人获救，目前状况稳定。美国海军在该地区的力量正在搜寻另一名仍失踪的机组人员。美国海军表示，事故原因尚不清楚，正在调查中。（央视）",
@@ -180,19 +261,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时28分 ~ 07时15分]"
-        },
-        {
-          "title": "美国淘汰波黑,东道主胜利会师",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355818&amp;topic_name=%E7%BE%8E%E5%9B%BD%E6%B7%98%E6%B1%B0%E6%B3%A2%E9%BB%91%2C%E4%B8%9C%E9%81%93%E4%B8%BB%E8%83%9C%E5%88%A9%E4%BC%9A%E5%B8%88",
-          "source": "贴吧",
-          "ranks": [
-            10,
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时26分 ~ 18时38分]"
         },
         {
           "title": "王毅同美国国务卿鲁比奥通电话",
@@ -288,6 +356,28 @@
           "time_info": "03时53分"
         },
         {
+          "title": "美国劳工统计局：在主要的劳动力群体中，6月份失业率变化不大或基本持平，包括成年男性（3.9%）、成年女性（3.7%）、青少年（14.6%）以及白人（3.6%）、黑人（6.6%）、亚裔（3.9%）和拉美裔（5.2%）人群。",
+          "url": "https://flash.jin10.com/detail/20260702203322274800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
+          "title": "美国劳工统计局：4-5月非农就业新增人数合计下修7.4万人",
+          "url": "https://wallstreetcn.com/livenews/3128044",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "据华尔街日报：美国民主党参议员沃伦要求美联储监管机构审查美联储理事鲍曼出席美国银行私人晚宴一事。",
           "url": "https://flash.jin10.com/detail/20260702011616261800",
           "source": "金十数据",
@@ -332,6 +422,17 @@
           "time_info": "05时28分"
         },
         {
+          "title": "美国6月劳动力参与率 61.5%，预期 61.8%，前值 61.8%。",
+          "url": "https://wallstreetcn.com/livenews/3128042",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "加拿大美加贸易事务部长勒布朗：（关于《美墨加协定》）各方一致认为，继续开展磋商并探索确保加拿大、美国和墨西哥之间贸易与投资框架有效运作的途径至关重要。",
           "url": "https://flash.jin10.com/detail/20260702011529831800",
           "source": "金十数据",
@@ -343,6 +444,17 @@
           "time_info": "01时54分"
         },
         {
+          "title": "美国劳工统计局：专业和商业服务、社会援助以及医疗保健领域的就业岗位持续增加。休闲和酒店业的就业岗位减少。",
+          "url": "https://flash.jin10.com/detail/20260702203230024800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "美联储主席沃什：将选择美国财长贝森特的幕僚萨曼莎·施瓦布(Samantha Schwab)担任顾问。",
           "url": "https://wallstreetcn.com/livenews/3127581",
           "source": "华尔街见闻-快讯",
@@ -352,6 +464,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时53分"
+        },
+        {
+          "title": "美国6月失业率 4.2%，预期 4.3%，前值 4.3%。",
+          "url": "https://wallstreetcn.com/livenews/3128041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "美国贸易代表：很难想象总统的目标如何与行业关税的调整相契合。",
@@ -376,15 +499,37 @@
           "time_info": "07时15分"
         },
         {
+          "title": "美国劳工统计局：4-5月非农就业新增人数合计下修7.4万人",
+          "url": "https://flash.jin10.com/detail/20260702203215506800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "英国国债在美国就业数据公布前下跌，10年收益率上行5个基点至4.81%。",
           "url": "https://wallstreetcn.com/livenews/3127966",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
+        },
+        {
+          "title": "美国6月非农就业人口变动 5.7万人，预期 11.3万人，前值 17.2万人。",
+          "url": "https://wallstreetcn.com/livenews/3128040",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "美国贸易代表：我们需要针对汽车及其他工业产品制定更严格的北美原产地规则。",
@@ -396,6 +541,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
+        },
+        {
+          "title": "美国10年期国债收益率最新下跌1.76个基点，报4.457%。",
+          "url": "https://flash.jin10.com/detail/20260702203144787800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
+          "title": "美国6月制造业就业人口变动 0.3万人，预期 0.3万人，前值 0.7万人。",
+          "url": "https://wallstreetcn.com/livenews/3128039",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "美国贸易代表：7月20日当周，与墨西哥的谈判将继续就原产地规则和经济安全问题进行讨论。",
@@ -420,6 +587,17 @@
           "time_info": "15时32分"
         },
         {
+          "title": "美国6月私营部门就业人口变动 4.9万人，预期 10.7万人，前值 12万人。",
+          "url": "https://wallstreetcn.com/livenews/3128038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "墨西哥经济部长：认为墨西哥、美国和加拿大之间并无无法解决的实质性差异。建议美国减少对钢铁和铝的第232条关税，并在区域层面进行协调。",
           "url": "https://flash.jin10.com/detail/20260702024153103800",
           "source": "金十数据",
@@ -429,6 +607,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时53分"
+        },
+        {
+          "title": "美国6月平均每小时工资同比 3.5%，预期 3.5%，前值 3.4%。",
+          "url": "https://wallstreetcn.com/livenews/3128037",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
+          "title": "美国6月失业率意外回落至一年来低位",
+          "url": "https://flash.jin10.com/detail/20260702203041959800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
+          "title": "美国6月平均每小时工资环比 0.3%，预期 0.3%，前值 0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3128036",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "美国贸易代表： 我们无意让与《美墨加协定》相关的问题拖延长达10年之久。",
@@ -464,6 +675,17 @@
           "time_info": "07时15分"
         },
         {
+          "title": "美国6月平均每周工时 34.3小时，预期 34.3小时，前值 34.3小时。",
+          "url": "https://wallstreetcn.com/livenews/3128035",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "美国贸易代表： 《美墨加协定》未能在缩减美国贸易逆差以及为美国企业提供进入加拿大和墨西哥市场的机会方面兑现承诺。",
           "url": "https://flash.jin10.com/detail/20260702010422349800",
           "source": "金十数据",
@@ -486,6 +708,17 @@
           "time_info": "03时53分"
         },
         {
+          "title": "美国6月非农大幅低于预期",
+          "url": "https://flash.jin10.com/detail/20260702203026433800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "极端高温重压美国电网，纽约电价飙升",
           "url": "https://wallstreetcn.com/livenews/3127628",
           "source": "华尔街见闻-快讯",
@@ -497,6 +730,17 @@
           "time_info": "07时15分"
         },
         {
+          "title": "美国6月20日当周续请失业救济人数 181.4万人，预期 182万人，前值 182.1万人。",
+          "url": "https://wallstreetcn.com/livenews/3128034",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "美国红牌",
           "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E7%BA%A2%E7%89%8C&t=31&band_rank=17&Refer=top",
           "source": "微博",
@@ -506,6 +750,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
+        },
+        {
+          "title": "美国至6月20日当周续请失业金人数 181.4万人，预期181万人，前值由182.1万人修正为181.2万人。",
+          "url": "https://flash.jin10.com/detail/20260702203006145800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
+          "title": "美国6月27日当周首次申请失业救济人数 21.5万人，预期 21.8万人，前值 21.5万人。",
+          "url": "https://wallstreetcn.com/livenews/3128033",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
+          "title": "美国至6月27日当周初请失业金人数四周均值 22.2万人，前值由22.425万人修正为22.45万人。",
+          "url": "https://flash.jin10.com/detail/20260702203005978800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "华尔街大行分歧引发美国融资利率期货交易狂潮",
@@ -530,6 +807,17 @@
           "time_info": "11时26分"
         },
         {
+          "title": "美国至6月27日当周初请失业金人数 21.5万人，预期22万人，前值由21.5万人修正为21.6万人。",
+          "url": "https://flash.jin10.com/detail/20260702203005832800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "美国贸易代表：美国贸易代表办公室将继续就《美墨加协定》的修订事宜与国会及公众进行磋商。",
           "url": "https://flash.jin10.com/detail/20260702010046542800",
           "source": "金十数据",
@@ -552,6 +840,28 @@
           "time_info": "03时53分"
         },
         {
+          "title": "美国6月U6失业率 7.9%，预期6.2%，前值8.10%。",
+          "url": "https://flash.jin10.com/detail/20260702203005352800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
+          "title": "提醒：北京时间20:30，将公布美国6月非农就业报告（含就业人口、失业率、平均每小时工资，数据将因美国周五休市而提前一天发布），6月27日当周首次申请失业救济人数。",
+          "url": "https://wallstreetcn.com/livenews/3128029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "墨西哥经济部长埃布拉德：美国贸易代表格里尔表示，美国希望在未来10年内每年对《美墨加协定》进行审查。我们将于7月20日再次与美国贸易代表就《美墨加协定》举行会谈。",
           "url": "https://flash.jin10.com/detail/20260702005915427800",
           "source": "金十数据",
@@ -561,6 +871,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
+        },
+        {
+          "title": "美国旧金山联储主席戴利（2027年FOMC票委）：美国强劲的投资增长不太可能回落。 具有韧性的消费者是美国经济的一个好迹象。 美联储政策仍处于略微限制性的状态。 我们可能需要更加积极地应对持续的通胀。",
+          "url": "https://wallstreetcn.com/livenews/3128028",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "巴洛贡染红 美国少打一人",
@@ -632,7 +953,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "美国总统特朗普：我们正轻松赢得一场战争。 我们在伊朗问题上进展顺利，就像在委内瑞拉那样。",
@@ -666,6 +987,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
+        },
+        {
+          "title": "释新闻｜创下美国总统新纪录，特朗普重返白宫首年赚了多少钱？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33501745",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时37分 ~ 20时57分]"
         },
         {
           "title": "美财政部公布“特朗普账户”投资组合标的 主投宽基标普500指数ETF",
@@ -724,17 +1057,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时28分 ~ 07时15分]"
-        },
-        {
-          "title": "释新闻｜创下美国总统新纪录，特朗普重返白宫首年赚了多少钱？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33501745",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时37分 ~ 18时38分]"
         },
         {
           "title": "特朗普又来：绝不让中国接管巴拿马运河",
@@ -911,12 +1233,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
+        },
+        {
+          "title": "美国总统特朗普：美国在北约上的开支比其他国多，真是荒谬。",
+          "url": "https://wallstreetcn.com/livenews/3128023",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
+          "title": "特朗普再批西班牙：表现不好 会得到教训",
+          "url": "https://wallstreetcn.com/livenews/3128022",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "【伊朗称美方违反谅解备忘录承诺，将建立监督机制审查违规行为】伊朗外交部副部长、伊方技术谈判代表团团长加里巴巴迪表示，在当天于多哈举行的伊朗、卡塔尔、巴基斯坦三方会谈中，伊朗代表团提出并审查了美国违反美伊谅解备忘录第一条关于结束黎巴嫩战事的承诺，并讨论了有关美国加强地区军事装备和兵力部署的报道和美国官员发表的一些具有威胁性及干涉主义的言论。伊朗代表团在会谈中强调，美伊谅解备忘录中的各项承诺是一个整体，不能单独割裂看待。 加里巴巴迪宣布，将组建监督小组并通过直接沟通渠道通报和审查涉及美伊谅解备忘录的违规行为。他指出，伊朗代表在与卡塔尔央行等官员的会谈中已决定将部分解冻的60亿美元资金用于根据伊朗需求采购必要物资。他同时澄清称“伊朗与美国代表团没有在多哈举行会晤”。（央视）",
@@ -978,6 +1322,18 @@
           "time_info": "[01时54分 ~ 03时53分]"
         },
         {
+          "title": "何维将出席伊朗已故最高领袖葬礼",
+          "url": "https://www.douyin.com/hot/2555610",
+          "source": "抖音",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时37分 ~ 20时57分]"
+        },
+        {
           "title": "伊朗队回国，接机现场人山人海，仪仗队奏响国歌迎接",
           "url": "https://news.ifeng.com/c/8uQaMfSWpO8",
           "source": "凤凰网",
@@ -1013,15 +1369,15 @@
           "time_info": "[01时54分 ~ 03时53分]"
         },
         {
-          "title": "何维将出席伊朗已故最高领袖葬礼",
-          "url": "https://www.douyin.com/hot/2555610",
-          "source": "抖音",
+          "title": "伊朗国家队回国向民众道歉",
+          "url": "https://www.toutiao.com/trending/7657124026443402793/",
+          "source": "今日头条",
           "ranks": [
-            12
+            8
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时37分 ~ 18时38分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "消息人士：伊朗要求分阶段执行美伊谅解备忘录，重点推动资产解冻",
@@ -1107,7 +1463,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
         },
@@ -1162,7 +1518,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
         },
@@ -1181,7 +1537,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "市场聚焦沃什讲话，美股三大股指集体低开，存储芯片股下跌，闪迪下跌8.6%，黄金站上4070",
@@ -1216,8 +1572,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时32分 ~ 18时38分]"
+          "appearance_count": 4,
+          "time_info": "[15时32分 ~ 20时57分]"
         },
         {
           "title": "美股",
@@ -1279,6 +1635,28 @@
           "time_info": "01时54分"
         },
         {
+          "title": "美股三大股指期货在六月非农数据公布后延续涨势，纳指期货涨幅扩大至0.4%。",
+          "url": "https://flash.jin10.com/detail/20260702203314831800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
+          "title": "美国非农数据公布后，美股股指期货快速拉升",
+          "url": "https://wallstreetcn.com/livenews/3128043",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "美股大类资产类ETF涨跌各异，黄金ETF涨0.6%，纳指ETF跌超1.5%，布油基金跌超3.1%",
           "url": "https://wallstreetcn.com/livenews/3127610",
           "source": "华尔街见闻-快讯",
@@ -1323,6 +1701,17 @@
           "time_info": "05时28分"
         },
         {
+          "title": "美股三大股指期货转涨，美光科技盘前反弹",
+          "url": "https://wallstreetcn.com/livenews/3128027",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "美股收盘：金龙指数涨近3% 美光、闪迪跌10%",
           "url": "https://flash.jin10.com/detail/20260702040235507800",
           "source": "金十数据",
@@ -1359,7 +1748,7 @@
     },
     {
       "keyword_group": "日本",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "“日本公民在大连是否被逮捕”，中方回应",
@@ -1381,11 +1770,12 @@
             13,
             17,
             25,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时54分 ~ 18时38分]"
+          "appearance_count": 11,
+          "time_info": "[01时54分 ~ 20时57分]"
         },
         {
           "title": "日本物价三连跳,老百姓麻了",
@@ -1402,6 +1792,31 @@
           "time_info": "[01时54分 ~ 15时32分]"
         },
         {
+          "title": "馋哭,国产豆花饭征服日本胃",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355819&amp;topic_name=%E9%A6%8B%E5%93%AD%2C%E5%9B%BD%E4%BA%A7%E8%B1%86%E8%8A%B1%E9%A5%AD%E5%BE%81%E6%9C%8D%E6%97%A5%E6%9C%AC%E8%83%83",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            12,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时26分 ~ 20时57分]"
+        },
+        {
+          "title": "中方能否证实在大连的日本人被拘留，外交部回应",
+          "url": "https://news.ifeng.com/c/8uQuJQoxg2r",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "日本市民大排长龙买中国相机",
           "url": "https://www.toutiao.com/trending/7657553376851296302/",
           "source": "今日头条",
@@ -1415,34 +1830,22 @@
           "time_info": "[11时26分 ~ 18时38分]"
         },
         {
-          "title": "馋哭,国产豆花饭征服日本胃",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355819&amp;topic_name=%E9%A6%8B%E5%93%AD%2C%E5%9B%BD%E4%BA%A7%E8%B1%86%E8%8A%B1%E9%A5%AD%E5%BE%81%E6%9C%8D%E6%97%A5%E6%9C%AC%E8%83%83",
+          "title": "老外开中国车遭日本人骚扰",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355826&amp;topic_name=%E8%80%81%E5%A4%96%E5%BC%80%E4%B8%AD%E5%9B%BD%E8%BD%A6%E9%81%AD%E6%97%A5%E6%9C%AC%E4%BA%BA%E9%AA%9A%E6%89%B0",
           "source": "贴吧",
           "ranks": [
-            4,
-            12,
+            10,
+            11,
             13
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时26分 ~ 18时38分]"
+          "time_info": "[15时32分 ~ 20时57分]"
         },
         {
           "title": "被中方要求停止测量船作业，日本不满提出“抗议”",
           "url": "https://news.ifeng.com/c/8uQRhu4O0jv",
           "source": "凤凰网",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时32分 ~ 18时38分]"
-        },
-        {
-          "title": "老外开中国车遭日本人骚扰",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355826&amp;topic_name=%E8%80%81%E5%A4%96%E5%BC%80%E4%B8%AD%E5%9B%BD%E8%BD%A6%E9%81%AD%E6%97%A5%E6%9C%AC%E4%BA%BA%E9%AA%9A%E6%89%B0",
-          "source": "贴吧",
           "ranks": [
             10,
             11
@@ -1502,9 +1905,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
+        },
+        {
+          "title": "世预赛中国男篮主场对战日本队",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E9%A2%84%E8%B5%9B%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%BB%E5%9C%BA%E5%AF%B9%E6%88%98%E6%97%A5%E6%9C%AC%E9%98%9F",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "日本东证指数日内涨幅扩大至1%。",
@@ -1516,6 +1930,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
+        },
+        {
+          "title": "日本竟抗议中方要求其测量船停止作业",
+          "url": "https://www.toutiao.com/trending/7657739157381316646/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "日本20年期国债收益率上行11个基点至3.775%。",
@@ -1543,7 +1968,7 @@
     },
     {
       "keyword_group": "印度",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "劝离无效,印度游客强占栈道",
@@ -1580,7 +2005,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
         },
@@ -1593,19 +2018,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时26分 ~ 18时38分]"
+          "appearance_count": 5,
+          "time_info": "[11时26分 ~ 20时57分]"
         },
         {
           "title": "博主印度吃中毒,医院神补刀",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355832&amp;topic_name=%E5%8D%9A%E4%B8%BB%E5%8D%B0%E5%BA%A6%E5%90%83%E4%B8%AD%E6%AF%92%2C%E5%8C%BB%E9%99%A2%E7%A5%9E%E8%A1%A5%E5%88%80",
           "source": "贴吧",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时32分 ~ 18时38分]"
+          "appearance_count": 4,
+          "time_info": "[15时32分 ~ 20时57分]"
         },
         {
           "title": "来论｜如何看待近期关于印度的一些讨论？",
@@ -1613,11 +2039,95 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时32分 ~ 18时38分]"
+          "appearance_count": 4,
+          "time_info": "[15时32分 ~ 20时57分]"
+        },
+        {
+          "title": "印度男子提油桶过火坑摔倒烧伤身亡",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E7%94%B7%E5%AD%90%E6%8F%90%E6%B2%B9%E6%A1%B6%E8%BF%87%E7%81%AB%E5%9D%91%E6%91%94%E5%80%92%E7%83%A7%E4%BC%A4%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "美元指数在非农公布后跌至两周低点100.58。",
+          "url": "https://wallstreetcn.com/livenews/3128054",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
+          "title": "周三（7月1日）纽约尾盘，ICE美元指数涨0.20%，报101.387点，亚太盘初以来持续上扬、北京时间21:14刷新日高至101.595点，随后快速回落、刷新日低至101.200点、几乎完全回吐日内稍早涨幅，之后逐步回升。 彭博美元指数涨0.20%，报1224.73点，日内交投区间为1222.26-1226.75点。",
+          "url": "https://wallstreetcn.com/livenews/3127589",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时53分"
+        },
+        {
+          "title": "美元指数1日上涨",
+          "url": "https://flash.jin10.com/detail/20260702042100107800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
+        {
+          "title": "美元指数DXY短线下挫30点，报100.85。",
+          "url": "https://flash.jin10.com/detail/20260702203107070800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
+          "title": "北美科技软件股指数ETF涨3.02%，报93.34美元。 Global X网络安全ETF涨2.59%，纳斯达克网络安全ETF涨1.40%，ETFMG网络安全ETF涨2.07%",
+          "url": "https://wallstreetcn.com/livenews/3127613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨2.22%，暂报2150.11点，北京时间08:55之前大致持平于2100点附近，09:13跌至2063.01点刷新期内最低位，随后呈现出N形走势、第一波反弹走势在12:47达到2155.28点、23:23刷新期内最高位至2161.93点。 MarketVectorTM数字资产100中盘指数涨0.99%，报2453.77点。 MarketVector数字资产100指数涨2.65%，报11919.46点。 目前，Solana涨4.78%，狗狗币涨1.11%，XRP涨1.31%。 比特币涨2.06%，暂报59850.94美元；以太坊涨2.33%，暂报1613.15美元。",
+          "url": "https://wallstreetcn.com/livenews/3127549",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时54分"
         }
       ]
     },
@@ -1677,52 +2187,52 @@
       ]
     },
     {
-      "keyword_group": "美元",
+      "keyword_group": "美债",
       "match_count": 4,
       "titles": [
         {
-          "title": "周三（7月1日）纽约尾盘，ICE美元指数涨0.20%，报101.387点，亚太盘初以来持续上扬、北京时间21:14刷新日高至101.595点，随后快速回落、刷新日低至101.200点、几乎完全回吐日内稍早涨幅，之后逐步回升。 彭博美元指数涨0.20%，报1224.73点，日内交投区间为1222.26-1226.75点。",
-          "url": "https://wallstreetcn.com/livenews/3127589",
-          "source": "华尔街见闻-快讯",
+          "title": "AI热情驱动美股收涨，道指续收新高，标普纳指创史上最佳季度之一，美债跌",
+          "url": "https://wallstreetcn.com/articles/3775797",
+          "source": "华尔街见闻",
           "ranks": [
             5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时54分 ~ 05时28分]"
+        },
+        {
+          "title": "周三（7月1日）纽约尾盘，美国10年期国债收益率涨0.99个基点，报4.4752%，美股开盘前后出现一波冲高回落行情、北京时间21:08刷新日高至4.4970% 两年期美债收益率大致持平，报4.1702%，21:08刷新日高至4.1971%、随后快速回撤、22:09刷新日低至4.1311%；30年期美债收益率涨1.40个基点，报4.9653%。 2/10年期美债收益率利差涨1.817个基点，报+30.495个基点。 10年期通胀保值国债（TIPS）收益率涨0.85个基点，至2.2305%；两年期TIPS收益率跌0.77个基点，至2.1636%；30年期TIPS收益率涨0.82个基点，至2.7870%。",
+          "url": "https://wallstreetcn.com/livenews/3127592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时53分"
         },
         {
-          "title": "美元指数1日上涨",
-          "url": "https://flash.jin10.com/detail/20260702042100107800",
+          "title": "非农数据削减加息预期，美股期指拉升，美债收益率直线走低，黄金涨幅扩大至2%",
+          "url": "https://wallstreetcn.com/articles/3776024",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
+          "title": "美国国债收益率在非农报告发布后下跌，10年期美债收益率最新下跌1.76个基点，报4.457%。",
+          "url": "https://flash.jin10.com/detail/20260702203339598800",
           "source": "金十数据",
           "ranks": [
-            14
+            6
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时28分"
-        },
-        {
-          "title": "北美科技软件股指数ETF涨3.02%，报93.34美元。 Global X网络安全ETF涨2.59%，纳斯达克网络安全ETF涨1.40%，ETFMG网络安全ETF涨2.07%",
-          "url": "https://wallstreetcn.com/livenews/3127613",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时28分"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨2.22%，暂报2150.11点，北京时间08:55之前大致持平于2100点附近，09:13跌至2063.01点刷新期内最低位，随后呈现出N形走势、第一波反弹走势在12:47达到2155.28点、23:23刷新期内最高位至2161.93点。 MarketVectorTM数字资产100中盘指数涨0.99%，报2453.77点。 MarketVector数字资产100指数涨2.65%，报11919.46点。 目前，Solana涨4.78%，狗狗币涨1.11%，XRP涨1.31%。 比特币涨2.06%，暂报59850.94美元；以太坊涨2.33%，暂报1613.15美元。",
-          "url": "https://wallstreetcn.com/livenews/3127549",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时54分"
+          "time_info": "20时57分"
         }
       ]
     },
@@ -1823,34 +2333,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时26分 ~ 15时32分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "AI热情驱动美股收涨，道指续收新高，标普纳指创史上最佳季度之一，美债跌",
-          "url": "https://wallstreetcn.com/articles/3775797",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时54分 ~ 05时28分]"
-        },
-        {
-          "title": "周三（7月1日）纽约尾盘，美国10年期国债收益率涨0.99个基点，报4.4752%，美股开盘前后出现一波冲高回落行情、北京时间21:08刷新日高至4.4970% 两年期美债收益率大致持平，报4.1702%，21:08刷新日高至4.1971%、随后快速回撤、22:09刷新日低至4.1311%；30年期美债收益率涨1.40个基点，报4.9653%。 2/10年期美债收益率利差涨1.817个基点，报+30.495个基点。 10年期通胀保值国债（TIPS）收益率涨0.85个基点，至2.2305%；两年期TIPS收益率跌0.77个基点，至2.1636%；30年期TIPS收益率涨0.82个基点，至2.7870%。",
-          "url": "https://wallstreetcn.com/livenews/3127592",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时53分"
         }
       ]
     },
