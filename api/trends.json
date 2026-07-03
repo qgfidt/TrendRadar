@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-04T05:05:00.965539+08:00",
-  "total_titles_processed": 425,
+  "generated_at": "2026-07-04T07:02:35.930795+08:00",
+  "total_titles_processed": 477,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 05时05分]"
+          "appearance_count": 7,
+          "time_info": "[01时24分 ~ 07时02分]"
         },
         {
           "title": "伊朗议长会见中方代表，称已解决中国船只通过海峡问题",
@@ -38,8 +38,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时20分 ~ 05时05分]"
+          "appearance_count": 3,
+          "time_info": "[03时20分 ~ 07时02分]"
         },
         {
           "title": "据伊朗学生通讯社：伊朗总统与俄罗斯讨论了扩大合作事宜。",
@@ -50,8 +50,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时20分 ~ 05时05分]"
+          "appearance_count": 3,
+          "time_info": "[03时20分 ~ 07时02分]"
         },
         {
           "title": "伊朗总统与俄罗斯讨论扩大合作的事宜。（ISN）",
@@ -137,7 +137,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时05分"
         },
@@ -167,7 +167,7 @@
     },
     {
       "keyword_group": "美国",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "中国造的“老头乐”在美国杀疯了",
@@ -178,8 +178,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 05时05分]"
+          "appearance_count": 7,
+          "time_info": "[01时24分 ~ 07时02分]"
         },
         {
           "title": "美国电网运营巨头PJM Interconnection LLC：可能在7月2日出现创历史纪录新高的电力需求。",
@@ -188,18 +188,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时05分"
-        },
-        {
-          "title": "美联储：美国上周银行存款19.374万亿美元，之前一周19.304万亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3128833",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时05分"
         },
@@ -212,20 +201,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时20分 ~ 05时05分]"
-        },
-        {
-          "title": "美国电网运营巨头PJM Interconnection LLC在紧急程序网站上发布消息，宣布启动EEA2（二级能源紧急警报）行动，原因是已无法满足预期的能源需求。 该公司表示，正在实施一项运营计划，要求公用事业公司在其服务区域内削减电力需求。该区域覆盖中大西洋地区、南部地区以及华盛顿特区，服务人口达6700万。",
-          "url": "https://wallstreetcn.com/livenews/3128822",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时20分 ~ 05时05分]"
+          "appearance_count": 3,
+          "time_info": "[03时20分 ~ 07时02分]"
         },
         {
           "title": "卡利巴夫：美国应接受地区现实，呼吁推动解除制裁",
@@ -236,8 +213,33 @@
             13
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时20分 ~ 07时02分]"
+        },
+        {
+          "title": "美国电网运营巨头PJM Interconnection LLC在紧急程序网站上发布消息，宣布启动EEA2（二级能源紧急警报）行动，原因是已无法满足预期的能源需求。 该公司表示，正在实施一项运营计划，要求公用事业公司在其服务区域内削减电力需求。该区域覆盖中大西洋地区、南部地区以及华盛顿特区，服务人口达6700万。",
+          "url": "https://wallstreetcn.com/livenews/3128822",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时20分 ~ 07时02分]"
+        },
+        {
+          "title": "美联储：美国上周银行存款19.374万亿美元，之前一周19.304万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3128833",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            16
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时20分 ~ 05时05分]"
+          "time_info": "[05时05分 ~ 07时02分]"
         },
         {
           "title": "北约高级指挥官：欧洲已弥补了美国在北约内部削减的大部分份额。",
@@ -248,8 +250,31 @@
             21
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时20分 ~ 07时02分]"
+        },
+        {
+          "title": "格陵兰岛当局：美国仍在施压，但该岛“绝不出售”",
+          "url": "https://flash.jin10.com/detail/20260704034413740800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时20分 ~ 05时05分]"
+          "time_info": "[05时05分 ~ 07时02分]"
+        },
+        {
+          "title": "格陵兰岛当局：美国仍在施压，但该岛“绝不出售”",
+          "url": "https://wallstreetcn.com/livenews/3128827",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时05分 ~ 07时02分]"
         },
         {
           "title": "尽管汽油价格高企，美国人依然踏上独立日自驾之旅",
@@ -276,26 +301,37 @@
           "time_info": "[01时25分 ~ 03时20分]"
         },
         {
-          "title": "格陵兰岛当局：美国仍在施压，但该岛“绝不出售”",
-          "url": "https://flash.jin10.com/detail/20260704034413740800",
-          "source": "金十数据",
+          "title": "美国糖尿病协会下调亚裔人群超重和肥胖 BMI 标准，为何要下调？BMI 正常就代表体重健康吗？",
+          "url": "https://www.zhihu.com/question/2056372314535453404",
+          "source": "知乎",
           "ranks": [
-            6
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时05分"
+          "time_info": "07时02分"
         },
         {
-          "title": "格陵兰岛当局：美国仍在施压，但该岛“绝不出售”",
-          "url": "https://wallstreetcn.com/livenews/3128827",
+          "title": "Consolidated Edison Inc.临时性地向美国纽约市皇后区西南部9800客户停止供电服务。",
+          "url": "https://wallstreetcn.com/livenews/3128837",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时05分"
+          "time_info": "07时02分"
+        },
+        {
+          "title": "美国最大电网周四因高温迎来破纪录用电需求",
+          "url": "https://wallstreetcn.com/livenews/3128835",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         }
       ]
     },
@@ -304,17 +340,6 @@
       "match_count": 10,
       "titles": [
         {
-          "title": "中国男篮世预赛主场惨败日本",
-          "url": "https://www.toutiao.com/trending/7657861832220229651/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 05时05分]"
-        },
-        {
           "title": "男篮世预赛 B 组，中国男篮 73-92 不敌日本男篮 ，如何评价本场比赛？",
           "url": "https://www.zhihu.com/question/2056436512388904270",
           "source": "知乎",
@@ -322,8 +347,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 05时05分]"
+          "appearance_count": 7,
+          "time_info": "[01时24分 ~ 07时02分]"
         },
         {
           "title": "中国男篮19分不敌日本男篮",
@@ -334,19 +359,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 05时05分]"
-        },
-        {
-          "title": "中国男篮73比92不敌日本男篮",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE73%E6%AF%9492%E4%B8%8D%E6%95%8C%E6%97%A5%E6%9C%AC%E7%94%B7%E7%AF%AE",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 05时05分]"
+          "appearance_count": 7,
+          "time_info": "[01时24分 ~ 07时02分]"
         },
         {
           "title": "中国男篮73:92不敌日本男篮",
@@ -355,6 +369,17 @@
           "ranks": [
             2,
             4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时24分 ~ 07时02分]"
+        },
+        {
+          "title": "中国男篮73比92不敌日本男篮",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE73%E6%AF%9492%E4%B8%8D%E6%95%8C%E6%97%A5%E6%9C%AC%E7%94%B7%E7%AF%AE",
+          "source": "百度热搜",
+          "ranks": [
+            2
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -372,15 +397,28 @@
           "time_info": "[01时24分 ~ 05时05分]"
         },
         {
+          "title": "中国男篮世预赛主场惨败日本",
+          "url": "https://www.toutiao.com/trending/7657861832220229651/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时24分 ~ 07时02分]"
+        },
+        {
           "title": "日本男演员片场骚扰女明星",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355865&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%94%B7%E6%BC%94%E5%91%98%E7%89%87%E5%9C%BA%E9%AA%9A%E6%89%B0%E5%A5%B3%E6%98%8E%E6%98%9F",
           "source": "贴吧",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 05时05分]"
+          "appearance_count": 7,
+          "time_info": "[01时24分 ~ 07时02分]"
         },
         {
           "title": "记者：日本早用霍金森中国男篮或出局",
@@ -389,22 +427,24 @@
           "ranks": [
             4,
             5,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 05时05分]"
+          "appearance_count": 7,
+          "time_info": "[01时24分 ~ 07时02分]"
         },
         {
           "title": "酱油日本特有?日网友醒醒",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355853&amp;topic_name=%E9%85%B1%E6%B2%B9%E6%97%A5%E6%9C%AC%E7%89%B9%E6%9C%89%3F%E6%97%A5%E7%BD%91%E5%8F%8B%E9%86%92%E9%86%92",
           "source": "贴吧",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 05时05分]"
+          "appearance_count": 7,
+          "time_info": "[01时24分 ~ 07时02分]"
         },
         {
           "title": "中国男篮不敌日本男篮",
@@ -432,8 +472,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 05时05分]"
+          "appearance_count": 7,
+          "time_info": "[01时24分 ~ 07时02分]"
         },
         {
           "title": "借总统身份捞钱？特朗普：赚钱没犯法，不管我家人做啥都有人说“利益冲突”",
@@ -443,19 +483,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 05时05分]"
+          "appearance_count": 7,
+          "time_info": "[01时24分 ~ 07时02分]"
         },
         {
           "title": "特朗普：我知道沃什想做什么，但他须做分内之事，美联储理事会可能有点“敌对”",
           "url": "https://wallstreetcn.com/articles/3776099",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时19分 ~ 05时05分]"
+          "appearance_count": 5,
+          "time_info": "[03时19分 ~ 07时02分]"
         },
         {
           "title": "美国总统特朗普周五与内塔尼亚胡通电话。（Axios）",
@@ -474,11 +515,12 @@
           "url": "https://wallstreetcn.com/livenews/3128826",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时05分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时05分 ~ 07时02分]"
         },
         {
           "title": "美国总统特朗普：赦免6名因“修车被起诉”人士。",
@@ -487,9 +529,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时05分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时05分 ~ 07时02分]"
         },
         {
           "title": "据AXIOS网站：美国总统特朗普今天与以色列总理内塔尼亚胡通了电话。以色列总理办公室表示，双方同意近期在美国举行会晤。",
@@ -506,7 +548,7 @@
     },
     {
       "keyword_group": "印度",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "手舞足蹈卖力演奏，高市早苗试弹印度乐器，莫迪带头鼓掌",
@@ -516,19 +558,44 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 05时05分]"
+          "appearance_count": 7,
+          "time_info": "[01时24分 ~ 07时02分]"
         },
         {
           "title": "女子印度游,脑子长出寄生虫",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355864&amp;topic_name=%E5%A5%B3%E5%AD%90%E5%8D%B0%E5%BA%A6%E6%B8%B8%2C%E8%84%91%E5%AD%90%E9%95%BF%E5%87%BA%E5%AF%84%E7%94%9F%E8%99%AB",
           "source": "贴吧",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 05时05分]"
+          "appearance_count": 7,
+          "time_info": "[01时24分 ~ 07时02分]"
+        },
+        {
+          "title": "媒体为印度人发声:莫以偏概全",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355852&amp;topic_name=%E5%AA%92%E4%BD%93%E4%B8%BA%E5%8D%B0%E5%BA%A6%E4%BA%BA%E5%8F%91%E5%A3%B0%3A%E8%8E%AB%E4%BB%A5%E5%81%8F%E6%A6%82%E5%85%A8",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时24分 ~ 07时02分]"
+        },
+        {
+          "title": "博主印度吃中毒,医院神补刀",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355832&amp;topic_name=%E5%8D%9A%E4%B8%BB%E5%8D%B0%E5%BA%A6%E5%90%83%E4%B8%AD%E6%AF%92%2C%E5%8C%BB%E9%99%A2%E7%A5%9E%E8%A1%A5%E5%88%80",
+          "source": "贴吧",
+          "ranks": [
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时24分 ~ 07时02分]"
         },
         {
           "title": "高市“盯上”印度牛粪",
@@ -542,26 +609,15 @@
           "time_info": "[01时24分 ~ 05时05分]"
         },
         {
-          "title": "媒体为印度人发声:莫以偏概全",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355852&amp;topic_name=%E5%AA%92%E4%BD%93%E4%B8%BA%E5%8D%B0%E5%BA%A6%E4%BA%BA%E5%8F%91%E5%A3%B0%3A%E8%8E%AB%E4%BB%A5%E5%81%8F%E6%A6%82%E5%85%A8",
-          "source": "贴吧",
+          "title": "演上了！美议员当众举起手机：去中国不带，去印度就带",
+          "url": "https://news.ifeng.com/c/8uT5BAgoWQc",
+          "source": "凤凰网",
           "ranks": [
-            9
+            4
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 05时05分]"
-        },
-        {
-          "title": "博主印度吃中毒,医院神补刀",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355832&amp;topic_name=%E5%8D%9A%E4%B8%BB%E5%8D%B0%E5%BA%A6%E5%90%83%E4%B8%AD%E6%AF%92%2C%E5%8C%BB%E9%99%A2%E7%A5%9E%E8%A1%A5%E5%88%80",
-          "source": "贴吧",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 05时05分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         }
       ]
     },
@@ -575,11 +631,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            17
+            17,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时20分 ~ 05时05分]"
+          "appearance_count": 3,
+          "time_info": "[03时20分 ~ 07时02分]"
+        },
+        {
+          "title": "推动金价上涨的“神秘央行”存在吗",
+          "url": "https://www.toutiao.com/trending/7658284084967247369/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时24分 ~ 07时02分]"
         },
         {
           "title": "摩根大通：预计黄金价格将在近期区间震荡，然后才会出现复苏。 预计2026年三季度均价4300美元/盎司，四季度料位4500美元。 维持长期看涨金价的立场不变，预计将在2027年进一步复苏。",
@@ -592,17 +661,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时20分 ~ 05时05分]"
-        },
-        {
-          "title": "推动金价上涨的“神秘央行”存在吗",
-          "url": "https://www.toutiao.com/trending/7658284084967247369/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时24分 ~ 01时25分]"
         },
         {
           "title": "摩根大通维持对黄金的长期看涨展望，并预计金价将在2027年进一步回升。",
@@ -630,8 +688,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 05时05分]"
+          "appearance_count": 7,
+          "time_info": "[01时24分 ~ 07时02分]"
         },
         {
           "title": "Anthropic自研AI芯片计划引发美股半导体大跌！闪迪大跌14%，费城半导体指数两日重挫12%",
