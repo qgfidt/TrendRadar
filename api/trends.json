@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T20:11:29.155108+08:00",
-  "total_titles_processed": 1225,
+  "generated_at": "2026-07-03T23:11:20.472990+08:00",
+  "total_titles_processed": 1392,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国",
-      "match_count": 50,
+      "match_count": 58,
       "titles": [
         {
           "title": "美国6月非农新增就业5.7万人，仅为市场预期的一半，前值大幅下修，失业率意外降至一年来最低水平",
@@ -104,6 +104,28 @@
           "time_info": "17时57分"
         },
         {
+          "title": "美国反垄断机构：正密切监控石油市场有无价格操纵行为",
+          "url": "https://flash.jin10.com/detail/20260703223956802800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
+          "title": "安盛集团（AXA Group）首席经济学家Gilles Moec认为，美国劳动力市场的基本面尚可，尽管其对利率政策是否会出现分歧不太确定。 “美国的通胀问题比欧洲严重得多。美国的货币政策已经具有限制性，而欧洲则不然。因此，你可以认为他们两者要做的就是维持现状。”（彭博电视）",
+          "url": "https://wallstreetcn.com/livenews/3128761",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
           "title": "美国女子持刀逼近警员遭枪杀",
           "url": "https://www.toutiao.com/trending/7658127788016140330/",
           "source": "今日头条",
@@ -124,6 +146,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
+        },
+        {
+          "title": "据美国哥伦比亚广播公司（CBS）：美国官员敦促各州打击石油价格欺诈行为。",
+          "url": "https://flash.jin10.com/detail/20260703223640298800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
+          "title": "法国巴黎银行首席经济学家Isabelle Mateos y Lago：如果我们看到的美国非农就业数据非常强劲，接近13万或以上，那么我认为7月的会议将会非常、非常引人关注。 现在这种可能性可能降低了，但在我看来，美联储加息的理由并未减弱。（彭博电视）",
+          "url": "https://wallstreetcn.com/livenews/3128760",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
         },
         {
           "title": "拒绝空调的欧洲和电网告急的美国，极端热浪撕开了什么？｜907编辑部",
@@ -256,6 +300,51 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时57分 ~ 20时11分]"
+        },
+        {
+          "title": "中国造的“老头乐”在美国杀疯了",
+          "url": "https://www.toutiao.com/trending/7658075005603348522/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时57分 ~ 23时11分]"
+        },
+        {
+          "title": "据美国哥伦比亚广播公司（CBS）：美国称正在监测石油市场以防止价格操纵。",
+          "url": "https://flash.jin10.com/detail/20260703223430825800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
+          "title": "安联集团首席经济学家Ludovic Subran：美国6月非农就业数据确实疲软，但我仍然认为通胀峰值将高于3.7%，而且美国经济仍有AI、财政支出和能源因素的支撑。 美联储可能不得不在9月份加息。所以我认为这才是欧洲和美国之间的真正分歧。（彭博电视）",
+          "url": "https://wallstreetcn.com/livenews/3128759",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
+          "title": "美国正为了价格问题而监控石油市场。（CBS）",
+          "url": "https://wallstreetcn.com/livenews/3128757",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
         },
         {
           "title": "WTT美国大满贯孙颖莎一天两胜",
@@ -412,17 +501,6 @@
           "time_info": "01时46分"
         },
         {
-          "title": "中国造的“老头乐”在美国杀疯了",
-          "url": "https://www.toutiao.com/trending/7658075005603348522/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时57分"
-        },
-        {
           "title": "美东时间17:45，美国电网运营巨头PJM Interconnection LLC在Dominion地区的实时电价飙涨至2588美元/MWh。",
           "url": "https://wallstreetcn.com/livenews/3128249",
           "source": "华尔街见闻-快讯",
@@ -443,6 +521,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
+        },
+        {
+          "title": "市场消息：德国汽车零部件制造商大陆集团（Continental）接近以40亿欧元的估值将康迪泰克出售给美国私募股权投资公司Lone Star。",
+          "url": "https://flash.jin10.com/detail/20260703220915481800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
         },
         {
           "title": "美国至7月3日当周石油钻井总数将于十分钟后公布。",
@@ -580,7 +669,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 41,
       "titles": [
         {
           "title": "特朗普称沃什面临“有点敌意”的美联储理事会，重申将推动罢免库克",
@@ -625,22 +714,35 @@
           "ranks": [
             17,
             16,
-            15
+            15,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时32分 ~ 20时11分]"
+          "appearance_count": 4,
+          "time_info": "[14时32分 ~ 23时11分]"
         },
         {
           "title": "特朗普：我知道沃什想做什么，但他须做分内之事，美联储理事会可能有点“敌对”",
           "url": "https://wallstreetcn.com/articles/3776099",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时11分 ~ 23时11分]"
+        },
+        {
+          "title": "从保守派宠儿到MAGA公敌，她为什么敢“背叛”特朗普？",
+          "url": "https://news.ifeng.com/c/8uSuVg66mIs",
+          "source": "凤凰网",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时11分"
+          "time_info": "23时11分"
         },
         {
           "title": "特朗普重申：伊朗将从美国购买食品",
@@ -814,7 +916,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时11分"
         },
@@ -973,6 +1075,17 @@
           "time_info": "07时05分"
         },
         {
+          "title": "特朗普说自己是对以色列最好的总统",
+          "url": "https://wallstreetcn.com/livenews/3128731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
           "title": "特朗普发AI视频变身医生开可乐药方",
           "url": "https://www.toutiao.com/trending/7657679186635030554/",
           "source": "今日头条",
@@ -1020,7 +1133,7 @@
     },
     {
       "keyword_group": "日本",
-      "match_count": 20,
+      "match_count": 30,
       "titles": [
         {
           "title": "莫迪和高市早苗“认兄妹”，日本网民嘲讽",
@@ -1086,6 +1199,19 @@
           "time_info": "[14时32分 ~ 20时11分]"
         },
         {
+          "title": "日本男演员片场骚扰女明星",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355865&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%94%B7%E6%BC%94%E5%91%98%E7%89%87%E5%9C%BA%E9%AA%9A%E6%89%B0%E5%A5%B3%E6%98%8E%E6%98%9F",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时57分 ~ 23时11分]"
+        },
+        {
           "title": "馋哭,国产豆花饭征服日本胃",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355819&amp;topic_name=%E9%A6%8B%E5%93%AD%2C%E5%9B%BD%E4%BA%A7%E8%B1%86%E8%8A%B1%E9%A5%AD%E5%BE%81%E6%9C%8D%E6%97%A5%E6%9C%AC%E8%83%83",
           "source": "贴吧",
@@ -1101,16 +1227,26 @@
           "time_info": "[01时46分 ~ 17时57分]"
         },
         {
-          "title": "日本男演员片场骚扰女明星",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355865&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%94%B7%E6%BC%94%E5%91%98%E7%89%87%E5%9C%BA%E9%AA%9A%E6%89%B0%E5%A5%B3%E6%98%8E%E6%98%9F",
-          "source": "贴吧",
+          "title": "中国男篮世预赛主场惨败日本",
+          "url": "https://www.toutiao.com/trending/7657861832220229651/",
+          "source": "今日头条",
           "ranks": [
-            3,
-            4
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时57分 ~ 20时11分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
+          "title": "中国男篮19分不敌日本男篮",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE19%E5%88%86%E4%B8%8D%E6%95%8C%E6%97%A5%E6%9C%AC%E7%94%B7%E7%AF%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
         },
         {
           "title": "陪看男篮世预赛 中国vs日本",
@@ -1119,9 +1255,89 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时11分"
+        },
+        {
+          "title": "中国男篮73比92不敌日本男篮",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE73%E6%AF%9492%E4%B8%8D%E6%95%8C%E6%97%A5%E6%9C%AC%E7%94%B7%E7%AF%AE",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
+          "title": "中国男篮73:92不敌日本男篮",
+          "url": "https://www.douyin.com/hot/2556627",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
+          "title": "男篮世预赛 B 组，中国男篮 73-92 不敌日本男篮 ，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2056436512388904270",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
+          "title": "记者：日本早用霍金森中国男篮或出局",
+          "url": "https://www.toutiao.com/trending/7657543072257065010/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
+          "title": "日本防相：将加快拦截无人机部署",
+          "url": "https://news.ifeng.com/c/8uSvSMx8KQl",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
+          "title": "中国男篮不敌日本男篮",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%8D%E6%95%8C%E6%97%A5%E6%9C%AC%E7%94%B7%E7%AF%AE&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
+          "title": "酱油日本特有?日网友醒醒",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355853&amp;topic_name=%E9%85%B1%E6%B2%B9%E6%97%A5%E6%9C%AC%E7%89%B9%E6%9C%89%3F%E6%97%A5%E7%BD%91%E5%8F%8B%E9%86%92%E9%86%92",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            9,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时32分 ~ 23时11分]"
         },
         {
           "title": "日本市民大排长龙买中国相机",
@@ -1134,19 +1350,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时22分 ~ 07时05分]"
-        },
-        {
-          "title": "酱油日本特有?日网友醒醒",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355853&amp;topic_name=%E9%85%B1%E6%B2%B9%E6%97%A5%E6%9C%AC%E7%89%B9%E6%9C%89%3F%E6%97%A5%E7%BD%91%E5%8F%8B%E9%86%92%E9%86%92",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时32分 ~ 20时11分]"
         },
         {
           "title": "日本网友以为酱油是日本特有的",
@@ -1196,6 +1399,17 @@
           "time_info": "14时32分"
         },
         {
+          "title": "中国男篮vs日本男篮",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AEvs%E6%97%A5%E6%9C%AC%E7%94%B7%E7%AF%AE%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
           "title": "乌克兰外长访问日本",
           "url": "https://www.douyin.com/hot/2555010",
           "source": "抖音",
@@ -1229,6 +1443,17 @@
           "time_info": "14时32分"
         },
         {
+          "title": "中国男篮73比92不敌日本男篮，世预赛出线存变数",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33511637",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
           "title": "韩国博主在日本整治“撞人族”",
           "url": "https://www.toutiao.com/trending/7657718626762096646/",
           "source": "今日头条",
@@ -1246,7 +1471,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时11分"
         },
@@ -1264,8 +1489,168 @@
       ]
     },
     {
+      "keyword_group": "印度",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "博主印度吃中毒,医院神补刀",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355832&amp;topic_name=%E5%8D%9A%E4%B8%BB%E5%8D%B0%E5%BA%A6%E5%90%83%E4%B8%AD%E6%AF%92%2C%E5%8C%BB%E9%99%A2%E7%A5%9E%E8%A1%A5%E5%88%80",
+          "source": "贴吧",
+          "ranks": [
+            11,
+            12,
+            14,
+            19,
+            24,
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时46分 ~ 23时11分]"
+        },
+        {
+          "title": "女子印度游,脑子长出寄生虫",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355864&amp;topic_name=%E5%A5%B3%E5%AD%90%E5%8D%B0%E5%BA%A6%E6%B8%B8%2C%E8%84%91%E5%AD%90%E9%95%BF%E5%87%BA%E5%AF%84%E7%94%9F%E8%99%AB",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时57分 ~ 23时11分]"
+        },
+        {
+          "title": "媒体为印度人发声:莫以偏概全",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355852&amp;topic_name=%E5%AA%92%E4%BD%93%E4%B8%BA%E5%8D%B0%E5%BA%A6%E4%BA%BA%E5%8F%91%E5%A3%B0%3A%E8%8E%AB%E4%BB%A5%E5%81%8F%E6%A6%82%E5%85%A8",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时32分 ~ 23时11分]"
+        },
+        {
+          "title": "来论｜如何看待近期关于印度的一些讨论？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33493819",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时46分 ~ 07时05分]"
+        },
+        {
+          "title": "手舞足蹈卖力演奏，高市早苗试弹印度乐器，莫迪带头鼓掌",
+          "url": "https://v.ifeng.com/c/8uSdi3abnDm",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
+          "title": "高市“盯上”印度牛粪",
+          "url": "https://news.ifeng.com/c/8uSjSo9qSub",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
+          "title": "印度韦丹塔第一季度原铝产量为63.2万吨，同比增长5%。第一季度氧化铝产量为82.6万吨，同比增长41%。",
+          "url": "https://flash.jin10.com/detail/20260703195724096800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时11分"
+        },
+        {
+          "title": "印度首度回应塔塔电子泄露苹果商业机密事件：正在调查",
+          "url": "https://flash.jin10.com/detail/20260703174610996800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时57分"
+        },
+        {
+          "title": "印度贸易部长：预计今年货物出口将增长16%至17%。",
+          "url": "https://flash.jin10.com/detail/20260703195453746800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时11分"
+        },
+        {
+          "title": "印度6月综合PMI终值 57.1，初值 57.4。",
+          "url": "https://wallstreetcn.com/livenews/3128435",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时32分"
+        },
+        {
+          "title": "因印度供应商遭网络攻击，iPhone18 Pro Max 银灰色曝光，有哪些亮点？此泄露暴露出哪些问题？",
+          "url": "https://www.zhihu.com/question/2055321023403095974",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时05分"
+        },
+        {
+          "title": "印度6月服务业PMI终值 57.4，初值 57.3。",
+          "url": "https://wallstreetcn.com/livenews/3128434",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时32分"
+        },
+        {
+          "title": "印度贸易部长：4月至6月商品出口增长约15%，服务出口增长约11%。",
+          "url": "https://flash.jin10.com/detail/20260703193945483800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时11分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "【早报】美股存储、半导体板块连日大跌；一批A股公司中报业绩预计大增；油价微升、黄金走强；西班牙晋级世界杯16强",
@@ -1292,6 +1677,19 @@
           "time_info": "[07时05分 ~ 14时32分]"
         },
         {
+          "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
+          "url": "https://wallstreetcn.com/articles/3776105",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时32分 ~ 23时11分]"
+        },
+        {
           "title": "7月3日投资避雷针：美股存储、半导体板块大跌 闪迪跌超14%",
           "url": "https://www.cls.cn/detail/2415987",
           "source": "财联社热门",
@@ -1305,16 +1703,15 @@
           "time_info": "[10时48分 ~ 17时57分]"
         },
         {
-          "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
-          "url": "https://wallstreetcn.com/articles/3776105",
+          "title": "Anthropic自研AI芯片计划引发美股半导体大跌！闪迪大跌14%，费城半导体指数两日重挫12%",
+          "url": "https://wallstreetcn.com/articles/3776091",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9
+            10
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时32分 ~ 20时11分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
         },
         {
           "title": "美股今日休市 金银油交易提前结束",
@@ -1396,154 +1793,20 @@
       ]
     },
     {
-      "keyword_group": "印度",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "博主印度吃中毒,医院神补刀",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355832&amp;topic_name=%E5%8D%9A%E4%B8%BB%E5%8D%B0%E5%BA%A6%E5%90%83%E4%B8%AD%E6%AF%92%2C%E5%8C%BB%E9%99%A2%E7%A5%9E%E8%A1%A5%E5%88%80",
-          "source": "贴吧",
-          "ranks": [
-            11,
-            12,
-            14,
-            19,
-            24,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时46分 ~ 20时11分]"
-        },
-        {
-          "title": "女子印度游,脑子长出寄生虫",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355864&amp;topic_name=%E5%A5%B3%E5%AD%90%E5%8D%B0%E5%BA%A6%E6%B8%B8%2C%E8%84%91%E5%AD%90%E9%95%BF%E5%87%BA%E5%AF%84%E7%94%9F%E8%99%AB",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时57分 ~ 20时11分]"
-        },
-        {
-          "title": "媒体为印度人发声:莫以偏概全",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355852&amp;topic_name=%E5%AA%92%E4%BD%93%E4%B8%BA%E5%8D%B0%E5%BA%A6%E4%BA%BA%E5%8F%91%E5%A3%B0%3A%E8%8E%AB%E4%BB%A5%E5%81%8F%E6%A6%82%E5%85%A8",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时32分 ~ 20时11分]"
-        },
-        {
-          "title": "来论｜如何看待近期关于印度的一些讨论？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33493819",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时46分 ~ 07时05分]"
-        },
-        {
-          "title": "印度韦丹塔第一季度原铝产量为63.2万吨，同比增长5%。第一季度氧化铝产量为82.6万吨，同比增长41%。",
-          "url": "https://flash.jin10.com/detail/20260703195724096800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时11分"
-        },
-        {
-          "title": "印度首度回应塔塔电子泄露苹果商业机密事件：正在调查",
-          "url": "https://flash.jin10.com/detail/20260703174610996800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时57分"
-        },
-        {
-          "title": "印度贸易部长：预计今年货物出口将增长16%至17%。",
-          "url": "https://flash.jin10.com/detail/20260703195453746800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时11分"
-        },
-        {
-          "title": "印度6月综合PMI终值 57.1，初值 57.4。",
-          "url": "https://wallstreetcn.com/livenews/3128435",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时32分"
-        },
-        {
-          "title": "因印度供应商遭网络攻击，iPhone18 Pro Max 银灰色曝光，有哪些亮点？此泄露暴露出哪些问题？",
-          "url": "https://www.zhihu.com/question/2055321023403095974",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时05分"
-        },
-        {
-          "title": "印度6月服务业PMI终值 57.4，初值 57.3。",
-          "url": "https://wallstreetcn.com/livenews/3128434",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时32分"
-        },
-        {
-          "title": "印度贸易部长：4月至6月商品出口增长约15%，服务出口增长约11%。",
-          "url": "https://flash.jin10.com/detail/20260703193945483800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时11分"
-        }
-      ]
-    },
-    {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "伊朗总统在哈梅内伊葬礼上双手掩面",
           "url": "https://v.ifeng.com/c/8uSml4XgzRh",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时11分 ~ 23时11分]"
         },
         {
           "title": "伊朗正寻求向日本出售石油，但潜在买家希望获得更长的制裁豁免期",
@@ -1552,9 +1815,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时11分"
+        },
+        {
+          "title": "市场消息：由沙特副外交大臣率领的沙特代表团也出席了伊朗前最高领袖哈梅内伊的葬礼。",
+          "url": "https://flash.jin10.com/detail/20260703223802779800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
         },
         {
           "title": "伊朗革命卫队总司令现身",
@@ -1575,7 +1849,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时11分"
         },
@@ -1644,6 +1918,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
+        },
+        {
+          "title": "伊朗议长：霍尔木兹海峡应由伊朗和阿曼共同管理",
+          "url": "https://wallstreetcn.com/livenews/3128732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
         }
       ]
     },
@@ -1671,7 +1956,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时11分"
         },
@@ -1838,7 +2123,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时11分"
         }
