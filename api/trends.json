@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-04T17:22:48.785377+08:00",
-  "total_titles_processed": 989,
+  "generated_at": "2026-07-04T19:26:16.299208+08:00",
+  "total_titles_processed": 1088,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "伊朗总统在哈梅内伊葬礼上双手掩面",
@@ -42,15 +42,26 @@
           "time_info": "[14时18分 ~ 17时22分]"
         },
         {
-          "title": "伊朗民众泪别哈梅内伊",
-          "url": "https://wallstreetcn.com/livenews/3128923",
+          "title": "上千万伊朗人参与哈梅内伊告别仪式",
+          "url": "https://wallstreetcn.com/livenews/3128938",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时22分"
+          "time_info": "19时26分"
+        },
+        {
+          "title": "上千万伊朗人参与哈梅内伊告别仪式",
+          "url": "https://flash.jin10.com/detail/20260704184728055800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
         },
         {
           "title": "伊朗议会议长卡利巴夫：美国必须“接受贸易领域的既定现实”。",
@@ -101,6 +112,18 @@
           "time_info": "[14时18分 ~ 17时22分]"
         },
         {
+          "title": "伊朗民众泪别哈梅内伊",
+          "url": "https://wallstreetcn.com/livenews/3128923",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 19时26分]"
+        },
+        {
           "title": "据伊朗学生通讯社：伊朗总统与俄罗斯讨论了扩大合作事宜。",
           "url": "https://flash.jin10.com/detail/20260704021129048800",
           "source": "金十数据",
@@ -113,6 +136,53 @@
           "time_info": "[03时20分 ~ 07时02分]"
         },
         {
+          "title": "据伊朗塔斯尼姆通讯社：黎巴嫩消息人士称，以色列在萨迪金市附近进行了一次无人机袭击。",
+          "url": "https://flash.jin10.com/detail/20260704161949297800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 19时26分]"
+        },
+        {
+          "title": "伊朗官员警告他国勿在霍尔木兹海峡采取军事行动",
+          "url": "https://wallstreetcn.com/livenews/3128909",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 19时26分]"
+        },
+        {
+          "title": "伊朗警告英法勿干涉霍尔木兹海峡（事务）。（迈赫尔通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3128908",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 19时26分]"
+        },
+        {
+          "title": "伊朗民众泪别哈梅内伊",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%B0%91%E4%BC%97%E6%B3%AA%E5%88%AB%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时25分 ~ 19时26分]"
+        },
+        {
           "title": "伊朗总统与俄罗斯讨论扩大合作的事宜。（ISN）",
           "url": "https://wallstreetcn.com/livenews/3128816",
           "source": "华尔街见闻-快讯",
@@ -122,17 +192,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：黎巴嫩消息人士称，以色列在萨迪金市附近进行了一次无人机袭击。",
-          "url": "https://flash.jin10.com/detail/20260704161949297800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
         },
         {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗国防部副部长表示，伊朗和巴基斯坦可以成为该地区新安全安排的基石。",
@@ -212,28 +271,6 @@
           "time_info": "05时05分"
         },
         {
-          "title": "伊朗官员警告他国勿在霍尔木兹海峡采取军事行动",
-          "url": "https://wallstreetcn.com/livenews/3128909",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
-        },
-        {
-          "title": "伊朗警告英法勿干涉霍尔木兹海峡（事务）。（迈赫尔通讯社）",
-          "url": "https://wallstreetcn.com/livenews/3128908",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
-        },
-        {
           "title": "伊朗为已故最高领袖哈梅内伊举行公众告别与悼念仪式",
           "url": "https://flash.jin10.com/detail/20260704103120519800",
           "source": "金十数据",
@@ -262,7 +299,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
         },
@@ -295,6 +332,29 @@
       "match_count": 25,
       "titles": [
         {
+          "title": "热浪搅乱独立日，美国多地取消相关庆祝活动",
+          "url": "https://news.ifeng.com/c/8uTptd6bGr6",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时18分 ~ 19时26分]"
+        },
+        {
+          "title": "WTT 美国大满贯混双决赛，王楚钦孙颖莎 2 比 3 林仲勋申裕斌，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/2056730447258677382",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时22分 ~ 19时26分]"
+        },
+        {
           "title": "中国造的“老头乐”在美国杀疯了",
           "url": "https://www.toutiao.com/trending/7658075005603348522/",
           "source": "今日头条",
@@ -319,29 +379,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时02分 ~ 17时22分]"
-        },
-        {
-          "title": "热浪搅乱独立日，美国多地取消相关庆祝活动",
-          "url": "https://news.ifeng.com/c/8uTptd6bGr6",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时18分 ~ 17时22分]"
-        },
-        {
-          "title": "美国地质调查局：印尼阿贝普拉西侧264公里处发生5.1级地震。",
-          "url": "https://flash.jin10.com/detail/20260704171737727800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
         },
         {
           "title": "美国电网运营巨头PJM Interconnection LLC：可能在7月2日出现创历史纪录新高的电力需求。",
@@ -378,17 +415,6 @@
           "time_info": "[03时20分 ~ 07时02分]"
         },
         {
-          "title": "WTT 美国大满贯混双决赛，王楚钦孙颖莎 2 比 3 林仲勋申裕斌，如何评价这场比赛？",
-          "url": "https://www.zhihu.com/question/2056730447258677382",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
-        },
-        {
           "title": "卡利巴夫：美国应接受地区现实，呼吁推动解除制裁",
           "url": "https://flash.jin10.com/detail/20260704031009595800",
           "source": "金十数据",
@@ -412,6 +438,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时20分 ~ 07时02分]"
+        },
+        {
+          "title": "美国地质调查局：印尼阿贝普拉西侧264公里处发生5.1级地震。",
+          "url": "https://flash.jin10.com/detail/20260704171737727800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 19时26分]"
         },
         {
           "title": "美国极端高温天气打破最大电网的电力需求纪录",
@@ -438,6 +476,18 @@
           "time_info": "[05时05分 ~ 07时02分]"
         },
         {
+          "title": "如何评价「耿同学」称卢雄斌、何晓明在美国已被认定为学术造假，先后回国入职浙大与清华？",
+          "url": "https://www.zhihu.com/question/2056689569861300625",
+          "source": "知乎",
+          "ranks": [
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时18分 ~ 19时26分]"
+        },
+        {
           "title": "格陵兰岛当局：美国仍在施压，但该岛“绝不出售”",
           "url": "https://flash.jin10.com/detail/20260704034413740800",
           "source": "金十数据",
@@ -448,6 +498,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时05分 ~ 10时44分]"
+        },
+        {
+          "title": "福山：美国或衰落下去，最终将领导地位让给中国",
+          "url": "https://news.ifeng.com/c/8uU6rmzrg1n",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时22分 ~ 19时26分]"
         },
         {
           "title": "北约高级指挥官：欧洲已弥补了美国在北约内部削减的大部分份额。",
@@ -486,18 +547,6 @@
           "time_info": "[01时25分 ~ 03时20分]"
         },
         {
-          "title": "如何评价「耿同学」称卢雄斌、何晓明在美国已被认定为学术造假，先后回国入职浙大与清华？",
-          "url": "https://www.zhihu.com/question/2056689569861300625",
-          "source": "知乎",
-          "ranks": [
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时18分 ~ 17时22分]"
-        },
-        {
           "title": "灼热“热穹顶”笼罩美国东海岸，逼“霉霉”粉丝宅家避暑",
           "url": "https://wallstreetcn.com/livenews/3128791",
           "source": "华尔街见闻-快讯",
@@ -508,17 +557,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时25分 ~ 03时20分]"
-        },
-        {
-          "title": "福山：美国或衰落下去，最终将领导地位让给中国",
-          "url": "https://news.ifeng.com/c/8uU6rmzrg1n",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
         },
         {
           "title": "Consolidated Edison Inc.临时性地向美国纽约市皇后区西南部9800客户停止供电服务。",
@@ -549,7 +587,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
         },
@@ -630,21 +668,6 @@
           "time_info": "[01时24分 ~ 14时18分]"
         },
         {
-          "title": "日本男演员片场骚扰女明星",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355865&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%94%B7%E6%BC%94%E5%91%98%E7%89%87%E5%9C%BA%E9%AA%9A%E6%89%B0%E5%A5%B3%E6%98%8E%E6%98%9F",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            6,
-            8,
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时24分 ~ 17时22分]"
-        },
-        {
           "title": "中国男篮73比92不敌日本男篮",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE73%E6%AF%9492%E4%B8%8D%E6%95%8C%E6%97%A5%E6%9C%AC%E7%94%B7%E7%AF%AE",
           "source": "百度热搜",
@@ -654,6 +677,22 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时24分 ~ 05时05分]"
+        },
+        {
+          "title": "日本男演员片场骚扰女明星",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355865&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%94%B7%E6%BC%94%E5%91%98%E7%89%87%E5%9C%BA%E9%AA%9A%E6%89%B0%E5%A5%B3%E6%98%8E%E6%98%9F",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            6,
+            8,
+            15,
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[01时24分 ~ 19时26分]"
         },
         {
           "title": "中国男篮世预赛主场惨败日本",
@@ -688,11 +727,12 @@
             13,
             15,
             22,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时24分 ~ 17时22分]"
+          "appearance_count": 12,
+          "time_info": "[01时24分 ~ 19时26分]"
         },
         {
           "title": "记者：日本早用霍金森中国男篮或出局",
@@ -707,6 +747,33 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时24分 ~ 07时02分]"
+        },
+        {
+          "title": "独砍27分，日本男篮归化球员霍金森：每支队伍都有自己优势",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33515091",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            13,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时44分 ~ 19时26分]"
+        },
+        {
+          "title": "中国男篮73比92不敌日本男篮，世预赛出线存变数",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33511637",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时44分 ~ 19时26分]"
         },
         {
           "title": "日本经济产业大臣赤泽亮正：准备协助海外芯片制造商在日本投资。",
@@ -745,41 +812,17 @@
           "time_info": "[01时24分 ~ 05时05分]"
         },
         {
-          "title": "独砍27分，日本男篮归化球员霍金森：每支队伍都有自己优势",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33515091",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时44分 ~ 17时22分]"
-        },
-        {
-          "title": "中国男篮73比92不敌日本男篮，世预赛出线存变数",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33511637",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时44分 ~ 17时22分]"
-        },
-        {
           "title": "一碗面38块,日本还在吹经济",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355884&amp;topic_name=%E4%B8%80%E7%A2%97%E9%9D%A238%E5%9D%97%2C%E6%97%A5%E6%9C%AC%E8%BF%98%E5%9C%A8%E5%90%B9%E7%BB%8F%E6%B5%8E",
           "source": "贴吧",
           "ranks": [
             9,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时18分 ~ 17时22分]"
+          "appearance_count": 4,
+          "time_info": "[14时18分 ~ 19时26分]"
         },
         {
           "title": "日本修法断了女天皇之路，为何选择此时收紧皇室继承权？",
@@ -811,7 +854,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
         },
@@ -822,7 +865,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
         },
@@ -833,7 +876,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
         }
@@ -841,7 +884,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "从保守派宠儿到MAGA公敌，她为什么敢“背叛”特朗普？",
@@ -855,6 +898,17 @@
           "time_info": "[01时24分 ~ 10时44分]"
         },
         {
+          "title": "特朗普还不死心：我平息了8场战争，却依然没拿到诺贝尔奖",
+          "url": "https://v.ifeng.com/c/8uU91uEdDMo",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时22分 ~ 19时26分]"
+        },
+        {
           "title": "借总统身份捞钱？特朗普：赚钱没犯法，不管我家人做啥都有人说“利益冲突”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33509069",
           "source": "澎湃新闻",
@@ -864,28 +918,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时24分 ~ 07时02分]"
-        },
-        {
-          "title": "特朗普吹嘘美国“战绩” 称“我们很善良”",
-          "url": "https://wallstreetcn.com/livenews/3128926",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
-        },
-        {
-          "title": "特朗普还不死心：我平息了8场战争，却依然没拿到诺贝尔奖",
-          "url": "https://v.ifeng.com/c/8uU91uEdDMo",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
         },
         {
           "title": "特朗普：我知道沃什想做什么，但他须做分内之事，美联储理事会可能有点“敌对”",
@@ -898,6 +930,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时19分 ~ 07时02分]"
+        },
+        {
+          "title": "特朗普吹嘘美国“战绩” 称“我们很善良”",
+          "url": "https://wallstreetcn.com/livenews/3128926",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 19时26分]"
         },
         {
           "title": "美国总统特朗普周五与内塔尼亚胡通电话。（Axios）",
@@ -944,6 +988,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-04）",
+          "url": "https://flash.jin10.com/detail/20260704182308917800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
         },
         {
           "title": "特朗普：美国经济正强劲腾飞！",
@@ -1026,7 +1081,7 @@
     },
     {
       "keyword_group": "印度",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "女子印度游,脑子长出寄生虫",
@@ -1037,11 +1092,12 @@
             8,
             10,
             17,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时24分 ~ 17时22分]"
+          "appearance_count": 12,
+          "time_info": "[01时24分 ~ 19时26分]"
         },
         {
           "title": "媒体为印度人发声:莫以偏概全",
@@ -1052,11 +1108,12 @@
             10,
             12,
             19,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时24分 ~ 17时22分]"
+          "appearance_count": 12,
+          "time_info": "[01时24分 ~ 19时26分]"
         },
         {
           "title": "手舞足蹈卖力演奏，高市早苗试弹印度乐器，莫迪带头鼓掌",
@@ -1110,11 +1167,35 @@
           "url": "https://www.douyin.com/hot/2557979",
           "source": "抖音",
           "ranks": [
-            10
+            10,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时22分 ~ 19时26分]"
+        },
+        {
+          "title": "高市早苗访问印度拒喝印度水",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%AE%BF%E9%97%AE%E5%8D%B0%E5%BA%A6%E6%8B%92%E5%96%9D%E5%8D%B0%E5%BA%A6%E6%B0%B4%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时22分 ~ 19时26分]"
+        },
+        {
+          "title": "BBC 报道英国女子在印度旅行后脑子长 38 只寄生虫，这么多寄生虫哪来的？有彻底消灭它们的办法吗？",
+          "url": "https://www.zhihu.com/question/2056373604556562637",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时25分 ~ 19时26分]"
         },
         {
           "title": "印度政府：正调查苹果手机信息泄露事件",
@@ -1126,17 +1207,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
-        },
-        {
-          "title": "高市早苗访问印度拒喝印度水",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%AE%BF%E9%97%AE%E5%8D%B0%E5%BA%A6%E6%8B%92%E5%96%9D%E5%8D%B0%E5%BA%A6%E6%B0%B4%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
         }
       ]
     },
@@ -1188,7 +1258,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
         },
@@ -1238,11 +1308,12 @@
           "url": "https://wallstreetcn.com/articles/3776174",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时18分 ~ 17时22分]"
+          "appearance_count": 4,
+          "time_info": "[14时18分 ~ 19时26分]"
         },
         {
           "title": "Anthropic自研AI芯片计划引发美股半导体大跌！闪迪大跌14%，费城半导体指数两日重挫12%",
@@ -1263,7 +1334,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
         }
@@ -1278,11 +1349,12 @@
           "url": "https://wallstreetcn.com/livenews/3128913",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            15,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 19时26分]"
         },
         {
           "title": "规范引导情感陪伴人形机器人健康发展 两协会联合倡议",
@@ -1291,7 +1363,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
         }
@@ -1307,11 +1379,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时44分 ~ 17时22分]"
+          "appearance_count": 5,
+          "time_info": "[10时44分 ~ 19时26分]"
         }
       ]
     },
