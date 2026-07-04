@@ -1,11 +1,298 @@
 {
-  "generated_at": "2026-07-04T14:18:59.825597+08:00",
-  "total_titles_processed": 829,
+  "generated_at": "2026-07-04T17:22:48.785377+08:00",
+  "total_titles_processed": 989,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "伊朗",
+      "match_count": 25,
+      "titles": [
+        {
+          "title": "伊朗总统在哈梅内伊葬礼上双手掩面",
+          "url": "https://v.ifeng.com/c/8uSml4XgzRh",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时24分 ~ 14时18分]"
+        },
+        {
+          "title": "伊朗议长会见中方代表，称已解决中国船只通过海峡问题",
+          "url": "https://news.ifeng.com/c/8uSnvabtNsd",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时24分 ~ 05时05分]"
+        },
+        {
+          "title": "现场：伊朗为哈梅内伊举行公众告别悼念仪式",
+          "url": "https://news.ifeng.com/c/8uTvqahB2zu",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时18分 ~ 17时22分]"
+        },
+        {
+          "title": "伊朗民众泪别哈梅内伊",
+          "url": "https://wallstreetcn.com/livenews/3128923",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：美国必须“接受贸易领域的既定现实”。",
+          "url": "https://flash.jin10.com/detail/20260704030253296800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时20分 ~ 07时02分]"
+        },
+        {
+          "title": "伊朗为已故最高领袖哈梅内伊举行公众告别与悼念仪式",
+          "url": "https://wallstreetcn.com/livenews/3128877",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时44分 ~ 14时18分]"
+        },
+        {
+          "title": "伊朗总统在哈梅内伊告别仪式抹泪",
+          "url": "https://www.toutiao.com/trending/7658230002110119978/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时44分 ~ 14时18分]"
+        },
+        {
+          "title": "以色列检方称一美国公民为伊朗从事间谍活动",
+          "url": "https://wallstreetcn.com/livenews/3128899",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时18分 ~ 17时22分]"
+        },
+        {
+          "title": "据伊朗学生通讯社：伊朗总统与俄罗斯讨论了扩大合作事宜。",
+          "url": "https://flash.jin10.com/detail/20260704021129048800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时20分 ~ 07时02分]"
+        },
+        {
+          "title": "伊朗总统与俄罗斯讨论扩大合作的事宜。（ISN）",
+          "url": "https://wallstreetcn.com/livenews/3128816",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时20分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：黎巴嫩消息人士称，以色列在萨迪金市附近进行了一次无人机袭击。",
+          "url": "https://flash.jin10.com/detail/20260704161949297800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗国防部副部长表示，伊朗和巴基斯坦可以成为该地区新安全安排的基石。",
+          "url": "https://flash.jin10.com/detail/20260704004754888800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "惠誉评级：重新评估全球企业部门面临的与伊朗相关的持续风险。",
+          "url": "https://flash.jin10.com/detail/20260704004150306800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "伊朗与巴基斯坦在前最高领袖哈梅内伊葬礼结束后举行了会谈。（ISNA）",
+          "url": "https://wallstreetcn.com/livenews/3128790",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "据伊朗学生通讯社：伊朗和巴基斯坦双方在伊朗前最高领袖哈梅内伊的葬礼后举行会谈。",
+          "url": "https://flash.jin10.com/detail/20260703235631921800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "全国人大常委会副委员长何维代表中方出席伊朗已故最高领袖哈梅内伊葬礼",
+          "url": "https://wallstreetcn.com/livenews/3128789",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "全国人大常委会副委员长何维代表中方出席伊朗已故最高领袖哈梅内伊葬礼",
+          "url": "https://flash.jin10.com/detail/20260703235528345800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "伊朗总统与俄罗斯就扩大合作进行了会谈",
+          "url": "https://wallstreetcn.com/livenews/3128816",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时05分"
+        },
+        {
+          "title": "伊朗官员警告他国勿在霍尔木兹海峡采取军事行动",
+          "url": "https://wallstreetcn.com/livenews/3128909",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
+          "title": "伊朗警告英法勿干涉霍尔木兹海峡（事务）。（迈赫尔通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3128908",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
+          "title": "伊朗为已故最高领袖哈梅内伊举行公众告别与悼念仪式",
+          "url": "https://flash.jin10.com/detail/20260704103120519800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时18分"
+        },
+        {
+          "title": "以总理办公室否认计划暗杀伊朗谈判代表",
+          "url": "https://wallstreetcn.com/livenews/3128785",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "伊朗官员警告他国勿在霍尔木兹海峡采取军事行动",
+          "url": "https://flash.jin10.com/detail/20260704144842898800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
+          "title": "英国央行行长贝利：如果美国和以色列没有对伊朗发动战争，英国通胀将达到目标。",
+          "url": "https://wallstreetcn.com/livenews/3128784",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "伊朗称将回应违反谅解备忘录的行为",
+          "url": "https://wallstreetcn.com/livenews/3128852",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时44分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美国",
-      "match_count": 21,
+      "match_count": 25,
       "titles": [
         {
           "title": "中国造的“老头乐”在美国杀疯了",
@@ -18,6 +305,43 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时24分 ~ 07时02分]"
+        },
+        {
+          "title": "美国糖尿病协会下调亚裔人群超重和肥胖 BMI 标准，为何要下调？BMI 正常就代表体重健康吗？",
+          "url": "https://www.zhihu.com/question/2056372314535453404",
+          "source": "知乎",
+          "ranks": [
+            10,
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时02分 ~ 17时22分]"
+        },
+        {
+          "title": "热浪搅乱独立日，美国多地取消相关庆祝活动",
+          "url": "https://news.ifeng.com/c/8uTptd6bGr6",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时18分 ~ 17时22分]"
+        },
+        {
+          "title": "美国地质调查局：印尼阿贝普拉西侧264公里处发生5.1级地震。",
+          "url": "https://flash.jin10.com/detail/20260704171737727800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         },
         {
           "title": "美国电网运营巨头PJM Interconnection LLC：可能在7月2日出现创历史纪录新高的电力需求。",
@@ -54,6 +378,17 @@
           "time_info": "[03时20分 ~ 07时02分]"
         },
         {
+          "title": "WTT 美国大满贯混双决赛，王楚钦孙颖莎 2 比 3 林仲勋申裕斌，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/2056730447258677382",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
           "title": "卡利巴夫：美国应接受地区现实，呼吁推动解除制裁",
           "url": "https://flash.jin10.com/detail/20260704031009595800",
           "source": "金十数据",
@@ -64,30 +399,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时20分 ~ 07时02分]"
-        },
-        {
-          "title": "热浪搅乱独立日，美国多地取消相关庆祝活动",
-          "url": "https://news.ifeng.com/c/8uTptd6bGr6",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时18分"
-        },
-        {
-          "title": "美国糖尿病协会下调亚裔人群超重和肥胖 BMI 标准，为何要下调？BMI 正常就代表体重健康吗？",
-          "url": "https://www.zhihu.com/question/2056372314535453404",
-          "source": "知乎",
-          "ranks": [
-            10,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时02分 ~ 14时18分]"
         },
         {
           "title": "美国电网运营巨头PJM Interconnection LLC在紧急程序网站上发布消息，宣布启动EEA2（二级能源紧急警报）行动，原因是已无法满足预期的能源需求。 该公司表示，正在实施一项运营计划，要求公用事业公司在其服务区域内削减电力需求。该区域覆盖中大西洋地区、南部地区以及华盛顿特区，服务人口达6700万。",
@@ -175,6 +486,18 @@
           "time_info": "[01时25分 ~ 03时20分]"
         },
         {
+          "title": "如何评价「耿同学」称卢雄斌、何晓明在美国已被认定为学术造假，先后回国入职浙大与清华？",
+          "url": "https://www.zhihu.com/question/2056689569861300625",
+          "source": "知乎",
+          "ranks": [
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时18分 ~ 17时22分]"
+        },
+        {
           "title": "灼热“热穹顶”笼罩美国东海岸，逼“霉霉”粉丝宅家避暑",
           "url": "https://wallstreetcn.com/livenews/3128791",
           "source": "华尔街见闻-快讯",
@@ -185,6 +508,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时25分 ~ 03时20分]"
+        },
+        {
+          "title": "福山：美国或衰落下去，最终将领导地位让给中国",
+          "url": "https://news.ifeng.com/c/8uU6rmzrg1n",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         },
         {
           "title": "Consolidated Edison Inc.临时性地向美国纽约市皇后区西南部9800客户停止供电服务。",
@@ -209,15 +543,15 @@
           "time_info": "07时02分"
         },
         {
-          "title": "如何评价「耿同学」称卢雄斌、何晓明在美国已被认定为学术造假，先后回国入职浙大与清华？",
-          "url": "https://www.zhihu.com/question/2056689569861300625",
-          "source": "知乎",
+          "title": "美国大满贯国乒男双会师决赛",
+          "url": "https://www.douyin.com/hot/2557635",
+          "source": "抖音",
           "ranks": [
-            15
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时18分"
+          "time_info": "17时22分"
         },
         {
           "title": "华盛顿特区美国独立日游行因极端高温天气而取消。（彭博）",
@@ -226,7 +560,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
         },
@@ -237,7 +571,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
         },
@@ -248,246 +582,15 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 20,
-      "titles": [
-        {
-          "title": "伊朗总统在哈梅内伊葬礼上双手掩面",
-          "url": "https://v.ifeng.com/c/8uSml4XgzRh",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时24分 ~ 14时18分]"
-        },
-        {
-          "title": "伊朗议长会见中方代表，称已解决中国船只通过海峡问题",
-          "url": "https://news.ifeng.com/c/8uSnvabtNsd",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 05时05分]"
-        },
-        {
-          "title": "现场：伊朗为哈梅内伊举行公众告别悼念仪式",
-          "url": "https://news.ifeng.com/c/8uTvqahB2zu",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时18分"
-        },
-        {
-          "title": "以色列检方称一美国公民为伊朗从事间谍活动",
-          "url": "https://wallstreetcn.com/livenews/3128899",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时18分"
-        },
-        {
-          "title": "伊朗议会议长卡利巴夫：美国必须“接受贸易领域的既定现实”。",
-          "url": "https://flash.jin10.com/detail/20260704030253296800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时20分 ~ 07时02分]"
-        },
-        {
-          "title": "伊朗为已故最高领袖哈梅内伊举行公众告别与悼念仪式",
-          "url": "https://wallstreetcn.com/livenews/3128877",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时44分 ~ 14时18分]"
-        },
-        {
-          "title": "伊朗总统在哈梅内伊告别仪式抹泪",
-          "url": "https://www.toutiao.com/trending/7658230002110119978/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时44分 ~ 14时18分]"
-        },
-        {
-          "title": "据伊朗学生通讯社：伊朗总统与俄罗斯讨论了扩大合作事宜。",
-          "url": "https://flash.jin10.com/detail/20260704021129048800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时20分 ~ 07时02分]"
-        },
-        {
-          "title": "伊朗总统与俄罗斯讨论扩大合作的事宜。（ISN）",
-          "url": "https://wallstreetcn.com/livenews/3128816",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗国防部副部长表示，伊朗和巴基斯坦可以成为该地区新安全安排的基石。",
-          "url": "https://flash.jin10.com/detail/20260704004754888800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
-        },
-        {
-          "title": "惠誉评级：重新评估全球企业部门面临的与伊朗相关的持续风险。",
-          "url": "https://flash.jin10.com/detail/20260704004150306800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
-        },
-        {
-          "title": "伊朗与巴基斯坦在前最高领袖哈梅内伊葬礼结束后举行了会谈。（ISNA）",
-          "url": "https://wallstreetcn.com/livenews/3128790",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
-        },
-        {
-          "title": "据伊朗学生通讯社：伊朗和巴基斯坦双方在伊朗前最高领袖哈梅内伊的葬礼后举行会谈。",
-          "url": "https://flash.jin10.com/detail/20260703235631921800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
-        },
-        {
-          "title": "全国人大常委会副委员长何维代表中方出席伊朗已故最高领袖哈梅内伊葬礼",
-          "url": "https://wallstreetcn.com/livenews/3128789",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
-        },
-        {
-          "title": "全国人大常委会副委员长何维代表中方出席伊朗已故最高领袖哈梅内伊葬礼",
-          "url": "https://flash.jin10.com/detail/20260703235528345800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
-        },
-        {
-          "title": "伊朗总统与俄罗斯就扩大合作进行了会谈",
-          "url": "https://wallstreetcn.com/livenews/3128816",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时05分"
-        },
-        {
-          "title": "伊朗为已故最高领袖哈梅内伊举行公众告别与悼念仪式",
-          "url": "https://flash.jin10.com/detail/20260704103120519800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时18分"
-        },
-        {
-          "title": "以总理办公室否认计划暗杀伊朗谈判代表",
-          "url": "https://wallstreetcn.com/livenews/3128785",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
-        },
-        {
-          "title": "英国央行行长贝利：如果美国和以色列没有对伊朗发动战争，英国通胀将达到目标。",
-          "url": "https://wallstreetcn.com/livenews/3128784",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
-        },
-        {
-          "title": "伊朗称将回应违反谅解备忘录的行为",
-          "url": "https://wallstreetcn.com/livenews/3128852",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时44分"
         }
       ]
     },
     {
       "keyword_group": "日本",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "中国男篮19分不敌日本男篮",
@@ -527,6 +630,21 @@
           "time_info": "[01时24分 ~ 14时18分]"
         },
         {
+          "title": "日本男演员片场骚扰女明星",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355865&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%94%B7%E6%BC%94%E5%91%98%E7%89%87%E5%9C%BA%E9%AA%9A%E6%89%B0%E5%A5%B3%E6%98%8E%E6%98%9F",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            6,
+            8,
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时24分 ~ 17时22分]"
+        },
+        {
           "title": "中国男篮73比92不敌日本男篮",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE73%E6%AF%9492%E4%B8%8D%E6%95%8C%E6%97%A5%E6%9C%AC%E7%94%B7%E7%AF%AE",
           "source": "百度热搜",
@@ -562,18 +680,19 @@
           "time_info": "[01时24分 ~ 05时05分]"
         },
         {
-          "title": "日本男演员片场骚扰女明星",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355865&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%94%B7%E6%BC%94%E5%91%98%E7%89%87%E5%9C%BA%E9%AA%9A%E6%89%B0%E5%A5%B3%E6%98%8E%E6%98%9F",
+          "title": "酱油日本特有?日网友醒醒",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355853&amp;topic_name=%E9%85%B1%E6%B2%B9%E6%97%A5%E6%9C%AC%E7%89%B9%E6%9C%89%3F%E6%97%A5%E7%BD%91%E5%8F%8B%E9%86%92%E9%86%92",
           "source": "贴吧",
           "ranks": [
-            5,
-            6,
-            8,
-            15
+            12,
+            13,
+            15,
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时24分 ~ 14时18分]"
+          "appearance_count": 10,
+          "time_info": "[01时24分 ~ 17时22分]"
         },
         {
           "title": "记者：日本早用霍金森中国男篮或出局",
@@ -590,40 +709,28 @@
           "time_info": "[01时24分 ~ 07时02分]"
         },
         {
-          "title": "酱油日本特有?日网友醒醒",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355853&amp;topic_name=%E9%85%B1%E6%B2%B9%E6%97%A5%E6%9C%AC%E7%89%B9%E6%9C%89%3F%E6%97%A5%E7%BD%91%E5%8F%8B%E9%86%92%E9%86%92",
-          "source": "贴吧",
-          "ranks": [
-            12,
-            13,
-            15,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时24分 ~ 14时18分]"
-        },
-        {
           "title": "日本经济产业大臣赤泽亮正：准备协助海外芯片制造商在日本投资。",
           "url": "https://flash.jin10.com/detail/20260704135129983800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时18分 ~ 17时22分]"
         },
         {
           "title": "日本经济产业大臣赤泽亮正：准备援助在日投资的海外芯片制造商。",
           "url": "https://wallstreetcn.com/livenews/3128897",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时18分 ~ 17时22分]"
         },
         {
           "title": "中国男篮不敌日本男篮",
@@ -643,11 +750,12 @@
           "source": "澎湃新闻",
           "ranks": [
             12,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时44分 ~ 14时18分]"
+          "appearance_count": 3,
+          "time_info": "[10时44分 ~ 17时22分]"
         },
         {
           "title": "中国男篮73比92不敌日本男篮，世预赛出线存变数",
@@ -658,8 +766,20 @@
             19
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时44分 ~ 17时22分]"
+        },
+        {
+          "title": "一碗面38块,日本还在吹经济",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355884&amp;topic_name=%E4%B8%80%E7%A2%97%E9%9D%A238%E5%9D%97%2C%E6%97%A5%E6%9C%AC%E8%BF%98%E5%9C%A8%E5%90%B9%E7%BB%8F%E6%B5%8E",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            12
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时44分 ~ 14时18分]"
+          "time_info": "[14时18分 ~ 17时22分]"
         },
         {
           "title": "日本修法断了女天皇之路，为何选择此时收紧皇室继承权？",
@@ -680,26 +800,48 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
         },
         {
-          "title": "一碗面38块,日本还在吹经济",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355884&amp;topic_name=%E4%B8%80%E7%A2%97%E9%9D%A238%E5%9D%97%2C%E6%97%A5%E6%9C%AC%E8%BF%98%E5%9C%A8%E5%90%B9%E7%BB%8F%E6%B5%8E",
-          "source": "贴吧",
+          "title": "中国男篮世预赛不敌日本引争议",
+          "url": "https://www.douyin.com/hot/2557860",
+          "source": "抖音",
           "ranks": [
-            9
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时18分"
+          "time_info": "17时22分"
+        },
+        {
+          "title": "海底稀土够日本用800年？专家泼冷水",
+          "url": "https://www.toutiao.com/trending/7657539840231260166/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
+          "title": "据日本共同社：日本防卫大臣、外务大臣将出席下周的北约峰会活动。",
+          "url": "https://flash.jin10.com/detail/20260704151404291800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "从保守派宠儿到MAGA公敌，她为什么敢“背叛”特朗普？",
@@ -722,6 +864,28 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时24分 ~ 07时02分]"
+        },
+        {
+          "title": "特朗普吹嘘美国“战绩” 称“我们很善良”",
+          "url": "https://wallstreetcn.com/livenews/3128926",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
+          "title": "特朗普还不死心：我平息了8场战争，却依然没拿到诺贝尔奖",
+          "url": "https://v.ifeng.com/c/8uU91uEdDMo",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         },
         {
           "title": "特朗普：我知道沃什想做什么，但他须做分内之事，美联储理事会可能有点“敌对”",
@@ -777,7 +941,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
         },
@@ -799,7 +963,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
         },
@@ -821,7 +985,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
         },
@@ -862,7 +1026,7 @@
     },
     {
       "keyword_group": "印度",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "女子印度游,脑子长出寄生虫",
@@ -872,11 +1036,12 @@
             7,
             8,
             10,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时24分 ~ 14时18分]"
+          "appearance_count": 10,
+          "time_info": "[01时24分 ~ 17时22分]"
         },
         {
           "title": "媒体为印度人发声:莫以偏概全",
@@ -886,11 +1051,12 @@
             9,
             10,
             12,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时24分 ~ 14时18分]"
+          "appearance_count": 10,
+          "time_info": "[01时24分 ~ 17时22分]"
         },
         {
           "title": "手舞足蹈卖力演奏，高市早苗试弹印度乐器，莫迪带头鼓掌",
@@ -940,21 +1106,43 @@
           "time_info": "[01时24分 ~ 05时05分]"
         },
         {
+          "title": "印度正调查泄密iPhone事件",
+          "url": "https://www.douyin.com/hot/2557979",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
           "title": "印度政府：正调查苹果手机信息泄露事件",
           "url": "https://wallstreetcn.com/livenews/3128883",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
+        },
+        {
+          "title": "高市早苗访问印度拒喝印度水",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%AE%BF%E9%97%AE%E5%8D%B0%E5%BA%A6%E6%8B%92%E5%96%9D%E5%8D%B0%E5%BA%A6%E6%B0%B4%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "金价本周涨超2%",
@@ -994,6 +1182,17 @@
           "time_info": "[03时20分 ~ 05时05分]"
         },
         {
+          "title": "金价抬头 顾客冲进金店“秒下单”",
+          "url": "https://www.toutiao.com/trending/7657606346723835940/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
           "title": "摩根大通维持对黄金的长期看涨展望，并预计金价将在2027年进一步回升。",
           "url": "https://flash.jin10.com/detail/20260704012107426800",
           "source": "金十数据",
@@ -1019,7 +1218,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
@@ -1035,6 +1234,17 @@
           "time_info": "[01时24分 ~ 10时44分]"
         },
         {
+          "title": "韩国股市杠杆失控：450亿美元资金狂飙，SK海力士单只ETF规模碾压美股科技巨头",
+          "url": "https://wallstreetcn.com/articles/3776174",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时18分 ~ 17时22分]"
+        },
+        {
           "title": "Anthropic自研AI芯片计划引发美股半导体大跌！闪迪大跌14%，费城半导体指数两日重挫12%",
           "url": "https://wallstreetcn.com/articles/3776091",
           "source": "华尔街见闻",
@@ -1047,15 +1257,43 @@
           "time_info": "[01时24分 ~ 05时05分]"
         },
         {
-          "title": "韩国股市杠杆失控：450亿美元资金狂飙，SK海力士单只ETF规模碾压美股科技巨头",
-          "url": "https://wallstreetcn.com/articles/3776174",
+          "title": "美股遭遇近四个月最大单周资金流出，美银Hartnett：\"卖出信号\"仍在闪烁",
+          "url": "https://wallstreetcn.com/articles/3776162",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时18分"
+          "time_info": "17时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "情感",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "规范引导情感陪伴人形机器人健康发展，两协会联合倡议",
+          "url": "https://wallstreetcn.com/livenews/3128913",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
+          "title": "规范引导情感陪伴人形机器人健康发展 两协会联合倡议",
+          "url": "https://flash.jin10.com/detail/20260704150630005800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         }
       ]
     },
@@ -1072,8 +1310,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时44分 ~ 14时18分]"
+          "appearance_count": 3,
+          "time_info": "[10时44分 ~ 17时22分]"
         }
       ]
     },
@@ -1088,7 +1326,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
         }
