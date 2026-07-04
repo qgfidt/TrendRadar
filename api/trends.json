@@ -1,22 +1,274 @@
 {
-  "generated_at": "2026-07-04T10:44:53.568053+08:00",
-  "total_titles_processed": 666,
+  "generated_at": "2026-07-04T14:18:59.825597+08:00",
+  "total_titles_processed": 829,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "美国",
+      "match_count": 21,
+      "titles": [
+        {
+          "title": "中国造的“老头乐”在美国杀疯了",
+          "url": "https://www.toutiao.com/trending/7658075005603348522/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时24分 ~ 07时02分]"
+        },
+        {
+          "title": "美国电网运营巨头PJM Interconnection LLC：可能在7月2日出现创历史纪录新高的电力需求。",
+          "url": "https://wallstreetcn.com/livenews/3128835",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时05分"
+        },
+        {
+          "title": "美国独立日游行因极端高温在华盛顿特区取消。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3128876",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时44分"
+        },
+        {
+          "title": "美国最大的电网运营商PJM：已无法满足预期的能源需求，因此将实施计划，削减服务区域内的用电量；该区域覆盖大西洋中部地区、南部地区及华盛顿特区，服务用户达6700万。",
+          "url": "https://flash.jin10.com/detail/20260704031424117800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时20分 ~ 07时02分]"
+        },
+        {
+          "title": "卡利巴夫：美国应接受地区现实，呼吁推动解除制裁",
+          "url": "https://flash.jin10.com/detail/20260704031009595800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时20分 ~ 07时02分]"
+        },
+        {
+          "title": "热浪搅乱独立日，美国多地取消相关庆祝活动",
+          "url": "https://news.ifeng.com/c/8uTptd6bGr6",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
+        },
+        {
+          "title": "美国糖尿病协会下调亚裔人群超重和肥胖 BMI 标准，为何要下调？BMI 正常就代表体重健康吗？",
+          "url": "https://www.zhihu.com/question/2056372314535453404",
+          "source": "知乎",
+          "ranks": [
+            10,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时02分 ~ 14时18分]"
+        },
+        {
+          "title": "美国电网运营巨头PJM Interconnection LLC在紧急程序网站上发布消息，宣布启动EEA2（二级能源紧急警报）行动，原因是已无法满足预期的能源需求。 该公司表示，正在实施一项运营计划，要求公用事业公司在其服务区域内削减电力需求。该区域覆盖中大西洋地区、南部地区以及华盛顿特区，服务人口达6700万。",
+          "url": "https://wallstreetcn.com/livenews/3128822",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时20分 ~ 07时02分]"
+        },
+        {
+          "title": "美国极端高温天气打破最大电网的电力需求纪录",
+          "url": "https://flash.jin10.com/detail/20260704095901235800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时44分 ~ 14时18分]"
+        },
+        {
+          "title": "美联储：美国上周银行存款19.374万亿美元，之前一周19.304万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3128833",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时05分 ~ 07时02分]"
+        },
+        {
+          "title": "格陵兰岛当局：美国仍在施压，但该岛“绝不出售”",
+          "url": "https://flash.jin10.com/detail/20260704034413740800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时05分 ~ 10时44分]"
+        },
+        {
+          "title": "北约高级指挥官：欧洲已弥补了美国在北约内部削减的大部分份额。",
+          "url": "https://flash.jin10.com/detail/20260704024229735800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时20分 ~ 07时02分]"
+        },
+        {
+          "title": "格陵兰岛当局：美国仍在施压，但该岛“绝不出售”",
+          "url": "https://wallstreetcn.com/livenews/3128827",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时05分 ~ 07时02分]"
+        },
+        {
+          "title": "尽管汽油价格高企，美国人依然踏上独立日自驾之旅",
+          "url": "https://wallstreetcn.com/livenews/3128795",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时25分 ~ 03时20分]"
+        },
+        {
+          "title": "灼热“热穹顶”笼罩美国东海岸，逼“霉霉”粉丝宅家避暑",
+          "url": "https://wallstreetcn.com/livenews/3128791",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时25分 ~ 03时20分]"
+        },
+        {
+          "title": "Consolidated Edison Inc.临时性地向美国纽约市皇后区西南部9800客户停止供电服务。",
+          "url": "https://wallstreetcn.com/livenews/3128837",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "美国最大电网周四因高温迎来破纪录用电需求",
+          "url": "https://wallstreetcn.com/livenews/3128835",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "如何评价「耿同学」称卢雄斌、何晓明在美国已被认定为学术造假，先后回国入职浙大与清华？",
+          "url": "https://www.zhihu.com/question/2056689569861300625",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
+        },
+        {
+          "title": "华盛顿特区美国独立日游行因极端高温天气而取消。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3128876",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
+        },
+        {
+          "title": "市场消息：因极端高温，在华盛顿特区举行的美国独立日游行取消。",
+          "url": "https://flash.jin10.com/detail/20260704102609141800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
+        },
+        {
+          "title": "为什么美国人不相信美国还能撑250年",
+          "url": "https://www.toutiao.com/trending/7657993223529234473/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "伊朗总统在哈梅内伊葬礼上双手掩面",
           "url": "https://v.ifeng.com/c/8uSml4XgzRh",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时24分 ~ 10时44分]"
+          "appearance_count": 9,
+          "time_info": "[01时24分 ~ 14时18分]"
         },
         {
           "title": "伊朗议长会见中方代表，称已解决中国船只通过海峡问题",
@@ -30,26 +282,26 @@
           "time_info": "[01时24分 ~ 05时05分]"
         },
         {
-          "title": "伊朗为已故最高领袖哈梅内伊举行公众告别与悼念仪式",
-          "url": "https://wallstreetcn.com/livenews/3128877",
-          "source": "华尔街见闻-快讯",
+          "title": "现场：伊朗为哈梅内伊举行公众告别悼念仪式",
+          "url": "https://news.ifeng.com/c/8uTvqahB2zu",
+          "source": "凤凰网",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时44分"
+          "time_info": "14时18分"
         },
         {
-          "title": "伊朗总统在哈梅内伊告别仪式抹泪",
-          "url": "https://www.toutiao.com/trending/7658230002110119978/",
-          "source": "今日头条",
+          "title": "以色列检方称一美国公民为伊朗从事间谍活动",
+          "url": "https://wallstreetcn.com/livenews/3128899",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时44分"
+          "time_info": "14时18分"
         },
         {
           "title": "伊朗议会议长卡利巴夫：美国必须“接受贸易领域的既定现实”。",
@@ -62,6 +314,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时20分 ~ 07时02分]"
+        },
+        {
+          "title": "伊朗为已故最高领袖哈梅内伊举行公众告别与悼念仪式",
+          "url": "https://wallstreetcn.com/livenews/3128877",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时44分 ~ 14时18分]"
+        },
+        {
+          "title": "伊朗总统在哈梅内伊告别仪式抹泪",
+          "url": "https://www.toutiao.com/trending/7658230002110119978/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时44分 ~ 14时18分]"
         },
         {
           "title": "据伊朗学生通讯社：伊朗总统与俄罗斯讨论了扩大合作事宜。",
@@ -164,6 +440,17 @@
           "time_info": "05时05分"
         },
         {
+          "title": "伊朗为已故最高领袖哈梅内伊举行公众告别与悼念仪式",
+          "url": "https://flash.jin10.com/detail/20260704103120519800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
+        },
+        {
           "title": "以总理办公室否认计划暗杀伊朗谈判代表",
           "url": "https://wallstreetcn.com/livenews/3128785",
           "source": "华尔街见闻-快讯",
@@ -192,209 +479,15 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美国",
-      "match_count": 16,
-      "titles": [
-        {
-          "title": "中国造的“老头乐”在美国杀疯了",
-          "url": "https://www.toutiao.com/trending/7658075005603348522/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时24分 ~ 07时02分]"
-        },
-        {
-          "title": "美国电网运营巨头PJM Interconnection LLC：可能在7月2日出现创历史纪录新高的电力需求。",
-          "url": "https://wallstreetcn.com/livenews/3128835",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时05分"
-        },
-        {
-          "title": "美国独立日游行因极端高温在华盛顿特区取消。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3128876",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时44分"
-        },
-        {
-          "title": "美国最大的电网运营商PJM：已无法满足预期的能源需求，因此将实施计划，削减服务区域内的用电量；该区域覆盖大西洋中部地区、南部地区及华盛顿特区，服务用户达6700万。",
-          "url": "https://flash.jin10.com/detail/20260704031424117800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时20分 ~ 07时02分]"
-        },
-        {
-          "title": "美国极端高温天气打破最大电网的电力需求纪录",
-          "url": "https://flash.jin10.com/detail/20260704095901235800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时44分"
-        },
-        {
-          "title": "卡利巴夫：美国应接受地区现实，呼吁推动解除制裁",
-          "url": "https://flash.jin10.com/detail/20260704031009595800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时20分 ~ 07时02分]"
-        },
-        {
-          "title": "美国电网运营巨头PJM Interconnection LLC在紧急程序网站上发布消息，宣布启动EEA2（二级能源紧急警报）行动，原因是已无法满足预期的能源需求。 该公司表示，正在实施一项运营计划，要求公用事业公司在其服务区域内削减电力需求。该区域覆盖中大西洋地区、南部地区以及华盛顿特区，服务人口达6700万。",
-          "url": "https://wallstreetcn.com/livenews/3128822",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            13,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时20分 ~ 07时02分]"
-        },
-        {
-          "title": "美联储：美国上周银行存款19.374万亿美元，之前一周19.304万亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3128833",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时05分 ~ 07时02分]"
-        },
-        {
-          "title": "格陵兰岛当局：美国仍在施压，但该岛“绝不出售”",
-          "url": "https://flash.jin10.com/detail/20260704034413740800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时05分 ~ 10时44分]"
-        },
-        {
-          "title": "北约高级指挥官：欧洲已弥补了美国在北约内部削减的大部分份额。",
-          "url": "https://flash.jin10.com/detail/20260704024229735800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时20分 ~ 07时02分]"
-        },
-        {
-          "title": "美国糖尿病协会下调亚裔人群超重和肥胖 BMI 标准，为何要下调？BMI 正常就代表体重健康吗？",
-          "url": "https://www.zhihu.com/question/2056372314535453404",
-          "source": "知乎",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时02分 ~ 10时44分]"
-        },
-        {
-          "title": "格陵兰岛当局：美国仍在施压，但该岛“绝不出售”",
-          "url": "https://wallstreetcn.com/livenews/3128827",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时05分 ~ 07时02分]"
-        },
-        {
-          "title": "尽管汽油价格高企，美国人依然踏上独立日自驾之旅",
-          "url": "https://wallstreetcn.com/livenews/3128795",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时25分 ~ 03时20分]"
-        },
-        {
-          "title": "灼热“热穹顶”笼罩美国东海岸，逼“霉霉”粉丝宅家避暑",
-          "url": "https://wallstreetcn.com/livenews/3128791",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时25分 ~ 03时20分]"
-        },
-        {
-          "title": "Consolidated Edison Inc.临时性地向美国纽约市皇后区西南部9800客户停止供电服务。",
-          "url": "https://wallstreetcn.com/livenews/3128837",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时02分"
-        },
-        {
-          "title": "美国最大电网周四因高温迎来破纪录用电需求",
-          "url": "https://wallstreetcn.com/livenews/3128835",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时02分"
         }
       ]
     },
     {
       "keyword_group": "日本",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
         {
           "title": "中国男篮19分不敌日本男篮",
@@ -426,11 +519,12 @@
           "ranks": [
             2,
             4,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时24分 ~ 10时44分]"
+          "appearance_count": 9,
+          "time_info": "[01时24分 ~ 14时18分]"
         },
         {
           "title": "中国男篮73比92不敌日本男篮",
@@ -449,11 +543,12 @@
           "source": "今日头条",
           "ranks": [
             1,
-            8
+            8,
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时24分 ~ 10时44分]"
+          "appearance_count": 9,
+          "time_info": "[01时24分 ~ 14时18分]"
         },
         {
           "title": "日本防相：将加快拦截无人机部署",
@@ -473,11 +568,12 @@
           "ranks": [
             5,
             6,
-            8
+            8,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时24分 ~ 10时44分]"
+          "appearance_count": 9,
+          "time_info": "[01时24分 ~ 14时18分]"
         },
         {
           "title": "记者：日本早用霍金森中国男篮或出局",
@@ -500,11 +596,34 @@
           "ranks": [
             12,
             13,
-            15
+            15,
+            22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时24分 ~ 10时44分]"
+          "appearance_count": 9,
+          "time_info": "[01时24分 ~ 14时18分]"
+        },
+        {
+          "title": "日本经济产业大臣赤泽亮正：准备协助海外芯片制造商在日本投资。",
+          "url": "https://flash.jin10.com/detail/20260704135129983800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
+        },
+        {
+          "title": "日本经济产业大臣赤泽亮正：准备援助在日投资的海外芯片制造商。",
+          "url": "https://wallstreetcn.com/livenews/3128897",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
         },
         {
           "title": "中国男篮不敌日本男篮",
@@ -523,39 +642,64 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33515091",
           "source": "澎湃新闻",
           "ranks": [
-            12
+            12,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时44分 ~ 14时18分]"
         },
         {
           "title": "中国男篮73比92不敌日本男篮，世预赛出线存变数",
           "url": "https://m.thepaper.cn/newsDetail_forward_33511637",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            15,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时44分 ~ 14时18分]"
         },
         {
           "title": "日本修法断了女天皇之路，为何选择此时收紧皇室继承权？",
           "url": "https://www.zhihu.com/question/2055796070526014657",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时44分 ~ 14时18分]"
+        },
+        {
+          "title": "美光斥资90亿美元扩建日本西部芯片工厂",
+          "url": "https://flash.jin10.com/detail/20260704122345270800",
+          "source": "金十数据",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时44分"
+          "time_info": "14时18分"
+        },
+        {
+          "title": "一碗面38块,日本还在吹经济",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355884&amp;topic_name=%E4%B8%80%E7%A2%97%E9%9D%A238%E5%9D%97%2C%E6%97%A5%E6%9C%AC%E8%BF%98%E5%9C%A8%E5%90%B9%E7%BB%8F%E6%B5%8E",
+          "source": "贴吧",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "从保守派宠儿到MAGA公敌，她为什么敢“背叛”特朗普？",
@@ -627,15 +771,37 @@
           "time_info": "[05时05分 ~ 07时02分]"
         },
         {
+          "title": "伊朗议长反击特朗普“缺粮”言论：美国数千万人靠食品券生活",
+          "url": "https://flash.jin10.com/detail/20260704124044168800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
+        },
+        {
           "title": "特朗普：美国经济正强劲腾飞！",
           "url": "https://flash.jin10.com/detail/20260704093740277800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗非常想达成协议；因举办哈梅内伊的葬礼，给伊朗放了一周假。",
+          "url": "https://flash.jin10.com/detail/20260704113342386800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
         },
         {
           "title": "据AXIOS网站：美国总统特朗普今天与以色列总理内塔尼亚胡通了电话。以色列总理办公室表示，双方同意近期在美国举行会晤。",
@@ -649,13 +815,24 @@
           "time_info": "01时25分"
         },
         {
+          "title": "特朗普：伊朗非常想达成协议。 因葬礼给伊朗放了一周假。",
+          "url": "https://wallstreetcn.com/livenews/3128882",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
+        },
+        {
           "title": "特朗普：将接受以公开交易股票形式进行的慈善捐款。",
           "url": "https://wallstreetcn.com/livenews/3128858",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
         },
@@ -666,7 +843,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
         },
@@ -677,7 +854,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
         }
@@ -685,19 +862,8 @@
     },
     {
       "keyword_group": "印度",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
-        {
-          "title": "手舞足蹈卖力演奏，高市早苗试弹印度乐器，莫迪带头鼓掌",
-          "url": "https://v.ifeng.com/c/8uSdi3abnDm",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时24分 ~ 10时44分]"
-        },
         {
           "title": "女子印度游,脑子长出寄生虫",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355864&amp;topic_name=%E5%A5%B3%E5%AD%90%E5%8D%B0%E5%BA%A6%E6%B8%B8%2C%E8%84%91%E5%AD%90%E9%95%BF%E5%87%BA%E5%AF%84%E7%94%9F%E8%99%AB",
@@ -705,11 +871,12 @@
           "ranks": [
             7,
             8,
-            10
+            10,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时24分 ~ 10时44分]"
+          "appearance_count": 9,
+          "time_info": "[01时24分 ~ 14时18分]"
         },
         {
           "title": "媒体为印度人发声:莫以偏概全",
@@ -718,7 +885,19 @@
           "ranks": [
             9,
             10,
-            12
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时24分 ~ 14时18分]"
+        },
+        {
+          "title": "手舞足蹈卖力演奏，高市早苗试弹印度乐器，莫迪带头鼓掌",
+          "url": "https://v.ifeng.com/c/8uSdi3abnDm",
+          "source": "凤凰网",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -759,6 +938,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时24分 ~ 05时05分]"
+        },
+        {
+          "title": "印度政府：正调查苹果手机信息泄露事件",
+          "url": "https://wallstreetcn.com/livenews/3128883",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
         }
       ]
     },
@@ -821,7 +1011,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
         }
@@ -829,7 +1019,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
@@ -855,6 +1045,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时24分 ~ 05时05分]"
+        },
+        {
+          "title": "韩国股市杠杆失控：450亿美元资金狂飙，SK海力士单只ETF规模碾压美股科技巨头",
+          "url": "https://wallstreetcn.com/articles/3776174",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
         }
       ]
     },
@@ -867,11 +1068,29 @@
           "url": "https://wallstreetcn.com/articles/3776170",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时44分 ~ 14时18分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "宇树高管谈具身智能ChatGPT时刻",
+          "url": "https://flash.jin10.com/detail/20260704110855518800",
+          "source": "金十数据",
+          "ranks": [
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时44分"
+          "time_info": "14时18分"
         }
       ]
     },
