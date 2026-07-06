@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-06T11:22:45.364099+08:00",
-  "total_titles_processed": 752,
+  "generated_at": "2026-07-06T16:19:55.332435+08:00",
+  "total_titles_processed": 969,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "特朗普对哈梅内伊葬礼感到震惊，认为伊朗民众恨他",
@@ -46,11 +46,12 @@
           "url": "https://news.ifeng.com/c/8uWz9x0USqP",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时22分 ~ 16时19分]"
         },
         {
           "title": "伊朗民众葬礼上向特朗普发出威胁：无耻混蛋，等着被割喉吧",
@@ -59,7 +60,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
         },
@@ -146,6 +147,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时08分 ~ 06时01分]"
+        },
+        {
+          "title": "特朗普：哈梅内伊葬礼上一次攻击就能全部干掉伊朗高层，但不会这么做，这样就没人谈判了",
+          "url": "https://wallstreetcn.com/articles/3776227",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时22分 ~ 16时19分]"
         },
         {
           "title": "美国高级官员：相信特朗普将与俄罗斯普京进行后续沟通。",
@@ -241,17 +254,6 @@
           "time_info": "02时02分"
         },
         {
-          "title": "特朗普：哈梅内伊葬礼上一次攻击就能全部干掉伊朗高层，但不会这么做，这样就没人谈判了",
-          "url": "https://wallstreetcn.com/articles/3776227",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时22分"
-        },
-        {
           "title": "白宫官员：特朗普将在北约之行期间与土耳其总统埃尔多安举行会晤。",
           "url": "https://flash.jin10.com/detail/20260706011411437800",
           "source": "金十数据",
@@ -327,12 +329,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
+        },
+        {
+          "title": "英格兰主帅希望特朗普帮忙取消红牌",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E6%A0%BC%E5%85%B0%E4%B8%BB%E5%B8%85%E5%B8%8C%E6%9C%9B%E7%89%B9%E6%9C%97%E6%99%AE%E5%B8%AE%E5%BF%99%E5%8F%96%E6%B6%88%E7%BA%A2%E7%89%8C%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         }
       ]
     },
     {
       "keyword_group": "美国",
-      "match_count": 14,
+      "match_count": 20,
       "titles": [
         {
           "title": "FIFA 决定美国核心主力巴洛贡红牌停赛处罚暂缓一年执行，如何评价这一决定？",
@@ -354,7 +367,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
         },
@@ -365,9 +378,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
+        },
+        {
+          "title": "川普施压FIFA,美国红牌不禁赛",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355936&amp;topic_name=%E5%B7%9D%E6%99%AE%E6%96%BD%E5%8E%8BFIFA%2C%E7%BE%8E%E5%9B%BD%E7%BA%A2%E7%89%8C%E4%B8%8D%E7%A6%81%E8%B5%9B",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         },
         {
           "title": "佩斯科夫：俄对和平谈判持开放态度 期待美国进行调解",
@@ -430,6 +454,17 @@
           "time_info": "[06时01分 ~ 07时12分]"
         },
         {
+          "title": "美国人：现在才知道我们是个坏国家",
+          "url": "https://www.toutiao.com/trending/7659278040756944947/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
           "title": "袁励岑温瑞博美国大满贯男双夺冠",
           "url": "https://www.douyin.com/hot/2559282",
           "source": "抖音",
@@ -441,6 +476,17 @@
           "time_info": "06时01分"
         },
         {
+          "title": "连美国队都以为球员红牌特赦是假新闻",
+          "url": "https://www.toutiao.com/trending/7659244753493724682/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
           "title": "美国共和党众议员南希·梅斯：我们将提出一项法案，禁止来自索马里、南苏丹和苏丹的移民。",
           "url": "https://flash.jin10.com/detail/20260706063354928800",
           "source": "金十数据",
@@ -450,6 +496,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "外交部发言人就美国独立250周年答记者问",
+          "url": "https://wallstreetcn.com/livenews/3129236",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
+          "title": "孙颖莎美国大满贯夺冠",
+          "url": "https://www.toutiao.com/trending/7659249621968916004/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         },
         {
           "title": "以色列总理内塔尼亚胡：令我担忧的是，首先在民主党内部存在一股反以色列势力。我对此很关心，只要我们能做些什么来弥补，我当然会去做。那些憎恨以色列的人最终也会憎恨美国。",
@@ -469,9 +537,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
+        },
+        {
+          "title": "2026 年 WTT 美国大满贯赛男单决赛，松岛辉空 4：2 力克希德仁科夺冠，怎么评价 19 岁松岛辉空的崛起？",
+          "url": "https://www.zhihu.com/question/2057439674877081351",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         },
         {
           "title": "美国父母早上吸毒18个月婴儿溺水",
@@ -491,7 +570,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
         }
@@ -499,8 +578,23 @@
     },
     {
       "keyword_group": "日本",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "空调炼稀土,日本没招了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355907&amp;topic_name=%E7%A9%BA%E8%B0%83%E7%82%BC%E7%A8%80%E5%9C%9F%2C%E6%97%A5%E6%9C%AC%E6%B2%A1%E6%8B%9B%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            14,
+            15,
+            16,
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时08分 ~ 16时19分]"
+        },
         {
           "title": "日本为找稀土开始拆空调了",
           "url": "https://www.toutiao.com/trending/7658570707797934134/",
@@ -517,31 +611,6 @@
           "time_info": "[00时08分 ~ 07时12分]"
         },
         {
-          "title": "空调炼稀土,日本没招了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355907&amp;topic_name=%E7%A9%BA%E8%B0%83%E7%82%BC%E7%A8%80%E5%9C%9F%2C%E6%97%A5%E6%9C%AC%E6%B2%A1%E6%8B%9B%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            14,
-            15,
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 11时22分]"
-        },
-        {
-          "title": "漠叔调查日本毒气战",
-          "url": "https://search.bilibili.com/all?keyword=%E6%BC%A0%E5%8F%94%E8%B0%83%E6%9F%A5%E6%97%A5%E6%9C%AC%E6%AF%92%E6%B0%94%E6%88%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时22分"
-        },
-        {
           "title": "HBM竞赛升级！美光日本90亿美元扩建项目开工，预计2028年出货",
           "url": "https://wallstreetcn.com/articles/3776210",
           "source": "华尔街见闻",
@@ -552,6 +621,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时08分 ~ 07时12分]"
+        },
+        {
+          "title": "漠叔调查日本毒气战",
+          "url": "https://search.bilibili.com/all?keyword=%E6%BC%A0%E5%8F%94%E8%B0%83%E6%9F%A5%E6%97%A5%E6%9C%AC%E6%AF%92%E6%B0%94%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时22分 ~ 16时19分]"
         },
         {
           "title": "普京首次承认俄罗斯石油短缺，并拟从日本进口航空燃油，这释放了哪些信号？",
@@ -585,9 +666,9 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时22分 ~ 16时19分]"
         },
         {
           "title": "日媒称“酷日本”失败了，引发舆论热议",
@@ -596,9 +677,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
+        },
+        {
+          "title": "日本前外汇事务主管称日元被低估高达20%。",
+          "url": "https://wallstreetcn.com/livenews/3129234",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         },
         {
           "title": "欧洲车市变天：中国品牌击败日本对手",
@@ -629,7 +721,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
         },
@@ -659,7 +751,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "伊拉克女信众：哈梅内伊不仅属于伊朗，是所有人的领袖",
@@ -673,15 +765,15 @@
           "time_info": "[00时08分 ~ 07时12分]"
         },
         {
-          "title": "伊朗最高领袖发布任免令",
-          "url": "https://news.ifeng.com/c/8uX0AQwmuwO",
+          "title": "伊朗借哈梅内伊国葬释放3个政治讯息",
+          "url": "https://news.ifeng.com/c/8uXROeZKlPw",
           "source": "凤凰网",
           "ranks": [
-            2
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时22分"
+          "time_info": "16时19分"
         },
         {
           "title": "伊朗官员称该国已恢复与卡塔尔的海上贸易",
@@ -694,6 +786,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时08分 ~ 07时12分]"
+        },
+        {
+          "title": "伊朗最高领袖发布任免令",
+          "url": "https://news.ifeng.com/c/8uX0AQwmuwO",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时22分 ~ 16时19分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：只要我担任总理，伊朗就不会获得核武器。",
@@ -804,7 +908,7 @@
     },
     {
       "keyword_group": "印度",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "印度政府正调查塔塔电子大规模数据泄露事件， 涉及苹果、特斯拉，这种泄露影响有多大？暴露了哪些安全隐患？",
@@ -842,11 +946,12 @@
             7,
             8,
             9,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 11时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时08分 ~ 16时19分]"
         },
         {
           "title": "印度驻华大使答凤凰：尽可能多地与中国各领域合作",
@@ -872,13 +977,24 @@
           "time_info": "[04时13分 ~ 06时01分]"
         },
         {
+          "title": "内塔尼亚胡：以色列有很多朋友，尤其是“小国”印度",
+          "url": "https://news.ifeng.com/c/8uXCebTK4hv",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
           "title": "印度欲扩大国内原油勘探规模 降低对进口依赖",
           "url": "https://wallstreetcn.com/livenews/3129086",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
         },
@@ -900,7 +1016,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
         }
@@ -908,7 +1024,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "精准预测“美股动量股”暴跌后，高盛看到“逢低买入”的迹象",
@@ -933,6 +1049,17 @@
           "time_info": "[00时08分 ~ 07时12分]"
         },
         {
+          "title": "本周重磅日程：中国通胀数据、三星业绩预告、SK海力士美股首秀、智谱MiniMax解禁",
+          "url": "https://wallstreetcn.com/articles/3776130",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时22分 ~ 16时19分]"
+        },
+        {
           "title": "本周重要事件与数据预告：美联储会议纪要；中国CPI、外储；SK海力士登陆美股",
           "url": "https://flash.jin10.com/detail/20260706070621012800",
           "source": "金十数据",
@@ -944,15 +1071,15 @@
           "time_info": "07时12分"
         },
         {
-          "title": "本周重磅日程：中国通胀数据、三星业绩预告、SK海力士美股首秀、智谱MiniMax解禁",
-          "url": "https://wallstreetcn.com/articles/3776130",
-          "source": "华尔街见闻",
+          "title": "美股盘前，大型科技股普涨，美光科技涨超3%，闪迪涨超5%，英特尔涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3129248",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时22分"
+          "time_info": "16时19分"
         },
         {
           "title": "警惕7月变盘！美股或遭剧烈“洗牌”，风格轮动要来了？",
@@ -961,7 +1088,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
         },
@@ -972,9 +1099,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
+        },
+        {
+          "title": "美股史上最大规模海外公司首次募资！“存储巨头”SK海力士本周五登陆纳斯达克",
+          "url": "https://wallstreetcn.com/articles/3776235",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         }
       ]
     },
@@ -1008,9 +1146,26 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "三井住友：东证指数调整或为铠侠带来185亿美元被动资金流入",
+          "url": "https://flash.jin10.com/detail/20260706160752308800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         }
       ]
     }
