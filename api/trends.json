@@ -1,442 +1,23 @@
 {
-  "generated_at": "2026-07-08T05:23:52.895093+08:00",
-  "total_titles_processed": 495,
+  "generated_at": "2026-07-08T07:01:44.385882+08:00",
+  "total_titles_processed": 576,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美国",
-      "match_count": 38,
+      "keyword_group": "伊朗",
+      "match_count": 53,
       "titles": [
         {
-          "title": "比利时官方贴脸嘲讽美国",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355976&amp;topic_name=%E6%AF%94%E5%88%A9%E6%97%B6%E5%AE%98%E6%96%B9%E8%B4%B4%E8%84%B8%E5%98%B2%E8%AE%BD%E7%BE%8E%E5%9B%BD",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时14分 ~ 05时23分]"
-        },
-        {
-          "title": "即便美国红牌可以“缓刑”，无碍比利时4比1淘汰东道主",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33531815",
-          "source": "澎湃新闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时14分 ~ 05时23分]"
-        },
-        {
-          "title": "美国财政部拍卖580亿美元三年期国债，得标利率4.179%（6月9日为4.192%），投标倍数2.60（前次为2.64）。",
-          "url": "https://wallstreetcn.com/livenews/3130116",
-          "source": "华尔街见闻-快讯",
+          "title": "美军发动打击，伊朗多地传出爆炸声",
+          "url": "https://news.ifeng.com/c/8ua61PBRR6g",
+          "source": "凤凰网",
           "ranks": [
             1
           ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
-        },
-        {
-          "title": "据美国证交会（SEC）文件显示，亚马逊(AMZN.O)定价242.5亿美元多期限债券发行，利率介于4.6%至6.25%。",
-          "url": "https://flash.jin10.com/detail/20260708051404780800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时23分"
+          "time_info": "07时01分"
         },
-        {
-          "title": "美国3年期国债收益率在3年期国债竞拍后小幅收窄涨幅，最新上涨2.5个基点，报4.173%。",
-          "url": "https://flash.jin10.com/detail/20260708010459357800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
-        },
-        {
-          "title": "美国至7月7日3年期国债竞拍-得标利率 4.179%，前值4.19%。",
-          "url": "https://flash.jin10.com/detail/20260708010207274800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
-        },
-        {
-          "title": "行业周报：美国上周API原油库存减少大约40万桶",
-          "url": "https://wallstreetcn.com/livenews/3130173",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
-        },
-        {
-          "title": "国际足联为东道主开先例，美国队球员巴洛贡红牌“特赦”惹恼欧洲",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33531501",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时14分 ~ 05时23分]"
-        },
-        {
-          "title": "马上评丨红牌“特赦”，美国队也没笑到最后",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33533370",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时14分 ~ 05时23分]"
-        },
-        {
-          "title": "盘外招无用!比利时大胜美国",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355958&amp;topic_name=%E7%9B%98%E5%A4%96%E6%8B%9B%E6%97%A0%E7%94%A8%21%E6%AF%94%E5%88%A9%E6%97%B6%E5%A4%A7%E8%83%9C%E7%BE%8E%E5%9B%BD",
-          "source": "贴吧",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时14分 ~ 05时23分]"
-        },
-        {
-          "title": "美国队主教练：国际足联裁定巴洛贡可以上场，那这就不是问题",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33532864",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时14分 ~ 05时23分]"
-        },
-        {
-          "title": "美国至7月7日3年期国债竞拍-投标倍数 2.6，前值2.64。",
-          "url": "https://flash.jin10.com/detail/20260708010207275800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
-        },
-        {
-          "title": "市场消息：美国参议员麦康奈尔自6月14日起住院，其在本周一和周二与参议院共和党领导层通话。外界正关注他是否能在今年年底前重返参议院。",
-          "url": "https://flash.jin10.com/detail/20260708044348157800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
-        },
-        {
-          "title": "Anthropic计划在美国曼哈顿扩张，纽约市员工规模将翻倍至1000人。 计划在Hudson Square租赁16层楼高的建筑物。 该公司将从2026年夏季开始搬迁到纽约市。（纽约时报）",
-          "url": "https://wallstreetcn.com/livenews/3130172",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
-        },
-        {
-          "title": "美国至7月7日3年期国债竞拍-得标利率配置百分比 2.17%，前值42.92%。",
-          "url": "https://flash.jin10.com/detail/20260708010207267800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
-        },
-        {
-          "title": "埃克森美孚：与第一季度相比，液体价格变动预计将使第二季度上游业务业绩增加35亿至39亿美元。 根据美国证券交易委员会（SEC）文件，与第一季度相比，天然气价格变动预计将使第二季度上游业务业绩减少2亿美元至增加2亿美元。 与第一季度相比，利润率变动预计将使第二季度化工品业务盈利减少10亿至12亿美元。 与第一季度相比，利润率变动预计将使第二季度能源产品业务盈利减少20亿至24亿美元。 预计受中东事件影响，第二季度产量中断将导致上游业务减少6亿至8亿美元，能源产品业务减少2亿至4亿美元。 与第一季度相比，利润率变动预计将使第二季度特种产品业务盈利减少3亿至5亿美元。 预计第二季度中东其他事件对上游业务的影响在减少1亿美元至增加1亿美元之间。 预计第二季度中东其他事件对能源产品业务的影响在减少1亿至3亿美元之间。",
-          "url": "https://wallstreetcn.com/livenews/3130170",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
-        },
-        {
-          "title": "美国至7月3日当周API投产原油量 3.4万桶/日，前值7.6万桶/日。",
-          "url": "https://flash.jin10.com/detail/20260708043845661800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
-        },
-        {
-          "title": "美国贸易代表格里尔谈论美国墨西哥加拿大贸易协议（USMCA）：加拿大、墨西哥都没能在任何事上达到标准。",
-          "url": "https://wallstreetcn.com/livenews/3130169",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
-        },
-        {
-          "title": "美国至7月3日当周API成品油进口 -32.5万桶/日，前值21.3万桶/日。",
-          "url": "https://flash.jin10.com/detail/20260708043837578800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
-        },
-        {
-          "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情。",
-          "url": "https://wallstreetcn.com/livenews/3130168",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：美国向土耳其出售“F-35”战斗机将“破坏中东的力量平衡”。",
-          "url": "https://flash.jin10.com/detail/20260708005108903800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
-        },
-        {
-          "title": "美国至7月3日当周API原油进口 15.9万桶，前值-18万桶。",
-          "url": "https://flash.jin10.com/detail/20260708043825103800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
-        },
-        {
-          "title": "美国至7月3日当周API取暖油库存 -43.4万桶，前值20.5万桶。",
-          "url": "https://flash.jin10.com/detail/20260708043813565800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
-        },
-        {
-          "title": "美国至7月3日当周API库欣原油库存 -6.9万桶，前值50.3万桶。",
-          "url": "https://flash.jin10.com/detail/20260708043756865800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
-        },
-        {
-          "title": "据华尔街日报：民主党议员调查美国商务部长卢特尼克与康托・菲茨杰拉德公司（Cantor Fitzgerald）交易关系。（卢特尼克曾任康托・菲茨杰拉德公司董事长兼CEO）",
-          "url": "https://flash.jin10.com/detail/20260708004521781800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
-        },
-        {
-          "title": "美国至7月3日当周API精炼油库存 -180.1万桶，预期100万桶，前值292.2万桶。",
-          "url": "https://flash.jin10.com/detail/20260708043737131800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
-        },
-        {
-          "title": "美国至7月3日当周API汽油库存 -292.9万桶，预期-155万桶，前值-210.6万桶。",
-          "url": "https://flash.jin10.com/detail/20260708043715482800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
-        },
-        {
-          "title": "美国、日本、韩国签署小型模块化反应堆（SMR）部署合作谅解备忘录。",
-          "url": "https://wallstreetcn.com/livenews/3130099",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
-        },
-        {
-          "title": "半导体行业组织、麦肯锡与美国国家科学基金会研究显示，到2030年，芯片行业或面临最多15.7万个岗位缺口。",
-          "url": "https://flash.jin10.com/detail/20260708030317424800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时54分"
-        },
-        {
-          "title": "美国至7月3日当周API原油库存 -39.9万桶，预期-150万桶，前值-607.2万桶。",
-          "url": "https://flash.jin10.com/detail/20260708043701256800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
-        },
-        {
-          "title": "美国海军作战部长：我们掌握霍尔木兹海峡布设水雷的数量。相关信息属于机密情报，我不会透露我们如何获取这些数据。",
-          "url": "https://flash.jin10.com/detail/20260708043509123800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
-        },
-        {
-          "title": "马斯克旗下太空探索公司SpaceX收跌6.8%，创美国IPO以来收盘新低。",
-          "url": "https://wallstreetcn.com/livenews/3130157",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
-        },
-        {
-          "title": "美国官员：美方谈判代表仍在本着诚意推进最终协议的达成。",
-          "url": "https://flash.jin10.com/detail/20260708024956190800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时54分"
-        },
-        {
-          "title": "据知情人士透露，SK海力士美国IPO获得数倍超额认购，大约1000名散户投资者参与了7月6日的（管理层营销）电话会。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3130088",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
-        },
-        {
-          "title": "美国三年期国债发行一级交易商中标比例创历史新低",
-          "url": "https://wallstreetcn.com/livenews/3130116",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时54分"
-        },
-        {
-          "title": "美国1:4比利时",
-          "url": "https://www.douyin.com/hot/2561113",
-          "source": "抖音",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
-        },
-        {
-          "title": "美国财政部拍卖六周期国债，得标利率3.635%，投标倍数2.74。 拍卖52周期国债，得标利率3.860%，投标倍数3.14。",
-          "url": "https://wallstreetcn.com/livenews/3130082",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
-        },
-        {
-          "title": "川普关税施压,美国红牌不禁赛",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355936&amp;topic_name=%E5%B7%9D%E6%99%AE%E5%85%B3%E7%A8%8E%E6%96%BD%E5%8E%8B%2C%E7%BE%8E%E5%9B%BD%E7%BA%A2%E7%89%8C%E4%B8%8D%E7%A6%81%E8%B5%9B",
-          "source": "贴吧",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 28,
-      "titles": [
         {
           "title": "海湾合作委员会秘书长：沙特油轮遭袭一事反映出伊朗的敌对做法仍在延续。",
           "url": "https://flash.jin10.com/detail/20260708034407140800",
@@ -455,9 +36,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
+        },
+        {
+          "title": "据伊朗法尔斯通讯社：港口官员称，阿巴斯港鱼市后方冒出的黑烟，是“敌方炮弹”击中渔业码头、导致多艘民用渔船起火所致。",
+          "url": "https://flash.jin10.com/detail/20260708063907926800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
+          "title": "伊朗：美国恢复制裁措施违反谅解备忘录",
+          "url": "https://news.ifeng.com/c/8ua6IyNihBa",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
         },
         {
           "title": "海湾合作委员会秘书长：伊朗袭击沙特油轮是“犯罪行为”，威胁航运安全和能源供应。",
@@ -477,9 +80,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
+        },
+        {
+          "title": "当地时间8日，伊朗南部霍尔木兹甘省政府表示，截至目前，尚未收到任何关于美国袭击造成平民伤亡的报告。",
+          "url": "https://flash.jin10.com/detail/20260708063136269800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
         },
         {
           "title": "美国恢复对伊朗石油制裁",
@@ -488,7 +102,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
         },
@@ -502,6 +116,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
+        },
+        {
+          "title": "美军：开始对伊朗发动系列打击",
+          "url": "https://www.cls.cn/detail/2419769",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
         },
         {
           "title": "美国恢复对伊朗石油制裁",
@@ -572,15 +197,59 @@
           "time_info": "03时54分"
         },
         {
+          "title": "美官员称对伊朗打击是“惩罚” 不是对等回应",
+          "url": "https://flash.jin10.com/detail/20260708062058418800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
+          "title": "美国原油涨约3%，美军空袭伊朗",
+          "url": "https://wallstreetcn.com/livenews/3130198",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
+          "title": "伊朗：美方袭击严重违反谅解备忘录",
+          "url": "https://flash.jin10.com/detail/20260708060244878800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
           "title": "伊朗最高领袖顾问称，美国将把与伊朗的谈判引向失败",
           "url": "https://wallstreetcn.com/livenews/3130164",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
+        },
+        {
+          "title": "美国撤销伊朗石油制裁豁免，油价飙升",
+          "url": "https://www.cls.cn/detail/2419758",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
         },
         {
           "title": "伊朗总统：我们将维护持久稳定，不接受任何违背承诺或偏离谅解备忘录的行为。",
@@ -594,6 +263,28 @@
           "time_info": "03时54分"
         },
         {
+          "title": "据伊朗国家媒体：霍尔木兹港东部和西部传出爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260708060204827800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
+          "title": "载有伊朗已故最高领袖哈梅内伊遗体的飞机抵达伊拉克",
+          "url": "https://wallstreetcn.com/livenews/3130195",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：我对通过谈判终止伊朗核计划持怀疑态度。",
           "url": "https://flash.jin10.com/detail/20260708003937778800",
           "source": "金十数据",
@@ -603,6 +294,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
+        },
+        {
+          "title": "【伊朗：美国取消暂停制裁措施违反谅解备忘录】伊朗外交部8日凌晨发表声明，谴责美国财政部取消暂停制裁伊朗石油销售的临时措施，称此举公然违反伊美伊斯兰堡谅解备忘录，美方应对相关后果承担责任。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3130194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
         },
         {
           "title": "以色列总理内塔尼亚胡：现在谈论伊朗局势会如何发展还为时过早。",
@@ -616,6 +318,17 @@
           "time_info": "01时14分"
         },
         {
+          "title": "WTI原油周三高开0.3%，此前美军称开始对伊朗发动一系列打击。",
+          "url": "https://flash.jin10.com/detail/20260708060100195800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
           "title": "伊朗总统赴伊拉克出席哈梅内伊送葬仪式",
           "url": "https://wallstreetcn.com/livenews/3130129",
           "source": "华尔街见闻-快讯",
@@ -627,13 +340,24 @@
           "time_info": "03时54分"
         },
         {
+          "title": "美国7月7日对伊朗的军事袭击针对防空系统和无人机基地。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3130193",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
           "title": "美国海军作战部长：伊朗的目标是迫使商业船只在霍尔木兹海峡航行时贴近伊朗海岸。",
           "url": "https://flash.jin10.com/detail/20260708043509600800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
         },
@@ -671,6 +395,17 @@
           "time_info": "03时54分"
         },
         {
+          "title": "卡塔尔就其运输船遇袭向伊朗发出照会",
+          "url": "https://wallstreetcn.com/livenews/3130190",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
           "title": "美财政部撤销伊朗原油销售许可证",
           "url": "https://flash.jin10.com/detail/20260708025712912800",
           "source": "金十数据",
@@ -682,15 +417,59 @@
           "time_info": "03时54分"
         },
         {
+          "title": "据天空新闻：消息人士称，美军打击行动仍在持续。与此前所谓停火期间美国对伊朗发动的打击相比，此次行动似乎持续时间更长、规模更大。",
+          "url": "https://flash.jin10.com/detail/20260708055847599800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
+          "title": "载有伊朗已故最高领袖哈梅内伊遗体的飞机抵达伊拉克",
+          "url": "https://flash.jin10.com/detail/20260708055434451800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
           "title": "美国终止对伊朗石油制裁豁免",
           "url": "https://wallstreetcn.com/livenews/3130152",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
+        },
+        {
+          "title": "科威特外交部：谴责伊朗袭击途经霍尔木兹海峡的沙特油轮。",
+          "url": "https://flash.jin10.com/detail/20260708055251880800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
+          "title": "伊朗格什姆岛附近传出爆炸声",
+          "url": "https://wallstreetcn.com/livenews/3130185",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
         },
         {
           "title": "美国官员：美国财政部正撤销此前授权销售伊朗石油的通用许可证。",
@@ -704,6 +483,39 @@
           "time_info": "03时54分"
         },
         {
+          "title": "据CNN：美国官员表示，此次对伊朗的打击行动是“惩罚性行动，而非对等回应”，并称行动“短时间内不会结束”。",
+          "url": "https://flash.jin10.com/detail/20260708054928427800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
+          "title": "标普500 ETF下跌0.2%，美国对伊朗发动军事袭击。",
+          "url": "https://wallstreetcn.com/livenews/3130184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：当地消息人士称，伊朗格什姆岛和锡里克附近再次传出爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260708054613465800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
           "title": "美国官员：伊朗在霍尔木兹海峡的行动完全不可接受，美方将对此作出回应。",
           "url": "https://flash.jin10.com/detail/20260708024941282800",
           "source": "金十数据",
@@ -713,6 +525,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时54分"
+        },
+        {
+          "title": "据Axios：一名美国官员表示，此次打击目标包括伊朗防空系统、海岸监视系统、地对空导弹设施、反舰巡航导弹阵地、无人机发射设施以及港口设施。",
+          "url": "https://flash.jin10.com/detail/20260708054432073800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
         },
         {
           "title": "据伊朗新闻电视台：一名官员称，美国任何“挑衅性行动”都将遭到伊朗立即且坚决的回应。",
@@ -737,11 +560,485 @@
           "time_info": "03时54分"
         },
         {
+          "title": "据伊朗塔斯尼姆通讯社：以色列对黎巴嫩南部发动空袭，目标包括拜特亚洪镇及布拉希特与拜特亚洪两地之间区域。",
+          "url": "https://flash.jin10.com/detail/20260708054107048800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
+          "title": "报道称伊朗多地发生爆炸，美军确认：对伊朗发动一系列打击",
+          "url": "https://wallstreetcn.com/livenews/3130179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
           "title": "据伊朗新闻电视台：一名官员称，霍尔木兹海峡的航运通行正按照伊朗的安排进行。",
           "url": "https://flash.jin10.com/detail/20260708001904730800",
           "source": "金十数据",
           "ranks": [
             26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美国",
+      "match_count": 40,
+      "titles": [
+        {
+          "title": "比利时官方贴脸嘲讽美国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355976&amp;topic_name=%E6%AF%94%E5%88%A9%E6%97%B6%E5%AE%98%E6%96%B9%E8%B4%B4%E8%84%B8%E5%98%B2%E8%AE%BD%E7%BE%8E%E5%9B%BD",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时14分 ~ 07时01分]"
+        },
+        {
+          "title": "即便美国红牌可以“缓刑”，无碍比利时4比1淘汰东道主",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33531815",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时14分 ~ 07时01分]"
+        },
+        {
+          "title": "美国财政部拍卖580亿美元三年期国债，得标利率4.179%（6月9日为4.192%），投标倍数2.60（前次为2.64）。",
+          "url": "https://wallstreetcn.com/livenews/3130116",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时14分"
+        },
+        {
+          "title": "据美国证交会（SEC）文件显示，亚马逊(AMZN.O)定价242.5亿美元多期限债券发行，利率介于4.6%至6.25%。",
+          "url": "https://flash.jin10.com/detail/20260708051404780800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
+          "title": "美国3年期国债收益率在3年期国债竞拍后小幅收窄涨幅，最新上涨2.5个基点，报4.173%。",
+          "url": "https://flash.jin10.com/detail/20260708010459357800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时14分"
+        },
+        {
+          "title": "美国至7月7日3年期国债竞拍-得标利率 4.179%，前值4.19%。",
+          "url": "https://flash.jin10.com/detail/20260708010207274800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时14分"
+        },
+        {
+          "title": "行业周报：美国上周API原油库存减少大约40万桶",
+          "url": "https://wallstreetcn.com/livenews/3130173",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
+          "title": "国际足联为东道主开先例，美国队球员巴洛贡红牌“特赦”惹恼欧洲",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33531501",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时14分 ~ 07时01分]"
+        },
+        {
+          "title": "马上评丨红牌“特赦”，美国队也没笑到最后",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33533370",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时14分 ~ 07时01分]"
+        },
+        {
+          "title": "盘外招无用!比利时大胜美国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355958&amp;topic_name=%E7%9B%98%E5%A4%96%E6%8B%9B%E6%97%A0%E7%94%A8%21%E6%AF%94%E5%88%A9%E6%97%B6%E5%A4%A7%E8%83%9C%E7%BE%8E%E5%9B%BD",
+          "source": "贴吧",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时14分 ~ 07时01分]"
+        },
+        {
+          "title": "美国队主教练：国际足联裁定巴洛贡可以上场，那这就不是问题",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33532864",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时14分 ~ 07时01分]"
+        },
+        {
+          "title": "美国至7月7日3年期国债竞拍-投标倍数 2.6，前值2.64。",
+          "url": "https://flash.jin10.com/detail/20260708010207275800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时14分"
+        },
+        {
+          "title": "市场消息：美国参议员麦康奈尔自6月14日起住院，其在本周一和周二与参议院共和党领导层通话。外界正关注他是否能在今年年底前重返参议院。",
+          "url": "https://flash.jin10.com/detail/20260708044348157800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
+          "title": "Anthropic计划在美国曼哈顿扩张，纽约市员工规模将翻倍至1000人。 计划在Hudson Square租赁16层楼高的建筑物。 该公司将从2026年夏季开始搬迁到纽约市。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3130172",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
+          "title": "美国至7月7日3年期国债竞拍-得标利率配置百分比 2.17%，前值42.92%。",
+          "url": "https://flash.jin10.com/detail/20260708010207267800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时14分"
+        },
+        {
+          "title": "埃克森美孚：与第一季度相比，液体价格变动预计将使第二季度上游业务业绩增加35亿至39亿美元。 根据美国证券交易委员会（SEC）文件，与第一季度相比，天然气价格变动预计将使第二季度上游业务业绩减少2亿美元至增加2亿美元。 与第一季度相比，利润率变动预计将使第二季度化工品业务盈利减少10亿至12亿美元。 与第一季度相比，利润率变动预计将使第二季度能源产品业务盈利减少20亿至24亿美元。 预计受中东事件影响，第二季度产量中断将导致上游业务减少6亿至8亿美元，能源产品业务减少2亿至4亿美元。 与第一季度相比，利润率变动预计将使第二季度特种产品业务盈利减少3亿至5亿美元。 预计第二季度中东其他事件对上游业务的影响在减少1亿美元至增加1亿美元之间。 预计第二季度中东其他事件对能源产品业务的影响在减少1亿至3亿美元之间。",
+          "url": "https://wallstreetcn.com/livenews/3130170",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
+          "title": "美国至7月3日当周API投产原油量 3.4万桶/日，前值7.6万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260708043845661800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
+          "title": "美国贸易代表格里尔谈论美国墨西哥加拿大贸易协议（USMCA）：加拿大、墨西哥都没能在任何事上达到标准。",
+          "url": "https://wallstreetcn.com/livenews/3130169",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
+          "title": "美国至7月3日当周API成品油进口 -32.5万桶/日，前值21.3万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260708043837578800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
+          "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情。",
+          "url": "https://wallstreetcn.com/livenews/3130168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：美国向土耳其出售“F-35”战斗机将“破坏中东的力量平衡”。",
+          "url": "https://flash.jin10.com/detail/20260708005108903800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时14分"
+        },
+        {
+          "title": "美国至7月3日当周API原油进口 15.9万桶，前值-18万桶。",
+          "url": "https://flash.jin10.com/detail/20260708043825103800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
+          "title": "美国至7月3日当周API取暖油库存 -43.4万桶，前值20.5万桶。",
+          "url": "https://flash.jin10.com/detail/20260708043813565800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
+          "title": "韩国外交部：韩国、美国和日本签署小型模块化反应堆部署合作备忘录。",
+          "url": "https://flash.jin10.com/detail/20260708060852630800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
+          "title": "美国至7月3日当周API库欣原油库存 -6.9万桶，前值50.3万桶。",
+          "url": "https://flash.jin10.com/detail/20260708043756865800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
+          "title": "据华尔街日报：民主党议员调查美国商务部长卢特尼克与康托・菲茨杰拉德公司（Cantor Fitzgerald）交易关系。（卢特尼克曾任康托・菲茨杰拉德公司董事长兼CEO）",
+          "url": "https://flash.jin10.com/detail/20260708004521781800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时14分"
+        },
+        {
+          "title": "美国至7月3日当周API精炼油库存 -180.1万桶，预期100万桶，前值292.2万桶。",
+          "url": "https://flash.jin10.com/detail/20260708043737131800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
+          "title": "美国至7月3日当周API汽油库存 -292.9万桶，预期-155万桶，前值-210.6万桶。",
+          "url": "https://flash.jin10.com/detail/20260708043715482800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
+          "title": "美国、日本、韩国签署小型模块化反应堆（SMR）部署合作谅解备忘录。",
+          "url": "https://wallstreetcn.com/livenews/3130099",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时14分"
+        },
+        {
+          "title": "半导体行业组织、麦肯锡与美国国家科学基金会研究显示，到2030年，芯片行业或面临最多15.7万个岗位缺口。",
+          "url": "https://flash.jin10.com/detail/20260708030317424800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时54分"
+        },
+        {
+          "title": "美国至7月3日当周API原油库存 -39.9万桶，预期-150万桶，前值-607.2万桶。",
+          "url": "https://flash.jin10.com/detail/20260708043701256800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
+          "title": "美国海军作战部长：我们掌握霍尔木兹海峡布设水雷的数量。相关信息属于机密情报，我不会透露我们如何获取这些数据。",
+          "url": "https://flash.jin10.com/detail/20260708043509123800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
+          "title": "马斯克旗下太空探索公司SpaceX收跌6.8%，创美国IPO以来收盘新低。",
+          "url": "https://wallstreetcn.com/livenews/3130157",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
+          "title": "美国官员：美方谈判代表仍在本着诚意推进最终协议的达成。",
+          "url": "https://flash.jin10.com/detail/20260708024956190800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时54分"
+        },
+        {
+          "title": "据知情人士透露，SK海力士美国IPO获得数倍超额认购，大约1000名散户投资者参与了7月6日的（管理层营销）电话会。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3130088",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时14分"
+        },
+        {
+          "title": "美国三年期国债发行一级交易商中标比例创历史新低",
+          "url": "https://wallstreetcn.com/livenews/3130116",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时54分"
+        },
+        {
+          "title": "美国1:4比利时",
+          "url": "https://www.douyin.com/hot/2561113",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时14分"
+        },
+        {
+          "title": "据CNBC：奈飞(NFLX.O)、迪士尼(DIS.N)和YouTube有意竞购世界杯美国转播权，相关版权套餐价值可能高达20亿美元。预计国际足联与潜在媒体合作伙伴的谈判将在未来三个月内启动。",
+          "url": "https://flash.jin10.com/detail/20260708053128848800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
+          "title": "美国财政部拍卖六周期国债，得标利率3.635%，投标倍数2.74。 拍卖52周期国债，得标利率3.860%，投标倍数3.14。",
+          "url": "https://wallstreetcn.com/livenews/3130082",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时14分"
+        },
+        {
+          "title": "川普关税施压,美国红牌不禁赛",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355936&amp;topic_name=%E5%B7%9D%E6%99%AE%E5%85%B3%E7%A8%8E%E6%96%BD%E5%8E%8B%2C%E7%BE%8E%E5%9B%BD%E7%BA%A2%E7%89%8C%E4%B8%8D%E7%A6%81%E8%B5%9B",
+          "source": "贴吧",
+          "ranks": [
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -762,8 +1059,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时14分 ~ 05时23分]"
+          "appearance_count": 5,
+          "time_info": "[01时14分 ~ 07时01分]"
         },
         {
           "title": "芯片股领涨推动纳指反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升",
@@ -773,30 +1070,32 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时14分 ~ 05时23分]"
+          "appearance_count": 5,
+          "time_info": "[01时14分 ~ 07时01分]"
         },
         {
           "title": "特朗普：对北约非常失望",
           "url": "https://news.ifeng.com/c/8uZl0nkCE3Q",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时53分 ~ 05时23分]"
+          "appearance_count": 4,
+          "time_info": "[03时53分 ~ 07时01分]"
         },
         {
           "title": "比利时国防大臣警告特朗普：不准再骚扰“女王”梅洛尼",
           "url": "https://news.ifeng.com/c/8uZavoCll5c",
           "source": "凤凰网",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时14分 ~ 05时23分]"
+          "appearance_count": 5,
+          "time_info": "[01时14分 ~ 07时01分]"
         },
         {
           "title": "特朗普承认了：我找了国际足联，美国球员吃红牌的动作不算犯规",
@@ -807,8 +1106,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时14分 ~ 05时23分]"
+          "appearance_count": 5,
+          "time_info": "[01时14分 ~ 07时01分]"
         },
         {
           "title": "美国证券交易委员会表示，“特朗普账户”现已开放申请，鼓励家庭开设账户并领取符合条件的1000美元初始资金。",
@@ -817,7 +1116,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
         },
@@ -913,7 +1212,7 @@
     },
     {
       "keyword_group": "日本",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "日本品牌拿七七当七夕遭痛批",
@@ -924,19 +1223,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时14分 ~ 05时23分]"
+          "appearance_count": 5,
+          "time_info": "[01时14分 ~ 07时01分]"
         },
         {
           "title": "中国试射导弹，日本一天发两份声明，急什么？",
           "url": "https://news.ifeng.com/c/8uZpoNtZPeG",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时53分 ~ 05时23分]"
+          "appearance_count": 4,
+          "time_info": "[03时53分 ~ 07时01分]"
         },
         {
           "title": "日本渔船非法进入我赤尾屿领海，中国海警驱离",
@@ -948,6 +1248,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
+        },
+        {
+          "title": "据朝日新闻报道，日本正考虑在“骨太方针”中调整货币政策相关表述。",
+          "url": "https://wallstreetcn.com/livenews/3130205",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
+          "title": "市场消息：日本考虑在经济展望报告中调整货币政策相关表述。",
+          "url": "https://flash.jin10.com/detail/20260708063057679800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
         },
         {
           "title": "日本从废旧空调中提稀土，这对其稀土战略和全球供应链意味着什么？",
@@ -969,8 +1291,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时14分 ~ 05时23分]"
+          "appearance_count": 5,
+          "time_info": "[01时14分 ~ 07时01分]"
         },
         {
           "title": "日本海域半截女尸确认为中国籍女子",
@@ -981,8 +1303,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时14分 ~ 05时23分]"
+          "appearance_count": 5,
+          "time_info": "[01时14分 ~ 07时01分]"
         },
         {
           "title": "漠叔调查日本毒气战",
@@ -991,11 +1313,12 @@
           "ranks": [
             13,
             16,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时14分 ~ 05时23分]"
+          "appearance_count": 5,
+          "time_info": "[01时14分 ~ 07时01分]"
         },
         {
           "title": "日本民间团体集会纪念七七事变89周年",
@@ -1020,12 +1343,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时14分 ~ 03时54分]"
+        },
+        {
+          "title": "日本央行审议委员浅田统一郎（Asada）：加息可能会拖累经济增长。（日本产经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3130188",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "华尔街分析师警告：美股正形成\"双重泡沫\"，一旦破裂或引发30%-50%暴跌",
@@ -1033,11 +1367,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时14分 ~ 05时23分]"
+          "appearance_count": 5,
+          "time_info": "[01时14分 ~ 07时01分]"
         },
         {
           "title": "跌个不停！美股半导体连跌第四天",
@@ -1056,11 +1391,12 @@
           "source": "微博",
           "ranks": [
             14,
-            27
+            27,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 05时23分]"
+          "appearance_count": 3,
+          "time_info": "[01时14分 ~ 07时01分]"
         },
         {
           "title": "新兴市场ETF收跌超2.7%，与纳指ETF领跌美股大类资产类ETF",
@@ -1069,7 +1405,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
         },
@@ -1080,9 +1416,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
+        },
+        {
+          "title": "周二（7月7日），美国科技股七巨头（Magnificent 7）指数涨0.14%，北京时间23:40-00:50曾显著反弹；“超大”市值科技股指数跌1.26%。 美股存储芯片与硬件供应链指数跌6.52%，报208.40点，跳空低开之后，整体持续低位震荡。 美股超大规模云服务商（Hyperscalers）涨0.59%。 信息科技指数跌4.52%，报403.66点。 人工智能（AI）赢家指数跌4.08%，报398.90点。 AI软件先驱指数涨0.67%，报111.18点。",
+          "url": "https://wallstreetcn.com/livenews/3130197",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
         },
         {
           "title": "周二（7月7日），彭博电动汽车价格回报指数跌3.02%，报3475.02点，亚太盘初以来持续走低，美股开盘后跳空下挫。 成分股中，Rivian跌18.12%——创2024年2月份以来最大单日跌幅，Lucid集团跌9.98%，意法半导体巴黎股价跌7.99%，禾赛科技跌7.56%，欧股宝马收涨1.03%，H股蔚来集团涨1.71%、雅迪集团控股涨3.09%、吉利汽车控股涨3.11%。",
@@ -1091,9 +1438,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
+        },
+        {
+          "title": "美股三大股指期货周三小幅低开。",
+          "url": "https://flash.jin10.com/detail/20260708060036398800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
         },
         {
           "title": "金十图示：2026年07月07日（周二）美股热门股票行情一览（美股盘中）",
@@ -1121,7 +1479,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "前华为“天才少年”公开发文称DeepSeek面试流程不规范",
@@ -1132,8 +1490,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时14分 ~ 05时23分]"
+          "appearance_count": 5,
+          "time_info": "[01时14分 ~ 07时01分]"
         },
         {
           "title": "前华为“天才少年”公开吐槽DeepSeek面试流程",
@@ -1143,8 +1501,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时14分 ~ 05时23分]"
+          "appearance_count": 5,
+          "time_info": "[01时14分 ~ 07时01分]"
+        },
+        {
+          "title": "前华为天才少年吐槽DeepSeek面试",
+          "url": "https://www.toutiao.com/trending/7658530038409969718/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 07时01分]"
         },
         {
           "title": "如何看待华为首批天才少年计划入选者李博杰吐槽 DeepSeek 的面试流程拖沓，被面试官指控抄袭？",
@@ -1158,15 +1528,15 @@
           "time_info": "01时14分"
         },
         {
-          "title": "前华为天才少年吐槽DeepSeek面试",
-          "url": "https://www.toutiao.com/trending/7658530038409969718/",
-          "source": "今日头条",
+          "title": "DeepSeek被曝自研芯片",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E8%A2%AB%E6%9B%9D%E8%87%AA%E7%A0%94%E8%8A%AF%E7%89%87",
+          "source": "bilibili 热搜",
           "ranks": [
-            27
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时23分"
+          "time_info": "07时01分"
         }
       ]
     },
@@ -1218,11 +1588,12 @@
           "url": "https://www.cls.cn/detail/2419496",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时14分 ~ 05时23分]"
+          "appearance_count": 5,
+          "time_info": "[01时14分 ~ 07时01分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.61%，暂报2240.35点。 MarketVectorTM数字资产100中盘指数跌0.61%，报2611.74点。 MarketVector数字资产100指数涨0.40%，报12789.36点。 目前，Solana涨0.31%，狗狗币跌1.96%，XRP跌1.45%。 比特币涨0.40%，暂报64014美元；以太坊涨0.56%，暂报1804.34美元。",
@@ -1243,9 +1614,51 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "印度",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "拿下!Bin哥手刃印度神王",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355941&amp;topic_name=%E6%8B%BF%E4%B8%8B%21Bin%E5%93%A5%E6%89%8B%E5%88%83%E5%8D%B0%E5%BA%A6%E7%A5%9E%E7%8E%8B",
+          "source": "贴吧",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时14分 ~ 07时01分]"
+        },
+        {
+          "title": "学者：俄罗斯只能接受印度天价油",
+          "url": "https://www.toutiao.com/trending/7659695138427375123/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            25,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时53分 ~ 07时01分]"
+        },
+        {
+          "title": "标普道琼斯指数公司：可能会针对印度尼西亚（印尼）采取特别措施。 将印尼标注为2027年可能重新归类的市场，届时还可能会重新归类土耳其、尼日利亚。",
+          "url": "https://wallstreetcn.com/livenews/3130183",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
         }
       ]
     },
@@ -1271,7 +1684,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
         }
@@ -1299,39 +1712,9 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "印度",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "拿下!Bin哥手刃印度神王",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355941&amp;topic_name=%E6%8B%BF%E4%B8%8B%21Bin%E5%93%A5%E6%89%8B%E5%88%83%E5%8D%B0%E5%BA%A6%E7%A5%9E%E7%8E%8B",
-          "source": "贴吧",
-          "ranks": [
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时14分 ~ 05时23分]"
-        },
-        {
-          "title": "学者：俄罗斯只能接受印度天价油",
-          "url": "https://www.toutiao.com/trending/7659695138427375123/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时53分 ~ 05时23分]"
         }
       ]
     }
