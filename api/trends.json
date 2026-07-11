@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-07-12T06:46:45.426073+08:00",
-  "total_titles_processed": 422,
+  "generated_at": "2026-07-12T07:54:34.992929+08:00",
+  "total_titles_processed": 471,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "美国被曝已向伊朗下最后通牒，要求必须做出一项承诺",
           "url": "https://news.ifeng.com/c/8uftNlwm3k6",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 06时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 07时54分]"
         },
         {
           "title": "伊朗议长：致阿里·哈梅内伊遇难的责任方必将受到惩罚",
@@ -27,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 06时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 07时54分]"
         },
         {
           "title": "伊朗方面公布被导弹击中的约旦美军基地卫星图像",
@@ -38,8 +39,58 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时48分 ~ 06时46分]"
+          "appearance_count": 3,
+          "time_info": "[05时48分 ~ 07时54分]"
+        },
+        {
+          "title": "穆杰塔巴称对美以追责是伊朗人民的共同要求",
+          "url": "https://wallstreetcn.com/livenews/3132344",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 07时54分]"
+        },
+        {
+          "title": "伊朗消息人士：美国不放弃现有立场就“免谈”",
+          "url": "https://wallstreetcn.com/livenews/3132342",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 07时54分]"
+        },
+        {
+          "title": "报道：伊朗两名安全人员在哈梅内伊葬礼期间遇袭身亡",
+          "url": "https://wallstreetcn.com/livenews/3132340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 07时54分]"
+        },
+        {
+          "title": "美国驻以色列大使：以色列已通知我们有关伊朗策划刺杀美国总统一事。伊朗的威胁并不新鲜，其行为也没有改变。我们没有看到伊朗存在温和派的真实证据。",
+          "url": "https://flash.jin10.com/detail/20260712021317281800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            6,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时01分 ~ 07时54分]"
         },
         {
           "title": "据阿曼国家通讯社：阿曼与伊朗同意继续进行技术和政治谈判，以在国际法框架下达成霍尔木兹海峡航行协议。",
@@ -53,54 +104,30 @@
           "time_info": "03时01分"
         },
         {
-          "title": "穆杰塔巴称对美以追责是伊朗人民的共同要求",
-          "url": "https://wallstreetcn.com/livenews/3132344",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 06时46分]"
-        },
-        {
-          "title": "伊朗消息人士：美国不放弃现有立场就“免谈”",
-          "url": "https://wallstreetcn.com/livenews/3132342",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 06时46分]"
-        },
-        {
-          "title": "报道：伊朗两名安全人员在哈梅内伊葬礼期间遇袭身亡",
-          "url": "https://wallstreetcn.com/livenews/3132340",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 06时46分]"
-        },
-        {
-          "title": "美国驻以色列大使：以色列已通知我们有关伊朗策划刺杀美国总统一事。伊朗的威胁并不新鲜，其行为也没有改变。我们没有看到伊朗存在温和派的真实证据。",
-          "url": "https://flash.jin10.com/detail/20260712021317281800",
+          "title": "阿曼提议霍尔木兹“双航道”管理 伊朗航道需事先获批",
+          "url": "https://flash.jin10.com/detail/20260712030241916800",
           "source": "金十数据",
           "ranks": [
-            4,
-            6,
-            16,
-            18
+            1,
+            11,
+            13
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[03时01分 ~ 06时46分]"
+          "time_info": "[04时10分 ~ 07时54分]"
+        },
+        {
+          "title": "阿曼与伊朗将继续谈判 以达成霍尔木兹海峡通航协议",
+          "url": "https://flash.jin10.com/detail/20260712024237763800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时10分 ~ 07时54分]"
         },
         {
           "title": "据伊朗Press TV：一位伊朗高级情报消息人士称，美国正在对伊朗展开一场协调一致的施压、威胁和媒体虚假信息宣传行动。",
@@ -131,32 +158,6 @@
           "time_info": "[00时57分 ~ 04时10分]"
         },
         {
-          "title": "阿曼提议霍尔木兹“双航道”管理 伊朗航道需事先获批",
-          "url": "https://flash.jin10.com/detail/20260712030241916800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时10分 ~ 06时46分]"
-        },
-        {
-          "title": "阿曼与伊朗将继续谈判 以达成霍尔木兹海峡通航协议",
-          "url": "https://flash.jin10.com/detail/20260712024237763800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时10分 ~ 06时46分]"
-        },
-        {
           "title": "伊朗代表称若美继续违反其义务 伊将不再遵守谅解备忘录",
           "url": "https://flash.jin10.com/detail/20260711224608958800",
           "source": "金十数据",
@@ -169,6 +170,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时57分 ~ 04时10分]"
+        },
+        {
+          "title": "美官员称美国团队未前往阿曼参加与伊朗的谈判",
+          "url": "https://flash.jin10.com/detail/20260712041548582800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时48分 ~ 07时54分]"
         },
         {
           "title": "伊朗最高领袖就哈梅内伊之死号召复仇，为新谈判前景增添变数",
@@ -197,18 +210,6 @@
           "time_info": "[00时57分 ~ 03时01分]"
         },
         {
-          "title": "美官员称美国团队未前往阿曼参加与伊朗的谈判",
-          "url": "https://flash.jin10.com/detail/20260712041548582800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时48分 ~ 06时46分]"
-        },
-        {
           "title": "据Axios网站：据知情外交官透露，卡塔尔官员正在参加伊朗与阿曼在马斯喀特就霍尔木兹海峡问题举行的会谈。",
           "url": "https://flash.jin10.com/detail/20260711221401757800",
           "source": "金十数据",
@@ -219,12 +220,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时57分 ~ 01时56分]"
+        },
+        {
+          "title": "伊朗宣布关闭霍尔木兹海峡",
+          "url": "https://www.toutiao.com/trending/7660473512151465993/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时54分"
         }
       ]
     },
     {
       "keyword_group": "美国",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "“以打促谈”还是“战略转变”？美国给出“周六开通霍尔木兹海峡”的“最后通牒”",
@@ -232,11 +244,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 06时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 07时54分]"
         },
         {
           "title": "美国国务卿鲁比奥：古巴领导人需实施广泛改革，趁现在还来得及。",
@@ -247,8 +260,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时48分 ~ 06时46分]"
+          "appearance_count": 3,
+          "time_info": "[05时48分 ~ 07时54分]"
         },
         {
           "title": "美国驻以色列大使：黎巴嫩真主党是黎巴嫩和以色列的共同敌人。",
@@ -261,8 +274,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时01分 ~ 06时46分]"
+          "appearance_count": 5,
+          "time_info": "[03时01分 ~ 07时54分]"
         },
         {
           "title": "被寄予“抗华”厚望的美国稀土公司，放弃五角大楼贷款",
@@ -272,8 +285,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 06时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 07时54分]"
         },
         {
           "title": "据法新社：一名黎巴嫩军方官员透露，美国军事代表团已在贝鲁特与黎巴嫩军方会面，讨论以色列从其占领地区一处“试点区”撤出的落实事宜。",
@@ -323,8 +336,19 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时48分 ~ 07时54分]"
+        },
+        {
+          "title": "美国非常震动！中国追上来的脚步咚咚作响",
+          "url": "https://news.ifeng.com/c/8ugUwLXm5GM",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时48分 ~ 06时46分]"
+          "time_info": "[06时46分 ~ 07时54分]"
         },
         {
           "title": "美国FCC批准“太空反射镜”试点 马斯克要求员工使用自家AI | 环球市场",
@@ -338,15 +362,15 @@
           "time_info": "[04时10分 ~ 05时48分]"
         },
         {
-          "title": "美国非常震动！中国追上来的脚步咚咚作响",
-          "url": "https://news.ifeng.com/c/8ugUwLXm5GM",
-          "source": "凤凰网",
+          "title": "过去两年规模几乎翻倍，美国ETF“火的发烫”",
+          "url": "https://wallstreetcn.com/articles/3776701",
+          "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时46分"
+          "time_info": "07时54分"
         }
       ]
     },
@@ -363,8 +387,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 06时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 07时54分]"
         },
         {
           "title": "特朗普给了泽连斯基一个重要承诺，舆论泼冷水",
@@ -374,8 +398,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 06时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 07时54分]"
         },
         {
           "title": "美国总统特朗普：即便所有媒体都对我极尽抹黑、充斥虚假新闻，我依旧以压倒性大胜拿下总统大选。由此可见，主流媒体毫无公信力可言！",
@@ -386,8 +410,19 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时48分 ~ 07时54分]"
+        },
+        {
+          "title": "两党住房法案未经特朗普签署自动生效",
+          "url": "https://flash.jin10.com/detail/20260712054924358800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时48分 ~ 06时46分]"
+          "time_info": "[06时46分 ~ 07时54分]"
         },
         {
           "title": "美国总统特朗普：我刚在沃尔特·里德医院完成了一次完美的体检。我每六个月做一次体检，此外，我还要求了另一项认知测试，我是唯一一位这样做的总统，三次测试我都通过了——每个问题都答对了。",
@@ -419,26 +454,16 @@
           "time_info": "[00时57分 ~ 06时46分]"
         },
         {
-          "title": "两党住房法案未经特朗普签署自动生效",
-          "url": "https://flash.jin10.com/detail/20260712054924358800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时46分"
-        },
-        {
           "title": "伊朗最高领袖称将报复美以，特朗普：1000枚导弹已瞄准伊朗",
           "url": "https://wallstreetcn.com/articles/3776705",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时48分 ~ 06时46分]"
+          "appearance_count": 3,
+          "time_info": "[05时48分 ~ 07时54分]"
         }
       ]
     },
@@ -455,8 +480,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 06时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 07时54分]"
         },
         {
           "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
@@ -478,8 +503,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 06时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 07时54分]"
         },
         {
           "title": "SK海力士创纪录赴美上市 美股期指涨跌不一 芯片股盘前普遍下跌 | 今夜看点",
@@ -490,8 +515,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 06时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 07时54分]"
         },
         {
           "title": "美股涨势背后存在隐忧 数据显示市场内部广度正在收窄",
@@ -502,8 +527,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时48分 ~ 06时46分]"
+          "appearance_count": 3,
+          "time_info": "[05时48分 ~ 07时54分]"
         }
       ]
     },
@@ -512,19 +537,6 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "日本可回收火箭小型实验机 RV-X「着陆成功」，日媒报道只飞了 11 米，这是什么水平？对其有何意义？",
-          "url": "https://www.zhihu.com/question/2058854448244454744",
-          "source": "知乎",
-          "ranks": [
-            5,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 06时46分]"
-        },
-        {
           "title": "“日本可回收火箭着陆成功”？日媒：只飞了11米",
           "url": "https://news.ifeng.com/c/8ufkpdmHw6H",
           "source": "凤凰网",
@@ -532,8 +544,22 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 06时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 07时54分]"
+        },
+        {
+          "title": "日本可回收火箭小型实验机 RV-X「着陆成功」，日媒报道只飞了 11 米，这是什么水平？对其有何意义？",
+          "url": "https://www.zhihu.com/question/2058854448244454744",
+          "source": "知乎",
+          "ranks": [
+            5,
+            3,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 07时54分]"
         },
         {
           "title": "又赢?日本可回收火箭仅飞11米",
@@ -543,8 +569,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 06时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 07时54分]"
         },
         {
           "title": "中赴日游客暴跌,日本顶不住了",
@@ -554,8 +580,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 06时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 07时54分]"
         }
       ]
     },
@@ -570,11 +596,12 @@
           "ranks": [
             13,
             6,
-            7
+            7,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时01分 ~ 06时46分]"
+          "appearance_count": 5,
+          "time_info": "[03时01分 ~ 07时54分]"
         }
       ]
     },
@@ -591,8 +618,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时48分 ~ 06时46分]"
+          "appearance_count": 3,
+          "time_info": "[05时48分 ~ 07时54分]"
         }
       ]
     },
@@ -630,8 +657,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 06时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 07时54分]"
         }
       ]
     }
