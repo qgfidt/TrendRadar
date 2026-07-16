@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T10:27:34.254846+08:00",
-  "total_titles_processed": 854,
+  "generated_at": "2026-07-16T13:40:31.888628+08:00",
+  "total_titles_processed": 1041,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 66,
+      "match_count": 70,
       "titles": [
         {
           "title": "美军称对伊朗进行了90分钟打击",
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 10时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 13时40分]"
         },
         {
           "title": "【早报】长鑫科技，今日申购；热门中概股普涨；美军再次打击伊朗；原油小幅收涨",
@@ -26,9 +26,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 13时40分]"
         },
         {
           "title": "伊朗议长发声：这是与美国的生存之战",
@@ -37,9 +37,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 13时40分]"
+        },
+        {
+          "title": "美国持续打击伊朗，战争成本预测高达1000亿美元",
+          "url": "https://news.ifeng.com/c/8umxPSPZXoN",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 13时40分]"
         },
         {
           "title": "据伊朗迈赫尔通讯社：伊朗拉斯克传出爆炸声。",
@@ -62,17 +73,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时59分"
-        },
-        {
-          "title": "美国持续打击伊朗，战争成本预测高达1000亿美元",
-          "url": "https://news.ifeng.com/c/8umxPSPZXoN",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时27分"
         },
         {
           "title": "美国白宫发言人：（关于伊朗）美国可以在任何地点、任何时间发动攻击。",
@@ -103,7 +103,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         },
@@ -197,9 +197,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
+        },
+        {
+          "title": "据伊朗学生通讯社：伊朗方面表示，在美方接受伊朗法律之前，海峡将保持关闭。",
+          "url": "https://flash.jin10.com/detail/20260716132448417800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时40分"
         },
         {
           "title": "美国副总统万斯：以色列对美国的影响力超过多数国家。 当伊朗违反承诺时，我们做出回应。 我们正在（针对中东局势）进行微妙的外交斡旋。",
@@ -290,6 +301,17 @@
           "time_info": "02时06分"
         },
         {
+          "title": "伊朗官媒PRESS TV：伊朗袭击美国在科威特和约旦的设施。",
+          "url": "https://wallstreetcn.com/livenews/3134814",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时40分"
+        },
+        {
           "title": "美国副总统万斯：（关于伊朗问题）当他们实施暴力行为时，我们会予以回应。",
           "url": "https://flash.jin10.com/detail/20260716013920189800",
           "source": "金十数据",
@@ -318,7 +340,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         },
@@ -384,7 +406,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         },
@@ -439,9 +461,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
+        },
+        {
+          "title": "伊朗塞姆南机场遭空袭 未造成人员伤亡",
+          "url": "https://wallstreetcn.com/livenews/3134809",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时40分"
         },
         {
           "title": "伊朗议会议长卡利巴夫：我们的武装部队始终拥有完全的行动自由，以应对“敌人的侵略”。",
@@ -648,9 +681,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
+        },
+        {
+          "title": "约旦称，击落伊朗发射的8枚导弹。",
+          "url": "https://wallstreetcn.com/livenews/3134794",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时40分"
         },
         {
           "title": "伊朗：目前没有谈判计划 专注于防御",
@@ -725,7 +769,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         },
@@ -736,7 +780,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         }
@@ -744,7 +788,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 59,
+      "match_count": 61,
       "titles": [
         {
           "title": "对抗情绪升温，伊朗人又拿“特朗普”出气",
@@ -756,6 +800,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时22分 ~ 07时03分]"
+        },
+        {
+          "title": "白宫战情室紧急开会！特朗普讨论对伊朗发动大规模进攻计划",
+          "url": "https://wallstreetcn.com/articles/3776989",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 13时40分]"
         },
         {
           "title": "利润率不足10%，特朗普硬抽20%，拦路式收费方案一天作废？",
@@ -780,20 +838,6 @@
           "time_info": "[00时22分 ~ 07时03分]"
         },
         {
-          "title": "白宫战情室紧急开会！特朗普讨论对伊朗发动大规模进攻计划",
-          "url": "https://wallstreetcn.com/articles/3776989",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 10时27分]"
-        },
-        {
           "title": "沃什国会听证首秀：即使特朗普批评也会按数据行动，6月CPI降温不代表通胀“任务完成”",
           "url": "https://wallstreetcn.com/articles/3776932",
           "source": "华尔街见闻",
@@ -803,6 +847,21 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时22分 ~ 02时06分]"
+        },
+        {
+          "title": "性侵案败诉，特朗普赔付女作家逾560万美元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33590389",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            14,
+            15,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 13时40分]"
         },
         {
           "title": "据AXIOS：白宫高级官员表示，目前特朗普的日程中还没有与内塔尼亚胡下周会面的安排。",
@@ -827,18 +886,18 @@
           "time_info": "07时03分"
         },
         {
-          "title": "性侵案败诉，特朗普赔付女作家逾560万美元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33590389",
+          "title": "特朗普称俄罗斯已准备好达成协议以结束俄乌冲突",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33592968",
           "source": "澎湃新闻",
           "ranks": [
-            13,
-            14,
-            15,
-            11
+            20,
+            19,
+            16,
+            14
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时22分 ~ 10时27分]"
+          "time_info": "[02时06分 ~ 13时40分]"
         },
         {
           "title": "美媒：特朗普倾向扩大对伊军事行动，选项包括夺取哈尔克岛",
@@ -918,17 +977,16 @@
           "time_info": "[00时22分 ~ 07时03分]"
         },
         {
-          "title": "特朗普称俄罗斯已准备好达成协议以结束俄乌冲突",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33592968",
-          "source": "澎湃新闻",
+          "title": "沃什：AI推高价格但未必推升通胀，任何通胀指标都不精确，特朗普没试图干预美联储",
+          "url": "https://wallstreetcn.com/articles/3777042",
+          "source": "华尔街见闻",
           "ranks": [
-            20,
-            19,
-            16
+            10,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时06分 ~ 10时27分]"
+          "appearance_count": 3,
+          "time_info": "[07时03分 ~ 13时40分]"
         },
         {
           "title": "伊拉克总理到访白宫，特朗普：他年轻又帅，这我就不高兴了",
@@ -966,16 +1024,15 @@
           "time_info": "[04时08分 ~ 05时59分]"
         },
         {
-          "title": "沃什：AI推高价格但未必推升通胀，任何通胀指标都不精确，特朗普没试图干预美联储",
-          "url": "https://wallstreetcn.com/articles/3777042",
-          "source": "华尔街见闻",
+          "title": "特朗普性侵案败诉，已赔付女作家逾 560 万美元，美国现任总统被判定性侵成立，这件事对其影响多大？",
+          "url": "https://www.zhihu.com/question/2060762952576323839",
+          "source": "知乎",
           "ranks": [
-            10,
-            5
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时03分 ~ 10时27分]"
+          "time_info": "[10时27分 ~ 13时40分]"
         },
         {
           "title": "美国总统特朗普：将宣布国防工业领域近100亿美元投资。",
@@ -1088,17 +1145,6 @@
           "time_info": "04时08分"
         },
         {
-          "title": "特朗普性侵案败诉，已赔付女作家逾 560 万美元，美国现任总统被判定性侵成立，这件事对其影响多大？",
-          "url": "https://www.zhihu.com/question/2060762952576323839",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
           "title": "美国总统特朗普：伊朗想要会面。",
           "url": "https://flash.jin10.com/detail/20260716032117737800",
           "source": "金十数据",
@@ -1116,7 +1162,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         },
@@ -1240,6 +1286,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时59分"
+        },
+        {
+          "title": "特朗普再挥关税大棒！美国7月22日起对巴西部分商品加征25%关税",
+          "url": "https://flash.jin10.com/detail/20260716131356190800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时40分"
         },
         {
           "title": "美国参议院成员们将于周四会见总统特朗普，讨论加密货币立法问题。（Politico）",
@@ -1405,12 +1462,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时59分"
+        },
+        {
+          "title": "特朗普发文感谢伊朗",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E6%96%87%E6%84%9F%E8%B0%A2%E4%BC%8A%E6%9C%97%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时40分"
         }
       ]
     },
     {
       "keyword_group": "美国",
-      "match_count": 34,
+      "match_count": 37,
       "titles": [
         {
           "title": "美国6月PPI超预期降温 油价“救场”难掩上游涨价压力",
@@ -1419,11 +1487,23 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 10时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 13时40分]"
+        },
+        {
+          "title": "美国指了指中国 然后狠狠抽自己耳光",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%8C%87%E4%BA%86%E6%8C%87%E4%B8%AD%E5%9B%BD+%E7%84%B6%E5%90%8E%E7%8B%A0%E7%8B%A0%E6%8A%BD%E8%87%AA%E5%B7%B1%E8%80%B3%E5%85%89",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时40分"
         },
         {
           "title": "美国国防部：美国国防部长赫格塞思今日将前往宾夕法尼亚州参加国防峰会。",
@@ -1446,6 +1526,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
+        },
+        {
+          "title": "通胀全面回落！美国6月PPI同比 5.5%，环比创六年来最大跌幅，核心PPI同比4.7%低于预期",
+          "url": "https://wallstreetcn.com/articles/3777031",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时08分 ~ 13时40分]"
         },
         {
           "title": "据悉美国考虑对部分绿卡申请人收取10万美元保证金",
@@ -1494,19 +1587,6 @@
           "time_info": "[05时59分 ~ 07时03分]"
         },
         {
-          "title": "通胀全面回落！美国6月PPI同比 5.5%，环比创六年来最大跌幅，核心PPI同比4.7%低于预期",
-          "url": "https://wallstreetcn.com/articles/3777031",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时08分 ~ 10时27分]"
-        },
-        {
           "title": "美国国务院已批准向科威特出售C-17运输机，预估金额4.84亿美元。",
           "url": "https://flash.jin10.com/detail/20260716052928511800",
           "source": "金十数据",
@@ -1531,6 +1611,17 @@
           "time_info": "[00时22分 ~ 04时08分]"
         },
         {
+          "title": "美国议员警告：这么干，让中国赢了",
+          "url": "https://news.ifeng.com/c/8unbx2SRRPH",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 13时40分]"
+        },
+        {
           "title": "美国国务院批准向沙特阿拉伯出售先进精确打击武器系统及相关设备，预计交易金额为19.6亿美元。",
           "url": "https://flash.jin10.com/detail/20260716052212185800",
           "source": "金十数据",
@@ -1541,17 +1632,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时59分 ~ 07时03分]"
-        },
-        {
-          "title": "美国议员警告：这么干，让中国赢了",
-          "url": "https://news.ifeng.com/c/8unbx2SRRPH",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时27分"
         },
         {
           "title": "美国五角大楼20多年来首次禁止发布F-35战机项目报告",
@@ -1593,7 +1673,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         },
@@ -1752,6 +1832,28 @@
           "time_info": "05时59分"
         },
         {
+          "title": "美国女记者无视胸前蟑螂坚持播报",
+          "url": "https://www.toutiao.com/trending/7662900803954802726/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时40分"
+        },
+        {
+          "title": "巴西政府称将依据对等法律回应美国关税措施",
+          "url": "https://wallstreetcn.com/livenews/3134792",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时40分"
+        },
+        {
           "title": "报道：美国曾探讨对古巴发动空中突击的可能性",
           "url": "https://wallstreetcn.com/livenews/3134562",
           "source": "华尔街见闻-快讯",
@@ -1794,6 +1896,217 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "日本",
+      "match_count": 18,
+      "titles": [
+        {
+          "title": "日本财务大臣片山皋月：将提高日本国债对个人的吸引力。 观点一致认为，扩大日本国债投资者基数至关重要。",
+          "url": "https://wallstreetcn.com/livenews/3134747",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：利率和外汇汇率是由多种因素决定的。 不会对特定的外汇水平发表评论。 将密切关注市场动态和经济指标，以实现财政可持续性。 具体的货币政策手段由日本央行自行决定。",
+          "url": "https://wallstreetcn.com/livenews/3134741",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
+          "title": "日方企图将“南京大屠杀”改称“南京事件”，日本民众抗议",
+          "url": "https://news.ifeng.com/c/8umVnhfRaUr",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 07时03分]"
+        },
+        {
+          "title": "日本为非法仲裁张目掉进自己挖的坑",
+          "url": "https://www.toutiao.com/trending/7661736082731614250/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            29,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 10时27分]"
+        },
+        {
+          "title": "日本护士涉嫌将排泄物混入输液管被捕",
+          "url": "https://www.toutiao.com/trending/7662678051013672998/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            19,
+            27,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时06分 ~ 07时03分]"
+        },
+        {
+          "title": "调查显示日本逾五成家庭“过得苦”",
+          "url": "https://www.toutiao.com/trending/7662726967444897834/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            28,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 04时08分]"
+        },
+        {
+          "title": "日本女护士输液管中混粪便致人死亡",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%A5%B3%E6%8A%A4%E5%A3%AB%E8%BE%93%E6%B6%B2%E7%AE%A1%E4%B8%AD%E6%B7%B7%E7%B2%AA%E4%BE%BF%E8%87%B4%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 02时06分]"
+        },
+        {
+          "title": "日本财务大臣片山皋月：具体货币政策手段由日本央行决定。",
+          "url": "https://flash.jin10.com/detail/20260716095417252800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
+          "title": "日本机器人企业发那科和川崎重工等加入英伟达的物理AI阵营",
+          "url": "https://wallstreetcn.com/livenews/3134812",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时40分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：将监测市场动态及经济指标，以实现财政可持续性。",
+          "url": "https://flash.jin10.com/detail/20260716095131908800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：不会对具体的外汇水平发表评论。",
+          "url": "https://flash.jin10.com/detail/20260716094939354800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
+          "title": "日本30年期国债收益率上行5个基点至3.805%。",
+          "url": "https://wallstreetcn.com/livenews/3134715",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：利率和外汇汇率受多种因素影响。",
+          "url": "https://flash.jin10.com/detail/20260716094936318800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
+          "title": "日本阴阳菜单已蔓延至中小城市",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E9%98%B4%E9%98%B3%E8%8F%9C%E5%8D%95%E5%B7%B2%E8%94%93%E5%BB%B6%E8%87%B3%E4%B8%AD%E5%B0%8F%E5%9F%8E%E5%B8%82%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        },
+        {
+          "title": "日本债市告别“超低利率时代”",
+          "url": "https://www.toutiao.com/trending/7662757935776271881/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：将在必要时随时对外汇采取适当行动。",
+          "url": "https://wallstreetcn.com/livenews/3134703",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
+          "title": "日本央行委员Nakamura：适当的货币政策有助于稳定物价和促进经济增长，日本央行若延迟调整政策可能会对经济造成拖累。",
+          "url": "https://wallstreetcn.com/livenews/3134785",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时40分"
+        },
+        {
+          "title": "日本40年期国债收益率上升6个基点，达到3.815%。",
+          "url": "https://flash.jin10.com/detail/20260716125043444800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时40分"
         }
       ]
     },
@@ -1856,9 +2169,22 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 13时40分]"
+        },
+        {
+          "title": "美股收盘：三大股指小幅收涨 中概股集体走强 存储板块逆势暴跌",
+          "url": "https://www.cls.cn/detail/2427818",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时03分 ~ 13时40分]"
         },
         {
           "title": "美国6月PPI低于预期 美股期指走高 阿斯麦财报提振芯片股 | 今夜看点",
@@ -1872,18 +2198,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时22分 ~ 10时27分]"
-        },
-        {
-          "title": "美股收盘：三大股指小幅收涨 中概股集体走强 存储板块逆势暴跌",
-          "url": "https://www.cls.cn/detail/2427818",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时03分 ~ 10时27分]"
         },
         {
           "title": "SK海力士美股单日暴涨27%，较韩股溢价超50%！期权上市刺激交投，资金押注短期看涨",
@@ -1990,186 +2304,8 @@
       ]
     },
     {
-      "keyword_group": "日本",
-      "match_count": 15,
-      "titles": [
-        {
-          "title": "日本财务大臣片山皋月：将提高日本国债对个人的吸引力。 观点一致认为，扩大日本国债投资者基数至关重要。",
-          "url": "https://wallstreetcn.com/livenews/3134747",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "日本财务大臣片山皋月：利率和外汇汇率是由多种因素决定的。 不会对特定的外汇水平发表评论。 将密切关注市场动态和经济指标，以实现财政可持续性。 具体的货币政策手段由日本央行自行决定。",
-          "url": "https://wallstreetcn.com/livenews/3134741",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "日方企图将“南京大屠杀”改称“南京事件”，日本民众抗议",
-          "url": "https://news.ifeng.com/c/8umVnhfRaUr",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 07时03分]"
-        },
-        {
-          "title": "日本为非法仲裁张目掉进自己挖的坑",
-          "url": "https://www.toutiao.com/trending/7661736082731614250/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            29,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 10时27分]"
-        },
-        {
-          "title": "日本护士涉嫌将排泄物混入输液管被捕",
-          "url": "https://www.toutiao.com/trending/7662678051013672998/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            19,
-            27,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时06分 ~ 07时03分]"
-        },
-        {
-          "title": "调查显示日本逾五成家庭“过得苦”",
-          "url": "https://www.toutiao.com/trending/7662726967444897834/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            28,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 04时08分]"
-        },
-        {
-          "title": "日本女护士输液管中混粪便致人死亡",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%A5%B3%E6%8A%A4%E5%A3%AB%E8%BE%93%E6%B6%B2%E7%AE%A1%E4%B8%AD%E6%B7%B7%E7%B2%AA%E4%BE%BF%E8%87%B4%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 02时06分]"
-        },
-        {
-          "title": "日本财务大臣片山皋月：具体货币政策手段由日本央行决定。",
-          "url": "https://flash.jin10.com/detail/20260716095417252800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "日本财务大臣片山皋月：将监测市场动态及经济指标，以实现财政可持续性。",
-          "url": "https://flash.jin10.com/detail/20260716095131908800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "日本财务大臣片山皋月：不会对具体的外汇水平发表评论。",
-          "url": "https://flash.jin10.com/detail/20260716094939354800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "日本30年期国债收益率上行5个基点至3.805%。",
-          "url": "https://wallstreetcn.com/livenews/3134715",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "日本财务大臣片山皋月：利率和外汇汇率受多种因素影响。",
-          "url": "https://flash.jin10.com/detail/20260716094936318800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "日本阴阳菜单已蔓延至中小城市",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E9%98%B4%E9%98%B3%E8%8F%9C%E5%8D%95%E5%B7%B2%E8%94%93%E5%BB%B6%E8%87%B3%E4%B8%AD%E5%B0%8F%E5%9F%8E%E5%B8%82%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        },
-        {
-          "title": "日本债市告别“超低利率时代”",
-          "url": "https://www.toutiao.com/trending/7662757935776271881/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "日本财务大臣片山皋月：将在必要时随时对外汇采取适当行动。",
-          "url": "https://wallstreetcn.com/livenews/3134703",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "美股存储芯片指数初步收跌6.4%，半导体指数跌2.1%。 纳斯达克100指数初步收跌0.3%，成分股中，西部数据初步收跌8.7%，闪迪跌8.5%，美光跌7.9%，Lumentum跌7.3%，希捷科技跌6.1%，思科、英特尔、CoreWeave、AMD至少跌3.4%，Meta、谷歌A涨3%，苹果涨4.1%，汤森路透涨4.2%，PayPal涨17.4%。 亚马逊、微软、3M、Merck初步收涨超2%，与苹果、谷歌A领跑道指成分股。",
@@ -2192,6 +2328,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "巴菲特罕见发声：当每个人都喜欢赌博时，很难找到价值，谷歌能击败95%华尔街推的票",
+          "url": "https://wallstreetcn.com/articles/3777063",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 13时40分]"
         },
         {
           "title": "周三（7月15日），美股信息科技指数跌3.43%，报398.76点。成分股中，戴尔科技收跌9.80%，与西部数据、闪迪、美光科技、Lumentum表现最差，甲骨文涨3.56%、与苹果领跑。 人工智能（AI）赢家指数跌2.51%，报400.58点。成分股中，戴尔、西数、闪迪、美光、Lumentum领跌，Meta、谷歌A、甲骨文领涨。 AI软件先驱指数跌0.18%，报110.87点。成分股MongoDB收跌3.37%，领跌，甲骨文领涨。",
@@ -2229,26 +2377,26 @@
           "time_info": "00时22分"
         },
         {
-          "title": "巴菲特罕见发声：当每个人都喜欢赌博时，很难找到价值，谷歌能击败95%华尔街推的票",
-          "url": "https://wallstreetcn.com/articles/3777063",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
           "title": "巴菲特最新访谈：批评当下市场投机潮 揭秘押注谷歌的逻辑",
           "url": "https://www.cls.cn/detail/2427717",
           "source": "财联社热门",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
+        },
+        {
+          "title": "美国启动特定DRAM设备337调查 三星电子、谷歌、英伟达等被列为被告",
+          "url": "https://wallstreetcn.com/livenews/3134804",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时40分"
         }
       ]
     },
@@ -2256,6 +2404,17 @@
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 3,
       "titles": [
+        {
+          "title": "如何看待网传 DeepSeek 实习日薪突破 5500 元？这反映了 AI 行业与求职市场哪些现状？",
+          "url": "https://www.zhihu.com/question/2060769193977280048",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 13时40分]"
+        },
         {
           "title": "DeepSeek工资待遇太恐怖了",
           "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B7%A5%E8%B5%84%E5%BE%85%E9%81%87%E5%A4%AA%E6%81%90%E6%80%96%E4%BA%86&t=31&band_rank=11&Refer=top",
@@ -2270,17 +2429,6 @@
           "time_info": "[00时22分 ~ 10时27分]"
         },
         {
-          "title": "如何看待网传 DeepSeek 实习日薪突破 5500 元？这反映了 AI 行业与求职市场哪些现状？",
-          "url": "https://www.zhihu.com/question/2060769193977280048",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
           "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
           "url": "https://www.zhihu.com/question/2060645375338180828",
           "source": "知乎",
@@ -2293,6 +2441,47 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时22分 ~ 07时03分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "印度",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "印度神王选Zeus,Bin被冷落",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356201&amp;topic_name=%E5%8D%B0%E5%BA%A6%E7%A5%9E%E7%8E%8B%E9%80%89Zeus%2CBin%E8%A2%AB%E5%86%B7%E8%90%BD",
+          "source": "贴吧",
+          "ranks": [
+            11,
+            12,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 13时40分]"
+        },
+        {
+          "title": "欧盟与印度启动“地平线欧洲”计划谈判 深化科技合作",
+          "url": "https://flash.jin10.com/detail/20260716095847495800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
+          "title": "假如印度翻拍鬼灭之刃",
+          "url": "https://search.bilibili.com/all?keyword=%E5%81%87%E5%A6%82%E5%8D%B0%E5%BA%A6%E7%BF%BB%E6%8B%8D%E9%AC%BC%E7%81%AD%E4%B9%8B%E5%88%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时40分"
         }
       ]
     },
@@ -2321,35 +2510,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "印度",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "欧盟与印度启动“地平线欧洲”计划谈判 深化科技合作",
-          "url": "https://flash.jin10.com/detail/20260716095847495800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "印度神王选Zeus,Bin被冷落",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356201&amp;topic_name=%E5%8D%B0%E5%BA%A6%E7%A5%9E%E7%8E%8B%E9%80%89Zeus%2CBin%E8%A2%AB%E5%86%B7%E8%90%BD",
-          "source": "贴吧",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 10时27分]"
         }
       ]
     },
