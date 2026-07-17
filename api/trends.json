@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T07:59:06.043980+08:00",
-  "total_titles_processed": 673,
+  "generated_at": "2026-07-17T10:58:26.673598+08:00",
+  "total_titles_processed": 845,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 50,
+      "match_count": 57,
       "titles": [
         {
           "title": "伊媒：伊朗布什尔市传出爆炸声",
@@ -41,6 +41,17 @@
           "time_info": "04时03分"
         },
         {
+          "title": "伊朗5座桥遭美军袭击",
+          "url": "https://wallstreetcn.com/livenews/3135426",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时58分"
+        },
+        {
           "title": "据伊朗迈赫尔通讯社：伊朗布什尔地区传出12声爆炸声。",
           "url": "https://flash.jin10.com/detail/20260717054128239800",
           "source": "金十数据",
@@ -69,7 +80,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -140,6 +151,17 @@
           "time_info": "02时06分"
         },
         {
+          "title": "伊朗官方媒体称，伊朗南部的五座桥梁在最新一轮美军袭击中遭袭。",
+          "url": "https://flash.jin10.com/detail/20260717103248318800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时58分"
+        },
+        {
           "title": "白宫新闻秘书Leavitt：伊朗继续与美国对话。 美方袭击伊朗，是因为伊朗违反了两国之间的谅解备忘录（MoU）。",
           "url": "https://wallstreetcn.com/livenews/3135213",
           "source": "华尔街见闻-快讯",
@@ -201,7 +223,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -250,6 +272,17 @@
           "time_info": "00时26分"
         },
         {
+          "title": "美国政府新规收紧国际学生等入境居留期限 美军连续第五晚打击伊朗 | 环球市场",
+          "url": "https://www.cls.cn/detail/2428979",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时58分"
+        },
+        {
           "title": "白宫：伊朗仍在与美国进行沟通，希望达成协议。",
           "url": "https://flash.jin10.com/detail/20260717014300525800",
           "source": "金十数据",
@@ -278,7 +311,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -344,7 +377,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -355,7 +388,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -369,6 +402,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
+        },
+        {
+          "title": "伊朗：美军事打击构成“战争罪”",
+          "url": "https://www.toutiao.com/trending/7663151009167196211/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时58分"
         },
         {
           "title": "伊朗司法部门：暂无美国囚犯从伊朗监狱获释或交换。",
@@ -388,7 +432,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -443,7 +487,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -509,7 +553,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -520,7 +564,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -542,9 +586,31 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
+        },
+        {
+          "title": "美国军方完成对伊朗的最新一轮打击。 美军称，打击了数十个伊朗军事目标，打击了伊朗沿海监视与防空阵地。 美军中央司令部称，正在进一步削弱伊朗的军事能力。",
+          "url": "https://wallstreetcn.com/livenews/3135387",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时58分"
+        },
+        {
+          "title": "卡塔尔内政部：伊朗袭击卡塔尔后，一名儿童被导弹拦截产生的弹片击伤。",
+          "url": "https://flash.jin10.com/detail/20260717101719785800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时58分"
         },
         {
           "title": "白宫称伊朗仍在与美国对话",
@@ -556,12 +622,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时03分"
+        },
+        {
+          "title": "霍尔木兹危机逼出能源“逃生路线”！雪佛龙押注伊拉克输油管道，绕开伊朗咽喉",
+          "url": "https://flash.jin10.com/detail/20260717101325010800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时58分"
         }
       ]
     },
     {
       "keyword_group": "美国",
-      "match_count": 43,
+      "match_count": 45,
       "titles": [
         {
           "title": "美国议员警告：这么干，让中国赢了",
@@ -676,6 +753,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时03分 ~ 06时04分]"
+        },
+        {
+          "title": "美国副总统，两个不寻常的动向",
+          "url": "https://news.ifeng.com/c/8upJ5xkfiCx",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时58分"
         },
         {
           "title": "美国国家运输安全委员会表示，将牵头调查瑞安航空一架波音737(BA.N)客机发生的事故。事故中，一名乘客因机窗相关故障被部分吸出窗外。",
@@ -797,6 +885,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
+        },
+        {
+          "title": "美国团队用宇树 G1 人形机器人完成猪胆囊切除，论文作者称距离人体临床还很远，这件事含金量到底有多高？",
+          "url": "https://www.zhihu.com/question/2060754085637271982",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时58分"
         },
         {
           "title": "巴西外长维埃拉：美国加征关税没有任何逻辑依据。",
@@ -992,7 +1091,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -1044,7 +1143,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "担心特朗普全国演讲乱说话，共和党人：我们被吓得“屁滚尿流”",
@@ -1081,13 +1180,24 @@
           "time_info": "02时06分"
         },
         {
+          "title": "白宫：特朗普将出席世界杯决赛",
+          "url": "https://news.ifeng.com/c/8upEtP2Gcyf",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时58分"
+        },
+        {
           "title": "美国白宫通讯总监‌张振熙：懦夫。NBC和ABC不想让你听到真相。他们只想对你隐瞒事实。（此前报道称这两家媒体将不会电视直播特朗普今天黄金时段的演讲）",
           "url": "https://flash.jin10.com/detail/20260717074910149800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -1169,13 +1279,24 @@
           "time_info": "00时26分"
         },
         {
+          "title": "特朗普：我们47年前就应该攻击伊朗，那样会容易得多",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33598128",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时58分"
+        },
+        {
           "title": "万斯驳斥特朗普亲信利用内幕获利传言",
           "url": "https://flash.jin10.com/detail/20260717072923735800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -1208,7 +1329,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -1227,7 +1348,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "巴菲特罕见发声：当每个人都喜欢赌博时，很难找到价值，谷歌能击败95%华尔街推的票",
@@ -1283,6 +1404,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时03分"
+        },
+        {
+          "title": "谷歌Gemini模型发布延期传闻引发担忧 股价盘中跳水逾3%",
+          "url": "https://www.cls.cn/detail/2428944",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时58分"
         },
         {
           "title": "市场消息：英特尔(INTC.O)正在探索基于谷歌云(GOOG.O)的解决方案，以帮助团队简化市场营销和沟通工作流程。",
@@ -1376,7 +1508,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "半导体抛售潮重创全球股市，美股盘初涨跌互现，存储股普跌，台积电跌3%，现货黄金跌2%",
@@ -1406,11 +1538,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 07时59分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 10时58分]"
         },
         {
           "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
@@ -1420,19 +1553,31 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时58分 ~ 07时59分]"
+          "appearance_count": 3,
+          "time_info": "[07时58分 ~ 10时58分]"
         },
         {
           "title": "美股收盘：芯片股持续下挫拖累纳指跌近1.5% 存储、光通信板块领跌",
           "url": "https://www.cls.cn/detail/2428956",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时58分 ~ 07时59分]"
+          "appearance_count": 3,
+          "time_info": "[07时58分 ~ 10时58分]"
+        },
+        {
+          "title": "美联储两大官员放鹰：关注通胀风险，支持适度加息；美军连续第六晚对伊朗采取打击行动，伊朗部分机场、桥梁和铁路枢纽遭袭……当前现货金银、美油维持卖出信号，美股信号分化，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）。",
+          "url": "https://flash.jin10.com/detail/20260717103419821800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时58分"
         },
         {
           "title": "百胜餐饮集团美股盘后下跌4%，美国食品药品监督管理局（FDA）将就塔可钟（Taco Bell）的生菜问题发布警告。",
@@ -1450,11 +1595,23 @@
           "url": "https://www.toutiao.com/trending/7663271539885739558/",
           "source": "今日头条",
           "ranks": [
-            27
+            27,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时58分 ~ 07时59分]"
+          "appearance_count": 3,
+          "time_info": "[07时58分 ~ 10时58分]"
+        },
+        {
+          "title": "7月17日投资避雷针：美股半导体板块再度大跌 SK海力士、闪迪跌超12%",
+          "url": "https://www.cls.cn/detail/2429026",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时58分"
         },
         {
           "title": "美股存储芯片指数跌幅扩大至7%，闪迪跌幅扩大至10%，西部数据跌近9%。SK海力士ADR跌8.6%。费城半导体指数目前跌3.5%，纳斯达克100指数维持超过0.9%的跌幅。",
@@ -1499,6 +1656,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "【早报】美股存储股再遭重挫；美军连续空袭伊朗；油价、金价双双下跌；多只芯片股发布重要公告",
+          "url": "https://www.cls.cn/detail/2428987",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时58分 ~ 10时58分]"
+        },
+        {
+          "title": "伯恩斯坦：将2026年黄金价格目标上调至4533美元/盎司，因各国央行正在实现储备多元化，且预计美联储在未来一年内最多只会加息一两次。",
+          "url": "https://flash.jin10.com/detail/20260717075253072800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        },
+        {
+          "title": "金十图示：2026年07月17日（周五）上海金早盘价为868.89元/克，较国际金价（约为867.68元/克），高1.21元/克。",
+          "url": "https://flash.jin10.com/detail/20260717101800598800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时58分"
         }
       ]
     },
@@ -1554,8 +1751,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 07时59分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 10时58分]"
         },
         {
           "title": "日学者：日本图谋将菲打造成桥头堡",
@@ -1592,11 +1789,12 @@
           "url": "https://news.ifeng.com/c/8uognbkc7t9",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时58分 ~ 07时59分]"
+          "appearance_count": 3,
+          "time_info": "[07时58分 ~ 10时58分]"
         },
         {
           "title": "印度一户人家中发现3米长眼镜王蛇",
@@ -1638,8 +1836,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 07时59分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 10时58分]"
         },
         {
           "title": "梁文锋打新长鑫科技",
@@ -1657,34 +1855,6 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "【早报】美股存储股再遭重挫；美军连续空袭伊朗；油价、金价双双下跌；多只芯片股发布重要公告",
-          "url": "https://www.cls.cn/detail/2428987",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时58分 ~ 07时59分]"
-        },
-        {
-          "title": "伯恩斯坦：将2026年黄金价格目标上调至4533美元/盎司，因各国央行正在实现储备多元化，且预计美联储在未来一年内最多只会加息一两次。",
-          "url": "https://flash.jin10.com/detail/20260717075253072800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
       "match_count": 2,
       "titles": [
@@ -1695,7 +1865,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -1709,6 +1879,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "“雷曼时刻”在逼近？大空头1.5万字长文起底：OpenAI必将崩溃，全球股市恐遭清算",
+          "url": "https://wallstreetcn.com/articles/3777152",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时58分"
         }
       ]
     },
