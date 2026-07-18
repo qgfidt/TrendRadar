@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T10:15:28.499588+08:00",
-  "total_titles_processed": 777,
+  "generated_at": "2026-07-18T13:24:45.542445+08:00",
+  "total_titles_processed": 944,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 58,
+      "match_count": 69,
       "titles": [
         {
           "title": "伊朗发射巡航导弹打击美军舰艇",
@@ -13,22 +13,24 @@
           "source": "凤凰网",
           "ranks": [
             4,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时53分 ~ 10时15分]"
+          "appearance_count": 5,
+          "time_info": "[05时53分 ~ 13时24分]"
         },
         {
           "title": "伊朗革命卫队：两艘油轮在霍尔木兹海峡爆炸起火",
           "url": "https://news.ifeng.com/c/8uqpdYcN3Nl",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时52分 ~ 10时15分]"
+          "appearance_count": 3,
+          "time_info": "[07时52分 ~ 13时24分]"
         },
         {
           "title": "伊朗称击落一架美军MQ-9无人机",
@@ -91,6 +93,17 @@
           "time_info": "07时52分"
         },
         {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗伊斯兰革命卫队表示，针对美国在谢赫伊萨空军基地的战斗机设施进行了打击。",
+          "url": "https://flash.jin10.com/detail/20260718130947273800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
           "title": "伊朗革命卫队：两艘油轮在霍尔木兹海峡爆炸起火",
           "url": "https://flash.jin10.com/detail/20260718064504516800",
           "source": "金十数据",
@@ -108,7 +121,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
         },
@@ -130,7 +143,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
         },
@@ -152,18 +165,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时15分"
-        },
-        {
-          "title": "美军称结束第七晚对伊朗打击行动",
-          "url": "https://wallstreetcn.com/livenews/3135947",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
         },
@@ -295,6 +297,18 @@
           "time_info": "[07时52分 ~ 10时15分]"
         },
         {
+          "title": "美军称结束第七晚对伊朗打击行动",
+          "url": "https://wallstreetcn.com/livenews/3135947",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时15分 ~ 13时24分]"
+        },
+        {
           "title": "伊朗革命卫队称打击美军在巴林的无人艇",
           "url": "https://wallstreetcn.com/livenews/3135918",
           "source": "华尔街见闻-快讯",
@@ -423,6 +437,18 @@
           "time_info": "[00时16分 ~ 02时05分]"
         },
         {
+          "title": "伊朗称袭击位于科威特和约旦的美军基地",
+          "url": "https://wallstreetcn.com/livenews/3135944",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时15分 ~ 13时24分]"
+        },
+        {
           "title": "伊朗发射巡航导弹打击美军舰艇",
           "url": "https://wallstreetcn.com/livenews/3135904",
           "source": "华尔街见闻-快讯",
@@ -463,9 +489,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗伊斯兰革命卫队表示，若领土被用于对伊朗的攻击，驻有美国军队的国家应预期“相应的回应”。",
+          "url": "https://flash.jin10.com/detail/20260718122202420800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         },
         {
           "title": "伊朗第一副总统：任何侵犯伊朗领土的行为都将遭到坚决、出其不意且超常规的回应。",
@@ -479,6 +516,17 @@
           "time_info": "02时05分"
         },
         {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗伊斯兰革命卫队表示，在科威特针对美国军方设施进行了打击。",
+          "url": "https://flash.jin10.com/detail/20260718122117595800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
           "title": "伊朗最高领袖顾问雷扎伊：如果美国人占领伊朗境内任何地点，我们可能会进入进攻性战争阶段，而不再只是防御性战争。",
           "url": "https://wallstreetcn.com/livenews/3135882",
           "source": "华尔街见闻-快讯",
@@ -490,15 +538,15 @@
           "time_info": "04时06分"
         },
         {
-          "title": "伊朗称袭击位于科威特和约旦的美军基地",
-          "url": "https://wallstreetcn.com/livenews/3135944",
-          "source": "华尔街见闻-快讯",
+          "title": "科威特军方表示，科威特目前正在拦截从伊朗发射的导弹和无人机。",
+          "url": "https://flash.jin10.com/detail/20260718121106633800",
+          "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时15分"
+          "time_info": "13时24分"
         },
         {
           "title": "卡塔尔外交部：伊朗必须立即全面停止所有威胁地区安全与稳定的军事行动和侵略行为，避免任何扩大升级范围的行为，认真重返对话与谈判轨道，并恪守通过外交努力达成的谅解。",
@@ -534,6 +582,17 @@
           "time_info": "00时16分"
         },
         {
+          "title": "伊朗亮第二把锁，油价为何只涨了一轮？",
+          "url": "https://flash.jin10.com/detail/20260718120203545800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
           "title": "卡塔尔外交部：卡塔尔以最强烈言辞谴责伊朗对其领土及若干兄弟国家领土的新一轮侵略。",
           "url": "https://flash.jin10.com/detail/20260717234153130800",
           "source": "金十数据",
@@ -551,7 +610,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
         },
@@ -562,9 +621,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
+        },
+        {
+          "title": "美国官员：伊朗向沙特美军基地发射导弹",
+          "url": "https://wallstreetcn.com/livenews/3135958",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         },
         {
           "title": "伊朗最高领袖顾问：若美军继续行动，伊朗或转入全面进攻阶段",
@@ -584,7 +654,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
         },
@@ -606,9 +676,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
+        },
+        {
+          "title": "伊朗国家电视台援引伊朗军方的话称，伊朗在巴林针对美国军方资产和燃料罐进行了打击。",
+          "url": "https://flash.jin10.com/detail/20260718112529599800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         },
         {
           "title": "伊朗最高领袖顾问雷扎伊：如果美国的袭击持续数天，伊朗将进入全面进攻行动阶段。",
@@ -628,9 +709,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
+        },
+        {
+          "title": "美国官员：伊朗向沙特美军基地发射导弹",
+          "url": "https://flash.jin10.com/detail/20260718110048188800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         },
         {
           "title": "伊朗最高领袖顾问雷扎伊：如果美国人占领伊朗境内任何地点，我们可能会进入进攻性战争阶段，而不再只是防御性战争。",
@@ -644,6 +736,17 @@
           "time_info": "04时06分"
         },
         {
+          "title": "伊朗称若美继续袭击伊朗将转向进攻",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A7%B0%E8%8B%A5%E7%BE%8E%E7%BB%A7%E7%BB%AD%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97%E5%B0%86%E8%BD%AC%E5%90%91%E8%BF%9B%E6%94%BB%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
           "title": "伊朗打击位于科威特和叙利亚的美军目标",
           "url": "https://wallstreetcn.com/livenews/3135815",
           "source": "华尔街见闻-快讯",
@@ -655,13 +758,35 @@
           "time_info": "00时16分"
         },
         {
+          "title": "伊朗电力与海水淡化设施遭袭",
+          "url": "https://flash.jin10.com/detail/20260718104201601800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "据约旦通讯社：约旦武装部队表示，拦截了十枚来自伊朗的导弹。",
+          "url": "https://flash.jin10.com/detail/20260718103528310800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
           "title": "美军袭击伊朗霍尔木兹甘省致3死8伤",
           "url": "https://flash.jin10.com/detail/20260718081411305800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
         },
@@ -691,20 +816,8 @@
     },
     {
       "keyword_group": "美国",
-      "match_count": 52,
+      "match_count": 58,
       "titles": [
-        {
-          "title": "高志凯：要对美国“人工智能霸凌”说“不”",
-          "url": "https://news.ifeng.com/c/8upHX3E0KP3",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 10时15分]"
-        },
         {
           "title": "美国不再延续涉港国家紧急状态，商务部回应",
           "url": "https://m.thepaper.cn/newsDetail_forward_33607609",
@@ -712,6 +825,18 @@
           "ranks": [
             5,
             4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时15分 ~ 13时24分]"
+        },
+        {
+          "title": "高志凯：要对美国“人工智能霸凌”说“不”",
+          "url": "https://news.ifeng.com/c/8upHX3E0KP3",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            5
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -729,8 +854,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时05分 ~ 10时15分]"
+          "appearance_count": 8,
+          "time_info": "[02时05分 ~ 13时24分]"
         },
         {
           "title": "加拿大网民：去年还帮美国救火，今年就成了罪人？",
@@ -742,6 +867,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时15分 ~ 10时15分]"
+        },
+        {
+          "title": "同一天，中国在做加法，美国在做减法",
+          "url": "https://news.ifeng.com/c/8uqyFL5z0fb",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         },
         {
           "title": "媒体：为应对局势升级，美国将向以色列增派数十架加油机",
@@ -1016,6 +1152,17 @@
           "time_info": "02时05分"
         },
         {
+          "title": "这事儿，中方不想再依赖美国卡塔尔：找加拿大",
+          "url": "https://news.ifeng.com/c/8ur4pDl7wfu",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
           "title": "据Flightradar24：一架美国空军KC-135空中加油机在英国米尔登霍尔附近发出7700紧急代码。",
           "url": "https://flash.jin10.com/detail/20260718012046607800",
           "source": "金十数据",
@@ -1036,6 +1183,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
+        },
+        {
+          "title": "涉台问题，美国插嘴：好担忧",
+          "url": "https://news.ifeng.com/c/8uqw0YTRyU7",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         },
         {
           "title": "贝克休斯：美国能源公司连续第五周增加钻井平台。",
@@ -1115,6 +1273,17 @@
           "time_info": "04时06分"
         },
         {
+          "title": "世界杯或致美国生产力损失117亿美元",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%88%96%E8%87%B4%E7%BE%8E%E5%9B%BD%E7%94%9F%E4%BA%A7%E5%8A%9B%E6%8D%9F%E5%A4%B1117%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
           "title": "美国至7月17日当周石油钻井总数 452口，前值445口。",
           "url": "https://flash.jin10.com/detail/20260718010118678800",
           "source": "金十数据",
@@ -1135,6 +1304,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
+        },
+        {
+          "title": "美国西北大学发明一种隐形无人机",
+          "url": "https://www.toutiao.com/trending/7663245404863184939/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         },
         {
           "title": "据悉SpaceX正洽谈为美国防部的AI项目提供数十亿美元算力",
@@ -1187,7 +1367,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
         },
@@ -1280,6 +1460,17 @@
           "time_info": "04时06分"
         },
         {
+          "title": "美国国家飓风中心：热带风暴Elida正在开放水域向西北方向移动。",
+          "url": "https://flash.jin10.com/detail/20260718103347440800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
           "title": "约1.8亿美国人面临烟雾、高温或洪水威胁",
           "url": "https://wallstreetcn.com/livenews/3135892",
           "source": "华尔街见闻-快讯",
@@ -1294,7 +1485,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "中方驳斥特朗普“中国干预美国大选”论调",
@@ -1437,6 +1628,17 @@
           "time_info": "[07时52分 ~ 10时15分]"
         },
         {
+          "title": "特朗普支持“兄终妹及”：任期结束后继续参选",
+          "url": "https://news.ifeng.com/c/8ur9XDi7eVj",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
           "title": "加拿大野火殃及美国，特朗普称要用关税来支付",
           "url": "https://flash.jin10.com/detail/20260718033109369800",
           "source": "金十数据",
@@ -1448,13 +1650,24 @@
           "time_info": "04时06分"
         },
         {
+          "title": "特朗普再谈巴洛贡红牌事件",
+          "url": "https://news.ifeng.com/c/8ur69Rbmt2A",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
           "title": "特朗普的社交帖文被包装成付费产品，华尔街机构不付费就将“慢人一步”",
           "url": "https://flash.jin10.com/detail/20260718092759635800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
         },
@@ -1468,6 +1681,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
+        },
+        {
+          "title": "美军连炸伊朗5座桥，伊朗要求封锁曼德海峡！中东多国遭袭，特朗普想扩大打击，施压伊朗重返谈判",
+          "url": "https://wallstreetcn.com/articles/3777193",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         },
         {
           "title": "美国总统特朗普：我将在白天致电加拿大总理卡尼，了解他们将如何应对野火事件。",
@@ -1528,7 +1752,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
@@ -1562,8 +1786,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时49分 ~ 10时15分]"
+          "appearance_count": 4,
+          "time_info": "[06时49分 ~ 13时24分]"
         },
         {
           "title": "美股存储芯片指数本周跌超17%，较收盘历史最高位已回撤超31%",
@@ -1622,11 +1846,23 @@
           "url": "https://www.douyin.com/hot/2575548",
           "source": "抖音",
           "ranks": [
-            6
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时15分 ~ 13时24分]"
+        },
+        {
+          "title": "美股芯片股，距熊市仅一步之遥",
+          "url": "https://wallstreetcn.com/articles/3777197",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时15分"
+          "time_info": "13时24分"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌2.05%，暂报2155.15点，上周五结束交易以来（7*24）累计下跌2.81%。 MarketVectorTM数字资产100中盘指数跌0.49%，报2568.46点，最近七天累跌1.97%。 MarketVector数字资产100指数跌1.49%，报12643.48点，最近七天累跌0.78%。 最近七天迄今，Solana累跌3.48%，狗狗币累跌2.38%，XRP累跌1.59%。 比特币累跌0.64%，暂报63552.27美元，7月14日北京时间02:00跌至61761美元，随后反弹，7月15日美股早盘达到65527.29美元；以太坊累涨2.56%，暂报1834.935美元，7月15日美股盘前曾达到1944.948美元。",
@@ -1646,7 +1882,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
         },
@@ -1657,7 +1893,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
         },
@@ -1668,7 +1904,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
         },
@@ -1698,7 +1934,7 @@
     },
     {
       "keyword_group": "日本",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "日本女首相背刺女天皇，“天皇制将难以为继”",
@@ -1719,11 +1955,12 @@
           "ranks": [
             8,
             9,
-            11
+            11,
+            17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 10时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时15分 ~ 13时24分]"
         },
         {
           "title": "傅面学传入日本,恶人脸遭处刑",
@@ -1732,11 +1969,12 @@
           "ranks": [
             14,
             15,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 10时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时15分 ~ 13时24分]"
         },
         {
           "title": "中国援助海外,日本冒领功劳",
@@ -1745,11 +1983,12 @@
           "ranks": [
             24,
             25,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 10时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时15分 ~ 13时24分]"
         },
         {
           "title": "日本护士将排泄物混入患者输液管致其死亡，排泄物进入血液为什么会致命？如何防范内部人员带来的医疗风险？",
@@ -1777,15 +2016,89 @@
           "time_info": "[00时15分 ~ 04时06分]"
         },
         {
+          "title": "日本从废料里找稀土能解决问题吗",
+          "url": "https://www.toutiao.com/trending/7663674681286725174/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
           "title": "市场消息：苹果(AAPL.O)将日本iPhone售价上调10%。",
           "url": "https://flash.jin10.com/detail/20260718084050924800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "印度",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "印度水货教授被锤,中国高校踩雷",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356289&amp;topic_name=%E5%8D%B0%E5%BA%A6%E6%B0%B4%E8%B4%A7%E6%95%99%E6%8E%88%E8%A2%AB%E9%94%A4%2C%E4%B8%AD%E5%9B%BD%E9%AB%98%E6%A0%A1%E8%B8%A9%E9%9B%B7",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "印度12岁男孩河边遭鳄鱼袭击死亡",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A612%E5%B2%81%E7%94%B7%E5%AD%A9%E6%B2%B3%E8%BE%B9%E9%81%AD%E9%B3%84%E9%B1%BC%E8%A2%AD%E5%87%BB%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            27,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时05分 ~ 07时52分]"
+        },
+        {
+          "title": "印度努力脱贫20年现状如何",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8D%B0%E5%BA%A6%E5%8A%AA%E5%8A%9B%E8%84%B1%E8%B4%AB20%E5%B9%B4%E7%8E%B0%E7%8A%B6%E5%A6%82%E4%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "印度总理莫迪：Skyroot将于上午11:30进行Vikram-1运载火箭的轨道发射，这是印度首枚私营企业自主研发的火箭。",
+          "url": "https://wallstreetcn.com/livenews/3135955",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "印度信实工业：已采购部分折价出售的中东原油。",
+          "url": "https://flash.jin10.com/detail/20260717231326677800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
         }
       ]
     },
@@ -1822,36 +2135,6 @@
       ]
     },
     {
-      "keyword_group": "印度",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "印度12岁男孩河边遭鳄鱼袭击死亡",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A612%E5%B2%81%E7%94%B7%E5%AD%A9%E6%B2%B3%E8%BE%B9%E9%81%AD%E9%B3%84%E9%B1%BC%E8%A2%AD%E5%87%BB%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23,
-            27,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时05分 ~ 07时52分]"
-        },
-        {
-          "title": "印度信实工业：已采购部分折价出售的中东原油。",
-          "url": "https://flash.jin10.com/detail/20260717231326677800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -1861,11 +2144,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时52分 ~ 10时15分]"
+          "appearance_count": 3,
+          "time_info": "[07时52分 ~ 13时24分]"
         }
       ]
     },
@@ -1914,11 +2198,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时52分 ~ 10时15分]"
+          "appearance_count": 3,
+          "time_info": "[07时52分 ~ 13时24分]"
         }
       ]
     },
