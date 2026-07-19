@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-19T21:19:22.808073+08:00",
-  "total_titles_processed": 1413,
+  "generated_at": "2026-07-19T22:55:30.934078+08:00",
+  "total_titles_processed": 1523,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 116,
+      "match_count": 129,
       "titles": [
         {
           "title": "遭伊朗袭击，在约旦美军2人死亡、1人失踪",
@@ -42,8 +42,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时51分 ~ 21时19分]"
+          "appearance_count": 8,
+          "time_info": "[13时51分 ~ 22时55分]"
         },
         {
           "title": "伊朗打击科威特、巴林、约旦的美军目标，发射镜头曝光",
@@ -56,6 +56,21 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[04时44分 ~ 10时32分]"
+        },
+        {
+          "title": "【早报】伊朗已停止履行伊美谅解备忘录；天孚通信披露上半年业绩预告",
+          "url": "https://www.cls.cn/detail/2430332",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时32分 ~ 22时55分]"
         },
         {
           "title": "美伊交锋波及多国民用设施，伊朗预警将“全面进攻”",
@@ -91,21 +106,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时57分 ~ 07时53分]"
-        },
-        {
-          "title": "【早报】伊朗已停止履行伊美谅解备忘录；天孚通信披露上半年业绩预告",
-          "url": "https://www.cls.cn/detail/2430332",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            6,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时32分 ~ 21时19分]"
         },
         {
           "title": "伊朗国家电视台：伊朗最高领袖哈梅内伊将于当地时间20:00针对国家问题发布声明。",
@@ -150,8 +150,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时27分 ~ 21时19分]"
+          "appearance_count": 4,
+          "time_info": "[18时27分 ~ 22时55分]"
         },
         {
           "title": "上任以来首次！伊朗最高领袖将美国称为“大撒旦”",
@@ -162,8 +162,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时27分 ~ 21时19分]"
+          "appearance_count": 4,
+          "time_info": "[18时27分 ~ 22时55分]"
         },
         {
           "title": "伊朗一海水淡化厂遭袭，万人饮用水中断",
@@ -275,6 +275,20 @@
           "time_info": "[00时57分 ~ 07时53分]"
         },
         {
+          "title": "协议成废纸,伊朗掀桌硬刚美国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356311&amp;topic_name=%E5%8D%8F%E8%AE%AE%E6%88%90%E5%BA%9F%E7%BA%B8%2C%E4%BC%8A%E6%9C%97%E6%8E%80%E6%A1%8C%E7%A1%AC%E5%88%9A%E7%BE%8E%E5%9B%BD",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            7,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时14分 ~ 22时55分]"
+        },
+        {
           "title": "据伊朗迈赫尔通讯社：伊朗胡齐斯坦省萨兰德地区发生了深度8公里的4级余震。",
           "url": "https://flash.jin10.com/detail/20260719131616675800",
           "source": "金十数据",
@@ -292,7 +306,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时19分"
         },
@@ -303,7 +317,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时19分"
         },
@@ -314,9 +328,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时19分"
+        },
+        {
+          "title": "伊朗阿巴丹附近遭导弹袭击 传出爆炸声",
+          "url": "https://flash.jin10.com/detail/20260719222533758800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
         },
         {
           "title": "伊朗革命卫队表示，两艘在霍尔木兹海峡南线航行的船只发生事故，另外两艘放弃通行 。（塔斯尼姆通讯社）",
@@ -385,7 +410,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时19分"
         },
@@ -399,30 +424,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
-        },
-        {
-          "title": "伊朗外长：部分核争端可能“无法解决”",
-          "url": "https://wallstreetcn.com/livenews/3136283",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "协议成废纸,伊朗掀桌硬刚美国",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356311&amp;topic_name=%E5%8D%8F%E8%AE%AE%E6%88%90%E5%BA%9F%E7%BA%B8%2C%E4%BC%8A%E6%9C%97%E6%8E%80%E6%A1%8C%E7%A1%AC%E5%88%9A%E7%BE%8E%E5%9B%BD",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时14分 ~ 21时19分]"
         },
         {
           "title": "伊朗直接掀了桌子",
@@ -569,6 +570,18 @@
           "time_info": "[19时57分 ~ 21时19分]"
         },
         {
+          "title": "伊朗外长：部分核争端可能“无法解决”",
+          "url": "https://wallstreetcn.com/livenews/3136283",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时19分 ~ 22时55分]"
+        },
+        {
           "title": "伊朗驻巴基斯坦大使：美国无意推动协议取得成功",
           "url": "https://flash.jin10.com/detail/20260719034107497800",
           "source": "金十数据",
@@ -629,6 +642,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时57分 ~ 01时57分]"
+        },
+        {
+          "title": "以军称监测到伊朗向约旦亚喀巴方向发射导弹",
+          "url": "https://wallstreetcn.com/livenews/3136280",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时19分 ~ 22时55分]"
         },
         {
           "title": "伊朗外交部：谅解备忘录不允许美在霍尔木兹海峡开辟独立平行航线",
@@ -742,9 +767,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时19分"
+        },
+        {
+          "title": "美国能源部长称对伊朗军事行动将持续进行",
+          "url": "https://wallstreetcn.com/livenews/3136306",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
         },
         {
           "title": "美官员称“约旦美军基地5天遭4袭，美军两人死亡”，伊朗最高领袖强调将给美国留下“刻骨铭心的教训”",
@@ -764,9 +800,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时19分"
+        },
+        {
+          "title": "美国能源部长称对伊朗军事行动将持续进行",
+          "url": "https://flash.jin10.com/detail/20260719221347953800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
         },
         {
           "title": "美军称结束第八晚对伊朗打击行动",
@@ -813,6 +860,17 @@
           "time_info": "13时52分"
         },
         {
+          "title": "以军：伊朗向约旦发射导弹或波及以色列",
+          "url": "https://wallstreetcn.com/livenews/3136304",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
           "title": "伊朗革命卫队：有两艘在霍尔木兹海峡南部航线上航行的船只发生事故，另有两艘船已宣布放弃航行。",
           "url": "https://flash.jin10.com/detail/20260719173936328800",
           "source": "金十数据",
@@ -822,17 +880,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
-        },
-        {
-          "title": "以军称监测到伊朗向约旦亚喀巴方向发射导弹",
-          "url": "https://wallstreetcn.com/livenews/3136280",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时19分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：至少六枚导弹击中伊朗的凯什姆岛郊区。",
@@ -868,6 +915,17 @@
           "time_info": "13时52分"
         },
         {
+          "title": "伊朗阿巴丹传出爆炸声",
+          "url": "https://wallstreetcn.com/livenews/3136301",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
           "title": "伊朗媒体称伊朗击落一架美军无人机",
           "url": "https://wallstreetcn.com/livenews/3136169",
           "source": "华尔街见闻-快讯",
@@ -877,6 +935,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
+        },
+        {
+          "title": "国际原子能机构称正调查伊朗在建核电站遭袭相关事宜",
+          "url": "https://wallstreetcn.com/livenews/3136303",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
         },
         {
           "title": "伊朗一海水淡化厂遭袭 万人饮用水中断",
@@ -896,7 +965,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时19分"
         },
@@ -921,6 +990,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
+        },
+        {
+          "title": "以色列国防部长：如果伊朗攻击我们，我们将打击他们的导弹平台。",
+          "url": "https://flash.jin10.com/detail/20260719215911365800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
         },
         {
           "title": "据伊朗迈赫尔通讯社：黎巴嫩总统已抵达位于华盛顿的安德鲁斯联合基地。",
@@ -951,7 +1031,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时19分"
         },
@@ -978,6 +1058,17 @@
           "time_info": "13时52分"
         },
         {
+          "title": "据伊朗国家媒体：伊朗阿巴丹传出爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260719215301129800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
           "title": "伊朗对美军基地发动打击。伊朗打击了美军在乌代里营地的弹药库，伊朗还打击了阿里·萨勒姆空军基地的空中雷达。（伊朗官媒PRESS TV）",
           "url": "https://wallstreetcn.com/livenews/3136134",
           "source": "华尔街见闻-快讯",
@@ -987,6 +1078,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
+        },
+        {
+          "title": "约旦称击落3枚伊朗导弹，将保持最高级别戒备",
+          "url": "https://wallstreetcn.com/livenews/3136294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
         },
         {
           "title": "伊朗霍尔木兹甘省一日内遭美军三轮空袭",
@@ -1028,9 +1130,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时19分"
+        },
+        {
+          "title": "国际原子能机构称正调查伊朗在建核电站遭袭相关事宜",
+          "url": "https://flash.jin10.com/detail/20260719215247405800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
         },
         {
           "title": "伊朗媒体：格什姆岛遭导弹袭击",
@@ -1061,7 +1174,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时19分"
         },
@@ -1077,6 +1190,17 @@
           "time_info": "00时57分"
         },
         {
+          "title": "据半岛电视台：以色列国防部长表示，如果伊朗攻击我们，我们将予以反击。",
+          "url": "https://flash.jin10.com/detail/20260719214736829800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
           "title": "伊朗革命卫队称打击三国美军目标",
           "url": "https://wallstreetcn.com/livenews/3136108",
           "source": "华尔街见闻-快讯",
@@ -1086,6 +1210,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
+        },
+        {
+          "title": "伊朗：美国近期发动的袭击已造成伊朗超过50人罹难，517人受伤。",
+          "url": "https://wallstreetcn.com/livenews/3136292",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
         },
         {
           "title": "伊朗革命卫队海军司令：美国别无选择，只能远离海湾。",
@@ -1116,7 +1251,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时19分"
         },
@@ -1152,6 +1287,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
+        },
+        {
+          "title": "市场消息：伊朗军方表示，防空部队在南部击落了一架“卢卡斯”型敌方无人机。",
+          "url": "https://flash.jin10.com/detail/20260719214235117800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
         },
         {
           "title": "伊朗民众强烈谴责美军空袭 呼吁强硬反击",
@@ -1343,8 +1489,455 @@
       ]
     },
     {
+      "keyword_group": "特朗普",
+      "match_count": 37,
+      "titles": [
+        {
+          "title": "穆杰塔巴：特朗普的签名毫无价值、无效",
+          "url": "https://news.ifeng.com/c/8us63AU51TY",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[04时44分 ~ 16时15分]"
+        },
+        {
+          "title": "白宫声称特朗普并非针对中国",
+          "url": "https://news.ifeng.com/c/8urPoLCdQ0d",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时57分 ~ 06时48分]"
+        },
+        {
+          "title": "特朗普最新发声！美军连续八天夜袭伊朗 美国发布全球安全警示",
+          "url": "https://www.cls.cn/detail/2430341",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时51分 ~ 22时55分]"
+        },
+        {
+          "title": "特朗普支持“兄终妹及”：任期结束后继续参选",
+          "url": "https://news.ifeng.com/c/8ur9XDi7eVj",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 07时53分]"
+        },
+        {
+          "title": "分析｜轰炸、备忘录双双失效，特朗普还有C计划吗？专家：美国已陷入“战略死胡同”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33605316",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 07时53分]"
+        },
+        {
+          "title": "如何看待白宫提词器操作员提前获取特朗普演讲稿，并据此押注获利近 10 万元，最终被调查？",
+          "url": "https://www.zhihu.com/question/2061441397995954863",
+          "source": "知乎",
+          "ranks": [
+            12,
+            14,
+            13,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 07时53分]"
+        },
+        {
+          "title": "空气质量影响世界杯决赛？特朗普扬言就加拿大山火烟霾追加关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33612068",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时57分 ~ 13时52分]"
+        },
+        {
+          "title": "特朗普透露：因凡蒂诺曾建议美国和中国联合举办一届世界杯",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33611562",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            18,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 10时32分]"
+        },
+        {
+          "title": "特朗普：“完全不在乎”伊朗暂停履行临时协议",
+          "url": "https://flash.jin10.com/detail/20260719052601155800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时50分 ~ 10时32分]"
+        },
+        {
+          "title": "谁将与特朗普同举大力神杯",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%81%E5%B0%86%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%8C%E4%B8%BE%E5%A4%A7%E5%8A%9B%E7%A5%9E%E6%9D%AF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29,
+            15,
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时51分 ~ 22时55分]"
+        },
+        {
+          "title": "美国援外大转向：特朗普要向欧洲输出“MAGA”",
+          "url": "https://news.ifeng.com/c/8utCDuus6XE",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时27分 ~ 22时55分]"
+        },
+        {
+          "title": "加拿大安大略省省长：特朗普对加拿大扑灭山火努力的批评是“绝对不可接受”的",
+          "url": "https://flash.jin10.com/detail/20260719101247637800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "特朗普决策逻辑分析：只想名垂千古，政治成本不再重要",
+          "url": "https://flash.jin10.com/detail/20260719130745873800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时52分"
+        },
+        {
+          "title": "据NewsNation：特朗普在得知两名美国军人在伊朗袭击中丧生的消息后首次作出回应。他表示：“这是一件非常悲伤的事情。我们不愿看到这种情况发生。他们是在为我们的国家服役。”",
+          "url": "https://flash.jin10.com/detail/20260719052220338800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            6,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时50分 ~ 10时32分]"
+        },
+        {
+          "title": "伊朗最高领袖：美国的违约行为表明特朗普的签字毫无价值",
+          "url": "https://wallstreetcn.com/livenews/3136073",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时57分"
+        },
+        {
+          "title": "美媒：特朗普政府仍未说明本轮冲突的持续时间与最终目标",
+          "url": "https://flash.jin10.com/detail/20260719013910983800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时57分 ~ 03时03分]"
+        },
+        {
+          "title": "特朗普政府拟向欧洲等地提供拨款 支持“MAGA”导向项目",
+          "url": "https://flash.jin10.com/detail/20260719013642003800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时57分 ~ 03时03分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-19）",
+          "url": "https://flash.jin10.com/detail/20260719194502548800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时57分 ~ 21时19分]"
+        },
+        {
+          "title": "据英国金融时报：特朗普将在重新调整美国对外援助政策之际，为欧洲支持“MAGA”理念的项目提供资金支持。",
+          "url": "https://flash.jin10.com/detail/20260719013143451800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时57分 ~ 03时03分]"
+        },
+        {
+          "title": "伊朗最高领袖：美国一再违背协议，特朗普的签字毫无信誉",
+          "url": "https://flash.jin10.com/detail/20260719003200067800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时57分 ~ 01时57分]"
+        },
+        {
+          "title": "据黎巴嫩国家通讯社：黎巴嫩总统奥恩已抵达华盛顿，将于明日开始与美国国务卿鲁比奥会面，并于下周二与美国总统特朗普会晤。",
+          "url": "https://flash.jin10.com/detail/20260719045619804800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时50分 ~ 07时53分]"
+        },
+        {
+          "title": "伊朗驻巴基斯坦大使：特朗普摧毁了两项重要外交成果",
+          "url": "https://flash.jin10.com/detail/20260719043315182800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时50分 ~ 07时53分]"
+        },
+        {
+          "title": "特朗普点评英格兰队战术",
+          "url": "https://www.douyin.com/hot/2575689",
+          "source": "抖音",
+          "ranks": [
+            13,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时47分 ~ 07时53分]"
+        },
+        {
+          "title": "美国参议员桑德斯：曾几何时，美国凭借其对民主与正义的坚定承诺激励着全世界。遗憾的是，在特朗普执政之下，情况已不再如此。",
+          "url": "https://flash.jin10.com/detail/20260719020717428800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时03分 ~ 04时44分]"
+        },
+        {
+          "title": "美国总统特朗普宣称：北海石油是世界上最优质的石油来源之一。 英国的巨大潜力始于开放北海石油。 英国花钱向挪威买油简直是荒唐。 “我们爱你，苏格兰！”",
+          "url": "https://wallstreetcn.com/livenews/3136305",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
+          "title": "美国总统特朗普：英国拥有如此巨大的潜力，但这一切都始于开发北海石油。",
+          "url": "https://flash.jin10.com/detail/20260719220841809800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
+          "title": "国际足联主席盛赞特朗普",
+          "url": "https://www.toutiao.com/trending/7662740721690640447/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "美国总统特朗普：此外，有消息称英国将拆除那些老旧且外观丑陋的风力发电机，这些设备一直笼罩着阿伯丁市并破坏着城市景观。",
+          "url": "https://flash.jin10.com/detail/20260719220832968800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
+          "title": "伊朗最高领袖指责美国一再违约，称：特朗普的签名“毫无价值、无效”",
+          "url": "https://wallstreetcn.com/livenews/3136073",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时57分"
+        },
+        {
+          "title": "特朗普盟友去世有何影响",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%9B%9F%E5%8F%8B%E5%8E%BB%E4%B8%96%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时57分"
+        },
+        {
+          "title": "美国总统特朗普：英国每年向挪威支付数十亿美元购买石油，而挪威开采的却只是北海价值较低的区域——这简直太荒谬了。",
+          "url": "https://flash.jin10.com/detail/20260719220803871800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
+          "title": "美国总统特朗普：这是地球上最优质的石油资源之一，仍有数百年的产能，许多资源甚至尚未被发现，这将使英国从一个贫困的灾难国变成世界上最富有的国家之一。",
+          "url": "https://flash.jin10.com/detail/20260719220736369800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
+          "title": "美国总统特朗普：苏格兰阿伯丁的市民们正在街头载歌载舞，因为即将就任的英国首相伯纳姆宣布，他将全面开放宝贵的北海石油资源。",
+          "url": "https://flash.jin10.com/detail/20260719220638278800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
+          "title": "据纽约邮报：美国总统特朗普表示，美国的打击阻止了伊朗获得核武器。如果不制止伊朗，地区可能会陷入更广泛的冲突。",
+          "url": "https://flash.jin10.com/detail/20260719112308290800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时52分"
+        },
+        {
+          "title": "特朗普政府：将在未来数周、数月设法降低能源价格",
+          "url": "https://wallstreetcn.com/livenews/3136290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
+          "title": "美国总统特朗普：共和党人应该将伊朗纳入针对俄罗斯的制裁法案。这是林赛·格雷厄姆想要做的，而且原本就要这么做了。",
+          "url": "https://flash.jin10.com/detail/20260719195544306800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时19分"
+        },
+        {
+          "title": "特朗普威胁对加拿大收“空气税”",
+          "url": "https://www.douyin.com/hot/2575543",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美国",
-      "match_count": 32,
+      "match_count": 35,
       "titles": [
         {
           "title": "存储的“新鬼故事”：美国要抢钱了？",
@@ -1640,6 +2233,17 @@
           "time_info": "13时52分"
         },
         {
+          "title": "Kimi K3让美国AI巨头慌了",
+          "url": "https://www.baidu.com/s?wd=Kimi+K3%E8%AE%A9%E7%BE%8E%E5%9B%BDAI%E5%B7%A8%E5%A4%B4%E6%85%8C%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
           "title": "美国国防部长赫格塞思在两名美国军人在约旦阵亡后发帖表示：他们的牺牲只会让我们的决心更加坚定。",
           "url": "https://flash.jin10.com/detail/20260719025208895800",
           "source": "金十数据",
@@ -1657,7 +2261,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时19分"
         },
@@ -1706,13 +2310,35 @@
           "time_info": "10时32分"
         },
         {
+          "title": "美国能源部长赖特：将在未来数周、数月采取一切行动来降低能源价格。",
+          "url": "https://flash.jin10.com/detail/20260719211907978800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
+          "title": "美国能源部长赖特：我们正追踪海峡的大型油轮通过情况。",
+          "url": "https://flash.jin10.com/detail/20260719211843979800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
           "title": "美国史上第2高奖金彩票大奖得主曝光",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%8F%B2%E4%B8%8A%E7%AC%AC2%E9%AB%98%E5%A5%96%E9%87%91%E5%BD%A9%E7%A5%A8%E5%A4%A7%E5%A5%96%E5%BE%97%E4%B8%BB%E6%9B%9D%E5%85%89",
           "source": "百度热搜",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时19分"
         },
@@ -1726,376 +2352,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 30,
-      "titles": [
-        {
-          "title": "穆杰塔巴：特朗普的签名毫无价值、无效",
-          "url": "https://news.ifeng.com/c/8us63AU51TY",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[04时44分 ~ 16时15分]"
-        },
-        {
-          "title": "白宫声称特朗普并非针对中国",
-          "url": "https://news.ifeng.com/c/8urPoLCdQ0d",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 06时48分]"
-        },
-        {
-          "title": "特朗普最新发声！美军连续八天夜袭伊朗 美国发布全球安全警示",
-          "url": "https://www.cls.cn/detail/2430341",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时51分 ~ 21时19分]"
-        },
-        {
-          "title": "特朗普支持“兄终妹及”：任期结束后继续参选",
-          "url": "https://news.ifeng.com/c/8ur9XDi7eVj",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时57分 ~ 07时53分]"
-        },
-        {
-          "title": "分析｜轰炸、备忘录双双失效，特朗普还有C计划吗？专家：美国已陷入“战略死胡同”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33605316",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时57分 ~ 07时53分]"
-        },
-        {
-          "title": "如何看待白宫提词器操作员提前获取特朗普演讲稿，并据此押注获利近 10 万元，最终被调查？",
-          "url": "https://www.zhihu.com/question/2061441397995954863",
-          "source": "知乎",
-          "ranks": [
-            12,
-            14,
-            13,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时57分 ~ 07时53分]"
-        },
-        {
-          "title": "空气质量影响世界杯决赛？特朗普扬言就加拿大山火烟霾追加关税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33612068",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时57分 ~ 13时52分]"
-        },
-        {
-          "title": "特朗普透露：因凡蒂诺曾建议美国和中国联合举办一届世界杯",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33611562",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            18,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 10时32分]"
-        },
-        {
-          "title": "特朗普：“完全不在乎”伊朗暂停履行临时协议",
-          "url": "https://flash.jin10.com/detail/20260719052601155800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            5,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时50分 ~ 10时32分]"
-        },
-        {
-          "title": "加拿大安大略省省长：特朗普对加拿大扑灭山火努力的批评是“绝对不可接受”的",
-          "url": "https://flash.jin10.com/detail/20260719101247637800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "谁将与特朗普同举大力神杯",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%81%E5%B0%86%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%8C%E4%B8%BE%E5%A4%A7%E5%8A%9B%E7%A5%9E%E6%9D%AF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29,
-            15,
-            23,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时51分 ~ 21时19分]"
-        },
-        {
-          "title": "特朗普决策逻辑分析：只想名垂千古，政治成本不再重要",
-          "url": "https://flash.jin10.com/detail/20260719130745873800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时52分"
-        },
-        {
-          "title": "据NewsNation：特朗普在得知两名美国军人在伊朗袭击中丧生的消息后首次作出回应。他表示：“这是一件非常悲伤的事情。我们不愿看到这种情况发生。他们是在为我们的国家服役。”",
-          "url": "https://flash.jin10.com/detail/20260719052220338800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            6,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时50分 ~ 10时32分]"
-        },
-        {
-          "title": "伊朗最高领袖：美国的违约行为表明特朗普的签字毫无价值",
-          "url": "https://wallstreetcn.com/livenews/3136073",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
-        },
-        {
-          "title": "美国援外大转向：特朗普要向欧洲输出“MAGA”",
-          "url": "https://news.ifeng.com/c/8utCDuus6XE",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时27分 ~ 21时19分]"
-        },
-        {
-          "title": "美媒：特朗普政府仍未说明本轮冲突的持续时间与最终目标",
-          "url": "https://flash.jin10.com/detail/20260719013910983800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 03时03分]"
-        },
-        {
-          "title": "特朗普政府拟向欧洲等地提供拨款 支持“MAGA”导向项目",
-          "url": "https://flash.jin10.com/detail/20260719013642003800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 03时03分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-19）",
-          "url": "https://flash.jin10.com/detail/20260719194502548800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时57分 ~ 21时19分]"
-        },
-        {
-          "title": "据英国金融时报：特朗普将在重新调整美国对外援助政策之际，为欧洲支持“MAGA”理念的项目提供资金支持。",
-          "url": "https://flash.jin10.com/detail/20260719013143451800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 03时03分]"
-        },
-        {
-          "title": "伊朗最高领袖：美国一再违背协议，特朗普的签字毫无信誉",
-          "url": "https://flash.jin10.com/detail/20260719003200067800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 01时57分]"
-        },
-        {
-          "title": "据黎巴嫩国家通讯社：黎巴嫩总统奥恩已抵达华盛顿，将于明日开始与美国国务卿鲁比奥会面，并于下周二与美国总统特朗普会晤。",
-          "url": "https://flash.jin10.com/detail/20260719045619804800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时50分 ~ 07时53分]"
-        },
-        {
-          "title": "伊朗驻巴基斯坦大使：特朗普摧毁了两项重要外交成果",
-          "url": "https://flash.jin10.com/detail/20260719043315182800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时50分 ~ 07时53分]"
-        },
-        {
-          "title": "特朗普点评英格兰队战术",
-          "url": "https://www.douyin.com/hot/2575689",
-          "source": "抖音",
-          "ranks": [
-            13,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时47分 ~ 07时53分]"
-        },
-        {
-          "title": "美国参议员桑德斯：曾几何时，美国凭借其对民主与正义的坚定承诺激励着全世界。遗憾的是，在特朗普执政之下，情况已不再如此。",
-          "url": "https://flash.jin10.com/detail/20260719020717428800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时03分 ~ 04时44分]"
-        },
-        {
-          "title": "国际足联主席盛赞特朗普",
-          "url": "https://www.toutiao.com/trending/7662740721690640447/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "伊朗最高领袖指责美国一再违约，称：特朗普的签名“毫无价值、无效”",
-          "url": "https://wallstreetcn.com/livenews/3136073",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时57分"
-        },
-        {
-          "title": "特朗普盟友去世有何影响",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%9B%9F%E5%8F%8B%E5%8E%BB%E4%B8%96%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时57分"
-        },
-        {
-          "title": "据纽约邮报：美国总统特朗普表示，美国的打击阻止了伊朗获得核武器。如果不制止伊朗，地区可能会陷入更广泛的冲突。",
-          "url": "https://flash.jin10.com/detail/20260719112308290800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时52分"
-        },
-        {
-          "title": "美国总统特朗普：共和党人应该将伊朗纳入针对俄罗斯的制裁法案。这是林赛·格雷厄姆想要做的，而且原本就要这么做了。",
-          "url": "https://flash.jin10.com/detail/20260719195544306800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "特朗普威胁对加拿大收“空气税”",
-          "url": "https://www.douyin.com/hot/2575543",
-          "source": "抖音",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时53分"
         }
       ]
     },
@@ -2147,11 +2403,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356315&amp;topic_name=%E7%89%A9%E4%BB%B7%E9%A3%9E%E6%B6%A8%2C%E6%97%A5%E6%9C%AC%E5%A2%9E%E4%BA%A71%E6%97%A5%E5%85%83%E7%A1%AC%E5%B8%81",
           "source": "贴吧",
           "ranks": [
-            4
+            4,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时19分 ~ 22时55分]"
         },
         {
           "title": "俄罗斯警告日本",
@@ -2161,11 +2418,12 @@
             6,
             13,
             19,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时14分 ~ 21时19分]"
+          "appearance_count": 6,
+          "time_info": "[16时14分 ~ 22时55分]"
         },
         {
           "title": "俄副外长：日本与乌克兰在无人机领域合作是敌对行为",
@@ -2186,11 +2444,12 @@
           "ranks": [
             13,
             29,
-            17
+            17,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时27分 ~ 21时19分]"
+          "appearance_count": 4,
+          "time_info": "[18时27分 ~ 22时55分]"
         },
         {
           "title": "日本惹怒俄罗斯",
@@ -2221,11 +2480,12 @@
             16,
             18,
             19,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时57分 ~ 21时19分]"
+          "appearance_count": 19,
+          "time_info": "[00时57分 ~ 22时55分]"
         },
         {
           "title": "为什么印度小吃摊的卫生看起来那么糟，很多国人去吃了闹肚子，可是印度人却不受影响？",
@@ -2271,6 +2531,22 @@
           "time_info": "[00时57分 ~ 06时48分]"
         },
         {
+          "title": "大乌龙!印度狠罚比亚迪6.3亿",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356303&amp;topic_name=%E5%A4%A7%E4%B9%8C%E9%BE%99%21%E5%8D%B0%E5%BA%A6%E7%8B%A0%E7%BD%9A%E6%AF%94%E4%BA%9A%E8%BF%AA6.3%E4%BA%BF",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            9,
+            10,
+            11,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时51分 ~ 22时55分]"
+        },
+        {
           "title": "印度民营火箭 Vikram-1 首飞成功入轨，成全球第三个拥有民营轨道发射能力的国家，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2061833227313189605",
           "source": "知乎",
@@ -2281,21 +2557,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时57分 ~ 04时44分]"
-        },
-        {
-          "title": "大乌龙!印度狠罚比亚迪6.3亿",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356303&amp;topic_name=%E5%A4%A7%E4%B9%8C%E9%BE%99%21%E5%8D%B0%E5%BA%A6%E7%8B%A0%E7%BD%9A%E6%AF%94%E4%BA%9A%E8%BF%AA6.3%E4%BA%BF",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            9,
-            10,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时51分 ~ 21时19分]"
         },
         {
           "title": "莫迪称印度正积极申办2036年奥运会",
@@ -2405,11 +2666,12 @@
           "url": "https://wallstreetcn.com/livenews/3136279",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时19分 ~ 22时55分]"
         },
         {
           "title": "上半年天津实现进出口4059亿元",
@@ -2429,7 +2691,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时19分"
         },
@@ -2460,8 +2722,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时51分 ~ 21时19分]"
+          "appearance_count": 8,
+          "time_info": "[13时51分 ~ 22时55分]"
         },
         {
           "title": "DeepSeek V4 正式版即将发布，有哪些值得关注的亮点？",
@@ -2498,6 +2760,19 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "下周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
+          "url": "https://wallstreetcn.com/articles/3777171",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时51分 ~ 22时55分]"
+        },
+        {
           "title": "提醒：下周二（7月21日），通用汽车等将发布业绩报告； 下周三，谷歌母公司Alphabet、特斯拉、德州仪器、IBM等将发布业绩报告； 下周四，英特尔、德国思爱普Sap等将发布业绩报告。",
           "url": "https://wallstreetcn.com/livenews/3136067",
           "source": "华尔街见闻-快讯",
@@ -2508,18 +2783,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时57分 ~ 07时53分]"
-        },
-        {
-          "title": "下周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
-          "url": "https://wallstreetcn.com/articles/3777171",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时51分 ~ 19时57分]"
         },
         {
           "title": "TCL华星星智X-Intelligence大模型在显示领域超越Gemini 3.1 Pro与GPT-5.5 high",
