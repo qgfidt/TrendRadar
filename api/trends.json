@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-20T14:17:30.169310+08:00",
-  "total_titles_processed": 1016,
+  "generated_at": "2026-07-20T18:01:42.869048+08:00",
+  "total_titles_processed": 1222,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 64,
+      "match_count": 65,
       "titles": [
         {
           "title": "伊朗导弹击中美军基地，火光四溅，有人大喊快撤",
@@ -46,6 +46,17 @@
           "time_info": "[00时58分 ~ 14时17分]"
         },
         {
+          "title": "以军总参谋长：已做好立即恢复对伊朗作战准备",
+          "url": "https://news.ifeng.com/c/8utlf4xmVvT",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时47分 ~ 18时01分]"
+        },
+        {
           "title": "【早报】伊朗已停止履行伊美谅解备忘录；天孚通信披露上半年业绩预告",
           "url": "https://www.cls.cn/detail/2430332",
           "source": "财联社热门",
@@ -58,15 +69,26 @@
           "time_info": "[00时58分 ~ 07时56分]"
         },
         {
-          "title": "以军总参谋长：已做好立即恢复对伊朗作战准备",
-          "url": "https://news.ifeng.com/c/8utlf4xmVvT",
+          "title": "哈梅内伊遇袭预案代号曝光，伊朗外长哽咽披露细节",
+          "url": "https://news.ifeng.com/c/8uuQFo0n9YS",
           "source": "凤凰网",
           "ranks": [
-            3
+            1
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时47分 ~ 14时17分]"
+          "time_info": "[14时17分 ~ 18时01分]"
+        },
+        {
+          "title": "伊朗外长：美国曾试图“收买”我们，我当场拒绝",
+          "url": "https://news.ifeng.com/c/8uuXB95ZA03",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时17分 ~ 18时01分]"
         },
         {
           "title": "伊朗外长曝最高领袖遇袭预案代号",
@@ -102,17 +124,6 @@
           "time_info": "00时58分"
         },
         {
-          "title": "哈梅内伊遇袭预案代号曝光，伊朗外长哽咽披露细节",
-          "url": "https://news.ifeng.com/c/8uuQFo0n9YS",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时17分"
-        },
-        {
           "title": "伊朗塔斯尼姆通讯社：伊朗西南部的马赫沙赫尔港（Bandar Mahshahr）和伊玛目霍梅尼港（Bandar Imam Khomeini）传出了数声爆炸巨响。",
           "url": "https://flash.jin10.com/detail/20260720073447211800",
           "source": "金十数据",
@@ -122,17 +133,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
-        },
-        {
-          "title": "伊朗外长：美国曾试图“收买”我们，我当场拒绝",
-          "url": "https://news.ifeng.com/c/8uuXB95ZA03",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时17分"
         },
         {
           "title": "科威特军方：科威特防空部队目前正应对敌方无人机的攻击。此次攻击源于伊朗的敌对行为。",
@@ -185,7 +185,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时17分"
         },
@@ -644,7 +644,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时17分"
         },
@@ -677,7 +677,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时17分"
         },
@@ -699,7 +699,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时17分"
         },
@@ -743,9 +743,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时17分"
+        },
+        {
+          "title": "伊朗外交部证实第三方已拿出全新调解方案，直言“打和谈”并行不悖",
+          "url": "https://flash.jin10.com/detail/20260720172928781800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时01分"
         },
         {
           "title": "伊朗革命卫队：两艘油轮在试图通过霍尔木兹海峡南部航线后被炸毁。 只要美国在该地区的行动继续，霍尔木兹海峡对于石化产品或“任何一滴油气”的运输都将是不安全的。",
@@ -762,7 +773,7 @@
     },
     {
       "keyword_group": "美国",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "美国对伊打击进入第九晚，平息迹象迟迟难现，布油趁势重回90美元，WTI原油多头仍主导市场，现货黄金多头坚守4000美元一线，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -782,7 +793,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时17分"
         },
@@ -876,6 +887,17 @@
           "time_info": "[03时19分 ~ 05时51分]"
         },
         {
+          "title": "美国对付印度这招，却给中国埋雷？",
+          "url": "https://news.ifeng.com/c/8uuW6XHs8Qu",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时17分 ~ 18时01分]"
+        },
+        {
           "title": "美国国家飓风中心：热带低压“二号”位于佛罗里达州巴拿马城以南约190英里（310公里）；最大持续风速为30英里每小时（45公里每小时）。",
           "url": "https://flash.jin10.com/detail/20260720044622611800",
           "source": "金十数据",
@@ -900,6 +922,17 @@
           "time_info": "[02时02分 ~ 03时19分]"
         },
         {
+          "title": "坐火车穿越美国11个州",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9D%90%E7%81%AB%E8%BD%A6%E7%A9%BF%E8%B6%8A%E7%BE%8E%E5%9B%BD11%E4%B8%AA%E5%B7%9E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时00分 ~ 18时01分]"
+        },
+        {
           "title": "美国10年期国债期货下跌6个点，美国30年期国债期货下跌10个点。",
           "url": "https://flash.jin10.com/detail/20260720060344984800",
           "source": "金十数据",
@@ -920,17 +953,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
-        },
-        {
-          "title": "美国对付印度这招，却给中国埋雷？",
-          "url": "https://news.ifeng.com/c/8uuW6XHs8Qu",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时17分"
         },
         {
           "title": "台积电(TSM.N)首席财务官：亚利桑那州工厂建设面临物理层面的制约；正与美国政府密切合作。",
@@ -983,7 +1005,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时17分"
         },
@@ -1027,7 +1049,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时17分"
         }
@@ -1202,6 +1224,18 @@
           "time_info": "[02时02分 ~ 04时45分]"
         },
         {
+          "title": "西班牙夺冠庆祝合影，特朗普迟迟不肯离场",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33618793",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时17分 ~ 18时01分]"
+        },
+        {
           "title": "特朗普政府：将在未来数周、数月设法降低能源价格",
           "url": "https://wallstreetcn.com/livenews/3136290",
           "source": "华尔街见闻-快讯",
@@ -1248,17 +1282,6 @@
           "time_info": "07时56分"
         },
         {
-          "title": "西班牙夺冠庆祝合影，特朗普迟迟不肯离场",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33618793",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时17分"
-        },
-        {
           "title": "特朗普为西班牙颁奖",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E8%A5%BF%E7%8F%AD%E7%89%99%E9%A2%81%E5%A5%96%23&t=31&band_rank=17&Refer=top",
           "source": "微博",
@@ -1284,7 +1307,7 @@
     },
     {
       "keyword_group": "日本",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "物价飞涨,日本增产1日元硬币",
@@ -1295,11 +1318,12 @@
             8,
             11,
             12,
-            14
+            14,
+            26
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时58分 ~ 14时17分]"
+          "appearance_count": 14,
+          "time_info": "[00时58分 ~ 18时01分]"
         },
         {
           "title": "俄罗斯警告日本",
@@ -1323,11 +1347,56 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356330&amp;topic_name=%E7%83%AD%E7%96%AF%E4%BA%86%21%E6%97%A5%E6%9C%AC%E5%86%B0%E7%AE%B1%E5%86%BB%E6%B4%BB%E4%BA%BA",
           "source": "贴吧",
           "ranks": [
-            5
+            5,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时17分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时17分 ~ 18时01分]"
+        },
+        {
+          "title": "为了这条高铁项目，日本和印度又吵开了",
+          "url": "https://news.ifeng.com/c/8uuGSMXFTqD",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时17分 ~ 18时01分]"
+        },
+        {
+          "title": "AI不准用,日本漫画家被迫停更",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356343&amp;topic_name=AI%E4%B8%8D%E5%87%86%E7%94%A8%2C%E6%97%A5%E6%9C%AC%E6%BC%AB%E7%94%BB%E5%AE%B6%E8%A2%AB%E8%BF%AB%E5%81%9C%E6%9B%B4",
+          "source": "贴吧",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时00分 ~ 18时01分]"
+        },
+        {
+          "title": "外交部回应日本欲引进核武器",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E6%AC%B2%E5%BC%95%E8%BF%9B%E6%A0%B8%E6%AD%A6%E5%99%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时00分 ~ 18时01分]"
+        },
+        {
+          "title": "外交部回应日本欲引进盟国核武器",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E6%AC%B2%E5%BC%95%E8%BF%9B%E7%9B%9F%E5%9B%BD%E6%A0%B8%E6%AD%A6%E5%99%A8%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时00分 ~ 18时01分]"
         },
         {
           "title": "日本民间集会公开细菌战证词",
@@ -1341,24 +1410,13 @@
           "time_info": "[10时47分 ~ 10时48分]"
         },
         {
-          "title": "为了这条高铁项目，日本和印度又吵开了",
-          "url": "https://news.ifeng.com/c/8uuGSMXFTqD",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时17分"
-        },
-        {
           "title": "日本自卫队驻地发生火灾",
           "url": "https://flash.jin10.com/detail/20260720131445602800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时17分"
         }
@@ -1366,7 +1424,7 @@
     },
     {
       "keyword_group": "印度",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "大乌龙!印度狠罚比亚迪6.3亿",
@@ -1404,9 +1462,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时17分"
+        },
+        {
+          "title": "印度积极申办2036年奥运会",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356340&amp;topic_name=%E5%8D%B0%E5%BA%A6%E7%A7%AF%E6%9E%81%E7%94%B3%E5%8A%9E2036%E5%B9%B4%E5%A5%A5%E8%BF%90%E4%BC%9A",
+          "source": "贴吧",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时00分 ~ 18时01分]"
+        },
+        {
+          "title": "大V：印度对比亚迪的罚单让人看不懂",
+          "url": "https://www.toutiao.com/trending/7664200227384999962/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时00分 ~ 18时01分]"
         },
         {
           "title": "印度尼西亚议会委员会批准金融中心设立法案。",
@@ -1415,7 +1495,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时17分"
         },
@@ -1426,7 +1506,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时17分"
         },
@@ -1437,7 +1517,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时17分"
         }
@@ -1479,7 +1559,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时17分"
         }
@@ -1510,8 +1590,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时56分 ~ 14时17分]"
+          "appearance_count": 6,
+          "time_info": "[07时56分 ~ 18时01分]"
         }
       ]
     },
@@ -1541,7 +1621,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时17分"
         }
@@ -1558,7 +1638,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时17分"
         },
