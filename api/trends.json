@@ -1,22 +1,35 @@
 {
-  "generated_at": "2026-07-24T06:56:18.349542+08:00",
-  "total_titles_processed": 536,
+  "generated_at": "2026-07-24T07:59:32.919159+08:00",
+  "total_titles_processed": 609,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国",
-      "match_count": 50,
+      "match_count": 53,
       "titles": [
         {
           "title": "美国务卿：目前无法迅速推动俄乌达成协议",
           "url": "https://news.ifeng.com/c/8v09vJTA88S",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时28分 ~ 06时56分]"
+          "appearance_count": 7,
+          "time_info": "[01时28分 ~ 07时59分]"
+        },
+        {
+          "title": "特斯拉电话会：马斯克称正进行“二战以来美国最快的工业规模扩张”，获美光存储芯片“超级配额”",
+          "url": "https://wallstreetcn.com/articles/3777724",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时28分 ~ 07时59分]"
         },
         {
           "title": "AI开支引发回报疑虑，纳指跌幅扩大至2%，特斯拉跌超13%，布油触及百元关口，美国长债承压",
@@ -30,17 +43,6 @@
           "time_info": "[01时28分 ~ 05时03分]"
         },
         {
-          "title": "特斯拉电话会：马斯克称正进行“二战以来美国最快的工业规模扩张”，获美光存储芯片“超级配额”",
-          "url": "https://wallstreetcn.com/articles/3777724",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时28分 ~ 06时56分]"
-        },
-        {
           "title": "给“南海仲裁案”递刀子的美国人，在菲律宾被枪杀",
           "url": "https://news.ifeng.com/c/8v06FjHSYYN",
           "source": "凤凰网",
@@ -48,8 +50,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时28分 ~ 06时56分]"
+          "appearance_count": 7,
+          "time_info": "[01时28分 ~ 07时59分]"
         },
         {
           "title": "视频丨美国海岸警卫队6艘巡逻舰“现身”南海，打的什么算盘？",
@@ -60,19 +62,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时28分 ~ 06时56分]"
-        },
-        {
-          "title": "菲尔兹奖美国得主中文流利能说脱口秀",
-          "url": "https://www.baidu.com/s?wd=%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96%E7%BE%8E%E5%9B%BD%E5%BE%97%E4%B8%BB%E4%B8%AD%E6%96%87%E6%B5%81%E5%88%A9%E8%83%BD%E8%AF%B4%E8%84%B1%E5%8F%A3%E7%A7%80",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时28分 ~ 06时56分]"
+          "appearance_count": 7,
+          "time_info": "[01时28分 ~ 07时59分]"
         },
         {
           "title": "日美关税协议达成1年：5500亿的大饼，日本就给美国烙了个边",
@@ -82,8 +73,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时28分 ~ 06时56分]"
+          "appearance_count": 7,
+          "time_info": "[01时28分 ~ 07时59分]"
         },
         {
           "title": "预判2028：美国如何影响台湾地区选举",
@@ -93,8 +84,83 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时28分 ~ 06时56分]"
+          "appearance_count": 7,
+          "time_info": "[01时28分 ~ 07时59分]"
+        },
+        {
+          "title": "菲尔兹奖美国得主中文流利能说脱口秀",
+          "url": "https://www.baidu.com/s?wd=%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96%E7%BE%8E%E5%9B%BD%E5%BE%97%E4%B8%BB%E4%B8%AD%E6%96%87%E6%B5%81%E5%88%A9%E8%83%BD%E8%AF%B4%E8%84%B1%E5%8F%A3%E7%A7%80",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时28分 ~ 07时59分]"
+        },
+        {
+          "title": "供给不足,美国大兵KFC觅食",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356449&amp;topic_name=%E4%BE%9B%E7%BB%99%E4%B8%8D%E8%B6%B3%2C%E7%BE%8E%E5%9B%BD%E5%A4%A7%E5%85%B5KFC%E8%A7%85%E9%A3%9F",
+          "source": "贴吧",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时28分 ~ 07时59分]"
+        },
+        {
+          "title": "以媒称美国已通知以色列将加大对伊打击，或将使用重型轰炸机打击镐山，一旦行动落地，会带来哪些连锁影响？",
+          "url": "https://www.zhihu.com/question/2063579756159931133",
+          "source": "知乎",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时28分 ~ 07时59分]"
+        },
+        {
+          "title": "中国女排3比2逆转美国",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%923%E6%AF%942%E9%80%86%E8%BD%AC%E7%BE%8E%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            23,
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时28分 ~ 07时59分]"
+        },
+        {
+          "title": "美国6艘巡逻舰“现身”南海",
+          "url": "https://www.toutiao.com/trending/7665358488541806655/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            29,
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时28分 ~ 07时59分]"
+        },
+        {
+          "title": "中国女排3:2战胜美国晋级四强",
+          "url": "https://www.douyin.com/hot/2582778",
+          "source": "抖音",
+          "ranks": [
+            26,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时03分 ~ 07时59分]"
         },
         {
           "title": "中国女排3-2逆转美国",
@@ -128,7 +194,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
         },
@@ -144,53 +210,15 @@
           "time_info": "03时14分"
         },
         {
-          "title": "供给不足,美国大兵KFC觅食",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356449&amp;topic_name=%E4%BE%9B%E7%BB%99%E4%B8%8D%E8%B6%B3%2C%E7%BE%8E%E5%9B%BD%E5%A4%A7%E5%85%B5KFC%E8%A7%85%E9%A3%9F",
-          "source": "贴吧",
+          "title": "美国公布新关税措施 24日生效",
+          "url": "https://www.cls.cn/detail/2435701",
+          "source": "财联社热门",
           "ranks": [
-            12
+            3
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时28分 ~ 06时56分]"
-        },
-        {
-          "title": "以媒称美国已通知以色列将加大对伊打击，或将使用重型轰炸机打击镐山，一旦行动落地，会带来哪些连锁影响？",
-          "url": "https://www.zhihu.com/question/2063579756159931133",
-          "source": "知乎",
-          "ranks": [
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时28分 ~ 06时56分]"
-        },
-        {
-          "title": "中国女排3比2逆转美国",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%923%E6%AF%942%E9%80%86%E8%BD%AC%E7%BE%8E%E5%9B%BD",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            23,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时28分 ~ 06时56分]"
-        },
-        {
-          "title": "美国6艘巡逻舰“现身”南海",
-          "url": "https://www.toutiao.com/trending/7665358488541806655/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            29,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时28分 ~ 06时56分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
         },
         {
           "title": "美国启动车门安全制度的制定工作，特斯拉已经发生多起相关的死亡事故。",
@@ -210,21 +238,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
-        },
-        {
-          "title": "中国女排3:2战胜美国晋级四强",
-          "url": "https://www.douyin.com/hot/2582778",
-          "source": "抖音",
-          "ranks": [
-            26,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时03分 ~ 06时56分]"
         },
         {
           "title": "在美国政府宣布新关税措施后，墨西哥经济部长埃布拉德表示：我们认为墨西哥实际承担的关税税率并未发生变化。",
@@ -233,7 +249,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
         },
@@ -251,6 +267,18 @@
           "time_info": "[01时28分 ~ 06时56分]"
         },
         {
+          "title": "SpaceX被置于美国IPO后的聚光灯下，再次推迟重大飞行测试",
+          "url": "https://wallstreetcn.com/livenews/3139096",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时56分 ~ 07时59分]"
+        },
+        {
           "title": "美国贸易代表格里尔：欧盟仍在针对最具竞争力的美国公司。",
           "url": "https://wallstreetcn.com/livenews/3139004",
           "source": "华尔街见闻-快讯",
@@ -261,6 +289,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时29分 ~ 03时14分]"
+        },
+        {
+          "title": "韩国将与美国财政部围绕外汇问题继续沟通。",
+          "url": "https://wallstreetcn.com/livenews/3139117",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
         },
         {
           "title": "美国财政部拍卖210亿美元10年期通胀保值国债（TIPS），得标利率2.438%（5月21日为2.169%），投标倍数2.30（前次2.52）。",
@@ -274,6 +313,17 @@
           "time_info": "01时29分"
         },
         {
+          "title": "美国公布新关税措施24日生效",
+          "url": "https://www.douyin.com/hot/2582854",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        },
+        {
           "title": "美国没有将任何国家列为汇率操纵国。",
           "url": "https://wallstreetcn.com/livenews/3139065",
           "source": "华尔街见闻-快讯",
@@ -283,17 +333,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
-        },
-        {
-          "title": "SpaceX被置于美国IPO后的聚光灯下，再次推迟重大飞行测试",
-          "url": "https://wallstreetcn.com/livenews/3139096",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时56分"
         },
         {
           "title": "美国原油期货结算价为每桶92.19美元，上涨5.36美元，涨幅6.17%。",
@@ -335,7 +374,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
         },
@@ -346,7 +385,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
         },
@@ -390,7 +429,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
         },
@@ -423,7 +462,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
         },
@@ -434,7 +473,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
         },
@@ -445,7 +484,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
         },
@@ -456,7 +495,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
         },
@@ -478,7 +517,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
         },
@@ -489,7 +528,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
         },
@@ -500,7 +539,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
         },
@@ -522,7 +561,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
         },
@@ -533,7 +572,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
         },
@@ -555,7 +594,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
         },
@@ -566,7 +605,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
         }
@@ -574,7 +613,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 22,
+      "match_count": 27,
       "titles": [
         {
           "title": "伊朗称袭击美国亚马逊公司在巴林的数据基础设施，这个地方有多重要？将造成哪些影响？",
@@ -585,8 +624,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时28分 ~ 06时56分]"
+          "appearance_count": 7,
+          "time_info": "[01时28分 ~ 07时59分]"
         },
         {
           "title": "以色列国防部长卡茨：如果伊朗攻击以色列，将遭受毁灭性打击。",
@@ -611,17 +650,6 @@
           "time_info": "03时14分"
         },
         {
-          "title": "伊朗称拦截一枚美军“战斧”导弹，伊南部传出爆炸声",
-          "url": "https://wallstreetcn.com/livenews/3139107",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时56分"
-        },
-        {
           "title": "据以色列时报：以色列国防部长卡茨今天在安全评估中表示，以色列“已为各种可能性做好准备”，以应对与伊朗的紧张局势。",
           "url": "https://flash.jin10.com/detail/20260724011649759800",
           "source": "金十数据",
@@ -644,6 +672,29 @@
           "time_info": "05时03分"
         },
         {
+          "title": "伊朗国家广播公司：格什姆岛南岸传出爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260724072812353800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        },
+        {
+          "title": "伊朗称拦截一枚美军“战斧”导弹，伊南部传出爆炸声",
+          "url": "https://wallstreetcn.com/livenews/3139107",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时56分 ~ 07时59分]"
+        },
+        {
           "title": "据以色列i24News：消息人士称，伊朗拒绝“改进”目前摆在桌面上的10天停火外交提议。",
           "url": "https://flash.jin10.com/detail/20260724011443869800",
           "source": "金十数据",
@@ -653,6 +704,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
+        },
+        {
+          "title": "伊朗国家广播公司：伊朗阿巴斯港以西传出爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260724072136159800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
         },
         {
           "title": "伊拉克总理：伊拉克不允许从其领土发起威胁伊朗的行动",
@@ -666,6 +728,28 @@
           "time_info": "05时03分"
         },
         {
+          "title": "伊朗、胡塞武装：已做好应战准备",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E3%80%81%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%85%EF%BC%9A%E5%B7%B2%E5%81%9A%E5%A5%BD%E5%BA%94%E6%88%98%E5%87%86%E5%A4%87",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        },
+        {
+          "title": "美军称连续第13晚袭击伊朗",
+          "url": "https://flash.jin10.com/detail/20260724071454563800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        },
+        {
           "title": "【以军举行紧急局势安全评估会议，防长称已为应对伊朗局势做好“全方位准备”】当地时间23日，据以色列方面消息，以色列国防部长卡茨当天表示，鉴于当前与伊朗的紧张局势不断升级，以色列方面目前已为“所有可能发生的情况”做好了准备。 据称，卡茨当天召集以军总参谋长扎米尔及多名军方高级官员，在国防部总部举行了紧急局势安全评估会议。卡茨在会议结束时向伊朗方面发出了严厉警告。他宣称，如果伊朗选择对以色列发动任何形式的袭击，“都将承受来自以方的毁灭性打击”。（央视）",
           "url": "https://wallstreetcn.com/livenews/3139021",
           "source": "华尔街见闻-快讯",
@@ -675,6 +759,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
+        },
+        {
+          "title": "据伊朗媒体Fars News：伊朗南部城市阿瓦兹发生多起爆炸声 。",
+          "url": "https://flash.jin10.com/detail/20260724071249063800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
         },
         {
           "title": "科威特外交部：谴责伊朗及其代理人持续对科威特发动的袭击，阿卜代利边境口岸受到影响。",
@@ -727,7 +822,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
         },
@@ -738,7 +833,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
         },
@@ -823,7 +918,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普：我们与伊朗只是小规模冲突",
@@ -845,8 +940,22 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时28分 ~ 06时56分]"
+          "appearance_count": 7,
+          "time_info": "[01时28分 ~ 07时59分]"
+        },
+        {
+          "title": "伊拉克与科威特边境口岸遭伊朗打击，特朗普：若再袭沙特船只，美国将施以“重大军事惩罚”",
+          "url": "https://wallstreetcn.com/articles/3777791",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时14分 ~ 07时59分]"
         },
         {
           "title": "美国总统特朗普：159艘伊朗军舰已被击沉。",
@@ -871,17 +980,15 @@
           "time_info": "03时14分"
         },
         {
-          "title": "伊拉克与科威特边境口岸遭伊朗打击，特朗普：若再袭沙特船只，美国将施以“重大军事惩罚”",
-          "url": "https://wallstreetcn.com/articles/3777791",
-          "source": "华尔街见闻",
+          "title": "美参议院否决限制特朗普对伊战争权力的决议案",
+          "url": "https://wallstreetcn.com/livenews/3139120",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            8,
-            7
+            5
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时14分 ~ 06时56分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
         },
         {
           "title": "特朗普放话美国不需要霍尔木兹、伊朗袭一船就炸一桥或电厂，伊警告报复美利益设施、“谁都别想卖油”",
@@ -901,7 +1008,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
         },
@@ -967,7 +1074,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
         },
@@ -989,7 +1096,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
         },
@@ -1019,7 +1126,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
@@ -1040,8 +1147,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时55分 ~ 06时56分]"
+          "appearance_count": 3,
+          "time_info": "[06时55分 ~ 07时59分]"
         },
         {
           "title": "美股",
@@ -1053,8 +1160,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时28分 ~ 06时56分]"
+          "appearance_count": 7,
+          "time_info": "[01时28分 ~ 07时59分]"
+        },
+        {
+          "title": "【早报】美股科技赛道大跌，存储股逆市走高；油价暴涨、黄金跳水；长鑫科技下周一上市",
+          "url": "https://www.cls.cn/detail/2435717",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
         },
         {
           "title": "周四（7月23日），美股行业ETF多数收跌，可选消费ETF跌4.61%，网络股指数ETF跌2.56%，半导体ETF跌1.15%，生物科技指数ETF、医疗业ETF、工业指数ETF涨1.06%-1.73%。 标普500指数的11个板块中，电信板块重挫5.2%，可选消费板块跌5.12%，信息技术/科技板块跌1.12%，能源板块涨0.56%，工业板块涨1.77%。",
@@ -1094,11 +1212,12 @@
           "url": "https://www.cls.cn/detail/2435694",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时55分 ~ 06时56分]"
+          "appearance_count": 3,
+          "time_info": "[06时55分 ~ 07时59分]"
         },
         {
           "title": "摩根大通：接下来几周是美股命运关键",
@@ -1156,6 +1275,17 @@
           "time_info": "05时03分"
         },
         {
+          "title": "美股七巨头齐跌 特斯拉重挫14%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%83%E5%B7%A8%E5%A4%B4%E9%BD%90%E8%B7%8C+%E7%89%B9%E6%96%AF%E6%8B%89%E9%87%8D%E6%8C%AB14%25",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        },
+        {
           "title": "英特尔(INTC.O)美股盘后涨超9%，其三季度营收展望高于预期。",
           "url": "https://flash.jin10.com/detail/20260724040502451800",
           "source": "金十数据",
@@ -1184,15 +1314,145 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
         }
       ]
     },
     {
+      "keyword_group": "日本",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "日本外相带头对中国发难有何居心",
+          "url": "https://www.toutiao.com/trending/7665714922944204330/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            6,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时28分 ~ 07时59分]"
+        },
+        {
+          "title": "日本6月全国未季调CPI月率 0%，前值0.5%。",
+          "url": "https://flash.jin10.com/detail/20260724073253156800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        },
+        {
+          "title": "日本6月CPI(除生鲜食品)同比 1.6%，预期 1.6%，前值 1.4%。",
+          "url": "https://wallstreetcn.com/livenews/3139123",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        },
+        {
+          "title": "日本6月全国CPI年率 1.7%，预期1.70%，前值1.50%。",
+          "url": "https://flash.jin10.com/detail/20260724073002666800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        },
+        {
+          "title": "日本6月CPI同比 1.7%，预期 1.7%，前值 1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3139122",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        },
+        {
+          "title": "日本6月核心CPI年率 1.6%，预期1.60%，前值1.40%。",
+          "url": "https://flash.jin10.com/detail/20260724073002657800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        },
+        {
+          "title": "日本6月CPI(除生鲜食品及能源)同比 1.7%，预期 1.8%，前值 1.8%。",
+          "url": "https://wallstreetcn.com/livenews/3139121",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        },
+        {
+          "title": "大摩：10年期日本国债在“令人瞠目”的3%水平值得买入",
+          "url": "https://wallstreetcn.com/livenews/3139026",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时14分"
+        },
+        {
+          "title": "日本6月核心CPI年率将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20260724072000001800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        },
+        {
+          "title": "“731”这样的纪录片，日本应该更多地播放",
+          "url": "https://news.ifeng.com/c/8v0LLKhYRJq",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        },
+        {
+          "title": "“731”这类纪录片 日本应更多地播放",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C731%E2%80%9D%E8%BF%99%E7%B1%BB%E7%BA%AA%E5%BD%95%E7%89%87+%E6%97%A5%E6%9C%AC%E5%BA%94%E6%9B%B4%E5%A4%9A%E5%9C%B0%E6%92%AD%E6%94%BE",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "OpenAI：预计将大规模部署AMD的Helios。",
@@ -1217,6 +1477,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时29分 ~ 03时14分]"
+        },
+        {
+          "title": "OpenAI总裁布罗克曼表示，目标始终是为用户需要完成的一切任务提供最便宜模型。",
+          "url": "https://flash.jin10.com/detail/20260724072353724800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
         },
         {
           "title": "OpenAI基础设施负责人：OpenAI计划与AMD合作开发MI500系列AI芯片及后续产品。",
@@ -1288,7 +1559,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "谷歌Q2自由现金流首次转负，上调全年资本开支至最高2050亿美元，云业务爆发82%增长｜财报见闻",
@@ -1298,19 +1569,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时28分 ~ 06时56分]"
+          "appearance_count": 7,
+          "time_info": "[01时28分 ~ 07时59分]"
         },
         {
           "title": "谷歌电话会：警告现金流压力将持续，但\"需求仍超过投资增速\"，Gemini 4已启动训练",
           "url": "https://wallstreetcn.com/articles/3777723",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时28分 ~ 06时56分]"
+          "appearance_count": 7,
+          "time_info": "[01时28分 ~ 07时59分]"
         },
         {
           "title": "AI每赚1块钱，谷歌花出去2块",
@@ -1318,11 +1590,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时28分 ~ 06时56分]"
+          "appearance_count": 7,
+          "time_info": "[01时28分 ~ 07时59分]"
         },
         {
           "title": "如何看待谷歌母公司 Alphabet 自由现金流数十年来首次转负？",
@@ -1348,6 +1621,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
+        },
+        {
+          "title": "训练Gemini 4太烧钱！巴克莱测算：谷歌将连续两年自由现金流为负",
+          "url": "https://wallstreetcn.com/articles/3777753",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
         },
         {
           "title": "据福克斯商业：特朗普政府表示，欧盟依据《数字市场法案》对谷歌处以10亿美元罚款的决定威胁贸易稳定。",
@@ -1388,8 +1672,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时28分 ~ 06时56分]"
+          "appearance_count": 7,
+          "time_info": "[01时28分 ~ 07时59分]"
         },
         {
           "title": "金价跌2%，下探4000美元整数位心理关口",
@@ -1398,7 +1682,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
         }
@@ -1429,37 +1713,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "日本",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "日本外相带头对中国发难有何居心",
-          "url": "https://www.toutiao.com/trending/7665714922944204330/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            6,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时28分 ~ 06时56分]"
-        },
-        {
-          "title": "大摩：10年期日本国债在“令人瞠目”的3%水平值得买入",
-          "url": "https://wallstreetcn.com/livenews/3139026",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时14分"
         }
       ]
     },
