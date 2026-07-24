@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-24T14:25:13.326660+08:00",
-  "total_titles_processed": 979,
+  "generated_at": "2026-07-24T17:22:42.816416+08:00",
+  "total_titles_processed": 1171,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国",
-      "match_count": 62,
+      "match_count": 67,
       "titles": [
         {
           "title": "美国务卿：目前无法迅速推动俄乌达成协议",
@@ -26,11 +26,12 @@
           "ranks": [
             12,
             14,
-            18
+            18,
+            26
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时28分 ~ 14时25分]"
+          "appearance_count": 11,
+          "time_info": "[01时28分 ~ 17时22分]"
         },
         {
           "title": "特斯拉电话会：马斯克称正进行“二战以来美国最快的工业规模扩张”，获美光存储芯片“超级配额”",
@@ -271,6 +272,17 @@
           "time_info": "06时56分"
         },
         {
+          "title": "外交部：美国不是南海问题的当事方",
+          "url": "https://www.toutiao.com/trending/7665736984067751972/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
           "title": "在美国政府宣布新关税措施后，墨西哥经济部长埃布拉德表示：我们认为墨西哥实际承担的关税税率并未发生变化。",
           "url": "https://flash.jin10.com/detail/20260724061147585800",
           "source": "金十数据",
@@ -280,6 +292,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
+        },
+        {
+          "title": "美国公布新关税措施24日生效",
+          "url": "https://www.douyin.com/hot/2582854",
+          "source": "抖音",
+          "ranks": [
+            10,
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时59分 ~ 17时22分]"
         },
         {
           "title": "美国男子打死父亲被警方连开18枪击毙",
@@ -295,16 +320,17 @@
           "time_info": "[01时28分 ~ 06时56分]"
         },
         {
-          "title": "美国公布新关税措施24日生效",
-          "url": "https://www.douyin.com/hot/2582854",
-          "source": "抖音",
+          "title": "击败强敌！中国女排3比2胜美国女排，闯进世界女排联赛四强",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33644764",
+          "source": "澎湃新闻",
           "ranks": [
-            10,
-            9
+            14,
+            12,
+            11
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[07时59分 ~ 14时25分]"
+          "time_info": "[11时22分 ~ 17时22分]"
         },
         {
           "title": "新关税框架落地！美国对数十个国家加征10%-12.5%的关税，石油、天然气、食品得到豁免",
@@ -330,16 +356,16 @@
           "time_info": "[11时22分 ~ 14时25分]"
         },
         {
-          "title": "击败强敌！中国女排3比2胜美国女排，闯进世界女排联赛四强",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33644764",
-          "source": "澎湃新闻",
+          "title": "美著名“中国通”：面对中国，美国有一种心理上的失落",
+          "url": "https://news.ifeng.com/c/8v142IG9aOe",
+          "source": "凤凰网",
           "ranks": [
-            14,
-            12
+            10,
+            11
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时22分 ~ 14时25分]"
+          "time_info": "[14时24分 ~ 17时22分]"
         },
         {
           "title": "中国AI大反超 美国还能挡多久",
@@ -347,17 +373,6 @@
           "source": "今日头条",
           "ranks": [
             7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时24分 ~ 14时25分]"
-        },
-        {
-          "title": "美著名“中国通”：面对中国，美国有一种心理上的失落",
-          "url": "https://news.ifeng.com/c/8v142IG9aOe",
-          "source": "凤凰网",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -388,6 +403,17 @@
           "time_info": "[01时29分 ~ 03时14分]"
         },
         {
+          "title": "中方回应美国新一轮关税措施将生效",
+          "url": "https://www.toutiao.com/trending/7665993204700810793/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
           "title": "韩国将与美国财政部围绕外汇问题继续沟通。",
           "url": "https://wallstreetcn.com/livenews/3139117",
           "source": "华尔街见闻-快讯",
@@ -397,6 +423,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
+        },
+        {
+          "title": "西班牙队世界杯夺冠奖金要向美国交税",
+          "url": "https://www.toutiao.com/trending/7664893837550272531/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         },
         {
           "title": "美国财政部拍卖210亿美元10年期通胀保值国债（TIPS），得标利率2.438%（5月21日为2.169%），投标倍数2.30（前次2.52）。",
@@ -410,6 +447,17 @@
           "time_info": "01时29分"
         },
         {
+          "title": "亿纬锂能：回应美国专利诉讼及337调查 称不构成侵权",
+          "url": "https://wallstreetcn.com/livenews/3139363",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
           "title": "美国没有将任何国家列为汇率操纵国。",
           "url": "https://wallstreetcn.com/livenews/3139065",
           "source": "华尔街见闻-快讯",
@@ -419,6 +467,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
+        },
+        {
+          "title": "曝美国考虑在马里动武",
+          "url": "https://www.toutiao.com/trending/7665995682691436078/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         },
         {
           "title": "外交部副部长马朝旭访问美国",
@@ -721,7 +780,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 34,
+      "match_count": 36,
       "titles": [
         {
           "title": "伊朗称袭击美国亚马逊公司在巴林的数据基础设施，这个地方有多重要？将造成哪些影响？",
@@ -741,11 +800,12 @@
           "url": "https://news.ifeng.com/c/8v0yEqjepG6",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时22分 ~ 14时25分]"
+          "appearance_count": 4,
+          "time_info": "[11时22分 ~ 17时22分]"
         },
         {
           "title": "以色列国防部长卡茨：如果伊朗攻击以色列，将遭受毁灭性打击。",
@@ -768,6 +828,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
+        },
+        {
+          "title": "俄罗斯外交部：俄罗斯外长拉夫罗夫与伊朗外长阿拉格齐在上合组织部长级会议期间举行会晤。",
+          "url": "https://flash.jin10.com/detail/20260724170959602800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         },
         {
           "title": "据以色列时报：以色列国防部长卡茨今天在安全评估中表示，以色列“已为各种可能性做好准备”，以应对与伊朗的紧张局势。",
@@ -987,7 +1058,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -1036,6 +1107,17 @@
           "time_info": "05时03分"
         },
         {
+          "title": "伊朗外长：参与或协助打击伊朗都将承担国际责任",
+          "url": "https://wallstreetcn.com/livenews/3139342",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
           "title": "据伊朗媒体Fars News：美国驻科威特阿里·萨利姆空军基地遭到导弹和无人机袭击，科威特防空系统正在拦截来自伊朗的无人机和导弹。",
           "url": "https://flash.jin10.com/detail/20260724035032089800",
           "source": "金十数据",
@@ -1064,7 +1146,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -1108,6 +1190,22 @@
       "match_count": 24,
       "titles": [
         {
+          "title": "伊拉克与科威特边境口岸遭伊朗打击，特朗普：若再袭沙特船只，美国将施以“重大军事惩罚”",
+          "url": "https://wallstreetcn.com/articles/3777791",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            5,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[03时14分 ~ 17时22分]"
+        },
+        {
           "title": "特朗普：我们与伊朗只是小规模冲突",
           "url": "https://news.ifeng.com/c/8uzZogT1UTe",
           "source": "凤凰网",
@@ -1126,26 +1224,12 @@
             17,
             18,
             15,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时28分 ~ 14时25分]"
-        },
-        {
-          "title": "伊拉克与科威特边境口岸遭伊朗打击，特朗普：若再袭沙特船只，美国将施以“重大军事惩罚”",
-          "url": "https://wallstreetcn.com/articles/3777791",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时14分 ~ 14时25分]"
+          "appearance_count": 11,
+          "time_info": "[01时28分 ~ 17时22分]"
         },
         {
           "title": "特朗普称“接近”决定发动“大规模攻击”，伊朗被曝为军事升级做准备、尤其地面入侵",
@@ -1155,8 +1239,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时22分 ~ 14时25分]"
+          "appearance_count": 4,
+          "time_info": "[11时22分 ~ 17时22分]"
         },
         {
           "title": "美国总统特朗普：159艘伊朗军舰已被击沉。",
@@ -1176,7 +1260,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -1203,15 +1287,16 @@
           "time_info": "07时59分"
         },
         {
-          "title": "特朗普放话美国不需要霍尔木兹、伊朗袭一船就炸一桥或电厂，伊警告报复美利益设施、“谁都别想卖油”",
-          "url": "https://wallstreetcn.com/articles/3777708",
+          "title": "油价破百！胡塞武装开辟“红海战场”，特朗普权衡“更大规模战争”，乌克兰也来“火上浇油”",
+          "url": "https://wallstreetcn.com/articles/3777830",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            9,
+            5
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时28分 ~ 03时14分]"
+          "time_info": "[14时24分 ~ 17时22分]"
         },
         {
           "title": "美国会要让特朗普“踩刹车”，众院通过议案要求停止对伊朗军事行动",
@@ -1221,8 +1306,19 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时22分 ~ 17时22分]"
+        },
+        {
+          "title": "特朗普放话美国不需要霍尔木兹、伊朗袭一船就炸一桥或电厂，伊警告报复美利益设施、“谁都别想卖油”",
+          "url": "https://wallstreetcn.com/articles/3777708",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时22分 ~ 14时25分]"
+          "time_info": "[01时28分 ~ 03时14分]"
         },
         {
           "title": "特朗普称将用被冻结的伊朗资金赔偿船只及货物损失 | 环球市场",
@@ -1235,17 +1331,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时22分 ~ 14时25分]"
-        },
-        {
-          "title": "油价破百！胡塞武装开辟“红海战场”，特朗普权衡“更大规模战争”，乌克兰也来“火上浇油”",
-          "url": "https://wallstreetcn.com/articles/3777830",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时24分 ~ 14时25分]"
         },
         {
           "title": "特朗普：将用伊朗资金赔付船只及货物损失",
@@ -1309,7 +1394,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -1383,7 +1468,7 @@
     },
     {
       "keyword_group": "日本",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "日本外相带头对中国发难有何居心",
@@ -1400,17 +1485,6 @@
           "time_info": "[01时28分 ~ 07时59分]"
         },
         {
-          "title": "《日本三国》作者疑删号退网",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356459&amp;topic_name=%E3%80%8A%E6%97%A5%E6%9C%AC%E4%B8%89%E5%9B%BD%E3%80%8B%E4%BD%9C%E8%80%85%E7%96%91%E5%88%A0%E5%8F%B7%E9%80%80%E7%BD%91",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时24分 ~ 14时25分]"
-        },
-        {
           "title": "日本6月全国未季调CPI月率 0%，前值0.5%。",
           "url": "https://flash.jin10.com/detail/20260724073253156800",
           "source": "金十数据",
@@ -1422,13 +1496,24 @@
           "time_info": "07时59分"
         },
         {
+          "title": "从能源冲击到企业涨价，日本央行加息逻辑正在悄然改变",
+          "url": "https://flash.jin10.com/detail/20260724171045994800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
           "title": "日本40年期国债收益率上升10个基点至4.01%。",
           "url": "https://wallstreetcn.com/livenews/3139261",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -1439,7 +1524,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -1499,6 +1584,18 @@
           "time_info": "07时59分"
         },
         {
+          "title": "《日本三国》作者疑删号退网",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356459&amp;topic_name=%E3%80%8A%E6%97%A5%E6%9C%AC%E4%B8%89%E5%9B%BD%E3%80%8B%E4%BD%9C%E8%80%85%E7%96%91%E5%88%A0%E5%8F%B7%E9%80%80%E7%BD%91",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时24分 ~ 17时22分]"
+        },
+        {
           "title": "大摩：10年期日本国债在“令人瞠目”的3%水平值得买入",
           "url": "https://wallstreetcn.com/livenews/3139026",
           "source": "华尔街见闻-快讯",
@@ -1522,6 +1619,18 @@
           "time_info": "[11时22分 ~ 14时25分]"
         },
         {
+          "title": "中国机器人霸榜,日本破防",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356460&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%9C%B8%E6%A6%9C%2C%E6%97%A5%E6%9C%AC%E7%A0%B4%E9%98%B2",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时24分 ~ 17时22分]"
+        },
+        {
           "title": "日本校园动漫生活真实度大揭秘",
           "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E6%A0%A1%E5%9B%AD%E5%8A%A8%E6%BC%AB%E7%94%9F%E6%B4%BB%E7%9C%9F%E5%AE%9E%E5%BA%A6%E5%A4%A7%E6%8F%AD%E7%A7%98",
           "source": "bilibili 热搜",
@@ -1532,17 +1641,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时22分 ~ 14时25分]"
-        },
-        {
-          "title": "中国机器人霸榜,日本破防",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356460&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%9C%B8%E6%A6%9C%2C%E6%97%A5%E6%9C%AC%E7%A0%B4%E9%98%B2",
-          "source": "贴吧",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时24分 ~ 14时25分]"
         },
         {
           "title": "日本舆论如何看中国学者获菲尔兹奖",
@@ -1565,6 +1663,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
+        },
+        {
+          "title": "日本游客锐减,仇越情绪爆发",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356470&amp;topic_name=%E6%97%A5%E6%9C%AC%E6%B8%B8%E5%AE%A2%E9%94%90%E5%87%8F%2C%E4%BB%87%E8%B6%8A%E6%83%85%E7%BB%AA%E7%88%86%E5%8F%91",
+          "source": "贴吧",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         },
         {
           "title": "日本6月核心CPI年率将于十分钟后公布。",
@@ -1595,7 +1704,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -1617,7 +1726,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -1636,7 +1745,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
@@ -1647,8 +1756,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时55分 ~ 14时25分]"
+          "appearance_count": 7,
+          "time_info": "[06时55分 ~ 17时22分]"
         },
         {
           "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
@@ -1696,8 +1805,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时22分 ~ 14时25分]"
+          "appearance_count": 4,
+          "time_info": "[11时22分 ~ 17时22分]"
         },
         {
           "title": "美股",
@@ -1777,6 +1886,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
+        },
+        {
+          "title": "15个月来最惨烈一天：美股“七巨头”单日市值蒸发约8000亿美元",
+          "url": "https://www.cls.cn/detail/2435936",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         },
         {
           "title": "金十图示：2026年07月23日（周四）美股热门股票行情一览（美股收盘）",
@@ -1859,7 +1979,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
           "title": "新晋菲尔兹奖得主当天宣布加入OpenAI",
@@ -1871,6 +1991,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时24分 ~ 14时25分]"
+        },
+        {
+          "title": "如何看待新晋菲尔兹奖得主 Jacob Tsimerman 颁奖当天宣布加入 OpenAI？",
+          "url": "https://www.zhihu.com/question/2063832242242184073",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         },
         {
           "title": "OpenAI：预计将大规模部署AMD的Helios。",
@@ -1930,6 +2061,17 @@
           "time_info": "01时29分"
         },
         {
+          "title": "印度法院：对新闻机构ANI与OpenAI之间的版权争议拥有管辖权。",
+          "url": "https://flash.jin10.com/detail/20260724170650841800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
           "title": "OpenAI预计将大规模部署AMD Helios。",
           "url": "https://flash.jin10.com/detail/20260724010730197800",
           "source": "金十数据",
@@ -1963,6 +2105,28 @@
           "time_info": "01时29分"
         },
         {
+          "title": "印度法院：OpenAI使用新闻机构ANI的内容进行人工智能训练并不构成版权侵权。",
+          "url": "https://flash.jin10.com/detail/20260724170428772800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
+          "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
           "title": "OpenAI：ChatGPT语音功能现在已在桌面应用中上线。",
           "url": "https://flash.jin10.com/detail/20260724034515352800",
           "source": "金十数据",
@@ -1983,6 +2147,111 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "印度",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "印度博主穷游中国",
+          "url": "https://s.weibo.com/weibo?q=%E5%8D%B0%E5%BA%A6%E5%8D%9A%E4%B8%BB%E7%A9%B7%E6%B8%B8%E4%B8%AD%E5%9B%BD&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时24分 ~ 14时25分]"
+        },
+        {
+          "title": "解析印度特色资源短缺问题",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E6%9E%90%E5%8D%B0%E5%BA%A6%E7%89%B9%E8%89%B2%E8%B5%84%E6%BA%90%E7%9F%AD%E7%BC%BA%E9%97%AE%E9%A2%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时24分 ~ 14时25分]"
+        },
+        {
+          "title": "印度7月综合PMI初值 54.3，前值 57.1。",
+          "url": "https://wallstreetcn.com/livenews/3139229",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
+          "title": "美元兑印度卢比远期溢价下降；1年期下跌4个基点至2.93%。",
+          "url": "https://flash.jin10.com/detail/20260724165142604800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
+          "title": "印度7月制造业PMI初值 53.9，前值 54.2。",
+          "url": "https://wallstreetcn.com/livenews/3139228",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
+          "title": "交易员称，印度央行可能在即期干预的同时，也在进行较长期限的美元/卢比买卖互换操作。",
+          "url": "https://flash.jin10.com/detail/20260724165119258800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
+          "title": "印度7月服务业PMI初值 53.1，前值 57.4。",
+          "url": "https://wallstreetcn.com/livenews/3139227",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
+          "title": "印度股指Nifty指数下跌1%。",
+          "url": "https://wallstreetcn.com/livenews/3139223",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
+          "title": "俄军袭击乌克兰三大港口，欧盟授权在印度洋搜查俄油轮",
+          "url": "https://flash.jin10.com/detail/20260724164335456800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         }
       ]
     },
@@ -2087,78 +2356,6 @@
       ]
     },
     {
-      "keyword_group": "印度",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "印度博主穷游中国",
-          "url": "https://s.weibo.com/weibo?q=%E5%8D%B0%E5%BA%A6%E5%8D%9A%E4%B8%BB%E7%A9%B7%E6%B8%B8%E4%B8%AD%E5%9B%BD&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时24分 ~ 14时25分]"
-        },
-        {
-          "title": "解析印度特色资源短缺问题",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E6%9E%90%E5%8D%B0%E5%BA%A6%E7%89%B9%E8%89%B2%E8%B5%84%E6%BA%90%E7%9F%AD%E7%BC%BA%E9%97%AE%E9%A2%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时24分 ~ 14时25分]"
-        },
-        {
-          "title": "印度7月综合PMI初值 54.3，前值 57.1。",
-          "url": "https://wallstreetcn.com/livenews/3139229",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时25分"
-        },
-        {
-          "title": "印度7月制造业PMI初值 53.9，前值 54.2。",
-          "url": "https://wallstreetcn.com/livenews/3139228",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时25分"
-        },
-        {
-          "title": "印度7月服务业PMI初值 53.1，前值 57.4。",
-          "url": "https://wallstreetcn.com/livenews/3139227",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时25分"
-        },
-        {
-          "title": "印度股指Nifty指数下跌1%。",
-          "url": "https://wallstreetcn.com/livenews/3139223",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时25分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
       "match_count": 3,
       "titles": [
@@ -2184,8 +2381,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时24分 ~ 14时25分]"
+          "appearance_count": 3,
+          "time_info": "[14时24分 ~ 17时22分]"
         },
         {
           "title": "金价跌2%，下探4000美元整数位心理关口",
@@ -2197,6 +2394,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "DeepSeek纠结了10秒还是决定谄媚",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E7%BA%A0%E7%BB%93%E4%BA%8610%E7%A7%92%E8%BF%98%E6%98%AF%E5%86%B3%E5%AE%9A%E8%B0%84%E5%AA%9A&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
+          "title": "黄仁勋力挺中国AI模型：DeepSeek、Kimi这样优秀的大模型得到广泛应用",
+          "url": "https://wallstreetcn.com/livenews/3138991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时29分"
         }
       ]
     },
@@ -2225,23 +2450,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "黄仁勋力挺中国AI模型：DeepSeek、Kimi这样优秀的大模型得到广泛应用",
-          "url": "https://wallstreetcn.com/livenews/3138991",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时29分"
         }
       ]
     }
