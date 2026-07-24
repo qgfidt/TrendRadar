@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-24T19:42:54.807245+08:00",
-  "total_titles_processed": 1326,
+  "generated_at": "2026-07-24T21:41:49.324136+08:00",
+  "total_titles_processed": 1470,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国",
-      "match_count": 74,
+      "match_count": 82,
       "titles": [
         {
           "title": "美国务卿：目前无法迅速推动俄乌达成协议",
@@ -251,6 +251,20 @@
           "time_info": "03时14分"
         },
         {
+          "title": "击败强敌！中国女排3比2胜美国女排，闯进世界女排联赛四强",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33644764",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时22分 ~ 21时41分]"
+        },
+        {
           "title": "美国公布新关税措施24日生效",
           "url": "https://www.douyin.com/hot/2582854",
           "source": "抖音",
@@ -265,6 +279,17 @@
           "time_info": "[07时59分 ~ 19时42分]"
         },
         {
+          "title": "德国政府发言人：（就美国最新关税表示）联邦政府与欧洲委员会一样，认为欧盟-美国海关协议的条款将得到遵守。",
+          "url": "https://flash.jin10.com/detail/20260724211312099800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
           "title": "美国启动车门安全制度的制定工作，特斯拉已经发生多起相关的死亡事故。",
           "url": "https://wallstreetcn.com/livenews/3139014",
           "source": "华尔街见闻-快讯",
@@ -274,6 +299,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
+        },
+        {
+          "title": "美国运通盘前跌幅扩大至5%。",
+          "url": "https://wallstreetcn.com/livenews/3139492",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
         },
         {
           "title": "韩国和美国开设造船合作中心",
@@ -315,23 +351,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
         {
-          "title": "击败强敌！中国女排3比2胜美国女排，闯进世界女排联赛四强",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33644764",
-          "source": "澎湃新闻",
+          "title": "美著名“中国通”：面对中国，美国有一种心理上的失落",
+          "url": "https://news.ifeng.com/c/8v142IG9aOe",
+          "source": "凤凰网",
           "ranks": [
-            14,
-            12,
-            11,
-            8
+            10,
+            11
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[11时22分 ~ 19时42分]"
+          "time_info": "[14时24分 ~ 21时41分]"
         },
         {
           "title": "美国男子打死父亲被警方连开18枪击毙",
@@ -345,18 +379,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时28分 ~ 06时56分]"
-        },
-        {
-          "title": "美著名“中国通”：面对中国，美国有一种心理上的失落",
-          "url": "https://news.ifeng.com/c/8v142IG9aOe",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时24分 ~ 19时42分]"
         },
         {
           "title": "新关税框架落地！美国对数十个国家加征10%-12.5%的关税，石油、天然气、食品得到豁免",
@@ -428,6 +450,28 @@
           "time_info": "17时22分"
         },
         {
+          "title": "加总理表态：若谈判破裂，会对美国采取反制措施",
+          "url": "https://news.ifeng.com/c/8v1fix6UY1m",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "王小洪会见美国联邦调查局局长帕特尔",
+          "url": "https://flash.jin10.com/detail/20260724210733064800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
           "title": "韩国将与美国财政部围绕外汇问题继续沟通。",
           "url": "https://wallstreetcn.com/livenews/3139117",
           "source": "华尔街见闻-快讯",
@@ -437,6 +481,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
+        },
+        {
+          "title": "王小洪会见美国联邦调查局局长帕特尔",
+          "url": "https://wallstreetcn.com/livenews/3139488",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
         },
         {
           "title": "西班牙队世界杯夺冠奖金要向美国交税",
@@ -472,13 +527,24 @@
           "time_info": "17时22分"
         },
         {
+          "title": "贝莱德启动与Meta相关的美国高等级债券发行。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3139485",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
           "title": "克里姆林宫：任何新的美国提案都需要对俄罗斯可接受。",
           "url": "https://flash.jin10.com/detail/20260724193140551800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -494,13 +560,24 @@
           "time_info": "05时03分"
         },
         {
+          "title": "贝莱德(BLK.N)启动与Meta Platforms(META.O)相关的美国投资级债券发行。",
+          "url": "https://flash.jin10.com/detail/20260724205755013800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
           "title": "克里姆林宫：美国希望找到冲突和平解决方案与俄罗斯的利益完全一致，但仍然存在不确定性。",
           "url": "https://flash.jin10.com/detail/20260724193052709800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -544,7 +621,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -599,7 +676,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -632,7 +709,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -703,6 +780,17 @@
           "time_info": "06时56分"
         },
         {
+          "title": "美国国务卿鲁比奥：日本将减少从中东进口石油 增加从美国的采购",
+          "url": "https://wallstreetcn.com/livenews/3139468",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
           "title": "美国高级官员：符合《美墨加协定》的商品将获得豁免，原因是北美供应链高度一体化，且这些商品包含较高比例的美国成分。",
           "url": "https://flash.jin10.com/detail/20260724051305511800",
           "source": "金十数据",
@@ -731,7 +819,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -860,7 +948,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 40,
+      "match_count": 48,
       "titles": [
         {
           "title": "伊朗称袭击美国亚马逊公司在巴林的数据基础设施，这个地方有多重要？将造成哪些影响？",
@@ -884,8 +972,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时22分 ~ 19时42分]"
+          "appearance_count": 6,
+          "time_info": "[11时22分 ~ 21时41分]"
         },
         {
           "title": "以色列国防部长卡茨：如果伊朗攻击以色列，将遭受毁灭性打击。",
@@ -943,6 +1031,17 @@
           "time_info": "05时03分"
         },
         {
+          "title": "被曝向胡塞武装空运军官和武器，伊朗怎么说？",
+          "url": "https://news.ifeng.com/c/8v0y8EzOzBv",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
           "title": "伊朗国家广播公司：格什姆岛南岸传出爆炸声。",
           "url": "https://flash.jin10.com/detail/20260724072812353800",
           "source": "金十数据",
@@ -987,6 +1086,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
+        },
+        {
+          "title": "欧盟宣布对六名伊朗个人实施限制性措施",
+          "url": "https://wallstreetcn.com/livenews/3139489",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
         },
         {
           "title": "伊朗国家广播公司：伊朗阿巴斯港以西传出爆炸声。",
@@ -1055,6 +1165,17 @@
           "time_info": "07时59分"
         },
         {
+          "title": "伊朗称袭击地区内美军设施 摧毁一套“爱国者”防空系统",
+          "url": "https://wallstreetcn.com/livenews/3139482",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
           "title": "科威特外交部：谴责伊朗及其代理人持续对科威特发动的袭击，阿卜代利边境口岸受到影响。",
           "url": "https://flash.jin10.com/detail/20260724010526435800",
           "source": "金十数据",
@@ -1072,9 +1193,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
+        },
+        {
+          "title": "伊朗称袭击美国亚马逊公司一数据中心",
+          "url": "https://www.toutiao.com/trending/7665519115210899499/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
         },
         {
           "title": "市场消息：德国外交官称，德国驻伊朗使馆人员已撤离。",
@@ -1086,6 +1218,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队袭击了位于约旦和伊拉克ERBIL的美国军事资产。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3139477",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
         },
         {
           "title": "美国中央司令部：自恢复对伊朗实施海上封锁以来的9天内，已重新引导12艘商业船只改变航线，并使1艘船只失去行动能力。",
@@ -1165,6 +1308,17 @@
           "time_info": "06时56分"
         },
         {
+          "title": "伊朗称美将伊朗当武器试验场",
+          "url": "https://wallstreetcn.com/livenews/3139467",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
           "title": "美威胁发动空前打击，伊朗、胡塞武装：已做好应战准备",
           "url": "https://wallstreetcn.com/livenews/3139085",
           "source": "华尔街见闻-快讯",
@@ -1185,6 +1339,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
+        },
+        {
+          "title": "约旦称拦截伊朗7枚导弹和6架无人机",
+          "url": "https://flash.jin10.com/detail/20260724204622915800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
         },
         {
           "title": "美军称对伊朗海上封锁已迫使12艘商船改道",
@@ -1215,7 +1380,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -1248,9 +1413,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
+        },
+        {
+          "title": "伊朗称袭击地区内美军设施 摧毁一套“爱国者”防空系统",
+          "url": "https://flash.jin10.com/detail/20260724204425135800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
         },
         {
           "title": "伊朗外长：扣押他国资产“极具煽动性”",
@@ -1270,7 +1446,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -1311,7 +1487,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "伊拉克与科威特边境口岸遭伊朗打击，特朗普：若再袭沙特船只，美国将施以“重大军事惩罚”",
@@ -1326,8 +1502,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时14分 ~ 19时42分]"
+          "appearance_count": 11,
+          "time_info": "[03时14分 ~ 21时41分]"
+        },
+        {
+          "title": "特朗普称“接近”决定发动“大规模攻击”，伊朗被曝为军事升级做准备、尤其地面入侵",
+          "url": "https://wallstreetcn.com/articles/3777811",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时22分 ~ 21时41分]"
         },
         {
           "title": "特朗普：我们与伊朗只是小规模冲突",
@@ -1356,17 +1543,6 @@
           "time_info": "[01时28分 ~ 17时22分]"
         },
         {
-          "title": "特朗普称“接近”决定发动“大规模攻击”，伊朗被曝为军事升级做准备、尤其地面入侵",
-          "url": "https://wallstreetcn.com/articles/3777811",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时22分 ~ 19时42分]"
-        },
-        {
           "title": "油价破百！胡塞武装开辟“红海战场”，特朗普权衡“更大规模战争”，乌克兰也来“火上浇油”",
           "url": "https://wallstreetcn.com/articles/3777830",
           "source": "华尔街见闻",
@@ -1375,8 +1551,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时24分 ~ 19时42分]"
+          "appearance_count": 5,
+          "time_info": "[14时24分 ~ 21时41分]"
         },
         {
           "title": "美国总统特朗普：159艘伊朗军舰已被击沉。",
@@ -1410,6 +1586,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
+        },
+        {
+          "title": "美官员：特朗普与泽连斯基将在华盛顿会晤",
+          "url": "https://wallstreetcn.com/livenews/3139491",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "美国白宫官员：美国总统特朗普与乌克兰总统泽连斯基将于7月28日在华盛顿会晤。",
+          "url": "https://flash.jin10.com/detail/20260724211255431800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
         },
         {
           "title": "美参议院否决限制特朗普对伊战争权力的决议案",
@@ -1523,6 +1721,17 @@
           "time_info": "14时25分"
         },
         {
+          "title": "俄罗斯表示将等待特朗普就结束乌克兰战争提出新方案",
+          "url": "https://flash.jin10.com/detail/20260724205236317800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
           "title": "美国司法部在总统特朗普飞机调查中撤销针对纽约时报的传唤。",
           "url": "https://wallstreetcn.com/livenews/3139045",
           "source": "华尔街见闻-快讯",
@@ -1573,7 +1782,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -1603,7 +1812,7 @@
     },
     {
       "keyword_group": "日本",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "日本外相带头对中国发难有何居心",
@@ -1618,6 +1827,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时28分 ~ 07时59分]"
+        },
+        {
+          "title": "《日本三国》作者疑删号退网",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356459&amp;topic_name=%E3%80%8A%E6%97%A5%E6%9C%AC%E4%B8%89%E5%9B%BD%E3%80%8B%E4%BD%9C%E8%80%85%E7%96%91%E5%88%A0%E5%8F%B7%E9%80%80%E7%BD%91",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            12,
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时24分 ~ 21时41分]"
         },
         {
           "title": "日本6月全国未季调CPI月率 0%，前值0.5%。",
@@ -1697,19 +1920,6 @@
           "time_info": "07时59分"
         },
         {
-          "title": "《日本三国》作者疑删号退网",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356459&amp;topic_name=%E3%80%8A%E6%97%A5%E6%9C%AC%E4%B8%89%E5%9B%BD%E3%80%8B%E4%BD%9C%E8%80%85%E7%96%91%E5%88%A0%E5%8F%B7%E9%80%80%E7%BD%91",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时24分 ~ 19时42分]"
-        },
-        {
           "title": "日本6月核心CPI年率 1.6%，预期1.60%，前值1.40%。",
           "url": "https://flash.jin10.com/detail/20260724073002657800",
           "source": "金十数据",
@@ -1743,6 +1953,20 @@
           "time_info": "03时14分"
         },
         {
+          "title": "中国机器人霸榜,日本破防",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356460&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%9C%B8%E6%A6%9C%2C%E6%97%A5%E6%9C%AC%E7%A0%B4%E9%98%B2",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            14,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时24分 ~ 21时41分]"
+        },
+        {
           "title": "日本一只脚已跨入核门槛",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%B8%80%E5%8F%AA%E8%84%9A%E5%B7%B2%E8%B7%A8%E5%85%A5%E6%A0%B8%E9%97%A8%E6%A7%9B",
           "source": "百度热搜",
@@ -1755,17 +1979,17 @@
           "time_info": "[11时22分 ~ 14时25分]"
         },
         {
-          "title": "中国机器人霸榜,日本破防",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356460&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%9C%B8%E6%A6%9C%2C%E6%97%A5%E6%9C%AC%E7%A0%B4%E9%98%B2",
+          "title": "日本游客锐减,仇越情绪爆发",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356470&amp;topic_name=%E6%97%A5%E6%9C%AC%E6%B8%B8%E5%AE%A2%E9%94%90%E5%87%8F%2C%E4%BB%87%E8%B6%8A%E6%83%85%E7%BB%AA%E7%88%86%E5%8F%91",
           "source": "贴吧",
           "ranks": [
-            6,
-            14,
-            16
+            7,
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时24分 ~ 19时42分]"
+          "appearance_count": 3,
+          "time_info": "[17时22分 ~ 21时41分]"
         },
         {
           "title": "日本校园动漫生活真实度大揭秘",
@@ -1778,18 +2002,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时22分 ~ 14时25分]"
-        },
-        {
-          "title": "日本游客锐减,仇越情绪爆发",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356470&amp;topic_name=%E6%97%A5%E6%9C%AC%E6%B8%B8%E5%AE%A2%E9%94%90%E5%87%8F%2C%E4%BB%87%E8%B6%8A%E6%83%85%E7%BB%AA%E7%88%86%E5%8F%91",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时22分 ~ 19时42分]"
         },
         {
           "title": "日本舆论如何看中国学者获菲尔兹奖",
@@ -1831,7 +2043,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -1858,6 +2070,17 @@
           "time_info": "14时25分"
         },
         {
+          "title": "如何看待近期日本面临的股债汇「三杀」的境况？",
+          "url": "https://www.zhihu.com/question/2063933601394025370",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
           "title": "消息人士：日本央行可能维持通胀风险警告 但认为风险未明显升温",
           "url": "https://flash.jin10.com/detail/20260724105717546800",
           "source": "金十数据",
@@ -1880,6 +2103,17 @@
           "time_info": "14时25分"
         },
         {
+          "title": "日本首相高市早苗将考虑内阁改组。（共同社）",
+          "url": "https://wallstreetcn.com/livenews/3139464",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
           "title": "“731”这类纪录片 日本应更多地播放",
           "url": "https://www.baidu.com/s?wd=%E2%80%9C731%E2%80%9D%E8%BF%99%E7%B1%BB%E7%BA%AA%E5%BD%95%E7%89%87+%E6%97%A5%E6%9C%AC%E5%BA%94%E6%9B%B4%E5%A4%9A%E5%9C%B0%E6%92%AD%E6%94%BE",
           "source": "百度热搜",
@@ -1894,7 +2128,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
@@ -1905,8 +2139,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时55分 ~ 19时42分]"
+          "appearance_count": 9,
+          "time_info": "[06时55分 ~ 21时41分]"
+        },
+        {
+          "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
+          "url": "https://wallstreetcn.com/articles/3777828",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时22分 ~ 21时41分]"
         },
         {
           "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
@@ -1918,18 +2164,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时28分 ~ 06时56分]"
-        },
-        {
-          "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
-          "url": "https://wallstreetcn.com/articles/3777828",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时22分 ~ 19时42分]"
         },
         {
           "title": "美股收盘：七巨头齐跌特斯拉重挫14% 纳指降2%布油站上100美元",
@@ -1999,7 +2233,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -2055,7 +2289,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -2077,9 +2311,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3139483",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
         },
         {
           "title": "金十图示：2026年07月23日（周四）美股热门股票行情一览（美股收盘）",
@@ -2148,6 +2393,17 @@
           "time_info": "06时56分"
         },
         {
+          "title": "美股IPO热潮是不是泡沫前兆（二）悲观派：看数量不如看金额，两大浪潮同现是高危信号",
+          "url": "https://flash.jin10.com/detail/20260724204510004800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
           "title": "美股科技七巨头市值蒸发近8千亿美元",
           "url": "https://www.toutiao.com/trending/7665870757104193078/",
           "source": "今日头条",
@@ -2173,8 +2429,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时22分 ~ 19时42分]"
+          "appearance_count": 3,
+          "time_info": "[17时22分 ~ 21时41分]"
         },
         {
           "title": "新晋菲尔兹奖得主当天宣布加入OpenAI",
@@ -2186,6 +2442,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时24分 ~ 14时25分]"
+        },
+        {
+          "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时22分 ~ 21时41分]"
         },
         {
           "title": "OpenAI：预计将大规模部署AMD的Helios。",
@@ -2210,18 +2478,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时29分 ~ 03时14分]"
-        },
-        {
-          "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时22分 ~ 19时42分]"
         },
         {
           "title": "OpenAI总裁布罗克曼表示，目标始终是为用户需要完成的一切任务提供最便宜模型。",
@@ -2336,6 +2592,128 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "谷歌Q2自由现金流首次转负，上调全年资本开支至最高2050亿美元，云业务爆发82%增长｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3777718",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时28分 ~ 07时59分]"
+        },
+        {
+          "title": "谷歌电话会：警告现金流压力将持续，但\"需求仍超过投资增速\"，Gemini 4已启动训练",
+          "url": "https://wallstreetcn.com/articles/3777723",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时28分 ~ 07时59分]"
+        },
+        {
+          "title": "AI每赚1块钱，谷歌花出去2块",
+          "url": "https://wallstreetcn.com/articles/3777748",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时28分 ~ 11时22分]"
+        },
+        {
+          "title": "如何看待谷歌母公司 Alphabet 自由现金流数十年来首次转负？",
+          "url": "https://www.zhihu.com/question/2063569251428819442",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12,
+            7,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时28分 ~ 06时56分]"
+        },
+        {
+          "title": "美国科技股七巨头指数收跌4.8%，市值蒸发7970亿美元。 成分股特斯拉与谷歌母公司Alphabet市值在业绩报告发布次日分别收跌14.52%和7.13%，合计蒸发（至少）数千亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3139060",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时03分"
+        },
+        {
+          "title": "训练Gemini 4太烧钱！巴克莱测算：谷歌将连续两年自由现金流为负",
+          "url": "https://wallstreetcn.com/articles/3777753",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        },
+        {
+          "title": "Verizon与谷歌签署10亿美元数据中心协议。",
+          "url": "https://wallstreetcn.com/livenews/3139484",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "Verizon(VZ.N)与谷歌(GOOG.O)签署10亿美元数据中心协议。",
+          "url": "https://flash.jin10.com/detail/20260724205443672800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "据福克斯商业：特朗普政府表示，欧盟依据《数字市场法案》对谷歌处以10亿美元罚款的决定威胁贸易稳定。",
+          "url": "https://flash.jin10.com/detail/20260724004823135800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时29分"
+        },
+        {
+          "title": "谷歌云CEO：随着云业务表现远超预期，客户支出激增50%",
+          "url": "https://wallstreetcn.com/livenews/3138992",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时29分"
+        }
+      ]
+    },
+    {
       "keyword_group": "印度",
       "match_count": 9,
       "titles": [
@@ -2437,106 +2815,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "谷歌Q2自由现金流首次转负，上调全年资本开支至最高2050亿美元，云业务爆发82%增长｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3777718",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时28分 ~ 07时59分]"
-        },
-        {
-          "title": "谷歌电话会：警告现金流压力将持续，但\"需求仍超过投资增速\"，Gemini 4已启动训练",
-          "url": "https://wallstreetcn.com/articles/3777723",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时28分 ~ 07时59分]"
-        },
-        {
-          "title": "AI每赚1块钱，谷歌花出去2块",
-          "url": "https://wallstreetcn.com/articles/3777748",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时28分 ~ 11时22分]"
-        },
-        {
-          "title": "如何看待谷歌母公司 Alphabet 自由现金流数十年来首次转负？",
-          "url": "https://www.zhihu.com/question/2063569251428819442",
-          "source": "知乎",
-          "ranks": [
-            11,
-            12,
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时28分 ~ 06时56分]"
-        },
-        {
-          "title": "美国科技股七巨头指数收跌4.8%，市值蒸发7970亿美元。 成分股特斯拉与谷歌母公司Alphabet市值在业绩报告发布次日分别收跌14.52%和7.13%，合计蒸发（至少）数千亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3139060",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时03分"
-        },
-        {
-          "title": "训练Gemini 4太烧钱！巴克莱测算：谷歌将连续两年自由现金流为负",
-          "url": "https://wallstreetcn.com/articles/3777753",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "据福克斯商业：特朗普政府表示，欧盟依据《数字市场法案》对谷歌处以10亿美元罚款的决定威胁贸易稳定。",
-          "url": "https://flash.jin10.com/detail/20260724004823135800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时29分"
-        },
-        {
-          "title": "谷歌云CEO：随着云业务表现远超预期，客户支出激增50%",
-          "url": "https://wallstreetcn.com/livenews/3138992",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时29分"
         }
       ]
     },
