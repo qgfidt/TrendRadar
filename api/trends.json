@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-25T21:22:29.878443+08:00",
-  "total_titles_processed": 1228,
+  "generated_at": "2026-07-25T23:02:38.989889+08:00",
+  "total_titles_processed": 1358,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国",
-      "match_count": 52,
+      "match_count": 55,
       "titles": [
         {
           "title": "三星、SK海力士将宣布与美国科技巨头达成大规模芯片合作",
@@ -16,11 +16,12 @@
             3,
             2,
             6,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时29分 ~ 21时22分]"
+          "appearance_count": 14,
+          "time_info": "[01时29分 ~ 23时02分]"
         },
         {
           "title": "王小洪会见美国联邦调查局局长",
@@ -157,17 +158,6 @@
           "time_info": "01时30分"
         },
         {
-          "title": "美国与英国讨论关于下周举办霍尔木兹海峡危机会议的计划。 两国会议将针对海峡问题研究（组建）潜在的国际联盟。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3139750",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时22分"
-        },
-        {
           "title": "德国工商界批评美国新关税加剧贸易不确定性",
           "url": "https://wallstreetcn.com/livenews/3139735",
           "source": "华尔街见闻-快讯",
@@ -192,6 +182,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时46分 ~ 21时22分]"
+        },
+        {
+          "title": "韩国绑定美国AI产业链！三星、SK海力士与英伟达、博通等签9500亿美元芯片大单",
+          "url": "https://wallstreetcn.com/articles/3777926",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时22分 ~ 23时02分]"
         },
         {
           "title": "美国7月24日当周石油钻井数 450，前值 452。",
@@ -240,6 +242,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时01分 ~ 08时12分]"
+        },
+        {
+          "title": "美国与英国讨论关于下周举办霍尔木兹海峡危机会议的计划。 两国会议将针对海峡问题研究（组建）潜在的国际联盟。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3139750",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时22分 ~ 23时02分]"
         },
         {
           "title": "美国女子吸毒精神错乱仰躺推车晃腿",
@@ -306,6 +320,17 @@
           "time_info": "[07时01分 ~ 08时12分]"
         },
         {
+          "title": "有人呼吁美“封杀”中国大模型，黄仁勋等人急了：快开源美国AI",
+          "url": "https://news.ifeng.com/c/8v36WP0WL2Y",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时22分 ~ 23时02分]"
+        },
+        {
           "title": "美国公布新关税措施24日生效",
           "url": "https://www.douyin.com/hot/2582854",
           "source": "抖音",
@@ -353,17 +378,6 @@
           "time_info": "[03时23分 ~ 05时02分]"
         },
         {
-          "title": "韩国绑定美国AI产业链！三星、SK海力士与英伟达、博通等签9500亿美元芯片大单",
-          "url": "https://wallstreetcn.com/articles/3777926",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时22分"
-        },
-        {
           "title": "沙特阿拉伯公共投资基金与美国进出口银行签署价值最高达150亿美元的谅解备忘录。",
           "url": "https://flash.jin10.com/detail/20260725030342885800",
           "source": "金十数据",
@@ -373,6 +387,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
+        },
+        {
+          "title": "两位巴西消息人士：美国计划派遣特使旨在影响巴西十月的总统选举。",
+          "url": "https://flash.jin10.com/detail/20260725222312261800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "美国至7月24日当周总钻井总数 587口，前值588口。",
@@ -397,17 +422,6 @@
           "time_info": "01时30分"
         },
         {
-          "title": "有人呼吁美“封杀”中国大模型，黄仁勋等人急了：快开源美国AI",
-          "url": "https://news.ifeng.com/c/8v36WP0WL2Y",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时22分"
-        },
-        {
           "title": "美国至7月24日当周石油钻井总数 450口，前值452口。",
           "url": "https://flash.jin10.com/detail/20260725010211142800",
           "source": "金十数据",
@@ -417,6 +431,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时30分"
+        },
+        {
+          "title": "安全消息人士：伊拉克防空系统在埃尔比勒美国领事馆附近击落了一架无人机。",
+          "url": "https://flash.jin10.com/detail/20260725211428595800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "美国至7月24日当周石油钻井总数将于十分钟后公布。",
@@ -439,6 +464,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
+        },
+        {
+          "title": "热浪炙烤美国中部，用电需求攀升",
+          "url": "https://flash.jin10.com/detail/20260725210602519800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "塞尔维亚总统武契奇：美国已经对我国产品取消（加征）35%的关税。 塞美将谈判新的关税，税率可能会（低至）10%-12%。",
@@ -568,7 +604,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时22分"
         },
@@ -609,7 +645,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 37,
+      "match_count": 41,
       "titles": [
         {
           "title": "被曝向胡塞武装空运军官和武器，伊朗怎么说？",
@@ -621,8 +657,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时29分 ~ 21时22分]"
+          "appearance_count": 14,
+          "time_info": "[01时29分 ~ 23时02分]"
         },
         {
           "title": "伊朗外长：无需更多调解者，美应改变态度",
@@ -636,6 +672,17 @@
           "time_info": "[12时10分 ~ 21时22分]"
         },
         {
+          "title": "美媒爆猛料，“两国首次直接袭击伊朗”",
+          "url": "https://news.ifeng.com/c/8v324dBINEL",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时46分 ~ 23时02分]"
+        },
+        {
           "title": "伊朗公布美军近期袭击伤亡数据",
           "url": "https://news.ifeng.com/c/8v0yEqjepG6",
           "source": "凤凰网",
@@ -646,17 +693,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时29分 ~ 12时10分]"
-        },
-        {
-          "title": "美媒爆猛料，“两国首次直接袭击伊朗”",
-          "url": "https://news.ifeng.com/c/8v324dBINEL",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时46分 ~ 21时22分]"
         },
         {
           "title": "中东全面战争风险快速积累，美国或陷入对伊朗、胡塞两线作战困局",
@@ -674,6 +710,17 @@
           "time_info": "[08时12分 ~ 19时09分]"
         },
         {
+          "title": "Muriel Siebert首席投资官Mark Malek：在通胀和油价高企、投资者担心企业利润率扩张可能放缓的时候，现在真不是推行关税政策的时候。 我们现在必须非常非常谨慎。 尽管霍尔木兹海峡因伊朗战争而关闭，但股市此前已经出现过反弹，相当于用掉了它唯一的“免死金牌”。",
+          "url": "https://wallstreetcn.com/livenews/3139779",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
           "title": "伊朗外长说不惧威胁不屈服于美国",
           "url": "https://flash.jin10.com/detail/20260725113145513800",
           "source": "金十数据",
@@ -683,6 +730,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
+        },
+        {
+          "title": "美国对伊朗实施“冷热交替”策略，当前首要目标可能是......",
+          "url": "https://flash.jin10.com/detail/20260725223644816800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "伊朗外长说不惧威胁不屈服于美国",
@@ -846,6 +904,18 @@
           "time_info": "[07时01分 ~ 08时12分]"
         },
         {
+          "title": "分析｜美国本轮已连续袭击伊朗13晚，以色列为何“隐身”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33650717",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时22分 ~ 23时02分]"
+        },
+        {
           "title": "伊朗军方称将对美军实施对等报复",
           "url": "https://wallstreetcn.com/livenews/3139696",
           "source": "华尔街见闻-快讯",
@@ -891,6 +961,17 @@
           "time_info": "03时23分"
         },
         {
+          "title": "伊朗官员：镐山设施“目前是空的”",
+          "url": "https://flash.jin10.com/detail/20260725214500074800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
           "title": "伊朗指控美军误袭商船 致两名船员死亡",
           "url": "https://flash.jin10.com/detail/20260725024732731800",
           "source": "金十数据",
@@ -924,17 +1005,6 @@
           "time_info": "03时23分"
         },
         {
-          "title": "分析｜美国本轮已连续袭击伊朗13晚，以色列为何“隐身”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33650717",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时22分"
-        },
-        {
           "title": "据伊朗媒体Fars News：科威特北部发生数起爆炸。",
           "url": "https://flash.jin10.com/detail/20260725024318375800",
           "source": "金十数据",
@@ -955,6 +1025,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时46分"
+        },
+        {
+          "title": "伊朗官员：镐山设施“目前是空的”，袭击一个空置的仓库只有利于制造虚假信息",
+          "url": "https://wallstreetcn.com/livenews/3139764",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "美国对伊朗金融家Zanjani的网络实施新制裁",
@@ -1048,7 +1129,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 39,
       "titles": [
         {
           "title": "油价破百！胡塞武装开辟“红海战场”，特朗普权衡“更大规模战争”，乌克兰也来“火上浇油”",
@@ -1084,6 +1165,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
+        },
+        {
+          "title": "一切都怪战争和通胀！美国股市中的“特朗普交易”正沦为输家",
+          "url": "https://wallstreetcn.com/livenews/3139778",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "美国总统特朗普声称，欧盟将付出非常大的代价。 批评欧盟针对苹果、Meta的罚款，他们“在掠夺”美国企业。 美国开始对“欧盟针对美国科技企业采取的行动”展开301调查。 “我们预计将会对欧盟‘大幅’加征关税”。 欧元转跌，在美上市ETF欧元做多回吐日内稍早涨幅。",
@@ -1193,6 +1285,39 @@
           "time_info": "[15时14分 ~ 15时15分]"
         },
         {
+          "title": "特朗普称准备第四次竞选总统",
+          "url": "https://news.ifeng.com/c/8v378W8XMdI",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
+          "title": "特朗普突然宣布：将第四次竞选总统！他头戴印有“特朗普2028”字样的小红帽称：我已经很有经验了，将再次出马",
+          "url": "https://wallstreetcn.com/articles/3777927",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
+          "title": "两位巴西消息人士：巴西拒绝向两名试图质询巴西选举制度的特朗普政府特使签发签证。",
+          "url": "https://flash.jin10.com/detail/20260725222304302800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
           "title": "据白宫官员透露，乌克兰总统泽连斯基将于下周初与美国总统特朗普会面。",
           "url": "https://wallstreetcn.com/livenews/3139581",
           "source": "华尔街见闻-快讯",
@@ -1221,9 +1346,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时22分"
+        },
+        {
+          "title": "特朗普再打关税战 这次有何不同",
+          "url": "https://www.toutiao.com/trending/7666438148708109865/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "特朗普称伊朗问题进展非常顺利 但称伊朗“还没准备好”达成协议",
@@ -1449,11 +1585,12 @@
             19,
             23,
             25,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时29分 ~ 21时22分]"
+          "appearance_count": 14,
+          "time_info": "[01时29分 ~ 23时02分]"
         },
         {
           "title": "《日本三国》作者疑删号退网",
@@ -1477,8 +1614,20 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时10分 ~ 23时02分]"
+        },
+        {
+          "title": "日本皇室恐上演养子夺嫡，麻生太郎成重要推手",
+          "url": "https://news.ifeng.com/c/8v2mKHkpzGm",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[12时10分 ~ 21时22分]"
+          "time_info": "[15时14分 ~ 23时02分]"
         },
         {
           "title": "中国机器人霸榜,日本破防",
@@ -1507,29 +1656,6 @@
           "time_info": "[01时29分 ~ 08时12分]"
         },
         {
-          "title": "日本皇室恐上演养子夺嫡，麻生太郎成重要推手",
-          "url": "https://news.ifeng.com/c/8v2mKHkpzGm",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时14分 ~ 21时22分]"
-        },
-        {
-          "title": "日本连续5天出现“酷暑日”，刷新历史纪录",
-          "url": "https://wallstreetcn.com/livenews/3139751",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时22分"
-        },
-        {
           "title": "日本确认南鸟岛海泥含中重稀土",
           "url": "https://www.toutiao.com/trending/7665884486211371035/",
           "source": "今日头条",
@@ -1551,8 +1677,32 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时46分 ~ 21时22分]"
+          "appearance_count": 5,
+          "time_info": "[17时46分 ~ 23时02分]"
+        },
+        {
+          "title": "日本连续5天出现“酷暑日”，刷新历史纪录",
+          "url": "https://wallstreetcn.com/livenews/3139751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时22分 ~ 23时02分]"
+        },
+        {
+          "title": "日本确认南鸟岛海泥含中重稀土",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%A1%AE%E8%AE%A4%E5%8D%97%E9%B8%9F%E5%B2%9B%E6%B5%B7%E6%B3%A5%E5%90%AB%E4%B8%AD%E9%87%8D%E7%A8%80%E5%9C%9F%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时22分 ~ 23时02分]"
         },
         {
           "title": "印度和日本因高铁闹翻了",
@@ -1575,17 +1725,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时30分"
-        },
-        {
-          "title": "日本确认南鸟岛海泥含中重稀土",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%A1%AE%E8%AE%A4%E5%8D%97%E9%B8%9F%E5%B2%9B%E6%B5%B7%E6%B3%A5%E5%90%AB%E4%B8%AD%E9%87%8D%E7%A8%80%E5%9C%9F%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时22分"
         },
         {
           "title": "日本首相高市早苗：日本不会在7月决定释放石油储备。",
@@ -1635,8 +1774,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时12分 ~ 21时22分]"
+          "appearance_count": 9,
+          "time_info": "[08时12分 ~ 23时02分]"
         },
         {
           "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
@@ -1648,8 +1787,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时12分 ~ 21时22分]"
+          "appearance_count": 9,
+          "time_info": "[08时12分 ~ 23时02分]"
         },
         {
           "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
@@ -1664,17 +1803,6 @@
           "time_info": "[01时29分 ~ 08时12分]"
         },
         {
-          "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
-          "url": "https://wallstreetcn.com/articles/3777754",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时29分 ~ 05时02分]"
-        },
-        {
           "title": "美股收盘：三大指数走势分化 存储&光通信重挫 闪迪跌超10%",
           "url": "https://www.cls.cn/detail/2436875",
           "source": "财联社热门",
@@ -1687,8 +1815,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时12分 ~ 21时22分]"
+          "appearance_count": 9,
+          "time_info": "[08时12分 ~ 23时02分]"
+        },
+        {
+          "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
+          "url": "https://wallstreetcn.com/articles/3777754",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时29分 ~ 05时02分]"
         },
         {
           "title": "美股大类资产类ETF涨跌各异，新兴市场ETF收跌将近2%",
