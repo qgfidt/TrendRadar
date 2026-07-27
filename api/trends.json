@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-27T14:29:12.906577+08:00",
-  "total_titles_processed": 875,
+  "generated_at": "2026-07-27T18:42:19.959687+08:00",
+  "total_titles_processed": 1090,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 47,
+      "match_count": 50,
       "titles": [
         {
           "title": "乌军袭击商船引发爆炸，伊朗发表声明谴责",
@@ -125,6 +125,17 @@
           "time_info": "07时03分"
         },
         {
+          "title": "知情人士：美军中东最高指挥官认为空袭伊朗难再见效",
+          "url": "https://news.ifeng.com/c/8v6QdWrNJZ0",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
+        },
+        {
           "title": "伊朗高级消息人士表示，只要美国维持目前的停火状态，伊朗将停止攻击。（路透）",
           "url": "https://wallstreetcn.com/livenews/3139853",
           "source": "华尔街见闻-快讯",
@@ -136,6 +147,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时59分 ~ 07时03分]"
+        },
+        {
+          "title": "伊朗外交部回应商船遇袭：要求追究乌克兰政府支持者责任",
+          "url": "https://news.ifeng.com/c/8v6QrUZwqR8",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
         },
         {
           "title": "俄罗斯外交部：阿拉格齐向拉夫罗夫通报了当前为缓和因美国袭击伊朗而引发的中东紧张局势所开展的外交努力。",
@@ -175,6 +197,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时59分 ~ 04时09分]"
+        },
+        {
+          "title": "美伊暂停互袭的背后：伊朗称就霍尔木兹海峡航运管理与阿曼会谈有进展，美军弹药吃紧",
+          "url": "https://wallstreetcn.com/articles/3777973",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时44分 ~ 18时42分]"
         },
         {
           "title": "伊朗高层警告乌克兰对伊行动必遭回击",
@@ -285,18 +320,6 @@
           "time_info": "[00时59分 ~ 05时58分]"
         },
         {
-          "title": "美伊暂停互袭的背后：伊朗称就霍尔木兹海峡航运管理与阿曼会谈有进展，美军弹药吃紧",
-          "url": "https://wallstreetcn.com/articles/3777973",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时44分 ~ 14时29分]"
-        },
-        {
           "title": "乌克兰此时打击伊朗商船，图啥？",
           "url": "https://news.ifeng.com/c/8v5Ckfob4r6",
           "source": "凤凰网",
@@ -304,8 +327,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时28分 ~ 14时29分]"
+          "appearance_count": 3,
+          "time_info": "[14时28分 ~ 18时42分]"
+        },
+        {
+          "title": "内塔尼亚胡：伊朗政权倒台，战争才会结束",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33664858",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时28分 ~ 18时42分]"
         },
         {
           "title": "伊朗革命卫队胡齐斯坦省指挥官：美军在中东地区的基地有超过288个目标被摧毁。",
@@ -354,17 +389,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时59分 ~ 02时05分]"
-        },
-        {
-          "title": "内塔尼亚胡：伊朗政权倒台，战争才会结束",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33664858",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时28分 ~ 14时29分]"
         },
         {
           "title": "伊朗能源部长在谈及可再生能源发展时表示，上周已有70兆瓦的太阳能发电项目投入运行；本周还将有约100兆瓦的太阳能发电项目投入运行，且这一进程将持续进行。",
@@ -464,7 +488,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -524,6 +548,17 @@
           "time_info": "07时03分"
         },
         {
+          "title": "伊朗谴责保加利亚配合美军对伊行动",
+          "url": "https://wallstreetcn.com/livenews/3140209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
+        },
+        {
           "title": "以总理：此次访美旨在了解美总统对伊朗问题的想法",
           "url": "https://wallstreetcn.com/livenews/3139872",
           "source": "华尔街见闻-快讯",
@@ -559,8 +594,345 @@
       ]
     },
     {
+      "keyword_group": "日本",
+      "match_count": 29,
+      "titles": [
+        {
+          "title": "吃美了!中国食堂拿捏日本胃",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356507&amp;topic_name=%E5%90%83%E7%BE%8E%E4%BA%86%21%E4%B8%AD%E5%9B%BD%E9%A3%9F%E5%A0%82%E6%8B%BF%E6%8D%8F%E6%97%A5%E6%9C%AC%E8%83%83",
+          "source": "贴吧",
+          "ranks": [
+            16,
+            17,
+            19,
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时59分 ~ 18时42分]"
+        },
+        {
+          "title": "日本机器人格斗赛没开打就撞门跑路",
+          "url": "https://www.toutiao.com/trending/7666289625798905398/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            10,
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时59分 ~ 14时29分]"
+        },
+        {
+          "title": "日本确认南鸟岛海泥含稀土，对全球稀土供应有何影响？",
+          "url": "https://www.zhihu.com/question/2064455331346962042",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时28分 ~ 18时42分]"
+        },
+        {
+          "title": "日本技术员拆完宇树机器人，当场破防",
+          "url": "https://news.ifeng.com/c/8v4eso1qejg",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 10时44分]"
+        },
+        {
+          "title": "日本作家东野圭吾去世，终年68岁",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33666828",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
+        },
+        {
+          "title": "空调买不起,日本人硬扛高温",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356547&amp;topic_name=%E7%A9%BA%E8%B0%83%E4%B9%B0%E4%B8%8D%E8%B5%B7%2C%E6%97%A5%E6%9C%AC%E4%BA%BA%E7%A1%AC%E6%89%9B%E9%AB%98%E6%B8%A9",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
+        },
+        {
+          "title": "日本爱豆猫月猫小妹离世",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356530&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%88%B1%E8%B1%86%E7%8C%AB%E6%9C%88%E7%8C%AB%E5%B0%8F%E5%A6%B9%E7%A6%BB%E4%B8%96",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时28分 ~ 18时42分]"
+        },
+        {
+          "title": "调查显示日本8月将有近1900种食品涨价",
+          "url": "https://wallstreetcn.com/livenews/3139839",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 05时58分]"
+        },
+        {
+          "title": "日本防相发表涉核狂言，朝中社：必须粉碎“战犯国的拥核野心”",
+          "url": "https://news.ifeng.com/c/8v55GoLWnEL",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时44分 ~ 14时29分]"
+        },
+        {
+          "title": "据日经新闻与东京电视台的最新民调，日本首相高市早苗内阁的支持率较上月下降10个百分点，跌至58%；这是自她去年10月上任以来，支持率首次低于60%。",
+          "url": "https://flash.jin10.com/detail/20260727001807034800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 02时05分]"
+        },
+        {
+          "title": "日本技术人员：中国螺丝拧着特别顺滑",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%8A%80%E6%9C%AF%E4%BA%BA%E5%91%98%EF%BC%9A%E4%B8%AD%E5%9B%BD%E8%9E%BA%E4%B8%9D%E6%8B%A7%E7%9D%80%E7%89%B9%E5%88%AB%E9%A1%BA%E6%BB%91",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 02时05分]"
+        },
+        {
+          "title": "日本如何评价宇树机器人",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 07时03分]"
+        },
+        {
+          "title": "持刀强闯中使馆的日本男子被起诉",
+          "url": "https://news.ifeng.com/c/8v6Q9qhZoyI",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
+        },
+        {
+          "title": "日本东证指数日内涨幅扩大至1%。",
+          "url": "https://wallstreetcn.com/livenews/3139975",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时44分"
+        },
+        {
+          "title": "日本统合幕僚监部：7月24日至25日，确认俄罗斯海军1艘守护级护卫舰向东航行通过宗谷海峡。",
+          "url": "https://flash.jin10.com/detail/20260727182101913800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
+        },
+        {
+          "title": "日本作家东野圭吾去世，如何评价他的作品？你与他初相遇是从哪本书开始的？最推荐他的哪部作品？",
+          "url": "https://www.zhihu.com/question/2065093746111112018",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
+        },
+        {
+          "title": "越来越多中国人不去日本旅游",
+          "url": "https://www.baidu.com/s?wd=%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%B8%8D%E5%8E%BB%E6%97%A5%E6%9C%AC%E6%97%85%E6%B8%B8",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
+        },
+        {
+          "title": "日本为找稀土开始拆解废旧空调",
+          "url": "https://www.douyin.com/hot/2585861",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时05分"
+        },
+        {
+          "title": "日本5月领先指标终值 116.5，初值 116.8。",
+          "url": "https://wallstreetcn.com/livenews/3140027",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        },
+        {
+          "title": "日本5月同步指标终值 117.9，初值 118.5。",
+          "url": "https://wallstreetcn.com/livenews/3140026",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        },
+        {
+          "title": "日本10年期国债收益率下行6个基点至2.755%。",
+          "url": "https://wallstreetcn.com/livenews/3140025",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        },
+        {
+          "title": "日本20年期国债收益率下跌3个基点，至3.650%。",
+          "url": "https://flash.jin10.com/detail/20260727141055522800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        },
+        {
+          "title": "持刀强闯我使馆日本男子被起诉",
+          "url": "https://www.toutiao.com/trending/7667102374402097215/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
+        },
+        {
+          "title": "日本称与俄谈重要问题 遭俄方打脸",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%A7%B0%E4%B8%8E%E4%BF%84%E8%B0%88%E9%87%8D%E8%A6%81%E9%97%AE%E9%A2%98+%E9%81%AD%E4%BF%84%E6%96%B9%E6%89%93%E8%84%B8",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时03分"
+        },
+        {
+          "title": "日本机器人格斗赛没开打就撞门跑路",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%A0%BC%E6%96%97%E8%B5%9B%E6%B2%A1%E5%BC%80%E6%89%93%E5%B0%B1%E6%92%9E%E9%97%A8%E8%B7%91%E8%B7%AF",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时44分"
+        },
+        {
+          "title": "日本首相高市早苗：日本现在处于通货膨胀状态。 不能说日本已完全摆脱通缩。",
+          "url": "https://wallstreetcn.com/livenews/3140200",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
+        },
+        {
+          "title": "日本首相高市早苗：必须同时实现增长与财政纪律。 重要的是设定财政目标，并明确如何实现。",
+          "url": "https://wallstreetcn.com/livenews/3140192",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
+        },
+        {
+          "title": "日本首相高市早苗：具体的货币政策留待日本央行作出。 将提升经济竞争力以增强市场对日元的信心。",
+          "url": "https://wallstreetcn.com/livenews/3139913",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时44分"
+        },
+        {
+          "title": "审议小组考虑提高日本最低工资目标。（日本共同社）",
+          "url": "https://wallstreetcn.com/livenews/3140190",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "【早报】特朗普威胁对欧盟加征报复性关税；韩国存储双雄拟签下9500亿美元大单",
@@ -601,11 +973,12 @@
           "url": "https://news.ifeng.com/c/8v5rhX6ngKt",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时44分 ~ 14时29分]"
+          "appearance_count": 4,
+          "time_info": "[10时44分 ~ 18时42分]"
         },
         {
           "title": "特朗普叫停对伊朗空袭 为霍尔木兹海峡谈判留出空间",
@@ -653,13 +1026,24 @@
           "time_info": "[14时28分 ~ 14时29分]"
         },
         {
+          "title": "3个选项，特朗普举棋未定",
+          "url": "https://news.ifeng.com/c/8v6CmboAaqd",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
+        },
+        {
           "title": "和上次截然不同！特朗普这次要把关税做成常态武器？",
           "url": "https://flash.jin10.com/detail/20260727142454096800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -825,9 +1209,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-27）",
+          "url": "https://flash.jin10.com/detail/20260727180757012800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
         },
         {
           "title": "以总理办公室官员：我们同意维和委员会及国际部队进入加沙，这是特朗普计划中规定的内容。",
@@ -843,233 +1238,8 @@
       ]
     },
     {
-      "keyword_group": "日本",
-      "match_count": 19,
-      "titles": [
-        {
-          "title": "日本机器人格斗赛没开打就撞门跑路",
-          "url": "https://www.toutiao.com/trending/7666289625798905398/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            10,
-            14,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时59分 ~ 14时29分]"
-        },
-        {
-          "title": "吃美了!中国食堂拿捏日本胃",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356507&amp;topic_name=%E5%90%83%E7%BE%8E%E4%BA%86%21%E4%B8%AD%E5%9B%BD%E9%A3%9F%E5%A0%82%E6%8B%BF%E6%8D%8F%E6%97%A5%E6%9C%AC%E8%83%83",
-          "source": "贴吧",
-          "ranks": [
-            16,
-            17,
-            19,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时59分 ~ 14时29分]"
-        },
-        {
-          "title": "日本技术员拆完宇树机器人，当场破防",
-          "url": "https://news.ifeng.com/c/8v4eso1qejg",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 10时44分]"
-        },
-        {
-          "title": "日本确认南鸟岛海泥含稀土，对全球稀土供应有何影响？",
-          "url": "https://www.zhihu.com/question/2064455331346962042",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时28分 ~ 14时29分]"
-        },
-        {
-          "title": "日本爱豆猫月猫小妹离世",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356530&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%88%B1%E8%B1%86%E7%8C%AB%E6%9C%88%E7%8C%AB%E5%B0%8F%E5%A6%B9%E7%A6%BB%E4%B8%96",
-          "source": "贴吧",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时28分 ~ 14时29分]"
-        },
-        {
-          "title": "调查显示日本8月将有近1900种食品涨价",
-          "url": "https://wallstreetcn.com/livenews/3139839",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 05时58分]"
-        },
-        {
-          "title": "日本防相发表涉核狂言，朝中社：必须粉碎“战犯国的拥核野心”",
-          "url": "https://news.ifeng.com/c/8v55GoLWnEL",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时44分 ~ 14时29分]"
-        },
-        {
-          "title": "据日经新闻与东京电视台的最新民调，日本首相高市早苗内阁的支持率较上月下降10个百分点，跌至58%；这是自她去年10月上任以来，支持率首次低于60%。",
-          "url": "https://flash.jin10.com/detail/20260727001807034800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 02时05分]"
-        },
-        {
-          "title": "日本技术人员：中国螺丝拧着特别顺滑",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%8A%80%E6%9C%AF%E4%BA%BA%E5%91%98%EF%BC%9A%E4%B8%AD%E5%9B%BD%E8%9E%BA%E4%B8%9D%E6%8B%A7%E7%9D%80%E7%89%B9%E5%88%AB%E9%A1%BA%E6%BB%91",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 02时05分]"
-        },
-        {
-          "title": "日本如何评价宇树机器人",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 07时03分]"
-        },
-        {
-          "title": "日本东证指数日内涨幅扩大至1%。",
-          "url": "https://wallstreetcn.com/livenews/3139975",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时44分"
-        },
-        {
-          "title": "日本为找稀土开始拆解废旧空调",
-          "url": "https://www.douyin.com/hot/2585861",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
-        },
-        {
-          "title": "日本5月领先指标终值 116.5，初值 116.8。",
-          "url": "https://wallstreetcn.com/livenews/3140027",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时29分"
-        },
-        {
-          "title": "日本5月同步指标终值 117.9，初值 118.5。",
-          "url": "https://wallstreetcn.com/livenews/3140026",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时29分"
-        },
-        {
-          "title": "日本10年期国债收益率下行6个基点至2.755%。",
-          "url": "https://wallstreetcn.com/livenews/3140025",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时29分"
-        },
-        {
-          "title": "日本20年期国债收益率下跌3个基点，至3.650%。",
-          "url": "https://flash.jin10.com/detail/20260727141055522800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时29分"
-        },
-        {
-          "title": "日本称与俄谈重要问题 遭俄方打脸",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%A7%B0%E4%B8%8E%E4%BF%84%E8%B0%88%E9%87%8D%E8%A6%81%E9%97%AE%E9%A2%98+%E9%81%AD%E4%BF%84%E6%96%B9%E6%89%93%E8%84%B8",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时03分"
-        },
-        {
-          "title": "日本机器人格斗赛没开打就撞门跑路",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%A0%BC%E6%96%97%E8%B5%9B%E6%B2%A1%E5%BC%80%E6%89%93%E5%B0%B1%E6%92%9E%E9%97%A8%E8%B7%91%E8%B7%AF",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时44分"
-        },
-        {
-          "title": "日本首相高市早苗：具体的货币政策留待日本央行作出。 将提升经济竞争力以增强市场对日元的信心。",
-          "url": "https://wallstreetcn.com/livenews/3139913",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时44分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美国",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "“英新首相想修复对华关系，但绕不开美国”",
@@ -1092,6 +1262,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时28分 ~ 14时29分]"
+        },
+        {
+          "title": "市场消息：以色列总理内塔尼亚胡已开始前往美国。",
+          "url": "https://flash.jin10.com/detail/20260727182604584800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
         },
         {
           "title": "美国五大科技巨头 AI 隐性债务被曝达 1.65 万亿美元，四年内增长 8 倍，巨额表外负债会成为定时炸弹吗？",
@@ -1177,6 +1358,17 @@
           "time_info": "10时44分"
         },
         {
+          "title": "47亿美元大桥通车，美国人却被告知“别来”，加拿大市长心酸",
+          "url": "https://news.ifeng.com/c/8v6LlVfpSqW",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
+        },
+        {
           "title": "美国能源部：已指示电网运营商西南电力库根据需要调度发电机组以维持电网可靠性。",
           "url": "https://flash.jin10.com/detail/20260727054940296800",
           "source": "金十数据",
@@ -1213,19 +1405,8 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
-        {
-          "title": "OpenAI失控入侵,遭索赔1亿算力",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356534&amp;topic_name=OpenAI%E5%A4%B1%E6%8E%A7%E5%85%A5%E4%BE%B5%2C%E9%81%AD%E7%B4%A2%E8%B5%941%E4%BA%BF%E7%AE%97%E5%8A%9B",
-          "source": "贴吧",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时28分 ~ 14时29分]"
-        },
         {
           "title": "OpenAI模型失控始末曝光，Hugging Face“索赔”1亿美元算力",
           "url": "https://m.thepaper.cn/newsDetail_forward_33662817",
@@ -1237,6 +1418,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时44分 ~ 14时29分]"
+        },
+        {
+          "title": "OpenAI失控入侵,遭索赔1亿算力",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356534&amp;topic_name=OpenAI%E5%A4%B1%E6%8E%A7%E5%85%A5%E4%BE%B5%2C%E9%81%AD%E7%B4%A2%E8%B5%941%E4%BA%BF%E7%AE%97%E5%8A%9B",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时28分 ~ 18时42分]"
         },
         {
           "title": "OpenAI失控AI内幕曝光：越狱一周才被发现 还有智能体曾留下“逃脱秘籍”",
@@ -1261,13 +1454,35 @@
           "time_info": "[14时28分 ~ 14时29分]"
         },
         {
+          "title": "OpenAI宣布在爱尔兰设立新的欧盟总部，并新增250个工作岗位。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3140222",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
+        },
+        {
+          "title": "OpenAI宣布在爱尔兰设立新的欧盟总部，并新增250个职位。",
+          "url": "https://flash.jin10.com/detail/20260727181326862800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
+        },
+        {
           "title": "OpenAI：出现影响ChatGPT的较高错误率，已实施缓解措施，并在监控ChatGPT的恢复情况。",
           "url": "https://wallstreetcn.com/livenews/3140016",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         }
@@ -1275,7 +1490,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
@@ -1323,12 +1538,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
+        },
+        {
+          "title": "美银警告：美股最弱窗口即将到来，黄金美元有望迎来机会",
+          "url": "https://flash.jin10.com/detail/20260727181057363800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
+        },
+        {
+          "title": "Rocket Lab(RKLB.O)美股盘前涨4.5%，因公司获得与美国太空部队价值2.66亿美元的导弹防御合同。",
+          "url": "https://flash.jin10.com/detail/20260727180540082800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
         }
       ]
     },
     {
       "keyword_group": "印度",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "印度财长：暂时不打算修正预算数据",
@@ -1343,22 +1580,23 @@
           "time_info": "[00时59分 ~ 05时58分]"
         },
         {
+          "title": "印度男子在祖母火化时钻入焚尸炉",
+          "url": "https://www.toutiao.com/trending/7667049404360867883/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时28分 ~ 18时42分]"
+        },
+        {
           "title": "印度男子喂食大象时遭袭击身亡",
           "url": "https://www.toutiao.com/trending/7666408730776256518/",
           "source": "今日头条",
           "ranks": [
             14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时28分 ~ 14时29分]"
-        },
-        {
-          "title": "印度男子在祖母火化时钻入焚尸炉",
-          "url": "https://www.toutiao.com/trending/7667049404360867883/",
-          "source": "今日头条",
-          "ranks": [
-            21
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -1374,6 +1612,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
+        },
+        {
+          "title": "用印度食材在家复刻成吉思鸡",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8%E5%8D%B0%E5%BA%A6%E9%A3%9F%E6%9D%90%E5%9C%A8%E5%AE%B6%E5%A4%8D%E5%88%BB%E6%88%90%E5%90%89%E6%80%9D%E9%B8%A1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
         }
       ]
     },
