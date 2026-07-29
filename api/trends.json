@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T06:01:38.727376+08:00",
-  "total_titles_processed": 499,
+  "generated_at": "2026-07-30T07:06:19.575934+08:00",
+  "total_titles_processed": 561,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国",
-      "match_count": 30,
+      "match_count": 33,
       "titles": [
         {
           "title": "美国更新受管制清单，外媒分析其意图",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 06时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 07时06分]"
         },
         {
           "title": "据纽约时报：美国正就将古巴被遣返者送往乌拉圭进行谈判。",
@@ -31,17 +31,6 @@
           "time_info": "00时21分"
         },
         {
-          "title": "美国CME计划推出与体育相关的期货合约，旨在作为对冲工具",
-          "url": "https://wallstreetcn.com/livenews/3141928",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时01分"
-        },
-        {
           "title": "美国三大股指均跌超1%，道指目前跌860点、跌幅1.6%，纳指跌1.4%，半导体指数跌4.1%，银行指数跌1.9%，罗素2000指数跌1.4%。",
           "url": "https://wallstreetcn.com/livenews/3141797",
           "source": "华尔街见闻-快讯",
@@ -53,24 +42,13 @@
           "time_info": "00时21分"
         },
         {
-          "title": "美国炼油商正以新冠疫情前以来的最高水平生产燃料",
-          "url": "https://wallstreetcn.com/livenews/3141926",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时01分"
-        },
-        {
           "title": "美国国务院：将立即全额发放国会为2025财年和2026财年拨付的6亿美元全球疫苗免疫联盟资金。",
           "url": "https://flash.jin10.com/detail/20260730051716480800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         },
@@ -93,8 +71,32 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 06时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 07时06分]"
+        },
+        {
+          "title": "美国CME计划推出与体育相关的期货合约，旨在作为对冲工具",
+          "url": "https://wallstreetcn.com/livenews/3141928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时01分 ~ 07时06分]"
+        },
+        {
+          "title": "美国炼油商正以新冠疫情前以来的最高水平生产燃料",
+          "url": "https://wallstreetcn.com/livenews/3141926",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时01分 ~ 07时06分]"
         },
         {
           "title": "华裔儿媳连刺美国白人婆婆",
@@ -104,8 +106,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 06时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 07时06分]"
         },
         {
           "title": "美国国务院：重申美国不会通过全球疫苗免疫联盟向世界卫生组织提供政府资金。美国预计将恢复其在该联盟董事会的席位。",
@@ -114,7 +116,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         },
@@ -158,7 +160,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         },
@@ -172,6 +174,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "周四亚太盘初，美国三大股指期货至多涨超0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3141938",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
         },
         {
           "title": "2007年以来首次：美国30年期国债收益率涨穿5.2%，日内当前涨幅将近12个基点。",
@@ -202,9 +215,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
+        },
+        {
+          "title": "洛克希德-马丁公司（LMT）获得美国五角大楼590亿美元承包合同。",
+          "url": "https://wallstreetcn.com/livenews/3141935",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
         },
         {
           "title": "美国至7月29日4个月国债竞拍-投标倍数 3.04，前值2.76。",
@@ -216,6 +240,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "美国10年期国债期货下跌12个点；30年期国债期货下滑30个点，此前收益率达到自2007年中以来的最高水平。",
+          "url": "https://flash.jin10.com/detail/20260730060158565800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
         },
         {
           "title": "美国至7月29日4个月国债竞拍-得标利率配置百分比 22.52%，前值63.29%。",
@@ -342,7 +377,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "特朗普称美国将强力打击伊朗 中东局势升级推动国际油价大幅飙升",
@@ -354,8 +389,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 06时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 07时06分]"
+        },
+        {
+          "title": "特朗普：伊朗请求不要发动打击，但美国将给他们一个教训",
+          "url": "https://news.ifeng.com/c/8vAUYfWwMg3",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时01分 ~ 07时06分]"
         },
         {
           "title": "布油大涨7%！特朗普警告：将对伊朗“大力打击”",
@@ -370,18 +416,18 @@
           "time_info": "[00时21分 ~ 04时12分]"
         },
         {
-          "title": "特朗普：伊朗请求不要发动打击，但美国将给他们一个教训",
-          "url": "https://news.ifeng.com/c/8vAUYfWwMg3",
-          "source": "凤凰网",
+          "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗",
+          "url": "https://wallstreetcn.com/articles/3778237",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         },
         {
-          "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗",
+          "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
           "url": "https://wallstreetcn.com/articles/3778237",
           "source": "华尔街见闻",
           "ranks": [
@@ -389,18 +435,7 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时01分"
-        },
-        {
-          "title": "特朗普再次威胁袭击伊朗，并寻求对伊加征关税",
-          "url": "https://wallstreetcn.com/livenews/3141924",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时01分"
+          "time_info": "07时06分"
         },
         {
           "title": "明查｜特朗普的替身出现了？先把视频暂停一下",
@@ -410,8 +445,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 06时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 07时06分]"
         },
         {
           "title": "卢拉讽刺特朗普：每个巴西公民都能享有总统同等医疗待遇",
@@ -421,8 +456,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 06时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 07时06分]"
+        },
+        {
+          "title": "特朗普再次威胁袭击伊朗，并寻求对伊加征关税",
+          "url": "https://wallstreetcn.com/livenews/3141924",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时01分 ~ 07时06分]"
         },
         {
           "title": "特朗普被发现在格雷厄姆葬礼打瞌睡，白宫：他在缅怀",
@@ -432,8 +479,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 06时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 07时06分]"
         },
         {
           "title": "又吃糖又犯困，特朗普在美政客葬礼现场小动作惹争议，白宫：他在缅怀",
@@ -444,8 +491,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 06时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 07时06分]"
         },
         {
           "title": "伊朗武装部队警告特朗普",
@@ -455,8 +502,31 @@
             20
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时12分 ~ 07时06分]"
+        },
+        {
+          "title": "特朗普被发现在格雷厄姆葬礼打瞌睡",
+          "url": "https://www.toutiao.com/trending/7667418781938679858/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            18
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时12分 ~ 06时01分]"
+          "time_info": "[06时01分 ~ 07时06分]"
+        },
+        {
+          "title": "美国总统特朗普：有没有人知道美国最高法院在出生公民权和关税问题上的负面裁决给我们的国家带来了多少金钱和声望的损失？答案是，数万亿、数万亿的美元！",
+          "url": "https://flash.jin10.com/detail/20260730061435735800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
         },
         {
           "title": "道指狂泄超千点，跌幅扩大至2.1%，标普跌1.1%，纳指跌1.1%，半导体指数跌3.8%，特朗普称“会稍微教训一下伊朗”。",
@@ -520,7 +590,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         },
@@ -578,23 +648,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时12分"
-        },
-        {
-          "title": "特朗普被发现在格雷厄姆葬礼打瞌睡",
-          "url": "https://www.toutiao.com/trending/7667418781938679858/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时01分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "FOMC和巨头财报在即，特朗普称将对伊朗进行打击，美股指跌幅扩大，道指跌超1.5%，布油涨超6%",
@@ -619,6 +678,17 @@
           "time_info": "00时21分"
         },
         {
+          "title": "美股收盘：特朗普最后时刻砸盘 纳斯达克100指数坠入回调区间",
+          "url": "https://www.cls.cn/detail/2440737",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
+        },
+        {
           "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
           "url": "https://wallstreetcn.com/articles/3778080",
           "source": "华尔街见闻",
@@ -626,8 +696,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 06时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 07时06分]"
         },
         {
           "title": "美联储决议前市场情绪谨慎 美股期指走弱 油价飙升近6% | 今夜看点",
@@ -635,11 +705,24 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 06时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 07时06分]"
+        },
+        {
+          "title": "Meta美股盘后跌幅扩大至10%。",
+          "url": "https://wallstreetcn.com/livenews/3141919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时01分 ~ 07时06分]"
         },
         {
           "title": "Meta Platforms(META.O)美股盘后跌幅扩大至10%。",
@@ -648,18 +731,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时01分"
-        },
-        {
-          "title": "Meta美股盘后跌幅扩大至10%。",
-          "url": "https://wallstreetcn.com/livenews/3141919",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         },
@@ -684,6 +756,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时12分"
+        },
+        {
+          "title": "微软(MSFT.O)公布一系列财务指引，美股盘后涨幅扩大至8%。",
+          "url": "https://flash.jin10.com/detail/20260730060759487800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
+        },
+        {
+          "title": "微软预计2026年（根据会计调整的）资本开支为1750亿美元，之前预计1900亿美元。 微软美股盘后涨幅扩大至8%。",
+          "url": "https://wallstreetcn.com/livenews/3141937",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
         },
         {
           "title": "美股费城半导体指数下跌4%，英伟达下跌2.98%，台积电下跌3.67%，博通下跌1.87%，SK海力士下跌1.28%，美光科技下跌5%，美国超微公司下跌5.51%，英特尔下跌3.36%，阿斯麦下跌2.73%，泛林集团下跌5.28%，ArmHoldings下跌6.73%，闪迪下跌8.04%，高通下跌2.84%，迈威尔科技下跌4.82%，西部数据下跌0.68%。",
@@ -714,7 +808,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         },
@@ -725,7 +819,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         },
@@ -747,7 +841,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         }
@@ -755,7 +849,7 @@
     },
     {
       "keyword_group": "日本",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "日本熊本地震已致13人死亡，近万人避难",
@@ -765,8 +859,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 06时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 07时06分]"
         },
         {
           "title": "日本发生7.1级地震，灾区画面曝光",
@@ -780,6 +874,17 @@
           "time_info": "[00时21分 ~ 04时12分]"
         },
         {
+          "title": "强震后，日本网上出现涉华阴谋论",
+          "url": "https://news.ifeng.com/c/8vAHjVqJKVC",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时01分 ~ 07时06分]"
+        },
+        {
           "title": "日本发生强烈地震，中方：对遇难者表示哀悼",
           "url": "https://news.ifeng.com/c/8v9iQY1KXBO",
           "source": "凤凰网",
@@ -791,27 +896,17 @@
           "time_info": "00时21分"
         },
         {
-          "title": "强震后，日本网上出现涉华阴谋论",
-          "url": "https://news.ifeng.com/c/8vAHjVqJKVC",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时01分"
-        },
-        {
           "title": "日本技术人员拆解宇树机器人后称「赶不上中国」，从螺丝到整机，中国机器人供应链优势体现在哪些环节？",
           "url": "https://www.zhihu.com/question/2064993421949755491",
           "source": "知乎",
           "ranks": [
             13,
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时12分 ~ 06时01分]"
+          "appearance_count": 3,
+          "time_info": "[04时12分 ~ 07时06分]"
         },
         {
           "title": "日本熊本县再次地震 震感强烈",
@@ -820,11 +915,12 @@
           "ranks": [
             26,
             16,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 06时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 07时06分]"
         },
         {
           "title": "日本各地惊现”喷粪”狂徒",
@@ -834,20 +930,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 06时01分]"
-        },
-        {
-          "title": "日本强震致神社垮塌列车脱轨",
-          "url": "https://www.toutiao.com/trending/7667713008373894707/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时12分 ~ 06时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 07时06分]"
         },
         {
           "title": "日本在731这天成立新特高课其心可诛",
@@ -855,11 +939,25 @@
           "source": "微博",
           "ranks": [
             18,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时12分 ~ 06时01分]"
+          "appearance_count": 3,
+          "time_info": "[04时12分 ~ 07时06分]"
+        },
+        {
+          "title": "日本强震致神社垮塌列车脱轨",
+          "url": "https://www.toutiao.com/trending/7667713008373894707/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时12分 ~ 07时06分]"
         },
         {
           "title": "日本强震医院爆满停电病房像“战区”",
@@ -885,6 +983,17 @@
           "time_info": "04时12分"
         },
         {
+          "title": "MLCC被日本主导 中国如何突围",
+          "url": "https://www.toutiao.com/trending/7667911607384542774/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
+        },
+        {
           "title": "日本熊本县发生5.8级地震 震感强烈",
           "url": "https://www.toutiao.com/trending/7667941929937554970/",
           "source": "今日头条",
@@ -894,6 +1003,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "中国游客称日本强震前有井盖冒温泉",
+          "url": "https://www.toutiao.com/trending/7667725284774563354/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
         }
       ]
     },
@@ -901,17 +1021,6 @@
       "keyword_group": "伊朗",
       "match_count": 8,
       "titles": [
-        {
-          "title": "Kpler大宗商品研究主管Matt Smith表示，全球燃料供应极其紧张，这促使炼油商开足马力以获取异常丰厚的利润。在乌克兰和伊朗战争引发的供应中断之后，燃料市场已几乎没有缓冲空间。 “超大规模的炼油利润继续促使炼油商尽可能满负荷运转，导致原油库存被大幅消耗。”",
-          "url": "https://wallstreetcn.com/livenews/3141927",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时01分"
-        },
         {
           "title": "美国中央司令部（CENTCOM）：霍尔木兹海峡对国际航运保持开放，合法合规的船舶航行正得到美国军方的支持。自5月以来，美国中央司令部部队已协助约1000艘船只及5亿桶原油顺利通过该海峡。 在威胁霍尔木兹海峡内的商船之后，伊朗伊斯兰革命卫队（IRGC）仍在要求国际海员仅使用其指定的航线。",
           "url": "https://wallstreetcn.com/livenews/3141795",
@@ -922,6 +1031,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "Kpler大宗商品研究主管Matt Smith表示，全球燃料供应极其紧张，这促使炼油商开足马力以获取异常丰厚的利润。在乌克兰和伊朗战争引发的供应中断之后，燃料市场已几乎没有缓冲空间。 “超大规模的炼油利润继续促使炼油商尽可能满负荷运转，导致原油库存被大幅消耗。”",
+          "url": "https://wallstreetcn.com/livenews/3141927",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时01分 ~ 07时06分]"
         },
         {
           "title": "拒绝阿曼“霍尔木兹海峡”提案、要求更多控制权，伊朗再向美军基地发射导弹",
@@ -946,6 +1067,18 @@
           "time_info": "[00时21分 ~ 04时12分]"
         },
         {
+          "title": "美称伊朗发射导弹袭击驻中东美军",
+          "url": "https://www.douyin.com/hot/2588834",
+          "source": "抖音",
+          "ranks": [
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时01分 ~ 07时06分]"
+        },
+        {
           "title": "以色列官员：伊朗仍在镐山进行铀浓缩",
           "url": "https://flash.jin10.com/detail/20260729234637630800",
           "source": "金十数据",
@@ -968,17 +1101,6 @@
           "time_info": "00时21分"
         },
         {
-          "title": "美称伊朗发射导弹袭击驻中东美军",
-          "url": "https://www.douyin.com/hot/2588834",
-          "source": "抖音",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时01分"
-        },
-        {
           "title": "美国财政部：今日伊朗制裁针对借助霍尔木兹海峡牟利的行为。 制裁目标指向伊朗的霍尔木兹海峡“勒索网络”。",
           "url": "https://wallstreetcn.com/livenews/3141774",
           "source": "华尔街见闻-快讯",
@@ -988,6 +1110,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "中东局势突变叠加美联储鹰派分歧，油价飙8%，纳指六连跌，30年美债收益率创2007年最高",
+          "url": "https://wallstreetcn.com/articles/3778176",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
+        },
+        {
+          "title": "阿波罗首席经济学家：美联储放弃前瞻指引，导致美债“溜溜球”式波动",
+          "url": "https://wallstreetcn.com/livenews/3141946",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
+        },
+        {
+          "title": "彭博：美债收益率表明沃什如此有耐心是错的",
+          "url": "https://wallstreetcn.com/livenews/3141909",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时01分"
+        },
+        {
+          "title": "30年期美债收益率涨11个基点突破5.2%，两年期TIPS收益率跌超10个基点，沃什谈及实际收益率",
+          "url": "https://wallstreetcn.com/livenews/3141934",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
         }
       ]
     },
@@ -1020,6 +1192,34 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "Analog Devices Inc.（ADI）：漏洞与OpenAI无关。",
+          "url": "https://wallstreetcn.com/livenews/3141939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
+        },
+        {
+          "title": "微软(MSFT.O)首席财务官：第四季度合同积压在不包括OpenAI的情况下增加了25%。",
+          "url": "https://flash.jin10.com/detail/20260730055730100800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
+        }
+      ]
+    },
+    {
       "keyword_group": "印度",
       "match_count": 2,
       "titles": [
@@ -1030,11 +1230,12 @@
           "ranks": [
             16,
             12,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 06时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 07时06分]"
         },
         {
           "title": "印度两男子涉嫌轮奸被警察当街暴打",
@@ -1042,11 +1243,12 @@
           "source": "今日头条",
           "ranks": [
             16,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 06时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 07时06分]"
         }
       ]
     },
@@ -1061,24 +1263,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "彭博：美债收益率表明沃什如此有耐心是错的",
-          "url": "https://wallstreetcn.com/livenews/3141909",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         }
