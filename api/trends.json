@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T07:06:19.575934+08:00",
-  "total_titles_processed": 561,
+  "generated_at": "2026-07-30T10:11:55.993591+08:00",
+  "total_titles_processed": 739,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国",
-      "match_count": 33,
+      "match_count": 36,
       "titles": [
         {
           "title": "美国更新受管制清单，外媒分析其意图",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时21分 ~ 07时06分]"
+        },
+        {
+          "title": "美国“虚空造牌”，中方曾严正表态",
+          "url": "https://news.ifeng.com/c/8vAlWg9gecP",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
         },
         {
           "title": "据纽约时报：美国正就将古巴被遣返者送往乌拉圭进行谈判。",
@@ -64,6 +75,28 @@
           "time_info": "00时21分"
         },
         {
+          "title": "LG正与超大规模云服务商和美国公用事业公司洽谈下半年供货协议。",
+          "url": "https://wallstreetcn.com/livenews/3142057",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "华裔儿媳连刺美国白人婆婆",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356579&amp;topic_name=%E5%8D%8E%E8%A3%94%E5%84%BF%E5%AA%B3%E8%BF%9E%E5%88%BA%E7%BE%8E%E5%9B%BD%E7%99%BD%E4%BA%BA%E5%A9%86%E5%A9%86",
+          "source": "贴吧",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 10时11分]"
+        },
+        {
           "title": "美国防部将部分中国科研机构列入制裁清单，商务部：坚决反对",
           "url": "https://m.thepaper.cn/newsDetail_forward_33679912",
           "source": "澎湃新闻",
@@ -97,17 +130,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时01分 ~ 07时06分]"
-        },
-        {
-          "title": "华裔儿媳连刺美国白人婆婆",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356579&amp;topic_name=%E5%8D%8E%E8%A3%94%E5%84%BF%E5%AA%B3%E8%BF%9E%E5%88%BA%E7%BE%8E%E5%9B%BD%E7%99%BD%E4%BA%BA%E5%A9%86%E5%A9%86",
-          "source": "贴吧",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 07时06分]"
         },
         {
           "title": "美国国务院：重申美国不会通过全球疫苗免疫联盟向世界卫生组织提供政府资金。美国预计将恢复其在该联盟董事会的席位。",
@@ -182,7 +204,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -196,6 +218,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时12分"
+        },
+        {
+          "title": "商务部新闻发言人就美国联邦通信委员会将外国电力逆变器和先进机器人设备列入“覆盖清单”事答记者问",
+          "url": "https://wallstreetcn.com/livenews/3142028",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
         },
         {
           "title": "美国中央司令部：霍尔木兹海峡对国际通行保持开放，美国军方为船只的安全航行提供支持。自5月以来，中央司令部部队已在海峡协助了约1000艘船只和5亿桶石油的通行。",
@@ -226,7 +259,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -248,7 +281,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -377,7 +410,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 27,
       "titles": [
         {
           "title": "特朗普称美国将强力打击伊朗 中东局势升级推动国际油价大幅飙升",
@@ -386,11 +419,12 @@
           "ranks": [
             4,
             2,
-            3
+            3,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 07时06分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 10时11分]"
         },
         {
           "title": "特朗普：伊朗请求不要发动打击，但美国将给他们一个教训",
@@ -402,6 +436,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时01分 ~ 07时06分]"
+        },
+        {
+          "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
+          "url": "https://wallstreetcn.com/articles/3778237",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时06分 ~ 10时11分]"
         },
         {
           "title": "布油大涨7%！特朗普警告：将对伊朗“大力打击”",
@@ -427,15 +473,28 @@
           "time_info": "06时01分"
         },
         {
-          "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
-          "url": "https://wallstreetcn.com/articles/3778237",
-          "source": "华尔街见闻",
+          "title": "最新民调出炉！特朗普在共和党内部也遇挫",
+          "url": "https://news.ifeng.com/c/8vArsLDHzMI",
+          "source": "凤凰网",
           "ranks": [
-            3
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时06分"
+          "time_info": "10时11分"
+        },
+        {
+          "title": "又吃糖又犯困，特朗普在美政客葬礼现场小动作惹争议，白宫：他在缅怀",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33682760",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 10时11分]"
         },
         {
           "title": "明查｜特朗普的替身出现了？先把视频暂停一下",
@@ -483,27 +542,16 @@
           "time_info": "[00时21分 ~ 07时06分]"
         },
         {
-          "title": "又吃糖又犯困，特朗普在美政客葬礼现场小动作惹争议，白宫：他在缅怀",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33682760",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 07时06分]"
-        },
-        {
           "title": "伊朗武装部队警告特朗普",
           "url": "https://www.douyin.com/hot/2589723",
           "source": "抖音",
           "ranks": [
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时12分 ~ 07时06分]"
+          "appearance_count": 4,
+          "time_info": "[04时12分 ~ 10时11分]"
         },
         {
           "title": "特朗普被发现在格雷厄姆葬礼打瞌睡",
@@ -524,9 +572,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
+        },
+        {
+          "title": "以色列煽风，乌克兰点火，特朗普不为所动",
+          "url": "https://news.ifeng.com/c/8v9V5d2YFtT",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
         },
         {
           "title": "道指狂泄超千点，跌幅扩大至2.1%，标普跌1.1%，纳指跌1.1%，半导体指数跌3.8%，特朗普称“会稍微教训一下伊朗”。",
@@ -549,6 +608,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时12分"
+        },
+        {
+          "title": "特朗普不骂沃什只骂委员会，美联储出现50年一遇的内部分裂",
+          "url": "https://flash.jin10.com/detail/20260730100152880800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
         },
         {
           "title": "美国总统特朗普：（谈论人工智能）正在研究管控AI的措施。",
@@ -652,8 +722,290 @@
       ]
     },
     {
+      "keyword_group": "日本",
+      "match_count": 24,
+      "titles": [
+        {
+          "title": "日本熊本地震已致13人死亡，近万人避难",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33679905",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 07时06分]"
+        },
+        {
+          "title": "日本发生7.1级地震，灾区画面曝光",
+          "url": "https://news.ifeng.com/c/8v8DZ5qeCRl",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 04时12分]"
+        },
+        {
+          "title": "日本技术人员拆解宇树机器人后称「赶不上中国」，从螺丝到整机，中国机器人供应链优势体现在哪些环节？",
+          "url": "https://www.zhihu.com/question/2064993421949755491",
+          "source": "知乎",
+          "ranks": [
+            13,
+            5,
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时12分 ~ 10时11分]"
+        },
+        {
+          "title": "记者用两个非常惨烈形容日本震后现场",
+          "url": "https://www.toutiao.com/trending/7668085321384529418/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "日本发生强烈地震，中方：对遇难者表示哀悼",
+          "url": "https://news.ifeng.com/c/8v9iQY1KXBO",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时21分"
+        },
+        {
+          "title": "记者直击日本震区",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AE%B0%E8%80%85%E7%9B%B4%E5%87%BB%E6%97%A5%E6%9C%AC%E9%9C%87%E5%8C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "强震后，日本网上出现涉华阴谋论",
+          "url": "https://news.ifeng.com/c/8vAHjVqJKVC",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时01分 ~ 10时11分]"
+        },
+        {
+          "title": "日本财务大臣片山皋月：与市场做好沟通比以往任何时候都更加重要。 需要追求强劲的经济增长和财政可持续性。",
+          "url": "https://wallstreetcn.com/livenews/3142059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "日本各地惊现”喷粪”狂徒",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356582&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%90%84%E5%9C%B0%E6%83%8A%E7%8E%B0%E2%80%9D%E5%96%B7%E7%B2%AA%E2%80%9D%E7%8B%82%E5%BE%92",
+          "source": "贴吧",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 10时11分]"
+        },
+        {
+          "title": "日本熊本县再次地震 震感强烈",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%86%8A%E6%9C%AC%E5%8E%BF%E5%86%8D%E6%AC%A1%E5%9C%B0%E9%9C%87+%E9%9C%87%E6%84%9F%E5%BC%BA%E7%83%88",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            16,
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 07时06分]"
+        },
+        {
+          "title": "日本在731这天成立新特高课其心可诛",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%9C%A8731%E8%BF%99%E5%A4%A9%E6%88%90%E7%AB%8B%E6%96%B0%E7%89%B9%E9%AB%98%E8%AF%BE%E5%85%B6%E5%BF%83%E5%8F%AF%E8%AF%9B%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时12分 ~ 07时06分]"
+        },
+        {
+          "title": "日本强震致神社垮塌列车脱轨",
+          "url": "https://www.toutiao.com/trending/7667713008373894707/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时12分 ~ 07时06分]"
+        },
+        {
+          "title": "日本强震医院爆满停电病房像“战区”",
+          "url": "https://www.toutiao.com/trending/7667858812686208562/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时12分 ~ 06时01分]"
+        },
+        {
+          "title": "日本小将2034杯输球痛哭半小时",
+          "url": "https://www.toutiao.com/trending/7667180084453998628/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "日本强震瞬间满载货车被抛起",
+          "url": "https://www.toutiao.com/trending/7667766651118636582/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "强震后日本网上出现涉华阴谋论",
+          "url": "https://www.toutiao.com/trending/7667751996418031659/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：需要对预算规模进行同比比较，初步预算可能大于前几年，市场可能对此过度反应。",
+          "url": "https://flash.jin10.com/detail/20260730095548257800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "中国男排1比3日本男排止步8强",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%94%B7%E6%8E%921%E6%AF%943%E6%97%A5%E6%9C%AC%E7%94%B7%E6%8E%92%E6%AD%A2%E6%AD%A58%E5%BC%BA",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        },
+        {
+          "title": "MLCC被日本主导 中国如何突围",
+          "url": "https://www.toutiao.com/trending/7667911607384542774/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时06分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：向市场充分解释我们的财政政策至关重要。",
+          "url": "https://flash.jin10.com/detail/20260730095253736800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：明年预算申请不设置上限的提议来自财务省官员。",
+          "url": "https://flash.jin10.com/detail/20260730095200001800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "日本熊本县发生5.8级地震 震感强烈",
+          "url": "https://www.toutiao.com/trending/7667941929937554970/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时21分"
+        },
+        {
+          "title": "记者用两个非常惨烈形容日本震后现场",
+          "url": "https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E7%94%A8%E4%B8%A4%E4%B8%AA%E9%9D%9E%E5%B8%B8%E6%83%A8%E7%83%88%E5%BD%A2%E5%AE%B9%E6%97%A5%E6%9C%AC%E9%9C%87%E5%90%8E%E7%8E%B0%E5%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "中国游客称日本强震前有井盖冒温泉",
+          "url": "https://www.toutiao.com/trending/7667725284774563354/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时06分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "FOMC和巨头财报在即，特朗普称将对伊朗进行打击，美股指跌幅扩大，道指跌超1.5%，布油涨超6%",
@@ -667,6 +1019,18 @@
           "time_info": "[00时21分 ~ 06时01分]"
         },
         {
+          "title": "美股收盘：特朗普最后时刻砸盘 纳斯达克100指数坠入回调区间",
+          "url": "https://www.cls.cn/detail/2440737",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时06分 ~ 10时11分]"
+        },
+        {
           "title": "美股三大股指悉数跌超1%，标普500指数跌幅扩大至1%，纳指现跌1.3%，道指现跌1.6%。",
           "url": "https://flash.jin10.com/detail/20260729235733108800",
           "source": "金十数据",
@@ -678,15 +1042,18 @@
           "time_info": "00时21分"
         },
         {
-          "title": "美股收盘：特朗普最后时刻砸盘 纳斯达克100指数坠入回调区间",
-          "url": "https://www.cls.cn/detail/2440737",
+          "title": "美联储决议前市场情绪谨慎 美股期指走弱 油价飙升近6% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2440482",
           "source": "财联社热门",
           "ranks": [
-            4
+            7,
+            8,
+            9,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时06分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 10时11分]"
         },
         {
           "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
@@ -694,19 +1061,6 @@
           "source": "华尔街见闻",
           "ranks": [
             7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 07时06分]"
-        },
-        {
-          "title": "美联储决议前市场情绪谨慎 美股期指走弱 油价飙升近6% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2440482",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8,
-            9
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -764,7 +1118,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -775,9 +1129,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
+        },
+        {
+          "title": "美股三大指数集体收跌",
+          "url": "https://www.douyin.com/hot/2590070",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
         },
         {
           "title": "美股费城半导体指数下跌4%，英伟达下跌2.98%，台积电下跌3.67%，博通下跌1.87%，SK海力士下跌1.28%，美光科技下跌5%，美国超微公司下跌5.51%，英特尔下跌3.36%，阿斯麦下跌2.73%，泛林集团下跌5.28%，ArmHoldings下跌6.73%，闪迪下跌8.04%，高通下跌2.84%，迈威尔科技下跌4.82%，西部数据下跌0.68%。",
@@ -844,182 +1209,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "日本",
-      "match_count": 14,
-      "titles": [
-        {
-          "title": "日本熊本地震已致13人死亡，近万人避难",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33679905",
-          "source": "澎湃新闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 07时06分]"
         },
         {
-          "title": "日本发生7.1级地震，灾区画面曝光",
-          "url": "https://news.ifeng.com/c/8v8DZ5qeCRl",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 04时12分]"
-        },
-        {
-          "title": "强震后，日本网上出现涉华阴谋论",
-          "url": "https://news.ifeng.com/c/8vAHjVqJKVC",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时01分 ~ 07时06分]"
-        },
-        {
-          "title": "日本发生强烈地震，中方：对遇难者表示哀悼",
-          "url": "https://news.ifeng.com/c/8v9iQY1KXBO",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "日本技术人员拆解宇树机器人后称「赶不上中国」，从螺丝到整机，中国机器人供应链优势体现在哪些环节？",
-          "url": "https://www.zhihu.com/question/2064993421949755491",
-          "source": "知乎",
-          "ranks": [
-            13,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时12分 ~ 07时06分]"
-        },
-        {
-          "title": "日本熊本县再次地震 震感强烈",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%86%8A%E6%9C%AC%E5%8E%BF%E5%86%8D%E6%AC%A1%E5%9C%B0%E9%9C%87+%E9%9C%87%E6%84%9F%E5%BC%BA%E7%83%88",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            16,
-            22,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 07时06分]"
-        },
-        {
-          "title": "日本各地惊现”喷粪”狂徒",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356582&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%90%84%E5%9C%B0%E6%83%8A%E7%8E%B0%E2%80%9D%E5%96%B7%E7%B2%AA%E2%80%9D%E7%8B%82%E5%BE%92",
-          "source": "贴吧",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 07时06分]"
-        },
-        {
-          "title": "日本在731这天成立新特高课其心可诛",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%9C%A8731%E8%BF%99%E5%A4%A9%E6%88%90%E7%AB%8B%E6%96%B0%E7%89%B9%E9%AB%98%E8%AF%BE%E5%85%B6%E5%BF%83%E5%8F%AF%E8%AF%9B%23&t=31&band_rank=18&Refer=top",
+          "title": "美股尾盘大跳水原因",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E5%B0%BE%E7%9B%98%E5%A4%A7%E8%B7%B3%E6%B0%B4%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
           "ranks": [
-            18,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时12分 ~ 07时06分]"
-        },
-        {
-          "title": "日本强震致神社垮塌列车脱轨",
-          "url": "https://www.toutiao.com/trending/7667713008373894707/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            8,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时12分 ~ 07时06分]"
-        },
-        {
-          "title": "日本强震医院爆满停电病房像“战区”",
-          "url": "https://www.toutiao.com/trending/7667858812686208562/",
-          "source": "今日头条",
-          "ranks": [
-            20,
             30
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时12分 ~ 06时01分]"
-        },
-        {
-          "title": "中国男排1比3日本男排止步8强",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%94%B7%E6%8E%921%E6%AF%943%E6%97%A5%E6%9C%AC%E7%94%B7%E6%8E%92%E6%AD%A2%E6%AD%A58%E5%BC%BA",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时12分"
-        },
-        {
-          "title": "MLCC被日本主导 中国如何突围",
-          "url": "https://www.toutiao.com/trending/7667911607384542774/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时06分"
-        },
-        {
-          "title": "日本熊本县发生5.8级地震 震感强烈",
-          "url": "https://www.toutiao.com/trending/7667941929937554970/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "中国游客称日本强震前有井盖冒温泉",
-          "url": "https://www.toutiao.com/trending/7667725284774563354/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时06分"
+          "time_info": "10时11分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 12,
       "titles": [
         {
           "title": "美国中央司令部（CENTCOM）：霍尔木兹海峡对国际航运保持开放，合法合规的船舶航行正得到美国军方的支持。自5月以来，美国中央司令部部队已协助约1000艘船只及5亿桶原油顺利通过该海峡。 在威胁霍尔木兹海峡内的商船之后，伊朗伊斯兰革命卫队（IRGC）仍在要求国际海员仅使用其指定的航线。",
@@ -1079,6 +1285,39 @@
           "time_info": "[06时01分 ~ 07时06分]"
         },
         {
+          "title": "美国将对购买俄油气的国家征收 100% 二级关税、同时延长伊朗制裁，如何看待此举？将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2065729116125521259",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "美媒称美军正在对伊朗进行空袭",
+          "url": "https://www.toutiao.com/trending/7668100922215501318/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "历史性一刻，伊朗先发制人袭击美军基地",
+          "url": "https://v.ifeng.com/c/8vA9hUsD4WZ",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
           "title": "以色列官员：伊朗仍在镐山进行铀浓缩",
           "url": "https://flash.jin10.com/detail/20260729234637630800",
           "source": "金十数据",
@@ -1101,6 +1340,17 @@
           "time_info": "00时21分"
         },
         {
+          "title": "美军袭击伊朗西南部城市阿瓦士",
+          "url": "https://flash.jin10.com/detail/20260730095704601800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
           "title": "美国财政部：今日伊朗制裁针对借助霍尔木兹海峡牟利的行为。 制裁目标指向伊朗的霍尔木兹海峡“勒索网络”。",
           "url": "https://wallstreetcn.com/livenews/3141774",
           "source": "华尔街见闻-快讯",
@@ -1114,6 +1364,56 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "为什么 ChatGPT 已经发布 4 年了，社会总生产力纹丝不动？",
+          "url": "https://www.zhihu.com/question/2065583157664018461",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "Analog Devices Inc.（ADI）：漏洞与OpenAI无关。",
+          "url": "https://wallstreetcn.com/livenews/3141939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时06分"
+        },
+        {
+          "title": "OpenAI 、 Anthropic 等上千员工联名请愿美政府控制 AI 发展速度，反映了什么？有何影响？",
+          "url": "https://www.zhihu.com/question/2065729146383071132",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "微软(MSFT.O)首席财务官：第四季度合同积压在不包括OpenAI的情况下增加了25%。",
+          "url": "https://flash.jin10.com/detail/20260730055730100800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时06分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 4,
       "titles": [
@@ -1122,11 +1422,12 @@
           "url": "https://wallstreetcn.com/articles/3778176",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时06分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时06分 ~ 10时11分]"
         },
         {
           "title": "阿波罗首席经济学家：美联储放弃前瞻指引，导致美债“溜溜球”式波动",
@@ -1135,7 +1436,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -1157,7 +1458,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         }
@@ -1188,34 +1489,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "Analog Devices Inc.（ADI）：漏洞与OpenAI无关。",
-          "url": "https://wallstreetcn.com/livenews/3141939",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时06分"
-        },
-        {
-          "title": "微软(MSFT.O)首席财务官：第四季度合同积压在不包括OpenAI的情况下增加了25%。",
-          "url": "https://flash.jin10.com/detail/20260730055730100800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时06分"
         }
       ]
     },
