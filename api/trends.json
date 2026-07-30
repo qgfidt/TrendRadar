@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-31T03:24:03.927523+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-07-31T07:06:06.877848+08:00",
+  "total_titles_processed": 422,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://news.ifeng.com/c/8vBRvOidAuY",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时23分 ~ 03时24分]"
+          "appearance_count": 4,
+          "time_info": "[03时23分 ~ 07时06分]"
         },
         {
           "title": "有报道称中方将提供400枚肩扛式导弹给伊朗，外交部：毫无根据",
@@ -26,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时23分 ~ 03时24分]"
+          "appearance_count": 4,
+          "time_info": "[03时23分 ~ 07时06分]"
         },
         {
           "title": "伊朗称摧毁3架F-35战机，美军回应",
@@ -37,8 +38,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时23分 ~ 03时24分]"
+          "appearance_count": 4,
+          "time_info": "[03时23分 ~ 07时06分]"
         },
         {
           "title": "中国向伊朗提供400枚导弹？外交部回应",
@@ -48,19 +49,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时23分 ~ 03时24分]"
+          "appearance_count": 4,
+          "time_info": "[03时23分 ~ 07时06分]"
         },
         {
           "title": "伊朗将接收中国造肩扛式防空导弹发射装置？外交部：不符合事实",
           "url": "https://m.thepaper.cn/newsDetail_forward_33684903",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时23分 ~ 03时24分]"
+          "appearance_count": 4,
+          "time_info": "[03时23分 ~ 07时06分]"
         },
         {
           "title": "伊朗称打击约旦美军基地摧毁3架F-35",
@@ -91,7 +93,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
         },
@@ -102,7 +104,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
         },
@@ -113,7 +115,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
         },
@@ -124,7 +126,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
         },
@@ -135,7 +137,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
         }
@@ -143,7 +145,7 @@
     },
     {
       "keyword_group": "美国",
-      "match_count": 6,
+      "match_count": 12,
       "titles": [
         {
           "title": "在美国和内塔尼亚胡吃了顿饭，黎巴嫩银行家回国或被捕",
@@ -153,19 +155,31 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时23分 ~ 03时24分]"
+          "appearance_count": 4,
+          "time_info": "[03时23分 ~ 07时06分]"
         },
         {
           "title": "美国二季度GDP增速不及预期 但消费和AI投资释放积极信号",
           "url": "https://www.cls.cn/detail/2441830",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时23分 ~ 03时24分]"
+          "appearance_count": 4,
+          "time_info": "[03时23分 ~ 07时06分]"
+        },
+        {
+          "title": "美国财长：日元似乎被“严重低估”",
+          "url": "https://wallstreetcn.com/livenews/3142685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
         },
         {
           "title": "美国中央司令部：截至7月30日，美国中央司令部的部队已引导24艘商船改变航向，使2艘商船丧失行动能力，并登临检查了2艘商船，以确保其完全遵守相关规定。",
@@ -174,9 +188,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        },
+        {
+          "title": "美国财长贝森特：日元已大幅偏离均衡价格，被严重低估；并不担心日元兑美元再次走强，日元目前非常便宜，而日本经济表现良好。",
+          "url": "https://flash.jin10.com/detail/20260731063749263800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
         },
         {
           "title": "以媒：美国周三的空袭不过“冰山一角” 后续行动或将更加猛烈",
@@ -185,9 +210,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        },
+        {
+          "title": "美国和乌克兰上周签署了无人机技术协议。 乌克兰无人机可以送到美国进行军事测试。（NBC）",
+          "url": "https://wallstreetcn.com/livenews/3142668",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
         },
         {
           "title": "据员工邮件通知，美国联邦航空管理局副局长罗切洛将于下周卸任。",
@@ -196,9 +232,31 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        },
+        {
+          "title": "美国财长贝森特：日元在我看来“似乎被严重低估”。",
+          "url": "https://flash.jin10.com/detail/20260731055132400800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
+        },
+        {
+          "title": "美国财长贝森特：日本可能在（美东时间）周四早些时候干预了外汇市场。",
+          "url": "https://flash.jin10.com/detail/20260731054921788800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
         },
         {
           "title": "马斯克计划在美国中期选举中至少投入1亿美元。（纽约时报）",
@@ -207,15 +265,133 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        },
+        {
+          "title": "白宫顾问哈塞特：人工智能（AI）并没有给美国造成通货膨胀。 如有必要，我们将继续降低油价。",
+          "url": "https://wallstreetcn.com/livenews/3142656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "日本",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "日本广岛现新物质 系原子弹爆炸形成",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%B9%BF%E5%B2%9B%E7%8E%B0%E6%96%B0%E7%89%A9%E8%B4%A8+%E7%B3%BB%E5%8E%9F%E5%AD%90%E5%BC%B9%E7%88%86%E7%82%B8%E5%BD%A2%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时23分 ~ 07时06分]"
+        },
+        {
+          "title": "日元暴涨3.3%后，日本央行决议迎变数：干预之后，会否再度加息？",
+          "url": "https://flash.jin10.com/detail/20260731065006453800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
+        },
+        {
+          "title": "据日经新闻：三星贸易部门与日本可再生能源公司Erex正在合作开发新的能源项目，以满足AI发展带来的电力需求。目标是在2029财年前为数据中心提供稳定的可再生能源供应。",
+          "url": "https://flash.jin10.com/detail/20260731064742988800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
+        },
+        {
+          "title": "日本震后老年人睡地板民众哭喊怕余震",
+          "url": "https://www.toutiao.com/trending/7668024656082964010/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时23分 ~ 07时06分]"
+        },
+        {
+          "title": "凤凰记者深入日本震区工厂：烟囱断裂，工人被困，全面停工",
+          "url": "https://news.ifeng.com/c/8vBeraEcqSF",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时23分 ~ 07时06分]"
+        },
+        {
+          "title": "国防部：日本拥核野心不可纵 挑战红线不能容",
+          "url": "https://www.cls.cn/detail/2441372",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时23分 ~ 03时24分]"
+        },
+        {
+          "title": "记者用两个非常惨烈形容日本震后现场",
+          "url": "https://www.toutiao.com/trending/7668085321384529418/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时05分 ~ 07时06分]"
+        },
+        {
+          "title": "日本自卫队在太平洋首次试射“战斧”导弹",
+          "url": "https://wallstreetcn.com/livenews/3142673",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
+        },
+        {
+          "title": "日本自卫队在太平洋首次试射“战斧”导弹",
+          "url": "https://flash.jin10.com/detail/20260731060103700800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 4,
+      "match_count": 8,
       "titles": [
         {
           "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
@@ -229,6 +405,17 @@
           "time_info": "[03时23分 ~ 03时24分]"
         },
         {
+          "title": "“极不寻常”！爆料称特朗普或拒绝法国驻美大使提名",
+          "url": "https://news.ifeng.com/c/8vBnavmwROe",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时23分 ~ 07时06分]"
+        },
+        {
           "title": "以媒：内塔尼亚胡向特朗普阐述对伊“三种情景”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33683951",
           "source": "澎湃新闻",
@@ -240,15 +427,37 @@
           "time_info": "[03时23分 ~ 03时24分]"
         },
         {
-          "title": "“极不寻常”！爆料称特朗普或拒绝法国驻美大使提名",
-          "url": "https://news.ifeng.com/c/8vBnavmwROe",
-          "source": "凤凰网",
+          "title": "特朗普宣布哈马斯同意全面解除武装，以色列将撤军",
+          "url": "https://flash.jin10.com/detail/20260731063227689800",
+          "source": "金十数据",
           "ranks": [
-            12
+            9
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时23分 ~ 03时24分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
+        },
+        {
+          "title": "特朗普：加沙将迎来新的巴勒斯坦政府",
+          "url": "https://wallstreetcn.com/livenews/3142682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
+        },
+        {
+          "title": "美国总统特朗普：和平委员会达成历史性协议，全面解除哈马斯及加沙所有其他武装团体的武装。",
+          "url": "https://flash.jin10.com/detail/20260731062552220800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
         },
         {
           "title": "据Axios：据四位知情人士透露，白宫和特朗普总统的和平委员会认为，哈马斯可能会在未来几天内签署一项协议，逐步解除武装并实现加沙地带的非军事化。",
@@ -257,59 +466,103 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        },
+        {
+          "title": "亚马逊在二季度获得6亿美元与（美国总统特朗普）关税相关的退款。 公司将向某些客户自动发放关税退款。",
+          "url": "https://wallstreetcn.com/livenews/3142667",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
         }
       ]
     },
     {
-      "keyword_group": "日本",
-      "match_count": 4,
+      "keyword_group": "美股",
+      "match_count": 7,
       "titles": [
         {
-          "title": "国防部：日本拥核野心不可纵 挑战红线不能容",
-          "url": "https://www.cls.cn/detail/2441372",
+          "title": "美股收盘：满屏都是两位数涨幅 微软单日市值暴增3万亿",
+          "url": "https://www.cls.cn/detail/2441995",
           "source": "财联社热门",
           "ranks": [
-            6
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时23分 ~ 03时24分]"
+          "time_info": "[07时05分 ~ 07时06分]"
         },
         {
-          "title": "日本震后老年人睡地板民众哭喊怕余震",
-          "url": "https://www.toutiao.com/trending/7668024656082964010/",
-          "source": "今日头条",
+          "title": "逢低买盘推动美股走高，费城半导体指数涨超7%，微软涨超14%，油价转跌",
+          "url": "https://wallstreetcn.com/articles/3778287",
+          "source": "华尔街见闻",
           "ranks": [
-            7
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时23分 ~ 03时24分]"
         },
         {
-          "title": "日本广岛现新物质 系原子弹爆炸形成",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%B9%BF%E5%B2%9B%E7%8E%B0%E6%96%B0%E7%89%A9%E8%B4%A8+%E7%B3%BB%E5%8E%9F%E5%AD%90%E5%BC%B9%E7%88%86%E7%82%B8%E5%BD%A2%E6%88%90",
+          "title": "美股存储芯片指数收涨超16.9%，闪迪涨约26%，SK海力士ADR涨超17.5%",
+          "url": "https://wallstreetcn.com/livenews/3142689",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
+        },
+        {
+          "title": "美股半导体板块迎反弹 多股暴涨超10%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%9D%BF%E5%9D%97%E8%BF%8E%E5%8F%8D%E5%BC%B9+%E5%A4%9A%E8%82%A1%E6%9A%B4%E6%B6%A8%E8%B6%8510%25",
           "source": "百度热搜",
           "ranks": [
-            8
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时23分 ~ 03时24分]"
+          "time_info": "[07时05分 ~ 07时06分]"
         },
         {
-          "title": "凤凰记者深入日本震区工厂：烟囱断裂，工人被困，全面停工",
-          "url": "https://news.ifeng.com/c/8vBeraEcqSF",
-          "source": "凤凰网",
+          "title": "周五亚太盘初，纳指期货涨超0.5%，标普股指期货、道指期货涨超0.1%。 苹果目前（美股盘后）跌超6.5%，该公司电话会已经结束；微软跌0.7%，台积电、AMD、希捷科技、英特尔、西部数据、闪迪涨1.34%-5.07%，发布了业绩报告的亚马逊涨9.3%。",
+          "url": "https://wallstreetcn.com/livenews/3142674",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            14
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时23分 ~ 03时24分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
+        },
+        {
+          "title": "亚马逊高管预计2026年资本开支2200亿美元，主要用于AI。 亚马逊美股盘后涨幅扩大至超过10%。",
+          "url": "https://wallstreetcn.com/livenews/3142660",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
+        },
+        {
+          "title": "美股存储芯片概念股盘后继续走强，西部数据(WDC.O)涨超4%，希捷科技(STX.O)、美光科技(MU.O)和SK海力士(SKHY.O)涨3%，闪迪(SNDK.O)涨6%。",
+          "url": "https://flash.jin10.com/detail/20260731053830299800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
         }
       ]
     },
@@ -322,11 +575,12 @@
           "url": "https://www.cls.cn/detail/2441076",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时23分 ~ 03时24分]"
+          "appearance_count": 4,
+          "time_info": "[03时23分 ~ 07时06分]"
         },
         {
           "title": "OpenAI：将GPT-5.6Luna的价格下调80%",
@@ -335,7 +589,35 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美通胀降温叠加微软业绩提振AI信心，纳指100创年内第三大涨幅，芯片指数暴涨8%，美元跳水",
+          "url": "https://wallstreetcn.com/articles/3778287",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时05分 ~ 07时06分]"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1%，暂报2073点。 MarketVectorTM数字资产100中盘指数涨1.83%，报2381.55点，北京时间05:05刷新日低至2311.71点以来持续反弹。 MarketVector数字资产100指数涨1.68%，报12847.19点。 目前，Solana涨1.78%，狗狗币涨0.80%，XRP涨1.47%。 比特币涨1.54%，暂报64763.94美元，北京时间05:08跌至63269.29美元，随后持续上扬；以太坊涨1.18%，暂报1917.18美元。",
+          "url": "https://wallstreetcn.com/livenews/3142587",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
         }
@@ -353,8 +635,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时23分 ~ 03时24分]"
+          "appearance_count": 4,
+          "time_info": "[03时23分 ~ 07时06分]"
         },
         {
           "title": "据印度政府令：印度重新任命 K·拉贾拉曼为国际金融服务中心管理局主席，任期至其年满65岁。",
@@ -363,7 +645,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
         }
@@ -380,7 +662,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
         }
@@ -395,45 +677,12 @@
           "url": "https://wallstreetcn.com/articles/3778176",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时23分 ~ 03时24分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "逢低买盘推动美股走高，费城半导体指数涨超7%，微软涨超14%，油价转跌",
-          "url": "https://wallstreetcn.com/articles/3778287",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时23分 ~ 03时24分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1%，暂报2073点。 MarketVectorTM数字资产100中盘指数涨1.83%，报2381.55点，北京时间05:05刷新日低至2311.71点以来持续反弹。 MarketVector数字资产100指数涨1.68%，报12847.19点。 目前，Solana涨1.78%，狗狗币涨0.80%，XRP涨1.47%。 比特币涨1.54%，暂报64763.94美元，北京时间05:08跌至63269.29美元，随后持续上扬；以太坊涨1.18%，暂报1917.18美元。",
-          "url": "https://wallstreetcn.com/livenews/3142587",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时24分"
+          "appearance_count": 4,
+          "time_info": "[03时23分 ~ 07时06分]"
         }
       ]
     }
