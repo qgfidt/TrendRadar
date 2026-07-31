@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-31T17:44:46.481767+08:00",
-  "total_titles_processed": 1009,
+  "generated_at": "2026-07-31T19:59:34.615160+08:00",
+  "total_titles_processed": 1168,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "日本",
-      "match_count": 36,
+      "match_count": 39,
       "titles": [
         {
           "title": "未来30年80%概率遇特大地震，日本全民被危机感裹挟",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时38分 ~ 17时44分]"
+          "appearance_count": 5,
+          "time_info": "[10时38分 ~ 19时59分]"
         },
         {
           "title": "日本震后老年人睡地板民众哭喊怕余震",
@@ -51,7 +51,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
         },
@@ -94,11 +94,12 @@
           "source": "贴吧",
           "ranks": [
             4,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时12分 ~ 17时44分]"
+          "appearance_count": 3,
+          "time_info": "[14时12分 ~ 19时59分]"
         },
         {
           "title": "凤凰记者深入日本震区工厂：烟囱断裂，工人被困，全面停工",
@@ -123,6 +124,19 @@
           "time_info": "[10时38分 ~ 14时12分]"
         },
         {
+          "title": "日本国家情报局正式成立",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356667&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%9B%BD%E5%AE%B6%E6%83%85%E6%8A%A5%E5%B1%80%E6%AD%A3%E5%BC%8F%E6%88%90%E7%AB%8B",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            18,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时12分 ~ 19时59分]"
+        },
+        {
           "title": "国防部：日本拥核野心不可纵 挑战红线不能容",
           "url": "https://www.cls.cn/detail/2441372",
           "source": "财联社热门",
@@ -145,16 +159,15 @@
           "time_info": "[10时38分 ~ 10时39分]"
         },
         {
-          "title": "日本国家情报局正式成立",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356667&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%9B%BD%E5%AE%B6%E6%83%85%E6%8A%A5%E5%B1%80%E6%AD%A3%E5%BC%8F%E6%88%90%E7%AB%8B",
-          "source": "贴吧",
+          "title": "日本自卫队试射战斧导弹",
+          "url": "https://www.douyin.com/hot/2591383",
+          "source": "抖音",
           "ranks": [
-            9,
-            18
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时12分 ~ 17时44分]"
+          "time_info": "[17时44分 ~ 19时59分]"
         },
         {
           "title": "记者用两个非常惨烈形容日本震后现场",
@@ -188,6 +201,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时38分 ~ 10时39分]"
+        },
+        {
+          "title": "视频丨日本“国家情报局”正式设立，专家：突破战后和平体制束缚",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33688333",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时44分 ~ 19时59分]"
+        },
+        {
+          "title": "东京怕震,日本要建副首都",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356673&amp;topic_name=%E4%B8%9C%E4%BA%AC%E6%80%95%E9%9C%87%2C%E6%97%A5%E6%9C%AC%E8%A6%81%E5%BB%BA%E5%89%AF%E9%A6%96%E9%83%BD",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时44分 ~ 19时59分]"
         },
         {
           "title": "日本在太平洋首次试射“战斧”导弹",
@@ -245,24 +282,13 @@
           "time_info": "10时39分"
         },
         {
-          "title": "日本自卫队试射战斧导弹",
-          "url": "https://www.douyin.com/hot/2591383",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时44分"
-        },
-        {
           "title": "道富：日本央行可能在9月或10月加息",
           "url": "https://flash.jin10.com/detail/20260731171329653800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
         },
@@ -273,29 +299,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时44分"
-        },
-        {
-          "title": "视频丨日本“国家情报局”正式设立，专家：突破战后和平体制束缚",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33688333",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时44分"
-        },
-        {
-          "title": "东京怕震,日本要建副首都",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356673&amp;topic_name=%E4%B8%9C%E4%BA%AC%E6%80%95%E9%9C%87%2C%E6%97%A5%E6%9C%AC%E8%A6%81%E5%BB%BA%E5%89%AF%E9%A6%96%E9%83%BD",
-          "source": "贴吧",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
         },
@@ -355,15 +359,37 @@
           "time_info": "10时39分"
         },
         {
+          "title": "邵永灵：日本撕下“和平”伪装",
+          "url": "https://www.toutiao.com/trending/7668618441913273899/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
+        },
+        {
           "title": "日本当局疑似第二轮干预 日元全线走强",
           "url": "https://flash.jin10.com/detail/20260731170705062800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
+        },
+        {
+          "title": "外交部谈日本设国家情报局",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E8%B0%88%E6%97%A5%E6%9C%AC%E8%AE%BE%E5%9B%BD%E5%AE%B6%E6%83%85%E6%8A%A5%E5%B1%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
         },
         {
           "title": "日本6月营建订单年率 2.3%，前值-6.7%。",
@@ -408,12 +434,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时12分"
+        },
+        {
+          "title": "日本长崎、广岛市长呼吁防卫大臣正视核武器危害性",
+          "url": "https://wallstreetcn.com/livenews/3143214",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
         }
       ]
     },
     {
       "keyword_group": "美国",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "在美国和内塔尼亚胡吃了顿饭，黎巴嫩银行家回国或被捕",
@@ -434,8 +471,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时12分 ~ 17时44分]"
+          "appearance_count": 3,
+          "time_info": "[14时12分 ~ 19时59分]"
+        },
+        {
+          "title": "美国务院一出手，非洲全乱了",
+          "url": "https://news.ifeng.com/c/8vCOAeHmmup",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时38分 ~ 19时59分]"
         },
         {
           "title": "美国二季度GDP增速不及预期 但消费和AI投资释放积极信号",
@@ -475,28 +525,16 @@
           "time_info": "[10时38分 ~ 14时12分]"
         },
         {
-          "title": "美国务院一出手，非洲全乱了",
-          "url": "https://news.ifeng.com/c/8vCOAeHmmup",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            5,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时38分 ~ 17时44分]"
-        },
-        {
           "title": "-0.1%！美国6月PCE物价指数六年来首次环比下降，同比涨幅显著收窄",
           "url": "https://wallstreetcn.com/articles/3778338",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时38分 ~ 10时39分]"
+          "appearance_count": 3,
+          "time_info": "[10时38分 ~ 19时59分]"
         },
         {
           "title": "不敢掀桌子又不肯罢休，美国对华连使坏招",
@@ -571,9 +609,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
+        },
+        {
+          "title": "美独立记者：南海不是美国的“棋”",
+          "url": "https://www.toutiao.com/trending/7667774261440069659/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
         },
         {
           "title": "据员工邮件通知，美国联邦航空管理局副局长罗切洛将于下周卸任。",
@@ -645,7 +694,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "伊朗称摧毁3架F-35战机，美军回应",
@@ -683,6 +732,17 @@
           "time_info": "[03时23分 ~ 07时06分]"
         },
         {
+          "title": "伊朗革命卫队一天发表三份声明",
+          "url": "https://v.ifeng.com/c/8vBu9vCGaU5",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时12分 ~ 19时59分]"
+        },
+        {
           "title": "中国向伊朗提供400枚导弹？外交部回应",
           "url": "https://www.toutiao.com/trending/7668128346190053385/",
           "source": "今日头条",
@@ -695,17 +755,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[03时23分 ~ 17时44分]"
-        },
-        {
-          "title": "伊朗革命卫队一天发表三份声明",
-          "url": "https://v.ifeng.com/c/8vBu9vCGaU5",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时12分 ~ 17时44分]"
         },
         {
           "title": "伊朗将接收中国造肩扛式防空导弹发射装置？外交部：不符合事实",
@@ -728,7 +777,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
         },
@@ -740,8 +789,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时12分 ~ 17时44分]"
+          "appearance_count": 3,
+          "time_info": "[14时12分 ~ 19时59分]"
         },
         {
           "title": "伊朗称打击约旦美军基地摧毁3架F-35",
@@ -810,6 +859,17 @@
           "time_info": "03时24分"
         },
         {
+          "title": "伊朗在霍尔木兹击中并扣留2艘油轮",
+          "url": "https://www.toutiao.com/trending/7668445091514155050/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
+        },
+        {
           "title": "参议院共和党人成功阻挠旨在停止对伊朗战争的决议",
           "url": "https://flash.jin10.com/detail/20260731021049898800",
           "source": "金十数据",
@@ -845,171 +905,8 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 14,
-      "titles": [
-        {
-          "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
-          "url": "https://wallstreetcn.com/articles/3778237",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时23分 ~ 03时24分]"
-        },
-        {
-          "title": "特朗普：与哈马斯达成全面解除武装协议",
-          "url": "https://news.ifeng.com/c/8vCOAeHmmzS",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时38分 ~ 10时39分]"
-        },
-        {
-          "title": "美国参议院少数党领袖舒默：特朗普削减了负责防范此类网络攻击的机构——美国网络安全与基础设施安全局（CISA）——的7亿美元预算，却连一位CISA常任局长都未提名。既无远见，也无战略，只有这种冲动且危险的决策，持续将美国民众置于风险之中。",
-          "url": "https://flash.jin10.com/detail/20260731101401911800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时39分"
-        },
-        {
-          "title": "特朗普称与哈马斯及加沙其他武装团体达成解除武装协议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33688329",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时38分 ~ 17时44分]"
-        },
-        {
-          "title": "“极不寻常”！爆料称特朗普或拒绝法国驻美大使提名",
-          "url": "https://news.ifeng.com/c/8vBnavmwROe",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时23分 ~ 07时06分]"
-        },
-        {
-          "title": "事关半导体！特朗普政府再出手：将入股七家科技公司",
-          "url": "https://www.cls.cn/detail/2442363",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时12分 ~ 17时44分]"
-        },
-        {
-          "title": "以媒：内塔尼亚胡向特朗普阐述对伊“三种情景”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33683951",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时23分 ~ 03时24分]"
-        },
-        {
-          "title": "特朗普宣布哈马斯同意全面解除武装，以色列将撤军",
-          "url": "https://flash.jin10.com/detail/20260731063227689800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时06分"
-        },
-        {
-          "title": "特朗普：加沙将迎来新的巴勒斯坦政府",
-          "url": "https://wallstreetcn.com/livenews/3142682",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时06分"
-        },
-        {
-          "title": "马斯克据称准备再“砸”超1亿美元，为特朗普中期选举铺路！",
-          "url": "https://www.cls.cn/detail/2442307",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时44分"
-        },
-        {
-          "title": "美国总统特朗普：和平委员会达成历史性协议，全面解除哈马斯及加沙所有其他武装团体的武装。",
-          "url": "https://flash.jin10.com/detail/20260731062552220800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时06分"
-        },
-        {
-          "title": "据Axios：据四位知情人士透露，白宫和特朗普总统的和平委员会认为，哈马斯可能会在未来几天内签署一项协议，逐步解除武装并实现加沙地带的非军事化。",
-          "url": "https://flash.jin10.com/detail/20260731023101313800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时24分"
-        },
-        {
-          "title": "亚马逊在二季度获得6亿美元与（美国总统特朗普）关税相关的退款。 公司将向某些客户自动发放关税退款。",
-          "url": "https://wallstreetcn.com/livenews/3142667",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时06分"
-        },
-        {
-          "title": "美媒爆料：泽连斯基请特朗普说服马斯克，允许乌借助“星链”打击俄导弹发射装置",
-          "url": "https://wallstreetcn.com/livenews/3142913",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时12分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "美股收盘：满屏都是两位数涨幅 微软单日市值暴增3万亿",
@@ -1021,6 +918,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时05分 ~ 14时12分]"
+        },
+        {
+          "title": "一图看懂丨AI算力军备持续升温：美股四巨头开支指引再度上调",
+          "url": "https://www.cls.cn/detail/2442218",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时38分 ~ 19时59分]"
         },
         {
           "title": "逢低买盘推动美股走高，费城半导体指数涨超7%，微软涨超14%，油价转跌",
@@ -1045,20 +955,18 @@
           "time_info": "07时06分"
         },
         {
-          "title": "一图看懂丨AI算力军备持续升温：美股四巨头开支指引再度上调",
-          "url": "https://www.cls.cn/detail/2442218",
-          "source": "财联社热门",
+          "title": "AI暴力反弹！美股盘前亚马逊涨超10%、苹果跌超6%，韩股收涨17.91%，日元回吐干预涨幅",
+          "url": "https://wallstreetcn.com/articles/3778379",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
-            7,
-            5
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时38分 ~ 17时44分]"
+          "appearance_count": 1,
+          "time_info": "17时44分"
         },
         {
-          "title": "AI暴力反弹！美股盘前亚马逊涨超10%、苹果跌超6%，韩股收涨17.91%，日元回吐干预涨幅",
+          "title": "AI暴力反弹！美股盘前存储股持续走强，亚马逊涨超12%，美元跳水，日元走强重回159",
           "url": "https://wallstreetcn.com/articles/3778379",
           "source": "华尔街见闻",
           "ranks": [
@@ -1066,7 +974,30 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时44分"
+          "time_info": "19时59分"
+        },
+        {
+          "title": "艾伯维二季度净营收169.9亿美元，预估167.7亿美元。 二季度调整后每股收益3.65美元，预估3.61美元。 艾伯维预计全年调整后每股收益为13.87至14.07美元，此前预期为13.91至14.11美元。 艾伯维美股盘前跌近3%。",
+          "url": "https://wallstreetcn.com/livenews/3143251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
+        },
+        {
+          "title": "日元偷袭，美元盘中跌破 100 且兑日元急挫超 3%，美股 SOX 指数盘内涨超 8%，大宗商品异动，发生了什么？",
+          "url": "https://www.zhihu.com/question/2066288437683032785",
+          "source": "知乎",
+          "ranks": [
+            19,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时44分 ~ 19时59分]"
         },
         {
           "title": "美股收盘：满屏都是两位数涨幅",
@@ -1124,17 +1055,6 @@
           "time_info": "07时06分"
         },
         {
-          "title": "日元偷袭，美元盘中跌破 100 且兑日元急挫超 3%，美股 SOX 指数盘内涨超 8%，大宗商品异动，发生了什么？",
-          "url": "https://www.zhihu.com/question/2066288437683032785",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时44分"
-        },
-        {
           "title": "亚马逊高管预计2026年资本开支2200亿美元，主要用于AI。 亚马逊美股盘后涨幅扩大至超过10%。",
           "url": "https://wallstreetcn.com/livenews/3142660",
           "source": "华尔街见闻-快讯",
@@ -1155,6 +1075,326 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 15,
+      "titles": [
+        {
+          "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
+          "url": "https://wallstreetcn.com/articles/3778237",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时23分 ~ 03时24分]"
+        },
+        {
+          "title": "特朗普：与哈马斯达成全面解除武装协议",
+          "url": "https://news.ifeng.com/c/8vCOAeHmmzS",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时38分 ~ 10时39分]"
+        },
+        {
+          "title": "美国参议院少数党领袖舒默：特朗普削减了负责防范此类网络攻击的机构——美国网络安全与基础设施安全局（CISA）——的7亿美元预算，却连一位CISA常任局长都未提名。既无远见，也无战略，只有这种冲动且危险的决策，持续将美国民众置于风险之中。",
+          "url": "https://flash.jin10.com/detail/20260731101401911800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时39分"
+        },
+        {
+          "title": "特朗普对伊朗战事失去耐心，傅立民：他对谈判的理解本质上就错了",
+          "url": "https://news.ifeng.com/c/8vDDhdP8jJa",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
+        },
+        {
+          "title": "特朗普称与哈马斯及加沙其他武装团体达成解除武装协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33688329",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            13,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时38分 ~ 19时59分]"
+        },
+        {
+          "title": "“极不寻常”！爆料称特朗普或拒绝法国驻美大使提名",
+          "url": "https://news.ifeng.com/c/8vBnavmwROe",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时23分 ~ 07时06分]"
+        },
+        {
+          "title": "事关半导体！特朗普政府再出手：将入股七家科技公司",
+          "url": "https://www.cls.cn/detail/2442363",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时12分 ~ 19时59分]"
+        },
+        {
+          "title": "以媒：内塔尼亚胡向特朗普阐述对伊“三种情景”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33683951",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时23分 ~ 03时24分]"
+        },
+        {
+          "title": "马斯克据称准备再“砸”超1亿美元，为特朗普中期选举铺路！",
+          "url": "https://www.cls.cn/detail/2442307",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时44分 ~ 19时59分]"
+        },
+        {
+          "title": "特朗普宣布哈马斯同意全面解除武装，以色列将撤军",
+          "url": "https://flash.jin10.com/detail/20260731063227689800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时06分"
+        },
+        {
+          "title": "特朗普：加沙将迎来新的巴勒斯坦政府",
+          "url": "https://wallstreetcn.com/livenews/3142682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时06分"
+        },
+        {
+          "title": "美国总统特朗普：和平委员会达成历史性协议，全面解除哈马斯及加沙所有其他武装团体的武装。",
+          "url": "https://flash.jin10.com/detail/20260731062552220800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时06分"
+        },
+        {
+          "title": "据Axios：据四位知情人士透露，白宫和特朗普总统的和平委员会认为，哈马斯可能会在未来几天内签署一项协议，逐步解除武装并实现加沙地带的非军事化。",
+          "url": "https://flash.jin10.com/detail/20260731023101313800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "亚马逊在二季度获得6亿美元与（美国总统特朗普）关税相关的退款。 公司将向某些客户自动发放关税退款。",
+          "url": "https://wallstreetcn.com/livenews/3142667",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时06分"
+        },
+        {
+          "title": "美媒爆料：泽连斯基请特朗普说服马斯克，允许乌借助“星链”打击俄导弹发射装置",
+          "url": "https://wallstreetcn.com/livenews/3142913",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "DeepSeek V4 flash 正式版发布，有哪些亮点值得关注？",
+          "url": "https://www.zhihu.com/question/2066521165246489298",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时44分 ~ 19时59分]"
+        },
+        {
+          "title": "DeepSeek-V4-Flash 正式版API上线",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek-V4-Flash",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时44分 ~ 19时59分]"
+        },
+        {
+          "title": "DeepSeek：DeepSeek-V4-Flash正式版API上线公测 DeepSeek-V4-Pro正式版将会尽快发布",
+          "url": "https://wallstreetcn.com/livenews/3142950",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        },
+        {
+          "title": "DeepSeekV4Flash正式版上线",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeekV4Flash%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时44分"
+        },
+        {
+          "title": "DeepSeekV4能力在GLM5.2和KimiK3之间",
+          "url": "https://s.weibo.com/weibo?q=DeepSeekV4%E8%83%BD%E5%8A%9B%E5%9C%A8GLM5.2%E5%92%8CKimiK3%E4%B9%8B%E9%97%B4&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
+        },
+        {
+          "title": "DeepSeek-V4-Flash正式版上线",
+          "url": "https://www.baidu.com/s?wd=DeepSeek-V4-Flash%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "印度",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "白忙,印度老哥来华卖缝纫机",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356631&amp;topic_name=%E7%99%BD%E5%BF%99%2C%E5%8D%B0%E5%BA%A6%E8%80%81%E5%93%A5%E6%9D%A5%E5%8D%8E%E5%8D%96%E7%BC%9D%E7%BA%AB%E6%9C%BA",
+          "source": "贴吧",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时23分 ~ 10时39分]"
+        },
+        {
+          "title": "印度为何消灭不了种姓制度",
+          "url": "https://www.toutiao.com/trending/7668437665959644735/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时38分 ~ 10时39分]"
+        },
+        {
+          "title": "住房城乡建设部部长倪虹率团访问印度尼西亚",
+          "url": "https://wallstreetcn.com/livenews/3143247",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
+        },
+        {
+          "title": "据印度政府令：印度重新任命 K·拉贾拉曼为国际金融服务中心管理局主席，任期至其年满65岁。",
+          "url": "https://flash.jin10.com/detail/20260731023728778800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "住房城乡建设部部长倪虹率团访问印度尼西亚",
+          "url": "https://flash.jin10.com/detail/20260731193837973800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
+        },
+        {
+          "title": "万元一顿的印度国宴什么样",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%85%83%E4%B8%80%E9%A1%BF%E7%9A%84%E5%8D%B0%E5%BA%A6%E5%9B%BD%E5%AE%B4%E4%BB%80%E4%B9%88%E6%A0%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时44分"
         }
       ]
     },
@@ -1222,56 +1462,6 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "DeepSeek V4 flash 正式版发布，有哪些亮点值得关注？",
-          "url": "https://www.zhihu.com/question/2066521165246489298",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时44分"
-        },
-        {
-          "title": "DeepSeek：DeepSeek-V4-Flash正式版API上线公测 DeepSeek-V4-Pro正式版将会尽快发布",
-          "url": "https://wallstreetcn.com/livenews/3142950",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时12分"
-        },
-        {
-          "title": "DeepSeek-V4-Flash 正式版API上线",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek-V4-Flash",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时44分"
-        },
-        {
-          "title": "DeepSeekV4Flash正式版上线",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeekV4Flash%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时44分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
       "match_count": 4,
       "titles": [
@@ -1283,8 +1473,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时38分 ~ 17时44分]"
+          "appearance_count": 5,
+          "time_info": "[10时38分 ~ 19时59分]"
         },
         {
           "title": "美通胀降温叠加微软业绩提振AI信心，纳指100创年内第三大涨幅，芯片指数暴涨8%，美元跳水",
@@ -1304,7 +1494,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
         },
@@ -1318,56 +1508,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "印度",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "白忙,印度老哥来华卖缝纫机",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356631&amp;topic_name=%E7%99%BD%E5%BF%99%2C%E5%8D%B0%E5%BA%A6%E8%80%81%E5%93%A5%E6%9D%A5%E5%8D%8E%E5%8D%96%E7%BC%9D%E7%BA%AB%E6%9C%BA",
-          "source": "贴吧",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时23分 ~ 10时39分]"
-        },
-        {
-          "title": "印度为何消灭不了种姓制度",
-          "url": "https://www.toutiao.com/trending/7668437665959644735/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时38分 ~ 10时39分]"
-        },
-        {
-          "title": "据印度政府令：印度重新任命 K·拉贾拉曼为国际金融服务中心管理局主席，任期至其年满65岁。",
-          "url": "https://flash.jin10.com/detail/20260731023728778800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时24分"
-        },
-        {
-          "title": "万元一顿的印度国宴什么样",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%85%83%E4%B8%80%E9%A1%BF%E7%9A%84%E5%8D%B0%E5%BA%A6%E5%9B%BD%E5%AE%B4%E4%BB%80%E4%B9%88%E6%A0%B7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时44分"
         }
       ]
     },
