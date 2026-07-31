@@ -1,12 +1,448 @@
 {
-  "generated_at": "2026-07-31T07:06:06.877848+08:00",
-  "total_titles_processed": 422,
+  "generated_at": "2026-07-31T10:39:05.652872+08:00",
+  "total_titles_processed": 627,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "日本",
+      "match_count": 20,
+      "titles": [
+        {
+          "title": "未来30年80%概率遇特大地震，日本全民被危机感裹挟",
+          "url": "https://news.ifeng.com/c/8vBnHR2hR3n",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时38分 ~ 10时39分]"
+        },
+        {
+          "title": "日本广岛现新物质 系原子弹爆炸形成",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%B9%BF%E5%B2%9B%E7%8E%B0%E6%96%B0%E7%89%A9%E8%B4%A8+%E7%B3%BB%E5%8E%9F%E5%AD%90%E5%BC%B9%E7%88%86%E7%82%B8%E5%BD%A2%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时23分 ~ 07时06分]"
+        },
+        {
+          "title": "日本震后老年人睡地板民众哭喊怕余震",
+          "url": "https://www.toutiao.com/trending/7668024656082964010/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时23分 ~ 10时39分]"
+        },
+        {
+          "title": "日元暴涨3.3%后，日本央行决议迎变数：干预之后，会否再度加息？",
+          "url": "https://flash.jin10.com/detail/20260731065006453800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时06分"
+        },
+        {
+          "title": "据日经新闻：三星贸易部门与日本可再生能源公司Erex正在合作开发新的能源项目，以满足AI发展带来的电力需求。目标是在2029财年前为数据中心提供稳定的可再生能源供应。",
+          "url": "https://flash.jin10.com/detail/20260731064742988800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时06分"
+        },
+        {
+          "title": "日本“国家情报会议”举行首次会议",
+          "url": "https://wallstreetcn.com/livenews/3142849",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
+        },
+        {
+          "title": "凤凰记者深入日本震区工厂：烟囱断裂，工人被困，全面停工",
+          "url": "https://news.ifeng.com/c/8vBeraEcqSF",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时23分 ~ 07时06分]"
+        },
+        {
+          "title": "国防部：日本拥核野心不可纵 挑战红线不能容",
+          "url": "https://www.cls.cn/detail/2441372",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时23分 ~ 03时24分]"
+        },
+        {
+          "title": "俄专家：对华关系紧张不符合日本利益",
+          "url": "https://www.toutiao.com/trending/7667830413276872747/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时38分 ~ 10时39分]"
+        },
+        {
+          "title": "日本自卫队在太平洋首次试射“战斧”导弹",
+          "url": "https://news.ifeng.com/c/8vCOAeHmmpn",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时38分 ~ 10时39分]"
+        },
+        {
+          "title": "记者用两个非常惨烈形容日本震后现场",
+          "url": "https://www.toutiao.com/trending/7668085321384529418/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时05分 ~ 07时06分]"
+        },
+        {
+          "title": "日元盘中暴涨超3%！日媒称日本再干预，分析师称“顺势出手”时机聪明",
+          "url": "https://wallstreetcn.com/articles/3778344",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时38分 ~ 10时39分]"
+        },
+        {
+          "title": "日元汇率一小时内暴拉近500点 市场猜测日本政府再度干预汇市",
+          "url": "https://www.cls.cn/detail/2441933",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时38分 ~ 10时39分]"
+        },
+        {
+          "title": "日本在太平洋首次试射“战斧”导弹",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%9C%A8%E5%A4%AA%E5%B9%B3%E6%B4%8B%E9%A6%96%E6%AC%A1%E8%AF%95%E5%B0%84%E2%80%9C%E6%88%98%E6%96%A7%E2%80%9D%E5%AF%BC%E5%BC%B9",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时38分 ~ 10时39分]"
+        },
+        {
+          "title": "日本国家情报局正式成立",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%9B%BD%E5%AE%B6%E6%83%85%E6%8A%A5%E5%B1%80%E6%AD%A3%E5%BC%8F%E6%88%90%E7%AB%8B%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时38分 ~ 10时39分]"
+        },
+        {
+          "title": "日本央行7月利率决议看点前瞻",
+          "url": "https://wallstreetcn.com/livenews/3142847",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
+        },
+        {
+          "title": "道富：日本干预日元汇率的规模估计在5万亿日元",
+          "url": "https://wallstreetcn.com/livenews/3142846",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
+        },
+        {
+          "title": "日本自卫队在太平洋首次试射“战斧”导弹",
+          "url": "https://wallstreetcn.com/livenews/3142673",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时06分"
+        },
+        {
+          "title": "日本自卫队在太平洋首次试射“战斧”导弹",
+          "url": "https://flash.jin10.com/detail/20260731060103700800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时06分"
+        },
+        {
+          "title": "日本央行或成黄金短线涨势延续的“胜负手”？月线有望止步于四连跌——新版发布",
+          "url": "https://flash.jin10.com/detail/20260731100010136800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美国",
+      "match_count": 17,
+      "titles": [
+        {
+          "title": "在美国和内塔尼亚胡吃了顿饭，黎巴嫩银行家回国或被捕",
+          "url": "https://news.ifeng.com/c/8vBMRVvc4vG",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时23分 ~ 07时06分]"
+        },
+        {
+          "title": "美国吸毒女子像虫子一样在地上蠕动",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%90%B8%E6%AF%92%E5%A5%B3%E5%AD%90%E5%83%8F%E8%99%AB%E5%AD%90%E4%B8%80%E6%A0%B7%E5%9C%A8%E5%9C%B0%E4%B8%8A%E8%A0%95%E5%8A%A8%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时38分 ~ 10时39分]"
+        },
+        {
+          "title": "日本、韩国据传于昨夜干预汇市 美国再现“AI暴走”事件 | 环球市场",
+          "url": "https://www.cls.cn/detail/2442063",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时38分 ~ 10时39分]"
+        },
+        {
+          "title": "美国二季度GDP增速不及预期 但消费和AI投资释放积极信号",
+          "url": "https://www.cls.cn/detail/2441830",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时23分 ~ 10时39分]"
+        },
+        {
+          "title": "-0.1%！美国6月PCE物价指数六年来首次环比下降，同比涨幅显著收窄",
+          "url": "https://wallstreetcn.com/articles/3778338",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时38分 ~ 10时39分]"
+        },
+        {
+          "title": "不敢掀桌子又不肯罢休，美国对华连使坏招",
+          "url": "https://news.ifeng.com/c/8vC2gucewKj",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时38分 ~ 10时39分]"
+        },
+        {
+          "title": "美国务院一出手，非洲全乱了",
+          "url": "https://news.ifeng.com/c/8vCOAeHmmup",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时38分 ~ 10时39分]"
+        },
+        {
+          "title": "美国财长：日元似乎被“严重低估”",
+          "url": "https://wallstreetcn.com/livenews/3142685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时06分"
+        },
+        {
+          "title": "美国中央司令部：截至7月30日，美国中央司令部的部队已引导24艘商船改变航向，使2艘商船丧失行动能力，并登临检查了2艘商船，以确保其完全遵守相关规定。",
+          "url": "https://flash.jin10.com/detail/20260731025945539800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "美国财长贝森特：日元已大幅偏离均衡价格，被严重低估；并不担心日元兑美元再次走强，日元目前非常便宜，而日本经济表现良好。",
+          "url": "https://flash.jin10.com/detail/20260731063749263800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时06分"
+        },
+        {
+          "title": "以媒：美国周三的空袭不过“冰山一角” 后续行动或将更加猛烈",
+          "url": "https://flash.jin10.com/detail/20260731023047815800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "美国和乌克兰上周签署了无人机技术协议。 乌克兰无人机可以送到美国进行军事测试。（NBC）",
+          "url": "https://wallstreetcn.com/livenews/3142668",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时06分"
+        },
+        {
+          "title": "据员工邮件通知，美国联邦航空管理局副局长罗切洛将于下周卸任。",
+          "url": "https://flash.jin10.com/detail/20260731021817886800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "美国财长贝森特：日元在我看来“似乎被严重低估”。",
+          "url": "https://flash.jin10.com/detail/20260731055132400800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时06分"
+        },
+        {
+          "title": "美国财长贝森特：日本可能在（美东时间）周四早些时候干预了外汇市场。",
+          "url": "https://flash.jin10.com/detail/20260731054921788800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时06分"
+        },
+        {
+          "title": "马斯克计划在美国中期选举中至少投入1亿美元。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3142591",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "白宫顾问哈塞特：人工智能（AI）并没有给美国造成通货膨胀。 如有必要，我们将继续降低油价。",
+          "url": "https://wallstreetcn.com/livenews/3142656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时06分"
+        }
+      ]
+    },
     {
       "keyword_group": "伊朗",
       "match_count": 12,
       "titles": [
+        {
+          "title": "伊朗称摧毁3架F-35战机，美军回应",
+          "url": "https://news.ifeng.com/c/8vBxRifaFrE",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时23分 ~ 10时39分]"
+        },
         {
           "title": "科威特军方：伊朗袭击该国北部致一中企雇员死亡",
           "url": "https://news.ifeng.com/c/8vBRvOidAuY",
@@ -31,26 +467,16 @@
           "time_info": "[03时23分 ~ 07时06分]"
         },
         {
-          "title": "伊朗称摧毁3架F-35战机，美军回应",
-          "url": "https://news.ifeng.com/c/8vBxRifaFrE",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时23分 ~ 07时06分]"
-        },
-        {
           "title": "中国向伊朗提供400枚导弹？外交部回应",
           "url": "https://www.toutiao.com/trending/7668128346190053385/",
           "source": "今日头条",
           "ranks": [
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时23分 ~ 07时06分]"
+          "appearance_count": 6,
+          "time_info": "[03时23分 ~ 10时39分]"
         },
         {
           "title": "伊朗将接收中国造肩扛式防空导弹发射装置？外交部：不符合事实",
@@ -58,11 +484,12 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时23分 ~ 07时06分]"
+          "appearance_count": 6,
+          "time_info": "[03时23分 ~ 10时39分]"
         },
         {
           "title": "伊朗称打击约旦美军基地摧毁3架F-35",
@@ -144,254 +571,8 @@
       ]
     },
     {
-      "keyword_group": "美国",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "在美国和内塔尼亚胡吃了顿饭，黎巴嫩银行家回国或被捕",
-          "url": "https://news.ifeng.com/c/8vBMRVvc4vG",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时23分 ~ 07时06分]"
-        },
-        {
-          "title": "美国二季度GDP增速不及预期 但消费和AI投资释放积极信号",
-          "url": "https://www.cls.cn/detail/2441830",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时23分 ~ 07时06分]"
-        },
-        {
-          "title": "美国财长：日元似乎被“严重低估”",
-          "url": "https://wallstreetcn.com/livenews/3142685",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时06分"
-        },
-        {
-          "title": "美国中央司令部：截至7月30日，美国中央司令部的部队已引导24艘商船改变航向，使2艘商船丧失行动能力，并登临检查了2艘商船，以确保其完全遵守相关规定。",
-          "url": "https://flash.jin10.com/detail/20260731025945539800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时24分"
-        },
-        {
-          "title": "美国财长贝森特：日元已大幅偏离均衡价格，被严重低估；并不担心日元兑美元再次走强，日元目前非常便宜，而日本经济表现良好。",
-          "url": "https://flash.jin10.com/detail/20260731063749263800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时06分"
-        },
-        {
-          "title": "以媒：美国周三的空袭不过“冰山一角” 后续行动或将更加猛烈",
-          "url": "https://flash.jin10.com/detail/20260731023047815800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时24分"
-        },
-        {
-          "title": "美国和乌克兰上周签署了无人机技术协议。 乌克兰无人机可以送到美国进行军事测试。（NBC）",
-          "url": "https://wallstreetcn.com/livenews/3142668",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时06分"
-        },
-        {
-          "title": "据员工邮件通知，美国联邦航空管理局副局长罗切洛将于下周卸任。",
-          "url": "https://flash.jin10.com/detail/20260731021817886800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时24分"
-        },
-        {
-          "title": "美国财长贝森特：日元在我看来“似乎被严重低估”。",
-          "url": "https://flash.jin10.com/detail/20260731055132400800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时06分"
-        },
-        {
-          "title": "美国财长贝森特：日本可能在（美东时间）周四早些时候干预了外汇市场。",
-          "url": "https://flash.jin10.com/detail/20260731054921788800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时06分"
-        },
-        {
-          "title": "马斯克计划在美国中期选举中至少投入1亿美元。（纽约时报）",
-          "url": "https://wallstreetcn.com/livenews/3142591",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时24分"
-        },
-        {
-          "title": "白宫顾问哈塞特：人工智能（AI）并没有给美国造成通货膨胀。 如有必要，我们将继续降低油价。",
-          "url": "https://wallstreetcn.com/livenews/3142656",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "日本",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "日本广岛现新物质 系原子弹爆炸形成",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%B9%BF%E5%B2%9B%E7%8E%B0%E6%96%B0%E7%89%A9%E8%B4%A8+%E7%B3%BB%E5%8E%9F%E5%AD%90%E5%BC%B9%E7%88%86%E7%82%B8%E5%BD%A2%E6%88%90",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时23分 ~ 07时06分]"
-        },
-        {
-          "title": "日元暴涨3.3%后，日本央行决议迎变数：干预之后，会否再度加息？",
-          "url": "https://flash.jin10.com/detail/20260731065006453800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时06分"
-        },
-        {
-          "title": "据日经新闻：三星贸易部门与日本可再生能源公司Erex正在合作开发新的能源项目，以满足AI发展带来的电力需求。目标是在2029财年前为数据中心提供稳定的可再生能源供应。",
-          "url": "https://flash.jin10.com/detail/20260731064742988800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时06分"
-        },
-        {
-          "title": "日本震后老年人睡地板民众哭喊怕余震",
-          "url": "https://www.toutiao.com/trending/7668024656082964010/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时23分 ~ 07时06分]"
-        },
-        {
-          "title": "凤凰记者深入日本震区工厂：烟囱断裂，工人被困，全面停工",
-          "url": "https://news.ifeng.com/c/8vBeraEcqSF",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时23分 ~ 07时06分]"
-        },
-        {
-          "title": "国防部：日本拥核野心不可纵 挑战红线不能容",
-          "url": "https://www.cls.cn/detail/2441372",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时23分 ~ 03时24分]"
-        },
-        {
-          "title": "记者用两个非常惨烈形容日本震后现场",
-          "url": "https://www.toutiao.com/trending/7668085321384529418/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时05分 ~ 07时06分]"
-        },
-        {
-          "title": "日本自卫队在太平洋首次试射“战斧”导弹",
-          "url": "https://wallstreetcn.com/livenews/3142673",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时06分"
-        },
-        {
-          "title": "日本自卫队在太平洋首次试射“战斧”导弹",
-          "url": "https://flash.jin10.com/detail/20260731060103700800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时06分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
@@ -403,6 +584,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时23分 ~ 03时24分]"
+        },
+        {
+          "title": "特朗普：与哈马斯达成全面解除武装协议",
+          "url": "https://news.ifeng.com/c/8vCOAeHmmzS",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时38分 ~ 10时39分]"
+        },
+        {
+          "title": "美国参议院少数党领袖舒默：特朗普削减了负责防范此类网络攻击的机构——美国网络安全与基础设施安全局（CISA）——的7亿美元预算，却连一位CISA常任局长都未提名。既无远见，也无战略，只有这种冲动且危险的决策，持续将美国民众置于风险之中。",
+          "url": "https://flash.jin10.com/detail/20260731101401911800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
         },
         {
           "title": "“极不寻常”！爆料称特朗普或拒绝法国驻美大使提名",
@@ -427,13 +630,24 @@
           "time_info": "[03时23分 ~ 03时24分]"
         },
         {
+          "title": "特朗普称与哈马斯及加沙其他武装团体达成解除武装协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33688329",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时38分 ~ 10时39分]"
+        },
+        {
           "title": "特朗普宣布哈马斯同意全面解除武装，以色列将撤军",
           "url": "https://flash.jin10.com/detail/20260731063227689800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -444,7 +658,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -455,7 +669,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -477,7 +691,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         }
@@ -485,7 +699,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "美股收盘：满屏都是两位数涨幅 微软单日市值暴增3万亿",
@@ -495,8 +709,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时05分 ~ 07时06分]"
+          "appearance_count": 4,
+          "time_info": "[07时05分 ~ 10时39分]"
         },
         {
           "title": "逢低买盘推动美股走高，费城半导体指数涨超7%，微软涨超14%，油价转跌",
@@ -516,9 +730,31 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
+        },
+        {
+          "title": "一图看懂丨AI算力军备持续升温：美股四巨头开支指引再度上调",
+          "url": "https://www.cls.cn/detail/2442218",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时38分 ~ 10时39分]"
+        },
+        {
+          "title": "美股收盘：满屏都是两位数涨幅",
+          "url": "https://www.toutiao.com/trending/7668484734493888009/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时38分 ~ 10时39分]"
         },
         {
           "title": "美股半导体板块迎反弹 多股暴涨超10%",
@@ -532,13 +768,24 @@
           "time_info": "[07时05分 ~ 07时06分]"
         },
         {
+          "title": "美股收盘：满屏都是两位数涨幅",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E6%BB%A1%E5%B1%8F%E9%83%BD%E6%98%AF%E4%B8%A4%E4%BD%8D%E6%95%B0%E6%B6%A8%E5%B9%85",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时38分 ~ 10时39分]"
+        },
+        {
           "title": "周五亚太盘初，纳指期货涨超0.5%，标普股指期货、道指期货涨超0.1%。 苹果目前（美股盘后）跌超6.5%，该公司电话会已经结束；微软跌0.7%，台积电、AMD、希捷科技、英特尔、西部数据、闪迪涨1.34%-5.07%，发布了业绩报告的亚马逊涨9.3%。",
           "url": "https://wallstreetcn.com/livenews/3142674",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -549,7 +796,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -560,7 +807,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         }
@@ -568,7 +815,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
         {
           "title": "OpenAI首席财务官“放暖风”：7月年化收入超过第二季！",
@@ -581,6 +828,39 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时23分 ~ 07时06分]"
+        },
+        {
+          "title": "降幅高达80%！OpenAI大砍两款AI模型价格 “Token价格战”升温",
+          "url": "https://www.cls.cn/detail/2442077",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时38分 ~ 10时39分]"
+        },
+        {
+          "title": "如何看待 OpenAI 将 GPT-5.6Luna 和 Terra 价格大幅度下调？大模型会进入价格战时代吗？",
+          "url": "https://www.zhihu.com/question/2066333638568972760",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时38分 ~ 10时39分]"
+        },
+        {
+          "title": "OpenAI应用研究主管：GPT-5.6 Luna应该会有更多的应用，考虑到模型的快速进展，它的成本低得离谱，速度也很快。",
+          "url": "https://flash.jin10.com/detail/20260731100209277800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
         },
         {
           "title": "OpenAI：将GPT-5.6Luna的价格下调80%",
@@ -597,8 +877,19 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "大奇迹日！美通胀降温与微软大涨刺激，美芯片指数暴涨8%，纳指大反弹，日元急涨美元跳水",
+          "url": "https://wallstreetcn.com/articles/3778287",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时38分 ~ 10时39分]"
+        },
         {
           "title": "美通胀降温叠加微软业绩提振AI信心，纳指100创年内第三大涨幅，芯片指数暴涨8%，美元跳水",
           "url": "https://wallstreetcn.com/articles/3778287",
@@ -625,7 +916,7 @@
     },
     {
       "keyword_group": "印度",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "白忙,印度老哥来华卖缝纫机",
@@ -635,8 +926,19 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时23分 ~ 07时06分]"
+          "appearance_count": 6,
+          "time_info": "[03时23分 ~ 10时39分]"
+        },
+        {
+          "title": "印度为何消灭不了种姓制度",
+          "url": "https://www.toutiao.com/trending/7668437665959644735/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时38分 ~ 10时39分]"
         },
         {
           "title": "据印度政府令：印度重新任命 K·拉贾拉曼为国际金融服务中心管理局主席，任期至其年满65岁。",
@@ -653,8 +955,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "谷歌发布新一代机器人AI模型 剑指“灵巧性”难题",
+          "url": "https://www.cls.cn/detail/2441953",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时38分 ~ 10时39分]"
+        },
         {
           "title": "摩根士丹利牵头的银行团体洽谈为Anthropic数据中心贷款150亿美元。 该数据中心得到Alphabet旗下谷歌公司的支持，谷歌担保Anthropic租赁和电费支付。 Nexus数据中心洽谈为数据中心借款150亿美元。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3142601",
