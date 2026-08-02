@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-02T18:40:32.316190+08:00",
-  "total_titles_processed": 1023,
+  "generated_at": "2026-08-02T20:02:32.314999+08:00",
+  "total_titles_processed": 1121,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 38,
       "titles": [
         {
           "title": "以媒：特朗普接近批准袭击伊朗能源设施",
@@ -39,8 +39,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时57分 ~ 18时40分]"
+          "appearance_count": 6,
+          "time_info": "[13时57分 ~ 20时02分]"
+        },
+        {
+          "title": "伊朗军方：特朗普撒谎",
+          "url": "https://news.ifeng.com/c/8vG71UIAJN7",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时57分 ~ 20时02分]"
         },
         {
           "title": "新一轮袭击箭在弦上？美官员称特朗普已下令 伊朗厉声警告",
@@ -58,15 +69,15 @@
           "time_info": "[00时07分 ~ 16时23分]"
         },
         {
-          "title": "伊朗军方：特朗普撒谎",
-          "url": "https://news.ifeng.com/c/8vG71UIAJN7",
-          "source": "凤凰网",
+          "title": "TACO！特朗普“取消对伊朗打击”，伊朗否认曾要求停火，沙特王储曾致电美方“敦促缓和局势”",
+          "url": "https://wallstreetcn.com/articles/3778504",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时57分 ~ 18时40分]"
+          "appearance_count": 4,
+          "time_info": "[16时22分 ~ 20时02分]"
         },
         {
           "title": "特朗普称对伊朗协议“失去信心”、据称下令新袭击，美以被曝酝酿周末轰炸伊能源设施",
@@ -79,17 +90,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时07分 ~ 05时54分]"
-        },
-        {
-          "title": "TACO！特朗普“取消对伊朗打击”，伊朗否认曾要求停火，沙特王储曾致电美方“敦促缓和局势”",
-          "url": "https://wallstreetcn.com/articles/3778504",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时22分 ~ 18时40分]"
         },
         {
           "title": "特朗普：伊朗确实挺硬气",
@@ -151,6 +151,18 @@
           "time_info": "[00时07分 ~ 07时58分]"
         },
         {
+          "title": "8 月 1 日特朗普称同意取消军事打击伊朗，这次军事打击行动终于要结束了吗？",
+          "url": "https://www.zhihu.com/question/2067198062456463879",
+          "source": "知乎",
+          "ranks": [
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时57分 ~ 20时02分]"
+        },
+        {
           "title": "美国总统特朗普：我正在摧毁伊朗货币，伊朗面临严重通胀。",
           "url": "https://flash.jin10.com/detail/20260802022303381800",
           "source": "金十数据",
@@ -201,16 +213,17 @@
           "time_info": "[03时21分 ~ 07时58分]"
         },
         {
-          "title": "8 月 1 日特朗普称同意取消军事打击伊朗，这次军事打击行动终于要结束了吗？",
-          "url": "https://www.zhihu.com/question/2067198062456463879",
-          "source": "知乎",
+          "title": "特朗普：同意取消对伊朗的打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33696747",
+          "source": "澎湃新闻",
           "ranks": [
-            6,
-            16
+            14,
+            13,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时57分 ~ 18时40分]"
+          "appearance_count": 6,
+          "time_info": "[13时57分 ~ 20时02分]"
         },
         {
           "title": "特朗普Truth Social发布帖文：由于特朗普总统，石油出口正在激增！",
@@ -227,30 +240,18 @@
           "time_info": "[03时21分 ~ 07时58分]"
         },
         {
-          "title": "特朗普：同意取消对伊朗的打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33696747",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时57分 ~ 18时40分]"
-        },
-        {
           "title": "伊朗军方：特朗普称伊朗要求停止攻击是“谎言”",
           "url": "https://wallstreetcn.com/livenews/3143651",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
             13,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时58分 ~ 18时40分]"
+          "appearance_count": 4,
+          "time_info": "[13时58分 ~ 20时02分]"
         },
         {
           "title": "特朗普称收到伊朗请求暂缓攻击，同意取消对伊打击以换取协议",
@@ -307,11 +308,12 @@
           "ranks": [
             7,
             17,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时58分 ~ 18时40分]"
+          "appearance_count": 4,
+          "time_info": "[13时58分 ~ 20时02分]"
         },
         {
           "title": "美国前副总统哈里斯：特朗普是个孤立主义者，口口声声“美国优先”，但由于他未能理解美国所扮演的角色——尽管这一角色并不完美——他已经造成了两方面的后果，第一，让美国看上去不再是可靠的合作伙伴；第二，他让美国如今在全球事务中发挥影响力的权威降至前所未有的低。",
@@ -338,6 +340,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时21分 ~ 05时54分]"
+        },
+        {
+          "title": "特朗普称应伊方要求同意取消打击 伊朗反驳：并未要求停战！",
+          "url": "https://www.cls.cn/detail/2443463",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 20时02分]"
         },
         {
           "title": "美国总统特朗普：不同意联邦检察官皮罗关于倒影池的看法。",
@@ -385,15 +399,15 @@
           "time_info": "10时38分"
         },
         {
-          "title": "特朗普称应伊方要求同意取消打击 伊朗反驳：并未要求停战！",
-          "url": "https://www.cls.cn/detail/2443463",
-          "source": "财联社热门",
+          "title": "谁会花10万美元买特朗普帖文抢先看",
+          "url": "https://www.toutiao.com/trending/7669370924029709866/",
+          "source": "今日头条",
           "ranks": [
-            9
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时40分"
+          "time_info": "20时02分"
         },
         {
           "title": "伊朗军方：特朗普称伊朗要求停止攻击是“谎言”",
@@ -405,6 +419,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-02）",
+          "url": "https://flash.jin10.com/detail/20260802184143626800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         },
         {
           "title": "特朗普威胁参议员通过其司法部长人选",
@@ -443,7 +468,7 @@
     },
     {
       "keyword_group": "美国",
-      "match_count": 32,
+      "match_count": 37,
       "titles": [
         {
           "title": "商务部就美国将中国企业列入所谓涉疆法案实体清单答问",
@@ -466,8 +491,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时37分 ~ 18时40分]"
+          "appearance_count": 8,
+          "time_info": "[10时37分 ~ 20时02分]"
+        },
+        {
+          "title": "“近30年来首次”？美国、日本联手干预",
+          "url": "https://news.ifeng.com/c/8vG98xfYbUN",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时57分 ~ 20时02分]"
         },
         {
           "title": "联合国会议美国离席抗议",
@@ -487,17 +523,6 @@
           "time_info": "[00时07分 ~ 16时23分]"
         },
         {
-          "title": "“近30年来首次”？美国、日本联手干预",
-          "url": "https://news.ifeng.com/c/8vG98xfYbUN",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时57分 ~ 18时40分]"
-        },
-        {
           "title": "太子集团“幕后大哥”胡小伟已离开日本，被遣送美国",
           "url": "https://news.ifeng.com/c/8vExgI7KVzB",
           "source": "凤凰网",
@@ -506,8 +531,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时37分 ~ 18时40分]"
+          "appearance_count": 8,
+          "time_info": "[10时37分 ~ 20时02分]"
         },
         {
           "title": "日本干预实锤？数据暗示周四或砸8.45万亿日元，日媒称周五再下场，美国被曝同日出手",
@@ -586,6 +611,19 @@
           "time_info": "[03时20分 ~ 07时58分]"
         },
         {
+          "title": "被“忽略”的市场大事：美日韩联合干预，美国财政部“罕见”下场！贝森特悄悄“救市”？",
+          "url": "https://wallstreetcn.com/articles/3778503",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时22分 ~ 20时02分]"
+        },
+        {
           "title": "美国国家飓风中心：热带风暴基尼维夫（Genevieve）正在逐渐减弱。",
           "url": "https://flash.jin10.com/detail/20260801223714218800",
           "source": "金十数据",
@@ -623,18 +661,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时38分 ~ 18时40分]"
-        },
-        {
-          "title": "被“忽略”的市场大事：美日韩联合干预，美国财政部“罕见”下场！贝森特悄悄“救市”？",
-          "url": "https://wallstreetcn.com/articles/3778503",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时22分 ~ 18时40分]"
         },
         {
           "title": "美国两名男子打架 狗为护主互相撕咬",
@@ -695,6 +721,17 @@
           "time_info": "[02时01分 ~ 05时54分]"
         },
         {
+          "title": "下周重磅日程：美国非农与中国CPI、SpaceX首份财报+解禁、AMD闪迪财报",
+          "url": "https://wallstreetcn.com/articles/3778433",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
           "title": "美国国务卿鲁比奥：（谈及委内瑞拉）你需要有完善的法律、法规和规章制度，以便来自美国和世界各地的投资者能够安全地进入并进行投资，创造繁荣。最终，你必须实现过渡。",
           "url": "https://flash.jin10.com/detail/20260802094350639800",
           "source": "金十数据",
@@ -750,6 +787,28 @@
           "time_info": "10时38分"
         },
         {
+          "title": "美国为何总上演“临门收手”戏码",
+          "url": "https://www.toutiao.com/trending/7669275015686160447/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
+          "title": "库里签约李宁 轮不到美国政客来反对",
+          "url": "https://www.baidu.com/s?wd=%E5%BA%93%E9%87%8C%E7%AD%BE%E7%BA%A6%E6%9D%8E%E5%AE%81+%E8%BD%AE%E4%B8%8D%E5%88%B0%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%AE%A2%E6%9D%A5%E5%8F%8D%E5%AF%B9",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
           "title": "美国地质调查局：日本松濑町以西3公里处发生了4.9级地震；震源深度10.0公里。",
           "url": "https://flash.jin10.com/detail/20260801210635523800",
           "source": "金十数据",
@@ -783,6 +842,17 @@
           "time_info": "00时07分"
         },
         {
+          "title": "日本被曝大规模干预汇市，美国也同日出手，这意味着什么？",
+          "url": "https://www.zhihu.com/question/2066898462831031735",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
           "title": "美国华盛顿州山火蔓延 多地发布最高级别疏散令",
           "url": "https://flash.jin10.com/detail/20260802084801424800",
           "source": "金十数据",
@@ -811,7 +881,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         },
@@ -825,13 +895,37 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
+        },
+        {
+          "title": "美国为何总上演“临门收手”戏码",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%BA%E4%BD%95%E6%80%BB%E4%B8%8A%E6%BC%94%E2%80%9C%E4%B8%B4%E9%97%A8%E6%94%B6%E6%89%8B%E2%80%9D%E6%88%8F%E7%A0%81",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 30,
+      "match_count": 35,
       "titles": [
+        {
+          "title": "美以拟周末对伊朗能源基础设施实施“猛烈轰炸” ，瞄准发电厂、炼油厂，伊朗：全面反击方案已就绪",
+          "url": "https://wallstreetcn.com/articles/3778501",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时37分 ~ 20时02分]"
+        },
         {
           "title": "美财长称正在全球范围内追查伊朗资产",
           "url": "https://wallstreetcn.com/livenews/3143618",
@@ -859,19 +953,6 @@
           "time_info": "[00时07分 ~ 10时38分]"
         },
         {
-          "title": "美以拟周末对伊朗能源基础设施实施“猛烈轰炸” ，瞄准发电厂、炼油厂，伊朗：全面反击方案已就绪",
-          "url": "https://wallstreetcn.com/articles/3778501",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时37分 ~ 18时40分]"
-        },
-        {
           "title": "土耳其外长：今天，我与伊朗外长阿拉格齐进行了通话，双方探讨了当前（美伊）谈判进程的最新情况。土耳其将继续为结束本地区冲突并建立持久和平而努力。",
           "url": "https://flash.jin10.com/detail/20260802054249682800",
           "source": "金十数据",
@@ -881,17 +962,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时54分 ~ 07时58分]"
-        },
-        {
-          "title": "伊朗称重开霍尔木兹海峡计划纯属谣言",
-          "url": "https://flash.jin10.com/detail/20260802182144119800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时40分"
         },
         {
           "title": "伊朗用了新武器",
@@ -920,6 +990,17 @@
           "time_info": "[00时07分 ~ 06时54分]"
         },
         {
+          "title": "伊朗代理防长：敌方任何威胁都值得重视",
+          "url": "https://wallstreetcn.com/livenews/3143680",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
           "title": "阿拉格齐警告美方：伊朗将坚决回应任何侵犯行为",
           "url": "https://flash.jin10.com/detail/20260802043310117800",
           "source": "金十数据",
@@ -932,15 +1013,15 @@
           "time_info": "[05时54分 ~ 07时58分]"
         },
         {
-          "title": "伊朗铜业公司2026年实现约90万亿里亚尔设备和零部件国产化",
-          "url": "https://flash.jin10.com/detail/20260802175108455800",
-          "source": "金十数据",
+          "title": "伊朗称重开霍尔木兹海峡计划纯属谣言",
+          "url": "https://wallstreetcn.com/livenews/3143678",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时40分"
+          "time_info": "20时02分"
         },
         {
           "title": "伊朗革命卫队称袭击约旦美军基地F-35设施，摧毁3架战机",
@@ -991,6 +1072,18 @@
           "time_info": "[13时58分 ~ 16时23分]"
         },
         {
+          "title": "伊朗称重开霍尔木兹海峡计划纯属谣言",
+          "url": "https://flash.jin10.com/detail/20260802182144119800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 20时02分]"
+        },
+        {
           "title": "以色列第12频道援引外交人士消息报道称，卡塔尔外交人士正在与伊朗谈判，以确保伊朗革命卫队支持有关霍尔木兹海峡的相关安排。",
           "url": "https://flash.jin10.com/detail/20260802154122308800",
           "source": "金十数据",
@@ -1013,6 +1106,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时01分 ~ 03时21分]"
+        },
+        {
+          "title": "伊朗铜业公司2026年实现约90万亿里亚尔设备和零部件国产化",
+          "url": "https://flash.jin10.com/detail/20260802175108455800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 20时02分]"
         },
         {
           "title": "伊朗外交部：决心继续走抵抗与坚守之路",
@@ -1067,6 +1172,19 @@
           "time_info": "[03时21分 ~ 05时54分]"
         },
         {
+          "title": "伊朗外长与沙特外交大臣通电话，讨论地区局势",
+          "url": "https://wallstreetcn.com/livenews/3143655",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时23分 ~ 20时02分]"
+        },
+        {
           "title": "约旦官方消息人士：伊拉克已告知我们，如果亲伊朗的民兵袭击约旦，伊拉克将对其进行打击。我们期待伊拉克将采取措施遏制民兵组织。",
           "url": "https://flash.jin10.com/detail/20260802010107992800",
           "source": "金十数据",
@@ -1079,6 +1197,30 @@
           "time_info": "[02时01分 ~ 03时21分]"
         },
         {
+          "title": "伊媒：伊朗已同意重新开放霍尔木兹海峡的报道为假消息",
+          "url": "https://flash.jin10.com/detail/20260802173731395800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 20时02分]"
+        },
+        {
+          "title": "以色列N12频道首席政治分析师表示，伊朗方面声称没有达成重新开放霍尔木兹海峡的协议，并称已公布的报道不实。",
+          "url": "https://flash.jin10.com/detail/20260802172909028800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 20时02分]"
+        },
+        {
           "title": "据沙特媒体哈达斯（alhadath）：约旦方面称，他们已通知伊拉克，如果亲伊朗的民兵攻击约旦，约旦将进行打击。",
           "url": "https://flash.jin10.com/detail/20260802004243455800",
           "source": "金十数据",
@@ -1089,18 +1231,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时01分 ~ 03时21分]"
-        },
-        {
-          "title": "伊朗外长与沙特外交大臣通电话，讨论地区局势",
-          "url": "https://wallstreetcn.com/livenews/3143655",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时23分 ~ 18时40分]"
         },
         {
           "title": "美财长称正在全球范围内追查伊朗资产",
@@ -1139,26 +1269,15 @@
           "time_info": "[10时38分 ~ 13时58分]"
         },
         {
-          "title": "伊媒：伊朗已同意重新开放霍尔木兹海峡的报道为假消息",
-          "url": "https://flash.jin10.com/detail/20260802173731395800",
+          "title": "伊朗称打击巴林亚马逊数据中心是对美国行动回应",
+          "url": "https://flash.jin10.com/detail/20260802190322702800",
           "source": "金十数据",
           "ranks": [
-            7
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时40分"
-        },
-        {
-          "title": "以色列N12频道首席政治分析师表示，伊朗方面声称没有达成重新开放霍尔木兹海峡的协议，并称已公布的报道不实。",
-          "url": "https://flash.jin10.com/detail/20260802172909028800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时40分"
+          "time_info": "20时02分"
         },
         {
           "title": "伊朗革命卫队：伊朗军方官员表示，美国总统声称伊朗已要求停止袭击，这纯属无稽之谈，是企图勒索波斯湾统治者并向其施压的孤注一掷之举。无论他是继续侵略还是退缩，我们的部队都处于最高战备状态，并为任何可能性做好了准备。如果对抗不可避免，战场将决定一切，届时所有人都会明白谁掌握着权力，谁将拥有最终发言权。",
@@ -1170,6 +1289,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
+        },
+        {
+          "title": "伊朗外长与沙特外交大臣通电话",
+          "url": "https://www.toutiao.com/trending/7668551012311138340/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         },
         {
           "title": "据卡塔尔通讯社：海湾合作委员会秘书长谴责伊朗对科威特平民设施的攻击。",
@@ -1192,6 +1322,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
+        },
+        {
+          "title": "伊朗称重开霍尔木兹计划纯属谣言",
+          "url": "https://www.toutiao.com/trending/7669376967967247908/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         }
       ]
     },
@@ -1212,6 +1353,19 @@
           "time_info": "[00时07分 ~ 10时38分]"
         },
         {
+          "title": "越南人日本救灾反遭网暴",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356712&amp;topic_name=%E8%B6%8A%E5%8D%97%E4%BA%BA%E6%97%A5%E6%9C%AC%E6%95%91%E7%81%BE%E5%8F%8D%E9%81%AD%E7%BD%91%E6%9A%B4",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时57分 ~ 20时02分]"
+        },
+        {
           "title": "日本熊本地区发生4.7级地震",
           "url": "https://wallstreetcn.com/livenews/3143619",
           "source": "华尔街见闻-快讯",
@@ -1224,19 +1378,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时07分 ~ 13时58分]"
-        },
-        {
-          "title": "越南人日本救灾反遭网暴",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356712&amp;topic_name=%E8%B6%8A%E5%8D%97%E4%BA%BA%E6%97%A5%E6%9C%AC%E6%95%91%E7%81%BE%E5%8F%8D%E9%81%AD%E7%BD%91%E6%9A%B4",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            2,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时57分 ~ 18时40分]"
         },
         {
           "title": "警方对捐日本侵华罪证少年启动保护",
@@ -1254,26 +1395,30 @@
           "time_info": "[03时20分 ~ 07时58分]"
         },
         {
-          "title": "日本地震灾区呼吁不要再送千纸鹤",
-          "url": "https://www.toutiao.com/trending/7668995754459906099/",
-          "source": "今日头条",
+          "title": "日本灾区呼吁别送千纸鹤了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356725&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%81%BE%E5%8C%BA%E5%91%BC%E5%90%81%E5%88%AB%E9%80%81%E5%8D%83%E7%BA%B8%E9%B9%A4%E4%BA%86",
+          "source": "贴吧",
           "ranks": [
-            1
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 20时02分]"
         },
         {
-          "title": "日本熊本县发生4.3级地震",
-          "url": "https://flash.jin10.com/detail/20260802181713863800",
-          "source": "金十数据",
+          "title": "日本官员：日本财务大臣片山皋月预计将于周一宣布，美日两国就日元采取联合行动。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3143644",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            4,
+            10,
+            20,
+            26,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时40分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时38分 ~ 20时02分]"
         },
         {
           "title": "霍尔木兹海峡航运受阻致日本二季度电价同比涨30%",
@@ -1298,29 +1443,18 @@
           "time_info": "07时58分"
         },
         {
-          "title": "日本灾区呼吁别送千纸鹤了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356725&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%81%BE%E5%8C%BA%E5%91%BC%E5%90%81%E5%88%AB%E9%80%81%E5%8D%83%E7%BA%B8%E9%B9%A4%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时40分"
-        },
-        {
-          "title": "日本官员：日本财务大臣片山皋月预计将于周一宣布，美日两国就日元采取联合行动。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3143644",
+          "title": "霍尔木兹海峡航运受阻致日本二季度电价同比涨30%",
+          "url": "https://wallstreetcn.com/livenews/3143653",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            10,
-            20,
-            26
+            1,
+            11,
+            17,
+            21
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时38分 ~ 18时40分]"
+          "time_info": "[13时58分 ~ 20时02分]"
         },
         {
           "title": "日本经济财政大臣城内实：日本将加强与市场的双向对话。 保持信息一致是赢得市场信任的关键。（NHK）",
@@ -1337,17 +1471,28 @@
           "time_info": "[10时38分 ~ 18时40分]"
         },
         {
-          "title": "霍尔木兹海峡航运受阻致日本二季度电价同比涨30%",
-          "url": "https://wallstreetcn.com/livenews/3143653",
-          "source": "华尔街见闻-快讯",
+          "title": "日本地震灾区呼吁不要再送千纸鹤",
+          "url": "https://www.toutiao.com/trending/7668995754459906099/",
+          "source": "今日头条",
           "ranks": [
             1,
-            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 20时02分]"
+        },
+        {
+          "title": "日本熊本县发生4.3级地震",
+          "url": "https://flash.jin10.com/detail/20260802181713863800",
+          "source": "金十数据",
+          "ranks": [
+            2,
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时58分 ~ 18时40分]"
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 20时02分]"
         },
         {
           "title": "国际锐评丨“731”这天，日本“国家情报局”上线意欲何为？",
@@ -1448,7 +1593,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         },
@@ -1482,6 +1627,18 @@
           "time_info": "[00时07分 ~ 10时38分]"
         },
         {
+          "title": "印度韩国突然宣称有媲美DeepSeek大模型",
+          "url": "https://s.weibo.com/weibo?q=%E5%8D%B0%E5%BA%A6%E9%9F%A9%E5%9B%BD%E7%AA%81%E7%84%B6%E5%AE%A3%E7%A7%B0%E6%9C%89%E5%AA%B2%E7%BE%8EDeepSeek%E5%A4%A7%E6%A8%A1%E5%9E%8B&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 20时02分]"
+        },
+        {
           "title": "马斯克关注DeepSeek账号",
           "url": "https://s.weibo.com/weibo?q=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%85%B3%E6%B3%A8DeepSeek%E8%B4%A6%E5%8F%B7&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -1492,17 +1649,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时07分 ~ 07时58分]"
-        },
-        {
-          "title": "印度韩国突然宣称有媲美DeepSeek大模型",
-          "url": "https://s.weibo.com/weibo?q=%E5%8D%B0%E5%BA%A6%E9%9F%A9%E5%9B%BD%E7%AA%81%E7%84%B6%E5%AE%A3%E7%A7%B0%E6%9C%89%E5%AA%B2%E7%BE%8EDeepSeek%E5%A4%A7%E6%A8%A1%E5%9E%8B&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时40分"
         },
         {
           "title": "DeepSeek 居然会对用户说「我去吃饭了」「我去睡了」，为啥会出现这样的现象？",
@@ -1527,11 +1673,12 @@
           "source": "财联社热门",
           "ranks": [
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时07分 ~ 18时40分]"
+          "appearance_count": 16,
+          "time_info": "[00时07分 ~ 20时02分]"
         },
         {
           "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
@@ -1540,11 +1687,12 @@
           "ranks": [
             6,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时07分 ~ 18时40分]"
+          "appearance_count": 16,
+          "time_info": "[00时07分 ~ 20时02分]"
         },
         {
           "title": "高盛：7月砸穿拥挤交易，美股牛市没断但更难做了",
@@ -1586,8 +1734,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时54分 ~ 18时40分]"
+          "appearance_count": 10,
+          "time_info": "[06时54分 ~ 20时02分]"
         },
         {
           "title": "神了,OpenAI攻克十年数学难题",
@@ -1600,8 +1748,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[02时01分 ~ 18时40分]"
+          "appearance_count": 15,
+          "time_info": "[02时01分 ~ 20时02分]"
         },
         {
           "title": "OpenAI总裁兼联合创始人Brockman：ChatGPT是一种非常棒的思维放大器。",
@@ -1628,11 +1776,12 @@
             3,
             9,
             19,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时38分 ~ 18时40分]"
+          "appearance_count": 5,
+          "time_info": "[10时38分 ~ 20时02分]"
         },
         {
           "title": "印度男子在大街上用皮带猛抽妻子",
