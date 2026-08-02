@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-02T13:58:10.399900+08:00",
-  "total_titles_processed": 788,
+  "generated_at": "2026-08-02T16:23:01.943108+08:00",
+  "total_titles_processed": 903,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 35,
       "titles": [
         {
           "title": "以媒：特朗普接近批准袭击伊朗能源设施",
@@ -39,11 +39,34 @@
             9,
             10,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时07分 ~ 13时58分]"
+          "appearance_count": 14,
+          "time_info": "[00时07分 ~ 16时23分]"
+        },
+        {
+          "title": "特朗普：已同意取消对伊朗的打击",
+          "url": "https://v.ifeng.com/c/8vG3old8I3A",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时57分 ~ 16时23分]"
+        },
+        {
+          "title": "伊朗军方：特朗普撒谎",
+          "url": "https://news.ifeng.com/c/8vG71UIAJN7",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时57分 ~ 16时23分]"
         },
         {
           "title": "特朗普称对伊朗协议“失去信心”、据称下令新袭击，美以被曝酝酿周末轰炸伊能源设施",
@@ -81,6 +104,19 @@
           "time_info": "[05时54分 ~ 07时58分]"
         },
         {
+          "title": "俄对乌发动大规模袭击，摧毁美国公司无人机工厂！俄方：使用陆基、海基远程高精度武器和无人机！特朗普：尚未同意授权乌生产“爱国者”",
+          "url": "https://wallstreetcn.com/articles/3778492",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时58分 ~ 16时23分]"
+        },
+        {
           "title": "TACO！特朗普“取消对伊朗打击”，此前沙特王储致电“敦促缓和局势”",
           "url": "https://wallstreetcn.com/articles/3778504",
           "source": "华尔街见闻",
@@ -92,15 +128,15 @@
           "time_info": "[13时57分 ~ 13时58分]"
         },
         {
-          "title": "特朗普：已同意取消对伊朗的打击",
-          "url": "https://v.ifeng.com/c/8vG3old8I3A",
-          "source": "凤凰网",
+          "title": "TACO！特朗普“取消对伊朗打击”，伊朗否认曾要求停火，沙特王储曾致电美方“敦促缓和局势”",
+          "url": "https://wallstreetcn.com/articles/3778504",
+          "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时57分 ~ 13时58分]"
+          "time_info": "[16时22分 ~ 16时23分]"
         },
         {
           "title": "特朗普敦促参议员批准Blanche担任美国司法部长。（彭博）",
@@ -115,17 +151,6 @@
           "time_info": "[00时07分 ~ 07时58分]"
         },
         {
-          "title": "伊朗军方：特朗普撒谎",
-          "url": "https://news.ifeng.com/c/8vG71UIAJN7",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时57分 ~ 13时58分]"
-        },
-        {
           "title": "美国总统特朗普：我正在摧毁伊朗货币，伊朗面临严重通胀。",
           "url": "https://flash.jin10.com/detail/20260802022303381800",
           "source": "金十数据",
@@ -138,6 +163,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时21分 ~ 07时58分]"
+        },
+        {
+          "title": "美媒称沙特王储呼吁特朗普缓和局势",
+          "url": "https://flash.jin10.com/detail/20260802154419810800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "美国总统特朗普1日在社交媒体发文称已同意取消对伊朗的打击。（新华国际）",
@@ -165,28 +201,15 @@
           "time_info": "[03时21分 ~ 07时58分]"
         },
         {
-          "title": "伊朗军方：特朗普称伊朗要求停止攻击是“谎言”",
-          "url": "https://wallstreetcn.com/livenews/3143651",
-          "source": "华尔街见闻-快讯",
+          "title": "以色列第12频道援引外交人士消息报道称，伊朗外长阿拉格齐已同意由卡塔尔和美国共同提出的、旨在重新开放霍尔木兹海峡的解决方案。这促使特朗普取消了对伊朗发动袭击的计划。",
+          "url": "https://flash.jin10.com/detail/20260802154046201800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "俄对乌发动大规模袭击，摧毁美国公司无人机工厂！俄方：使用陆基、海基远程高精度武器和无人机！特朗普：尚未同意授权乌生产“爱国者”",
-          "url": "https://wallstreetcn.com/articles/3778492",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时58分 ~ 13时58分]"
+          "time_info": "16时23分"
         },
         {
           "title": "特朗普Truth Social发布帖文：由于特朗普总统，石油出口正在激增！",
@@ -215,6 +238,30 @@
           "time_info": "[10时38分 ~ 13时58分]"
         },
         {
+          "title": "8 月 1 日特朗普称同意取消军事打击伊朗，这次军事打击行动终于要结束了吗？",
+          "url": "https://www.zhihu.com/question/2067198062456463879",
+          "source": "知乎",
+          "ranks": [
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时57分 ~ 16时23分]"
+        },
+        {
+          "title": "伊朗军方：特朗普称伊朗要求停止攻击是“谎言”",
+          "url": "https://wallstreetcn.com/livenews/3143651",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 16时23分]"
+        },
+        {
           "title": "美国代理国家情报总监普尔特：在与美国总统特朗普和杰伊·克莱顿讨论后，国家情报总监（DNI）的交接工作定于周一进行。",
           "url": "https://flash.jin10.com/detail/20260802010534825800",
           "source": "金十数据",
@@ -237,6 +284,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时01分 ~ 03时21分]"
+        },
+        {
+          "title": "特朗普：同意取消对伊朗的打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33696747",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时57分 ~ 16时23分]"
         },
         {
           "title": "美国前副总统哈里斯：特朗普是个孤立主义者，口口声声“美国优先”，但由于他未能理解美国所扮演的角色——尽管这一角色并不完美——他已经造成了两方面的后果，第一，让美国看上去不再是可靠的合作伙伴；第二，他让美国如今在全球事务中发挥影响力的权威降至前所未有的低。",
@@ -265,15 +324,16 @@
           "time_info": "[03时21分 ~ 05时54分]"
         },
         {
-          "title": "8 月 1 日特朗普称同意取消军事打击伊朗，这次军事打击行动终于要结束了吗？",
-          "url": "https://www.zhihu.com/question/2067198062456463879",
-          "source": "知乎",
+          "title": "特朗普称同意取消军事打击伊朗",
+          "url": "https://wallstreetcn.com/livenews/3143647",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            7,
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时57分 ~ 13时58分]"
+          "time_info": "[13时58分 ~ 16时23分]"
         },
         {
           "title": "美国总统特朗普：不同意联邦检察官皮罗关于倒影池的看法。",
@@ -299,26 +359,15 @@
           "time_info": "[13时57分 ~ 13时58分]"
         },
         {
-          "title": "特朗普：同意取消对伊朗的打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33696747",
-          "source": "澎湃新闻",
+          "title": "特朗普家族资本欲染指世界杯遭抵制",
+          "url": "https://www.toutiao.com/trending/7669247965218737673/",
+          "source": "今日头条",
           "ranks": [
-            14
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时57分 ~ 13时58分]"
-        },
-        {
-          "title": "特朗普称同意取消军事打击伊朗",
-          "url": "https://wallstreetcn.com/livenews/3143647",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
+          "time_info": "[16时22分 ~ 16时23分]"
         },
         {
           "title": "鲁比奥：伊朗从未面对过像特朗普这样的美国总统，“谈判不承担后果”的时代已结束",
@@ -338,7 +387,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -352,6 +401,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时07分"
+        },
+        {
+          "title": "分析师：特朗普取消对伊打击，沙特外交斡旋与伊朗承压或是关键因素",
+          "url": "https://flash.jin10.com/detail/20260802133619872800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "特朗普说伊朗确实挺硬气",
@@ -368,7 +428,7 @@
     },
     {
       "keyword_group": "美国",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "商务部就美国将中国企业列入所谓涉疆法案实体清单答问",
@@ -383,6 +443,18 @@
           "time_info": "[00时07分 ~ 07时58分]"
         },
         {
+          "title": "美国驻埃及、沙特阿拉伯、科威特等国大使馆发布安全警报",
+          "url": "https://news.ifeng.com/c/8vFT7vUQlC9",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时37分 ~ 16时23分]"
+        },
+        {
           "title": "联合国会议美国离席抗议",
           "url": "https://search.bilibili.com/all?keyword=%E8%81%94%E5%90%88%E5%9B%BD%E4%BC%9A%E8%AE%AE%E7%BE%8E%E5%9B%BD%E7%A6%BB%E5%B8%AD%E6%8A%97%E8%AE%AE",
           "source": "bilibili 热搜",
@@ -392,23 +464,23 @@
             9,
             10,
             24,
-            13
+            13,
+            30
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时07分 ~ 13时58分]"
+          "appearance_count": 14,
+          "time_info": "[00时07分 ~ 16时23分]"
         },
         {
-          "title": "美国驻埃及、沙特阿拉伯、科威特等国大使馆发布安全警报",
-          "url": "https://news.ifeng.com/c/8vFT7vUQlC9",
+          "title": "“近30年来首次”？美国、日本联手干预",
+          "url": "https://news.ifeng.com/c/8vG98xfYbUN",
           "source": "凤凰网",
           "ranks": [
-            2,
-            3
+            5
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时37分 ~ 13时58分]"
+          "time_info": "[13时57分 ~ 16时23分]"
         },
         {
           "title": "日本干预实锤？数据暗示周四或砸8.45万亿日元，日媒称周五再下场，美国被曝同日出手",
@@ -448,15 +520,28 @@
           "time_info": "[00时07分 ~ 07时58分]"
         },
         {
-          "title": "“近30年来首次”？美国、日本联手干预",
-          "url": "https://news.ifeng.com/c/8vG98xfYbUN",
+          "title": "太子集团“幕后大哥”胡小伟已离开日本，被遣送美国",
+          "url": "https://news.ifeng.com/c/8vExgI7KVzB",
           "source": "凤凰网",
           "ranks": [
-            5
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时57分 ~ 13时58分]"
+          "appearance_count": 6,
+          "time_info": "[10时37分 ~ 16时23分]"
+        },
+        {
+          "title": "从韩国到美国：多亏了AI，蓝领越来越吃香了",
+          "url": "https://wallstreetcn.com/articles/3778495",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时37分 ~ 16时23分]"
         },
         {
           "title": "俄罗斯被曝首次打击美国防企业",
@@ -486,30 +571,6 @@
           "time_info": "[03时20分 ~ 07时58分]"
         },
         {
-          "title": "太子集团“幕后大哥”胡小伟已离开日本，被遣送美国",
-          "url": "https://news.ifeng.com/c/8vExgI7KVzB",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时37分 ~ 13时58分]"
-        },
-        {
-          "title": "从韩国到美国：多亏了AI，蓝领越来越吃香了",
-          "url": "https://wallstreetcn.com/articles/3778495",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时37分 ~ 13时58分]"
-        },
-        {
           "title": "美国国家飓风中心：热带风暴基尼维夫（Genevieve）正在逐渐减弱。",
           "url": "https://flash.jin10.com/detail/20260801223714218800",
           "source": "金十数据",
@@ -535,6 +596,19 @@
           "time_info": "[04时50分 ~ 07时58分]"
         },
         {
+          "title": "美国华盛顿州山火蔓延，多地发布最高级别疏散令",
+          "url": "https://wallstreetcn.com/livenews/3143639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            14,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时38分 ~ 16时23分]"
+        },
+        {
           "title": "美国两名男子打架 狗为护主互相撕咬",
           "url": "https://www.toutiao.com/trending/7668868014313324586/",
           "source": "今日头条",
@@ -546,16 +620,15 @@
           "time_info": "[10时37分 ~ 10时38分]"
         },
         {
-          "title": "美国华盛顿州山火蔓延，多地发布最高级别疏散令",
-          "url": "https://wallstreetcn.com/livenews/3143639",
-          "source": "华尔街见闻-快讯",
+          "title": "被“忽略”的市场大事：美日韩联合干预，美国财政部“罕见”下场！贝森特悄悄“救市”？",
+          "url": "https://wallstreetcn.com/articles/3778503",
+          "source": "华尔街见闻",
           "ranks": [
-            8,
-            14
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时38分 ~ 13时58分]"
+          "time_info": "[16时22分 ~ 16时23分]"
         },
         {
           "title": "市场消息：由于预计该地区局势可能升级，美国在巴林的空军基地正在进行撤离。",
@@ -622,7 +695,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -729,7 +802,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "美财长称正在全球范围内追查伊朗资产",
@@ -769,15 +842,17 @@
           "time_info": "[06时54分 ~ 07时58分]"
         },
         {
-          "title": "伊朗商品交易所单日白银入库数量创历史新高",
-          "url": "https://flash.jin10.com/detail/20260802132032906800",
-          "source": "金十数据",
+          "title": "美以拟周末对伊朗能源基础设施实施“猛烈轰炸” ，瞄准发电厂、炼油厂，伊朗：全面反击方案已就绪",
+          "url": "https://wallstreetcn.com/articles/3778501",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            9,
+            7,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时37分 ~ 16时23分]"
         },
         {
           "title": "伊朗用了新武器",
@@ -804,6 +879,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时07分 ~ 06时54分]"
+        },
+        {
+          "title": "以色列第12频道援引外交人士消息报道称，卡塔尔外交人士正在与伊朗谈判，以确保伊朗革命卫队支持有关霍尔木兹海峡的相关安排。",
+          "url": "https://flash.jin10.com/detail/20260802154122308800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "阿拉格齐警告美方：伊朗将坚决回应任何侵犯行为",
@@ -835,7 +921,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -846,23 +932,24 @@
           "ranks": [
             1,
             12,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时58分 ~ 13时58分]"
-        },
-        {
-          "title": "美以拟周末对伊朗能源基础设施实施“猛烈轰炸” ，瞄准发电厂、炼油厂，伊朗：全面反击方案已就绪",
-          "url": "https://wallstreetcn.com/articles/3778501",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
+            18,
+            28
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时37分 ~ 13时58分]"
+          "time_info": "[07时58分 ~ 16时23分]"
+        },
+        {
+          "title": "伊朗商品交易所单日白银入库数量创历史新高",
+          "url": "https://flash.jin10.com/detail/20260802132032906800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 16时23分]"
         },
         {
           "title": "据以色列第13频道：白宫表示，伊朗将付出巨大的代价，直到它回到谈判桌上。",
@@ -989,13 +1076,24 @@
           "time_info": "[10时38分 ~ 13时58分]"
         },
         {
+          "title": "伊朗外长与沙特外交大臣通电话，讨论地区局势",
+          "url": "https://wallstreetcn.com/livenews/3143655",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
           "title": "伊朗革命卫队：伊朗军方官员表示，美国总统声称伊朗已要求停止袭击，这纯属无稽之谈，是企图勒索波斯湾统治者并向其施压的孤注一掷之举。无论他是继续侵略还是退缩，我们的部队都处于最高战备状态，并为任何可能性做好了准备。如果对抗不可避免，战场将决定一切，届时所有人都会明白谁掌握着权力，谁将拥有最终发言权。",
           "url": "https://flash.jin10.com/detail/20260802112524436800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -1025,7 +1123,7 @@
     },
     {
       "keyword_group": "日本",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "日自卫队竟称“日本海军”，被中国海军当场反驳",
@@ -1054,6 +1152,18 @@
           "time_info": "[00时07分 ~ 13时58分]"
         },
         {
+          "title": "越南人日本救灾反遭网暴",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356712&amp;topic_name=%E8%B6%8A%E5%8D%97%E4%BA%BA%E6%97%A5%E6%9C%AC%E6%95%91%E7%81%BE%E5%8F%8D%E9%81%AD%E7%BD%91%E6%9A%B4",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时57分 ~ 16时23分]"
+        },
+        {
           "title": "警方对捐日本侵华罪证少年启动保护",
           "url": "https://www.toutiao.com/trending/7668841212840889883/",
           "source": "今日头条",
@@ -1069,35 +1179,13 @@
           "time_info": "[03时20分 ~ 07时58分]"
         },
         {
-          "title": "越南人日本救灾反遭网暴",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356712&amp;topic_name=%E8%B6%8A%E5%8D%97%E4%BA%BA%E6%97%A5%E6%9C%AC%E6%95%91%E7%81%BE%E5%8F%8D%E9%81%AD%E7%BD%91%E6%9A%B4",
-          "source": "贴吧",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时57分 ~ 13时58分]"
-        },
-        {
-          "title": "霍尔木兹海峡航运受阻致日本二季度电价同比涨30%",
-          "url": "https://wallstreetcn.com/livenews/3143653",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
           "title": "霍尔木兹海峡航运受阻致日本二季度电价同比涨30%",
           "url": "https://flash.jin10.com/detail/20260802123845073800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -1113,6 +1201,44 @@
           "time_info": "07时58分"
         },
         {
+          "title": "霍尔木兹海峡航运受阻致日本二季度电价同比涨30%",
+          "url": "https://wallstreetcn.com/livenews/3143653",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 16时23分]"
+        },
+        {
+          "title": "日本官员：日本财务大臣片山皋月预计将于周一宣布，美日两国就日元采取联合行动。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3143644",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时38分 ~ 16时23分]"
+        },
+        {
+          "title": "日本经济财政大臣城内实：日本将加强与市场的双向对话。 保持信息一致是赢得市场信任的关键。（NHK）",
+          "url": "https://wallstreetcn.com/livenews/3143643",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时38分 ~ 16时23分]"
+        },
+        {
           "title": "国际锐评丨“731”这天，日本“国家情报局”上线意欲何为？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33692374",
           "source": "澎湃新闻",
@@ -1124,40 +1250,50 @@
           "time_info": "[00时07分 ~ 03时21分]"
         },
         {
-          "title": "日本官员：日本财务大臣片山皋月预计将于周一宣布，美日两国就日元采取联合行动。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3143644",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时38分 ~ 13时58分]"
-        },
-        {
-          "title": "日本经济财政大臣城内实：日本将加强与市场的双向对话。 保持信息一致是赢得市场信任的关键。（NHK）",
-          "url": "https://wallstreetcn.com/livenews/3143643",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时38分 ~ 13时58分]"
-        },
-        {
           "title": "日本熊本强震死亡人数升至38人",
           "url": "https://wallstreetcn.com/livenews/3143641",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            13
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时38分 ~ 16时23分]"
+        },
+        {
+          "title": "日本地震灾区呼吁不要再送千纸鹤",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%E7%81%BE%E5%8C%BA%E5%91%BC%E5%90%81%E4%B8%8D%E8%A6%81%E5%86%8D%E9%80%81%E5%8D%83%E7%BA%B8%E9%B9%A4%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时38分 ~ 13时58分]"
+          "time_info": "[16时22分 ~ 16时23分]"
+        },
+        {
+          "title": "日本经济产业大臣赤泽亮正：后续即使按保守估计、仅维持往年同期75%的采购水平，通过动用国家储备，也足以保障石油供应至2028年3月底。",
+          "url": "https://flash.jin10.com/detail/20260802144834289800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
+          "title": "日本经济产业大臣赤泽亮正：8月份原油有望实现相当于往年同期约100%的采购量，“日本整体所需的数量”已得到确保。",
+          "url": "https://flash.jin10.com/detail/20260802144819119800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "日本官员：财务大臣周一将官宣日美协同行动遏制日元贬值，干预行动尚未结束",
@@ -1218,8 +1354,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时07分 ~ 13时58分]"
+          "appearance_count": 14,
+          "time_info": "[00时07分 ~ 16时23分]"
         },
         {
           "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
@@ -1230,8 +1366,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时07分 ~ 13时58分]"
+          "appearance_count": 14,
+          "time_info": "[00时07分 ~ 16时23分]"
         },
         {
           "title": "高盛：7月砸穿拥挤交易，美股牛市没断但更难做了",
@@ -1242,8 +1378,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时37分 ~ 13时58分]"
+          "appearance_count": 6,
+          "time_info": "[10时37分 ~ 16时23分]"
         },
         {
           "title": "美股这个财报季盈利增长“超预期”，科技巨头“资本开支与AI回报”双涨",
@@ -1309,11 +1445,12 @@
           "source": "贴吧",
           "ranks": [
             4,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[02时01分 ~ 13时58分]"
+          "appearance_count": 13,
+          "time_info": "[02时01分 ~ 16时23分]"
         },
         {
           "title": "OpenAI确认下一代模型Astra存在，以2000美元算力成本破解十项数学未解难题，正向监管层展示",
@@ -1326,8 +1463,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时54分 ~ 13时58分]"
+          "appearance_count": 8,
+          "time_info": "[06时54分 ~ 16时23分]"
         },
         {
           "title": "OpenAI总裁兼联合创始人Brockman：ChatGPT是一种非常棒的思维放大器。",
@@ -1352,11 +1489,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            9
+            9,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时38分 ~ 13时58分]"
+          "appearance_count": 3,
+          "time_info": "[10时38分 ~ 16时23分]"
         },
         {
           "title": "印度男子在大街上用皮带猛抽妻子",
@@ -1408,6 +1546,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时37分 ~ 10时38分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "“黑色黄金”价格打下来了",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%BB%91%E8%89%B2%E9%BB%84%E9%87%91%E2%80%9D%E4%BB%B7%E6%A0%BC%E6%89%93%E4%B8%8B%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 16时23分]"
         }
       ]
     },
