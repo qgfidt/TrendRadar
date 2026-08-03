@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-03T18:42:12.628028+08:00",
-  "total_titles_processed": 1217,
+  "generated_at": "2026-08-03T21:41:08.961229+08:00",
+  "total_titles_processed": 1394,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 46,
+      "match_count": 51,
       "titles": [
         {
           "title": "美以拟周末对伊朗能源基础设施实施“猛烈轰炸” ，瞄准发电厂、炼油厂，伊朗：全面反击方案已就绪",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时57分 ~ 18时42分]"
+        },
+        {
+          "title": "没招了？美媒爆料：美军群发邮件征集对伊朗施压想法",
+          "url": "https://news.ifeng.com/c/8vIQYttFgB2",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时40分 ~ 21时41分]"
         },
         {
           "title": "沙特外交大臣与伊朗外长讨论如何缓和地区局势。（沙特官方媒体SPA）",
@@ -134,6 +145,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
+        },
+        {
+          "title": "据悉伊朗已拒绝美国关于霍尔木兹海峡的提议",
+          "url": "https://flash.jin10.com/detail/20260803211208834800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
         },
         {
           "title": "伊朗回应打击巴林亚马逊数据中心",
@@ -273,6 +295,18 @@
           "time_info": "[03时07分 ~ 06时56分]"
         },
         {
+          "title": "伊朗称在霍尔木兹上空击落一架无人机",
+          "url": "https://www.toutiao.com/trending/7669730325030768182/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时41分 ~ 21时41分]"
+        },
+        {
           "title": "伊朗外交部发言人：我们接到了来自英国、乌克兰和保加利亚的电话，他们表示不会参与这场战争。",
           "url": "https://flash.jin10.com/detail/20260803005334929800",
           "source": "金十数据",
@@ -319,17 +353,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时54分 ~ 05时55分]"
-        },
-        {
-          "title": "伊朗称在霍尔木兹上空击落一架无人机",
-          "url": "https://www.toutiao.com/trending/7669730325030768182/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时41分 ~ 18时42分]"
         },
         {
           "title": "伊朗代理防长：敌方任何威胁都值得重视",
@@ -387,6 +410,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
+        },
+        {
+          "title": "报道：伊朗已拒绝美国关于霍尔木兹海峡的提议",
+          "url": "https://wallstreetcn.com/livenews/3144180",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
         },
         {
           "title": "伊朗袭击乌军基地？实为纽约大火",
@@ -494,7 +528,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时42分"
         },
@@ -532,6 +566,17 @@
           "time_info": "01时09分"
         },
         {
+          "title": "市场消息：伊朗战争使比利时在7月完全依赖俄罗斯液化天然气。",
+          "url": "https://flash.jin10.com/detail/20260803205255968800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
           "title": "黎巴嫩力量党主席萨米尔·贾加：我怀疑美国会在未解决伊朗核问题以及霍尔木兹海峡危机的情况下结束战争。",
           "url": "https://flash.jin10.com/detail/20260803001748142800",
           "source": "金十数据",
@@ -541,6 +586,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
+        },
+        {
+          "title": "伊朗谴责美沙联合打击伊拉克民兵武装",
+          "url": "https://wallstreetcn.com/livenews/3144161",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
         },
         {
           "title": "伊朗代理国防部长：伊朗不会被敌人“打得措手不及”，也不会对这坐视不管。",
@@ -557,7 +613,7 @@
     },
     {
       "keyword_group": "美国",
-      "match_count": 42,
+      "match_count": 47,
       "titles": [
         {
           "title": "取消对伊打击，美国为何总上演“临门收手”戏码？",
@@ -661,22 +717,23 @@
           "url": "https://www.toutiao.com/trending/7668995465958051347/",
           "source": "今日头条",
           "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时41分 ~ 21时41分]"
+        },
+        {
+          "title": "美国制裁洽洽瓜子、思念水饺、七匹狼男装",
+          "url": "https://news.ifeng.com/c/8vI8Cwf64ex",
+          "source": "凤凰网",
+          "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时41分 ~ 18时42分]"
-        },
-        {
-          "title": "美国制裁洽洽瓜子思念水饺 网友调侃",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%88%B6%E8%A3%81%E6%B4%BD%E6%B4%BD%E7%93%9C%E5%AD%90%E6%80%9D%E5%BF%B5%E6%B0%B4%E9%A5%BA+%E7%BD%91%E5%8F%8B%E8%B0%83%E4%BE%83",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时41分 ~ 18时42分]"
+          "time_info": "[21时40分 ~ 21时41分]"
         },
         {
           "title": "美国制裁洽洽瓜子思念水饺",
@@ -688,6 +745,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时41分 ~ 18时42分]"
+        },
+        {
+          "title": "美国制裁洽洽瓜子思念水饺 网友调侃",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%88%B6%E8%A3%81%E6%B4%BD%E6%B4%BD%E7%93%9C%E5%AD%90%E6%80%9D%E5%BF%B5%E6%B0%B4%E9%A5%BA+%E7%BD%91%E5%8F%8B%E8%B0%83%E4%BE%83",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时41分 ~ 21时41分]"
         },
         {
           "title": "美制裁洽洽瓜子、思念水饺…网友：怕美国人嗑瓜子上火？",
@@ -791,6 +860,17 @@
           "time_info": "07时58分"
         },
         {
+          "title": "美国国务院官员：美国国务卿鲁比奥没有计划与国际足联主席因凡蒂诺进行对话。",
+          "url": "https://flash.jin10.com/detail/20260803210847547800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
           "title": "美国参议院拨款委员会发布融资立法草案的文本",
           "url": "https://flash.jin10.com/detail/20260803042455615800",
           "source": "金十数据",
@@ -865,6 +945,17 @@
           "time_info": "[18时41分 ~ 18时42分]"
         },
         {
+          "title": "美国制裁洽洽瓜子等中国品牌",
+          "url": "https://www.douyin.com/hot/2595693",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时40分 ~ 21时41分]"
+        },
+        {
           "title": "普睿司曼据悉接近收购美国电气制造商Atkore",
           "url": "https://flash.jin10.com/detail/20260803031653529800",
           "source": "金十数据",
@@ -897,6 +988,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时00分 ~ 00时01分]"
+        },
+        {
+          "title": "七匹狼回应被美国制裁：没影响",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%83%E5%8C%B9%E7%8B%BC%E5%9B%9E%E5%BA%94%E8%A2%AB%E7%BE%8E%E5%9B%BD%E5%88%B6%E8%A3%81%EF%BC%9A%E6%B2%A1%E5%BD%B1%E5%93%8D",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时40分 ~ 21时41分]"
         },
         {
           "title": "日本财务省：干预旨在应对近期日元过度、无序波动。将毫不犹豫与美国进行进一步外汇干预，计划未来使用美联储的外国和国际货币当局回购工具。",
@@ -943,13 +1045,24 @@
           "time_info": "14时25分"
         },
         {
+          "title": "美国得克萨斯州州长表示，阿波罗将在奥斯汀设立新的战略中心。",
+          "url": "https://flash.jin10.com/detail/20260803210526430800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
           "title": "调查：八成以上美国金融业高管认为 AI技能比MBA更有价值",
           "url": "https://wallstreetcn.com/livenews/3144091",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时42分"
         },
@@ -1045,7 +1158,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 43,
       "titles": [
         {
           "title": "TACO！特朗普“取消对伊朗打击”，伊朗否认曾要求停火，沙特王储曾致电美方“敦促缓和局势”",
@@ -1107,6 +1220,18 @@
           "time_info": "[00时00分 ~ 06时56分]"
         },
         {
+          "title": "特朗普：日本向我们求助",
+          "url": "https://news.ifeng.com/c/8vHueaJjUVf",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时25分 ~ 21时41分]"
+        },
+        {
           "title": "接连反转！特朗普透露三个信息",
           "url": "https://news.ifeng.com/c/8vHV3ihqOZt",
           "source": "凤凰网",
@@ -1119,16 +1244,15 @@
           "time_info": "[10时57分 ~ 14时25分]"
         },
         {
-          "title": "特朗普：日本向我们求助",
-          "url": "https://news.ifeng.com/c/8vHueaJjUVf",
-          "source": "凤凰网",
+          "title": "白宫发言人：美国总统特朗普将于周二访问加利福尼亚州，周三前往内华达州，宣传经济成就。",
+          "url": "https://flash.jin10.com/detail/20260803211545972800",
+          "source": "金十数据",
           "ranks": [
-            7,
-            2
+            1
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时25分 ~ 18时42分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
         },
         {
           "title": "【早报】特朗普称取消打击伊朗，原油大跌、黄金上涨；央行定调下半年货币政策",
@@ -1362,6 +1486,17 @@
           "time_info": "[03时07分 ~ 04时54分]"
         },
         {
+          "title": "美媒：因凡蒂诺求助特朗普保其职位",
+          "url": "https://www.toutiao.com/trending/7669763103931764251/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时40分 ~ 21时41分]"
+        },
+        {
           "title": "特朗普再度TACO，宣布美伊谈判即将重启，现货黄金多头占比飙升至85%，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
           "url": "https://flash.jin10.com/detail/20260803104538415800",
           "source": "金十数据",
@@ -1461,6 +1596,17 @@
           "time_info": "06时56分"
         },
         {
+          "title": "10万美元提前看特朗普帖文服务上线",
+          "url": "https://wallstreetcn.com/livenews/3144166",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
           "title": "美国总统特朗普：（关于日元）美国介入是因为与日本关系良好，我们始终支持日本，美国从相关安排中获得了经济利益。",
           "url": "https://flash.jin10.com/detail/20260803054401910800",
           "source": "金十数据",
@@ -1532,8 +1678,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时00分 ~ 18时42分]"
+          "appearance_count": 16,
+          "time_info": "[00时00分 ~ 21时41分]"
         },
         {
           "title": "日本千纸鹤援助为何引争议",
@@ -1558,11 +1704,12 @@
             9,
             14,
             18,
-            26
+            26,
+            25
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时00分 ~ 18时42分]"
+          "appearance_count": 16,
+          "time_info": "[00时00分 ~ 21时41分]"
         },
         {
           "title": "越南人日本救灾反遭网暴",
@@ -1573,11 +1720,12 @@
             11,
             16,
             20,
-            29
+            29,
+            27
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时00分 ~ 18时42分]"
+          "appearance_count": 16,
+          "time_info": "[00时00分 ~ 21时41分]"
         },
         {
           "title": "日本地震灾区呼吁不要再送千纸鹤",
@@ -1590,6 +1738,31 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时00分 ~ 07时58分]"
+        },
+        {
+          "title": "日本人买中国车痛失国籍",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356733&amp;topic_name=%E6%97%A5%E6%9C%AC%E4%BA%BA%E4%B9%B0%E4%B8%AD%E5%9B%BD%E8%BD%A6%E7%97%9B%E5%A4%B1%E5%9B%BD%E7%B1%8D",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            9,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时57分 ~ 21时41分]"
+        },
+        {
+          "title": "凤凰直击日本熊本震区：神社刚修缮好，大殿塌了",
+          "url": "https://news.ifeng.com/c/8vHsRQiPYLP",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时41分 ~ 21时41分]"
         },
         {
           "title": "日本特高课复活了吗",
@@ -1630,39 +1803,16 @@
           "time_info": "10时57分"
         },
         {
-          "title": "日本人买中国车痛失国籍",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356733&amp;topic_name=%E6%97%A5%E6%9C%AC%E4%BA%BA%E4%B9%B0%E4%B8%AD%E5%9B%BD%E8%BD%A6%E7%97%9B%E5%A4%B1%E5%9B%BD%E7%B1%8D",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            9,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时57分 ~ 18时42分]"
-        },
-        {
-          "title": "凤凰直击日本熊本震区：神社刚修缮好，大殿塌了",
-          "url": "https://news.ifeng.com/c/8vHsRQiPYLP",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时41分 ~ 18时42分]"
-        },
-        {
           "title": "日本股市",
           "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E8%82%A1%E5%B8%82&t=31&band_rank=6&Refer=top",
           "source": "微博",
           "ranks": [
-            6
+            6,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时41分 ~ 18时42分]"
+          "appearance_count": 4,
+          "time_info": "[18时41分 ~ 21时41分]"
         },
         {
           "title": "日本熊本高温创纪录，一地震灾民疑似中暑死亡",
@@ -1734,8 +1884,115 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
+          "url": "https://www.cls.cn/detail/2443270",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时00分 ~ 07时58分]"
+        },
+        {
+          "title": "美伊谈判乐观情绪升温，美股期指走高，阿里巴巴盘前涨超5%，WTI油价跌超5%，日元冲高回落",
+          "url": "https://wallstreetcn.com/articles/3778526",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时41分 ~ 21时41分]"
+        },
+        {
+          "title": "亚马逊美股盘初涨超4%，市值突破3万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3144190",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "北美科技软件股指数ETF美股盘初涨1.9%。",
+          "url": "https://wallstreetcn.com/livenews/3144189",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "美股三大股指小幅高开，道指涨0.52%，标普500指数涨0.33%，纳指涨0.3%。阿里巴巴涨超3%，此前发布千问3.8-MAX，长程自动编程表现出色；科技股涨跌不一，微软、亚马逊均涨超2%；美光科技、闪迪跌5%。",
+          "url": "https://wallstreetcn.com/livenews/3144187",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "中东紧张局势降温 美股期指上涨、油价重挫 存储股盘前下跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2444462",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时40分 ~ 21时41分]"
+        },
+        {
+          "title": "通胀“过山车”难挡美股牛市？小摩押注标普500明年冲击8200点",
+          "url": "https://flash.jin10.com/detail/20260803140546061800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-08-03）",
+          "url": "https://flash.jin10.com/detail/20260803210000423800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3144172",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "DeepSeek v4 flash 如此强大，接下来发布的 pro 会不会让美国御三家全部倒闭？",
@@ -1767,6 +2024,17 @@
           "time_info": "[00时00分 ~ 14时25分]"
         },
         {
+          "title": "DeepSeek一天消耗了8万亿",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E4%B8%80%E5%A4%A9%E6%B6%88%E8%80%97%E4%BA%868%E4%B8%87%E4%BA%BF&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时40分 ~ 21时41分]"
+        },
+        {
           "title": "deepseek 定价按 10 个月回本算都这么便宜了，为什么谷歌投资 ai 还会现金流转负？",
           "url": "https://www.zhihu.com/question/2065010626171293829",
           "source": "知乎",
@@ -1790,6 +2058,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时41分 ~ 18时42分]"
+        },
+        {
+          "title": "如何看待 7 月末至 8 月初有多家韩国公司发布 AI 称性能强于 DeepSeek？",
+          "url": "https://www.zhihu.com/question/2067512422555029717",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时40分 ~ 21时41分]"
         },
         {
           "title": "DeepSeek模型单日吞下8万亿Token",
@@ -1841,8 +2120,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时41分 ~ 18时42分]"
+          "appearance_count": 4,
+          "time_info": "[18时41分 ~ 21时41分]"
         },
         {
           "title": "澎湃思想周报｜当菲尔兹奖得主加入OpenAI；“云霸权”兴起",
@@ -1858,82 +2137,59 @@
       ]
     },
     {
-      "keyword_group": "美股",
+      "keyword_group": "美债",
       "match_count": 3,
       "titles": [
         {
-          "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
-          "url": "https://www.cls.cn/detail/2443270",
-          "source": "财联社热门",
+          "title": "30年美债收益率破5%将如何影响股市",
+          "url": "https://www.toutiao.com/trending/7669755735231696420/",
+          "source": "今日头条",
           "ranks": [
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时00分 ~ 07时58分]"
-        },
-        {
-          "title": "美伊谈判乐观情绪升温，美股期指走高，阿里巴巴盘前涨超5%，WTI油价跌超5%，日元冲高回落",
-          "url": "https://wallstreetcn.com/articles/3778526",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时41分 ~ 18时42分]"
+          "time_info": "[21时40分 ~ 21时41分]"
         },
         {
-          "title": "通胀“过山车”难挡美股牛市？小摩押注标普500明年冲击8200点",
-          "url": "https://flash.jin10.com/detail/20260803140546061800",
-          "source": "金十数据",
+          "title": "美债彻底陷入“失控边缘”：真正的风暴才刚开始？",
+          "url": "https://www.cls.cn/detail/2443731",
+          "source": "财联社热门",
           "ranks": [
-            6
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "印度",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "印度移民带给西方哪些影响",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8D%B0%E5%BA%A6%E7%A7%BB%E6%B0%91%E5%B8%A6%E7%BB%99%E8%A5%BF%E6%96%B9%E5%93%AA%E4%BA%9B%E5%BD%B1%E5%93%8D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27,
-            3,
-            23,
-            17,
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[04时53分 ~ 18时42分]"
         },
         {
-          "title": "印度7月制造业PMI终值 53.5，初值 53.9。",
-          "url": "https://wallstreetcn.com/livenews/3143900",
+          "title": "三菱日联：美国支持日本稳汇率有助于缓解美债的抛压",
+          "url": "https://wallstreetcn.com/livenews/3144177",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时25分"
+          "time_info": "21时41分"
         }
       ]
     },
     {
       "keyword_group": "天津",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "天津人吃到美食belike",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A9%E6%B4%A5%E4%BA%BA%E5%90%83%E5%88%B0%E7%BE%8E%E9%A3%9Fbelike",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时40分 ~ 21时41分]"
+        },
         {
           "title": "天津11部门联合出台意见，升级存量资产盘活政策",
           "url": "https://wallstreetcn.com/livenews/3143697",
@@ -1961,6 +2217,39 @@
       ]
     },
     {
+      "keyword_group": "印度",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "印度移民带给西方哪些影响",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8D%B0%E5%BA%A6%E7%A7%BB%E6%B0%91%E5%B8%A6%E7%BB%99%E8%A5%BF%E6%96%B9%E5%93%AA%E4%BA%9B%E5%BD%B1%E5%93%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            3,
+            23,
+            17,
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[04时53分 ~ 21时41分]"
+        },
+        {
+          "title": "印度7月制造业PMI终值 53.5，初值 53.9。",
+          "url": "https://wallstreetcn.com/livenews/3143900",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
@@ -1975,23 +2264,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时57分 ~ 14时25分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美债彻底陷入“失控边缘”：真正的风暴才刚开始？",
-          "url": "https://www.cls.cn/detail/2443731",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时25分"
         }
       ]
     }
