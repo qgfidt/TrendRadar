@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-04T18:37:38.115290+08:00",
-  "total_titles_processed": 1226,
+  "generated_at": "2026-08-04T23:32:20.741567+08:00",
+  "total_titles_processed": 1437,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 54,
       "titles": [
         {
           "title": "再度反转！特朗普宣布不打了，重启谈判，伊朗：没有计划",
@@ -79,6 +79,19 @@
           "time_info": "08时08分"
         },
         {
+          "title": "释新闻｜特朗普再次叫停袭击背后：伊朗“有选择地扩大冲突”如何捆住美国手脚",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33710926",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时12分 ~ 23时32分]"
+        },
+        {
           "title": "美25州联手，特朗普关税再遭阻击",
           "url": "https://news.ifeng.com/c/8vIzMGikgqm",
           "source": "凤凰网",
@@ -133,18 +146,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时38分 ~ 18时37分]"
-        },
-        {
-          "title": "释新闻｜特朗普再次叫停袭击背后：伊朗“有选择地扩大冲突”如何捆住美国手脚",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33710926",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时12分 ~ 18时37分]"
         },
         {
           "title": "美媒：因凡蒂诺向特朗普求助",
@@ -256,7 +257,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
@@ -303,6 +304,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
+        },
+        {
+          "title": "美国总统特朗普：已请求参议员达琳·格雷厄姆参加8月11日的共和党特别初选，她已接受。",
+          "url": "https://flash.jin10.com/detail/20260804225055245800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "特朗普：应伊朗的要求与伊朗进行对话的，今明两天就会知晓谈判进展",
@@ -605,7 +617,7 @@
     },
     {
       "keyword_group": "美国",
-      "match_count": 41,
+      "match_count": 54,
       "titles": [
         {
           "title": "美国制裁洽洽瓜子、思念水饺、七匹狼男装",
@@ -658,6 +670,17 @@
           "time_info": "[15时38分 ~ 18时37分]"
         },
         {
+          "title": "美国被曝拟禁止进口中国新型号光模块",
+          "url": "https://news.ifeng.com/c/8vK6uTVFhXh",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "美国本田：七月销量增长12.8%，达到136,549辆，为2019年以来最佳表现。",
           "url": "https://flash.jin10.com/detail/20260804001636966800",
           "source": "金十数据",
@@ -680,6 +703,28 @@
           "time_info": "00时24分"
         },
         {
+          "title": "美国拟禁止进口中国新型数据中心设备，我使馆：敦促美停止抹黑中企并威胁制裁",
+          "url": "https://wallstreetcn.com/articles/3778674",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
+          "title": "布兰奇的美国司法部长提名在参议院小组获得推进。",
+          "url": "https://flash.jin10.com/detail/20260804230500628800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "美国证交会（SEC）文件显示，FSMVP私募市场基金提出回购不超过5%的净资产份额，即截至6月30日为9247万美元。",
           "url": "https://flash.jin10.com/detail/20260804001201597800",
           "source": "金十数据",
@@ -700,6 +745,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时24分 ~ 08时08分]"
+        },
+        {
+          "title": "Palantir大涨！美国商业收入超预期飙升149%，上调全年营收指引｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778613",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时12分 ~ 23时32分]"
         },
         {
           "title": "美国原油期货收跌超5%",
@@ -750,19 +808,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时24分 ~ 06时08分]"
-        },
-        {
-          "title": "Palantir大涨！美国商业收入超预期飙升149%，上调全年营收指引｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778613",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时12分 ~ 18时37分]"
         },
         {
           "title": "美国7月ISM制造业PMI超预期升至四年最高，需求、生产与就业同步改善",
@@ -855,7 +900,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
@@ -882,6 +927,17 @@
           "time_info": "08时08分"
         },
         {
+          "title": "美国农户信心反弹，经营压力是否已得到缓解？",
+          "url": "https://flash.jin10.com/detail/20260804230146532800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "日本财务大臣片山皋月：无法评论外汇干预的影响。 关于外汇联合干预，没有更多要说的。 美国高度评价日本稳健的经济政策。",
           "url": "https://wallstreetcn.com/livenews/3144502",
           "source": "华尔街见闻-快讯",
@@ -891,6 +947,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
+        },
+        {
+          "title": "日本多次交涉，美国不删",
+          "url": "https://news.ifeng.com/c/8vJuG3GuLfs",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "美国得州电力可靠性委员会：预计本周电力需求将维持高位，峰值将在8万至8.9万兆瓦区间。",
@@ -910,9 +977,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
+        },
+        {
+          "title": "美国放风霍尔木兹海峡协议即将达成，对冲基金上周涌入科技股 | Plus日报",
+          "url": "https://flash.jin10.com/detail/20260804225208030800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "美国财政部拍卖三个月期国债，得标利率3.750%，投标倍数2.61。 拍卖六个月期国债，得标利率3.855%，投标倍数2.98。",
@@ -932,9 +1010,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
+        },
+        {
+          "title": "美国民主参议员Mark Warner：上周末，Truth Social 10万美元的订阅服务正式上线。昨晚，我提出了一项法案，旨在打击这种腐败，确保所有美国人都能免费平等地获取政府官员的公告。",
+          "url": "https://flash.jin10.com/detail/20260804224839910800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "日本财务大臣片山皋月：关于日本与美国的联合外汇干预，我没有更多要补充的。",
@@ -965,7 +1054,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
@@ -992,6 +1081,17 @@
           "time_info": "00时24分"
         },
         {
+          "title": "美国务卿称有关重开霍尔木兹海峡的协议尚未敲定",
+          "url": "https://wallstreetcn.com/livenews/3144826",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "乌克兰驻美国大使Olha Stefanishyna宣布辞职，来回应当前局势，但将继续为乌克兰服务。 8月3日稍早，乌克兰总统泽连斯基罢免了Stefanishyna的职务。",
           "url": "https://wallstreetcn.com/livenews/3144295",
           "source": "华尔街见闻-快讯",
@@ -1001,6 +1101,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
+        },
+        {
+          "title": "摩根大通：美国高等级外币债券需求升至年内高点",
+          "url": "https://wallstreetcn.com/livenews/3144825",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "美国财政部将季度借款预估上调至7390亿美元",
@@ -1014,6 +1125,17 @@
           "time_info": "04时27分"
         },
         {
+          "title": "美国6月职位空缺小幅下降，裁员人数依然有限",
+          "url": "https://wallstreetcn.com/livenews/3144821",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "美国至8月3日6个月国债竞拍-得标利率配置百分比 65.4%，前值36.13%。",
           "url": "https://flash.jin10.com/detail/20260803233333021800",
           "source": "金十数据",
@@ -1023,6 +1145,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        },
+        {
+          "title": "美国政府拟禁止进口中国新型号的数据中心组件，中金：短期情绪面肯定有冲击，但中长期大概率还是雷声大雨点小",
+          "url": "https://wallstreetcn.com/livenews/3144819",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "美国亿万富豪回应克隆“婴儿版自己”",
@@ -1069,21 +1202,43 @@
           "time_info": "02时51分"
         },
         {
+          "title": "美国华盛顿州山火纵火嫌疑人被捕",
+          "url": "https://wallstreetcn.com/livenews/3144818",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "美国拉响感染警报：罕见病毒首现纽约",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%8B%89%E5%93%8D%E6%84%9F%E6%9F%93%E8%AD%A6%E6%8A%A5%EF%BC%9A%E7%BD%95%E8%A7%81%E7%97%85%E6%AF%92%E9%A6%96%E7%8E%B0%E7%BA%BD%E7%BA%A6",
           "source": "百度热搜",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
+        },
+        {
+          "title": "报道：美国AI电力需求激增，开发商动用数十亿美元银行担保",
+          "url": "https://wallstreetcn.com/livenews/3144815",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 40,
+      "match_count": 46,
       "titles": [
         {
           "title": "没招了？美媒爆料：美军群发邮件征集对伊朗施压想法",
@@ -1103,9 +1258,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
+        },
+        {
+          "title": "据伊朗Press TV：知情人士表示，尽管受到美国的干扰，伊朗与阿曼关于霍尔木兹海海峡航线的谈判已进入新阶段。若美国及其他国家的干扰停止，伊朗与阿曼达成双边谅解指日可待。",
+          "url": "https://flash.jin10.com/detail/20260804231339108800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "伊朗总统佩泽希基扬表示，伊朗无意加剧西亚紧张局势，但在捍卫领土完整问题上绝不妥协。",
@@ -1125,9 +1291,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
+        },
+        {
+          "title": "美财长透露与伊朗达成协议的时间",
+          "url": "https://news.ifeng.com/c/8vJy6Up6oyy",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "消息人士：美国在伊朗战争中已消耗大量的远程精确导弹",
@@ -1136,7 +1313,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
@@ -1158,9 +1335,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
+        },
+        {
+          "title": "伊朗总统回应辞职传闻",
+          "url": "https://news.ifeng.com/c/8vJpAoU2QSK",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "伊朗：乌克兰道歉了",
@@ -1244,13 +1432,24 @@
           "time_info": "00时24分"
         },
         {
+          "title": "霍尔木兹复航现曙光？美伊官员称伊朗与阿曼接近达成协议",
+          "url": "https://www.cls.cn/detail/2445217",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "据路透社：消息人士称，美国陆军在伊朗战争期间已消耗了大量远程陆基导弹。",
           "url": "https://flash.jin10.com/detail/20260804180253910800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
@@ -1305,7 +1504,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
@@ -1327,7 +1526,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
@@ -1382,9 +1581,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
+        },
+        {
+          "title": "伊朗：乌克兰道歉了",
+          "url": "https://www.douyin.com/hot/2596757",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "据路透社：伊朗高层消息人士表示，伊朗不太可能接受重新开放霍尔木兹海峡的任何其他替代方案。",
@@ -1393,7 +1603,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
@@ -1415,7 +1625,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
@@ -1437,7 +1647,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
@@ -1459,7 +1669,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
@@ -1492,7 +1702,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
@@ -1506,6 +1716,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        },
+        {
+          "title": "美国国务卿卢比奥：伊朗与阿曼的会谈取得进展。",
+          "url": "https://wallstreetcn.com/livenews/3144817",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "伊朗公布遇袭船只画面",
@@ -1660,11 +1881,12 @@
           "source": "贴吧",
           "ranks": [
             4,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时38分 ~ 18时37分]"
+          "appearance_count": 3,
+          "time_info": "[15时38分 ~ 23时32分]"
         },
         {
           "title": "市场消息：日本IT服务供应商NTT Data正考虑在日本数据中心领域投资约90亿美元。",
@@ -1703,6 +1925,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时38分 ~ 18时37分]"
+        },
+        {
+          "title": "挑衅中国同天示好日本右翼，“菲政府反华绝非少数政客作为”",
+          "url": "https://news.ifeng.com/c/8vJTuJ7fHSL",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时37分 ~ 23时32分]"
         },
         {
           "title": "日本执政党放行食品税下调 高市力推竞选承诺闯关",
@@ -1752,17 +1985,6 @@
           "time_info": "08时08分"
         },
         {
-          "title": "挑衅中国同天示好日本右翼，“菲政府反华绝非少数政客作为”",
-          "url": "https://news.ifeng.com/c/8vJTuJ7fHSL",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时37分"
-        },
-        {
           "title": "比亚迪攻入日本汽车腹地",
           "url": "https://www.toutiao.com/trending/7669798854924963366/",
           "source": "今日头条",
@@ -1780,7 +2002,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
@@ -1835,7 +2057,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
@@ -1857,7 +2079,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
@@ -1876,7 +2098,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "美股8月开门红，道指新高，亚马逊市值首破三万亿，阿里涨超4%，原油重挫",
@@ -1887,8 +2109,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时08分 ~ 18时37分]"
+          "appearance_count": 5,
+          "time_info": "[08时08分 ~ 23时32分]"
         },
         {
           "title": "【早报】美股半导体板块，深V反弹；原油大跌、黄金微涨；事关电力，重磅规划发布",
@@ -2019,13 +2241,24 @@
           "time_info": "08时08分"
         },
         {
+          "title": "美股期指全线上涨 卡特彼勒大涨逾10%领涨道指期货 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2445568",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "Spotify第二季度营收47.8亿欧元，预期47.9亿欧元。 第二季度每股收益2.61欧元，去年同期每股亏损0.42欧元。 第二季度营业利润6.55亿欧元，同比增长61%。 第二季度月活跃用户数7.77亿，预期7.7818亿。 Spotify预计第三季度营收50亿欧元，市场预期49.3亿欧元。 Spotify预计第三季度营业利润6.70亿欧元，市场预期6.811亿欧元。 Spotify预计第三季度月活跃用户数7.88亿，市场预期7.9352亿。 Spotify美股盘前跌近4%。",
           "url": "https://wallstreetcn.com/livenews/3144672",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
@@ -2039,6 +2272,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
+        },
+        {
+          "title": "美伊缓和叠加财报季提振，美股高开，光通信股走高，油价跌超5%，日元涨势终止",
+          "url": "https://wallstreetcn.com/articles/3778638",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "城堡证券：美股牛市驱动因素依然稳固，散户杠杆押注降温",
@@ -2142,8 +2386,199 @@
       ]
     },
     {
+      "keyword_group": "印度",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "印度大量驳回对华反倾销调查建议",
+          "url": "https://news.ifeng.com/c/8vJ4iCAMXSa",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时12分 ~ 15时38分]"
+        },
+        {
+          "title": "印度移民带给西方哪些影响",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8D%B0%E5%BA%A6%E7%A7%BB%E6%B0%91%E5%B8%A6%E7%BB%99%E8%A5%BF%E6%96%B9%E5%93%AA%E4%BA%9B%E5%BD%B1%E5%93%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            15,
+            13,
+            26,
+            23,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 15时38分]"
+        },
+        {
+          "title": "苹果在印度的年销售额首次突破100亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3144594",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
+          "title": "复刻印度美食Keema",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E5%88%BB%E5%8D%B0%E5%BA%A6%E7%BE%8E%E9%A3%9FKeema",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            25,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 06时08分]"
+        },
+        {
+          "title": "起底印度火灾及消防乱象",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B5%B7%E5%BA%95%E5%8D%B0%E5%BA%A6%E7%81%AB%E7%81%BE%E5%8F%8A%E6%B6%88%E9%98%B2%E4%B9%B1%E8%B1%A1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 08时08分]"
+        },
+        {
+          "title": "流亡前总理哈西娜将在印度发表视频讲话？孟加拉国回应",
+          "url": "https://news.ifeng.com/c/8vJs3MQSvYe",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
+          "title": "苹果印度年销售额首次破百亿美元",
+          "url": "https://flash.jin10.com/detail/20260804153042783800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
+          "title": "假如印度翻拍龙珠",
+          "url": "https://search.bilibili.com/all?keyword=%E5%81%87%E5%A6%82%E5%8D%B0%E5%BA%A6%E7%BF%BB%E6%8B%8D%E9%BE%99%E7%8F%A0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
+          "title": "交易商表示，印度七月份棕榈油进口环比激增50%，达到733,000吨，创五个月以来新高。",
+          "url": "https://flash.jin10.com/detail/20260804113024639800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
+          "title": "市场消息：苹果公司在印度的年销售额首次突破100亿美元。",
+          "url": "https://flash.jin10.com/detail/20260804152651415800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
+          "title": "航运数据显示，委内瑞拉对印度的石油出口在七月份降至约17.8万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260803235206909800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时24分"
+        },
+        {
+          "title": "印度计划放宽对离岸基金的披露规定。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3144660",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时37分"
+        },
+        {
+          "title": "据报道，一艘位于荷台达海岸13英里处的印度船只遭无人艇袭击后沉没。",
+          "url": "https://flash.jin10.com/detail/20260804222511009800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
+          "title": "消息人士：印度拟放宽海外基金披露规则",
+          "url": "https://flash.jin10.com/detail/20260804174537827800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时37分"
+        },
+        {
+          "title": "印度政府考虑将生产设备及零部件进口免税政策延长至2041年，苹果在印度的iPhone生产将获得进一步推动。",
+          "url": "https://wallstreetcn.com/livenews/3144286",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时51分"
+        },
+        {
+          "title": "印度新机场刚落成就变“游乐场”",
+          "url": "https://www.toutiao.com/trending/7669666043934277674/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "DeepSeek一天消耗了8万亿",
@@ -2220,8 +2655,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时12分 ~ 18时37分]"
+          "appearance_count": 4,
+          "time_info": "[12时12分 ~ 23时32分]"
         },
         {
           "title": "DeepSeek模型单日吞下8万亿Token",
@@ -2250,6 +2685,17 @@
           "time_info": "[02时51分 ~ 06时08分]"
         },
         {
+          "title": "DeepSeek斩杀了谁",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%96%A9%E6%9D%80%E4%BA%86%E8%B0%81",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时37分 ~ 23时32分]"
+        },
+        {
           "title": "DeepSeek斩杀线",
           "url": "https://s.weibo.com/weibo?q=DeepSeek%E6%96%A9%E6%9D%80%E7%BA%BF&t=31&band_rank=8&Refer=top",
           "source": "微博",
@@ -2267,9 +2713,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
+        },
+        {
+          "title": "疑似梁文锋早期微博被扒",
+          "url": "https://www.baidu.com/s?wd=%E7%96%91%E4%BC%BC%E6%A2%81%E6%96%87%E9%94%8B%E6%97%A9%E6%9C%9F%E5%BE%AE%E5%8D%9A%E8%A2%AB%E6%89%92",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "Codex直连DeepSeek堪称国模之王",
@@ -2303,164 +2760,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
-        },
-        {
-          "title": "DeepSeek斩杀了谁",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%96%A9%E6%9D%80%E4%BA%86%E8%B0%81",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "印度",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "印度大量驳回对华反倾销调查建议",
-          "url": "https://news.ifeng.com/c/8vJ4iCAMXSa",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时12分 ~ 15时38分]"
-        },
-        {
-          "title": "印度移民带给西方哪些影响",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8D%B0%E5%BA%A6%E7%A7%BB%E6%B0%91%E5%B8%A6%E7%BB%99%E8%A5%BF%E6%96%B9%E5%93%AA%E4%BA%9B%E5%BD%B1%E5%93%8D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            15,
-            13,
-            26,
-            23,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 15时38分]"
-        },
-        {
-          "title": "苹果在印度的年销售额首次突破100亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3144594",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时38分"
-        },
-        {
-          "title": "复刻印度美食Keema",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E5%88%BB%E5%8D%B0%E5%BA%A6%E7%BE%8E%E9%A3%9FKeema",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            25,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 06时08分]"
-        },
-        {
-          "title": "起底印度火灾及消防乱象",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B5%B7%E5%BA%95%E5%8D%B0%E5%BA%A6%E7%81%AB%E7%81%BE%E5%8F%8A%E6%B6%88%E9%98%B2%E4%B9%B1%E8%B1%A1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时27分 ~ 08时08分]"
-        },
-        {
-          "title": "苹果印度年销售额首次破百亿美元",
-          "url": "https://flash.jin10.com/detail/20260804153042783800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时38分"
-        },
-        {
-          "title": "交易商表示，印度七月份棕榈油进口环比激增50%，达到733,000吨，创五个月以来新高。",
-          "url": "https://flash.jin10.com/detail/20260804113024639800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时12分"
-        },
-        {
-          "title": "市场消息：苹果公司在印度的年销售额首次突破100亿美元。",
-          "url": "https://flash.jin10.com/detail/20260804152651415800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时38分"
-        },
-        {
-          "title": "航运数据显示，委内瑞拉对印度的石油出口在七月份降至约17.8万桶/日。",
-          "url": "https://flash.jin10.com/detail/20260803235206909800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "印度计划放宽对离岸基金的披露规定。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3144660",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时37分"
-        },
-        {
-          "title": "消息人士：印度拟放宽海外基金披露规则",
-          "url": "https://flash.jin10.com/detail/20260804174537827800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时37分"
-        },
-        {
-          "title": "印度政府考虑将生产设备及零部件进口免税政策延长至2041年，苹果在印度的iPhone生产将获得进一步推动。",
-          "url": "https://wallstreetcn.com/livenews/3144286",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时51分"
         }
       ]
     },
@@ -2477,11 +2776,12 @@
             9,
             13,
             17,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 18时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 23时32分]"
         },
         {
           "title": "声明显示：美国众议院网络安全小组要求OpenAI首席执行官奥尔特曼就Hugging Face入侵事件进行情况通报。",
@@ -2559,79 +2859,20 @@
       ]
     },
     {
-      "keyword_group": "天津",
+      "keyword_group": "美元",
       "match_count": 3,
       "titles": [
         {
-          "title": "天津人吃到美食belike",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A9%E6%B4%A5%E4%BA%BA%E5%90%83%E5%88%B0%E7%BE%8E%E9%A3%9Fbelike",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25,
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 18时37分]"
-        },
-        {
-          "title": "天津发行30年期医疗专项地方债，规模5.5000亿元，发行利率2.3400%，边际倍数4.57倍，倍数预期2.33； 天津发行30年期普通专项地方债，规模48.1800亿元，发行利率2.3200%，边际倍数6.87倍，倍数预期2.33。",
-          "url": "https://wallstreetcn.com/livenews/3144578",
+          "title": "恒天然：8月4日全球乳品贸易（GDT）拍卖价格指数上升0.1%，奶粉各合同期拍卖均价3,778美元/吨。 批发奶粉价格指数上升0.2%，报3,483美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3144848",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时38分"
-        },
-        {
-          "title": "天津发行7年期一般债地方债，规模31.3577亿元，发行利率1.6100%，边际倍数5.09倍，倍数预期1.61； 天津发行30年期其他专项地方债，规模14.0000亿元，发行利率2.3300%，边际倍数15.66倍，倍数预期2.31； 天津发行30年期其他专项地方债，规模68.2032亿元，发行利率2.3200%，边际倍数38.12倍，倍数预期2.31。",
-          "url": "https://wallstreetcn.com/livenews/3144576",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时38分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "罕见干预操作！贝森特抛欧元、指示美联储“借钱”，让日本“别抛美债”，市场担心“套利交易逆转”",
-          "url": "https://wallstreetcn.com/articles/3778620",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
             3
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时38分 ~ 18时37分]"
-        },
-        {
-          "title": "“沉睡巨人”正在苏醒：30万亿美债市场暗流涌动，美股还能撑多久？",
-          "url": "https://flash.jin10.com/detail/20260804113530933800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
+          "time_info": "23时32分"
+        },
         {
           "title": "周一（8月3日）纽约尾盘，ICE美元指数大致持平，报99.906点，日内交投区间为99.418-100.017点，亚太早盘低开低走、北京时间08:45刷新日低，之后持续震荡上扬。 彭博美元指数跌0.06%，报1206.06点，日内交投区间为1201.22-1207.21点。",
           "url": "https://wallstreetcn.com/livenews/3144332",
@@ -2659,9 +2900,62 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 1,
+      "keyword_group": "天津",
+      "match_count": 3,
       "titles": [
+        {
+          "title": "天津人吃到美食belike",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A9%E6%B4%A5%E4%BA%BA%E5%90%83%E5%88%B0%E7%BE%8E%E9%A3%9Fbelike",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25,
+            28,
+            29,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 23时32分]"
+        },
+        {
+          "title": "天津发行30年期医疗专项地方债，规模5.5000亿元，发行利率2.3400%，边际倍数4.57倍，倍数预期2.33； 天津发行30年期普通专项地方债，规模48.1800亿元，发行利率2.3200%，边际倍数6.87倍，倍数预期2.33。",
+          "url": "https://wallstreetcn.com/livenews/3144578",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
+          "title": "天津发行7年期一般债地方债，规模31.3577亿元，发行利率1.6100%，边际倍数5.09倍，倍数预期1.61； 天津发行30年期其他专项地方债，规模14.0000亿元，发行利率2.3300%，边际倍数15.66倍，倍数预期2.31； 天津发行30年期其他专项地方债，规模68.2032亿元，发行利率2.3200%，边际倍数38.12倍，倍数预期2.31。",
+          "url": "https://wallstreetcn.com/livenews/3144576",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "土耳其央行行长卡拉汉：通胀回落将继续影响租金价格。国内需求放缓。",
+          "url": "https://flash.jin10.com/detail/20260804230303443800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
         {
           "title": "金十图示：2026年08月04日（周二）上海金午盘价为883.88元/克，较国际金价(881.73元/克)，高2.15元/克",
           "url": "https://flash.jin10.com/detail/20260804151647835800",
@@ -2672,6 +2966,36 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "罕见干预操作！贝森特抛欧元、指示美联储“借钱”，让日本“别抛美债”，市场担心“套利交易逆转”",
+          "url": "https://wallstreetcn.com/articles/3778620",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时38分 ~ 23时32分]"
+        },
+        {
+          "title": "“沉睡巨人”正在苏醒：30万亿美债市场暗流涌动，美股还能撑多久？",
+          "url": "https://flash.jin10.com/detail/20260804113530933800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时12分"
         }
       ]
     }
