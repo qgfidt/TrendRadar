@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-05T13:45:44.597667+08:00",
-  "total_titles_processed": 879,
+  "generated_at": "2026-08-05T16:33:34.572016+08:00",
+  "total_titles_processed": 1055,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国",
-      "match_count": 50,
+      "match_count": 67,
       "titles": [
         {
           "title": "美国拟禁止进口中国新型数据中心设备，我使馆：敦促美停止抹黑中企并威胁制裁",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时47分 ~ 13时45分]"
+          "appearance_count": 9,
+          "time_info": "[01时47分 ~ 16时33分]"
         },
         {
           "title": "美国被曝拟禁止进口中国新型号光模块",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时47分 ~ 13时45分]"
+          "appearance_count": 9,
+          "time_info": "[01时47分 ~ 16时33分]"
         },
         {
           "title": "外媒称美国拟禁止进口中国新型号的光收发模块，此举将对中美科技竞争及全球数据产业带来哪些影响？",
@@ -69,6 +69,17 @@
           "time_info": "[01时47分 ~ 07时02分]"
         },
         {
+          "title": "日本财务大臣片山皋月：内阁批准食品消费税降低两年。 美国财长贝森特认为日本的财政纪律有所改善。",
+          "url": "https://wallstreetcn.com/livenews/3145283",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
           "title": "日本多次交涉，美国不删",
           "url": "https://news.ifeng.com/c/8vJuG3GuLfs",
           "source": "凤凰网",
@@ -86,9 +97,42 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
+        },
+        {
+          "title": "美国将禁止出口钨废料和电池碎片！一文读懂：影响几何？",
+          "url": "https://www.cls.cn/detail/2446205",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
+          "title": "士兵怕嗑牙,美国制裁洽洽瓜子",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356797&amp;topic_name=%E5%A3%AB%E5%85%B5%E6%80%95%E5%97%91%E7%89%99%2C%E7%BE%8E%E5%9B%BD%E5%88%B6%E8%A3%81%E6%B4%BD%E6%B4%BD%E7%93%9C%E5%AD%90",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：美国财长贝森特对我们的政策立场充满信心。",
+          "url": "https://flash.jin10.com/detail/20260805162534039800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "美国接近就霍尔木兹海峡达成协议，目标是在周三宣布。（AXIOS）",
@@ -122,6 +166,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：美国财长贝森特承认日本在财政纪律方面的努力。",
+          "url": "https://flash.jin10.com/detail/20260805162357049800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "美国财长贝森特：随着能源价格下降，我们不再面临日元过度贬值，这将有助于通胀回落，日元可以进入良性循环。",
@@ -201,8 +256,19 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时22分 ~ 16时33分]"
+        },
+        {
+          "title": "SpaceX电话会：剑指美国“第四大运营商”，或提前实现万亿收入目标，芯片锁定英伟达",
+          "url": "https://wallstreetcn.com/articles/3778694",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时22分 ~ 13时45分]"
+          "time_info": "[13时45分 ~ 16时33分]"
         },
         {
           "title": "USA Rare Earth涨幅扩大至8.9%，据路透报道，洛克希德·马丁洽购美国矿山出产的关键矿产。",
@@ -217,6 +283,17 @@
           "time_info": "[01时48分 ~ 03时29分]"
         },
         {
+          "title": "中方反制6家美国实体",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%8F%8D%E5%88%B66%E5%AE%B6%E7%BE%8E%E5%9B%BD%E5%AE%9E%E4%BD%93",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
           "title": "据华盛顿邮报，美国疾控中心（CDC）数据显示，环孢子虫病（cyclospora）疫情扩散至15个州，较上次披露新增六个州。 密苏里州通报称，1095例患者与Taco Bell有关。 百胜（Yum Brands）股价迅速转跌。",
           "url": "https://wallstreetcn.com/livenews/3144906",
           "source": "华尔街见闻-快讯",
@@ -226,6 +303,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时29分"
+        },
+        {
+          "title": "沪指涨超1%，科创50暴涨逾5%，半导体大爆发，“易中天”集体回应美国光模块禁令，港股科网股盘中反弹",
+          "url": "https://wallstreetcn.com/articles/3778711",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "美国财长贝森特：日本通胀上升是由于日元疲软和能源价格上涨所致。",
@@ -305,17 +393,6 @@
           "time_info": "05时12分"
         },
         {
-          "title": "SpaceX电话会：剑指美国“第四大运营商”，或提前实现万亿收入目标，芯片锁定英伟达",
-          "url": "https://wallstreetcn.com/articles/3778694",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时45分"
-        },
-        {
           "title": "美国至7月31日当周API投产原油量 -11.2万桶/日，前值9.3万桶/日。",
           "url": "https://flash.jin10.com/detail/20260805044604335800",
           "source": "金十数据",
@@ -347,6 +424,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "美国电信股盘前集体走低，Verizon下跌2.9%，AT&T下跌1.4%，T-Mobile下跌1.5%，SpaceX透露其有意打造完整的移动通信服务，",
+          "url": "https://wallstreetcn.com/livenews/3145274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "美国至7月31日当周API成品油进口 -20.6万桶/日，前值29.7万桶/日。",
@@ -410,7 +498,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
         },
@@ -424,6 +512,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
+        },
+        {
+          "title": "商务部新闻发言人就对美国联邦通信委员会、美国土安全部系列涉华消极措施实施反制答记者问",
+          "url": "https://wallstreetcn.com/livenews/3145265",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "美国国务院：最新一轮由美国促成的以色列与黎巴嫩会谈今日在罗马开始，并将持续至8月6日。",
@@ -470,6 +569,28 @@
           "time_info": "05时12分"
         },
         {
+          "title": "商务部：对美国合规性测试公司采取反制措施的决定",
+          "url": "https://wallstreetcn.com/livenews/3145263",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
+          "title": "瓜子水饺究竟威胁了美国什么",
+          "url": "https://www.toutiao.com/trending/7669678969629638697/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
           "title": "美国能源部长Wright：未来几周燃料价格应会下降。 《琼斯法案》豁免延期可能性较大，该举措已使加州及美国东海岸能源价格有所下降。",
           "url": "https://wallstreetcn.com/livenews/3144946",
           "source": "华尔街见闻-快讯",
@@ -479,6 +600,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
+        },
+        {
+          "title": "美国电信股在盘前交易中下跌，因SpaceX(SPCX.O)透露其计划建立全面的移动服务。",
+          "url": "https://flash.jin10.com/detail/20260805161208686800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
+          "title": "商务部：对应用DNA科学公司等6家美国实体采取反制措施",
+          "url": "https://wallstreetcn.com/livenews/3145257",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "据路透社：消息人士称，美国白宫预计将在未来几天延长《琼斯法案》豁免期限。",
@@ -501,6 +644,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时22分"
+        },
+        {
+          "title": "商务部：加强无人机相关两用物项对美国出口管制",
+          "url": "https://wallstreetcn.com/livenews/3145256",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "标普道琼斯指数：推出标普美国投资级抵押贷款债务凭证（CLO）指数。新的指数系列将为市场参与者提供基准框架，覆盖信贷市场中增长最快的领域之一。",
@@ -536,6 +690,17 @@
           "time_info": "10时22分"
         },
         {
+          "title": "美国铜库存或创百年新高",
+          "url": "https://www.toutiao.com/trending/7670109900726485033/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
           "title": "美国堪萨斯城联储主席施密德：科技投资中的杠杆水平值得讨论。",
           "url": "https://wallstreetcn.com/livenews/3145032",
           "source": "华尔街见闻-快讯",
@@ -558,6 +723,17 @@
           "time_info": "05时12分"
         },
         {
+          "title": "商务部新闻发言人就对美国联邦通信委员会、美国土安全部系列涉华消极措施实施反制答记者问",
+          "url": "https://flash.jin10.com/detail/20260805160747673800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
           "title": "标普500指数收涨136.02点，涨幅1.79%，报7736.52点，突破6月2日所创收盘历史最高位7609.78点。 道琼斯工业平均指数收涨907.47点，涨幅1.71%，报54085.88点，连续两个交易日创收盘历史新高。 纳斯达克综合指数（纳指）收涨671.097点，涨幅2.59%，报26584.993点。 纳斯达克100指数收涨956.357点，涨幅3.32%，报29733.161点点。 纳斯达克科技市值加权指数收涨3.71%，报2993.5398点。 费城半导体指数收涨748.911点，涨幅6.55%，报12179.263点。 费城证交所KBW银行指数收涨1.33%，报191.39点。 道琼斯KBW地区银行指数收涨0.84%，报150.30点。 罗素2000指数收涨1.85%，报3036.975点，突破6月30日所创收盘历史最高位3024.367点。 纳斯达克生物科技指数收涨2.29%，报6578.45点。 标普中盘股400指数收涨1.79%，报3868.41点，创收盘历史新高。 纳斯达克美国中等市值指数涨2.08%，报3886.6575点。 恐慌指数VIX收涨4.04%，报16.50。",
           "url": "https://wallstreetcn.com/livenews/3144931",
           "source": "华尔街见闻-快讯",
@@ -567,12 +743,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
+        },
+        {
+          "title": "微软将在美国华盛顿州雷德蒙德园区裁员605人，裁员自2026年9月4日起生效。",
+          "url": "https://wallstreetcn.com/livenews/3145240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "美财长透露与伊朗达成协议的时间",
@@ -597,6 +784,17 @@
           "time_info": "[01时47分 ~ 10时22分]"
         },
         {
+          "title": "私下谈判态度软化？伊朗考虑让欧洲清除霍尔木兹水雷",
+          "url": "https://news.ifeng.com/c/8vKnanF6ECv",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时45分 ~ 16时33分]"
+        },
+        {
           "title": "伊朗：乌克兰道歉了",
           "url": "https://www.douyin.com/hot/2596757",
           "source": "抖音",
@@ -610,15 +808,15 @@
           "time_info": "[01时47分 ~ 10时22分]"
         },
         {
-          "title": "私下谈判态度软化？伊朗考虑让欧洲清除霍尔木兹水雷",
-          "url": "https://news.ifeng.com/c/8vKnanF6ECv",
+          "title": "美财长透露与伊朗达成协议时间",
+          "url": "https://news.ifeng.com/c/8vKxCYCwO7C",
           "source": "凤凰网",
           "ranks": [
-            1
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时45分 ~ 16时33分]"
         },
         {
           "title": "霍尔木兹复航现曙光？美伊官员称伊朗与阿曼接近达成协议",
@@ -632,17 +830,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时47分 ~ 07时02分]"
-        },
-        {
-          "title": "美财长透露与伊朗达成协议时间",
-          "url": "https://news.ifeng.com/c/8vKxCYCwO7C",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时45分"
         },
         {
           "title": "伊朗：与阿曼就霍尔木兹海峡谈判取得“积极进展”",
@@ -736,6 +923,17 @@
           "time_info": "07时02分"
         },
         {
+          "title": "伊朗：若美方继续干预 霍尔木兹海峡协议就无法达成",
+          "url": "https://wallstreetcn.com/livenews/3145264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
           "title": "据伊朗法尔斯通讯社：仍然担心美国或某些地区方的阻挠行为可能会延长或干扰谈判进程。",
           "url": "https://flash.jin10.com/detail/20260805022308055800",
           "source": "金十数据",
@@ -793,8 +991,191 @@
       ]
     },
     {
+      "keyword_group": "印度",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "流亡前总理哈西娜将在印度发表视频讲话？孟加拉国回应",
+          "url": "https://news.ifeng.com/c/8vJs3MQSvYe",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时47分 ~ 10时22分]"
+        },
+        {
+          "title": "印度侨民集体向大使馆诉苦",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356790&amp;topic_name=%E5%8D%B0%E5%BA%A6%E4%BE%A8%E6%B0%91%E9%9B%86%E4%BD%93%E5%90%91%E5%A4%A7%E4%BD%BF%E9%A6%86%E8%AF%89%E8%8B%A6",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
+          "title": "一悬挂印度旗帜的货船在红海遭袭后沉没，印方发声",
+          "url": "https://news.ifeng.com/c/8vKtWLpL2a1",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时45分 ~ 16时33分]"
+        },
+        {
+          "title": "印度7月服务业PMI终值 53.3，初值 53.1。",
+          "url": "https://wallstreetcn.com/livenews/3145163",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时45分"
+        },
+        {
+          "title": "印度7月综合PMI终值 54.3，初值 54.3。",
+          "url": "https://wallstreetcn.com/livenews/3145162",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时45分"
+        },
+        {
+          "title": "印度央行：预计印度第二季度GDP增长率为6.4%，第三季度为6.5%，第四季度为6.8%。 预计印度第二季度通胀为4.7%，第三季度为5.9%，第四季度为5.5%。 预计印度2027财年GDP增长为6.7%。 预计印度2027财年通胀将下降至5.0%，核心通胀为4.3%。",
+          "url": "https://wallstreetcn.com/livenews/3145159",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时45分"
+        },
+        {
+          "title": "印度新机场刚落成就变“游乐场”",
+          "url": "https://www.toutiao.com/trending/7669666043934277674/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "印度7月服务业PMI终值 53.3，预期54.5，前值53.1。",
+          "url": "https://flash.jin10.com/detail/20260805130004285800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时45分"
+        },
+        {
+          "title": "印度10年期国债涨幅扩大，收益率下行5个基点至6.77%。",
+          "url": "https://wallstreetcn.com/livenews/3145157",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时45分"
+        },
+        {
+          "title": "印度央行：维持中性政策立场。 整体通胀率如预期小幅上行至目标以上。 通胀上升主要归因于燃料和食品。 第一季度实际通胀率低于预测量。 成本压力的传导有限，价格压力普遍化的迹象微弱。 核心通胀继续保持温和。 整体通胀近期将上升，并在第三季度见顶。 经济增长具有韧性，但预计将有所放缓。 受季风和厄尔尼诺现象影响，经济增长前景尚不明确。 经济增长前景取决于季风、厄尔尼诺现象以及全球贸易。",
+          "url": "https://wallstreetcn.com/livenews/3145156",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时45分"
+        },
+        {
+          "title": "印度7月综合PMI终值 54.3，前值54.3。",
+          "url": "https://flash.jin10.com/detail/20260805130004052800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时45分"
+        },
+        {
+          "title": "印度央行维持基准利率在5.25%不变，符合预期，所有6位委员一致投票同意维持利率不变。",
+          "url": "https://wallstreetcn.com/livenews/3145155",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时45分"
+        },
+        {
+          "title": "印度央行回购利率 5.25%，预期 5.25%，前值 5.25%。",
+          "url": "https://wallstreetcn.com/livenews/3145154",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时45分"
+        },
+        {
+          "title": "印度航运部长：所有14名海员（包括13名印度籍人员）已被也门海岸警卫队安全救出，并被送往穆哈港。",
+          "url": "https://flash.jin10.com/detail/20260805004945922800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时48分"
+        },
+        {
+          "title": "印度航运部长：印度籍MSV Faize Noore Oliya号船在也门水域附近遭到射弹击中，船只倾覆并沉没。",
+          "url": "https://flash.jin10.com/detail/20260805004919907800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时48分"
+        },
+        {
+          "title": "印度乘客打车不付钱只给感谢",
+          "url": "https://s.weibo.com/weibo?q=%E5%8D%B0%E5%BA%A6%E4%B9%98%E5%AE%A2%E6%89%93%E8%BD%A6%E4%B8%8D%E4%BB%98%E9%92%B1%E5%8F%AA%E7%BB%99%E6%84%9F%E8%B0%A2&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美股8月开门红，道指新高，亚马逊市值首破三万亿，阿里涨超4%，原油重挫",
@@ -875,8 +1256,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时22分 ~ 13时45分]"
+          "appearance_count": 3,
+          "time_info": "[10时22分 ~ 16时33分]"
         },
         {
           "title": "标普500指数涨超2%，美股费城半导体指数涨幅扩大至7.15%。英伟达股价上涨2.49%，博通股价上涨7.49%，超威半导体股价上涨9.08%，阿斯麦ADR上涨3.63%，英特尔股价上涨10.87%。 道指涨1090点，涨幅2.05%。",
@@ -923,6 +1304,17 @@
           "time_info": "10时22分"
         },
         {
+          "title": "美股盘前，SpaceX下跌7%，公司营收增92%大超预期，资本支出激增；AMD跌超7%，Q2营收、利润均超预期，Q3指引未满足激进投资者预期。",
+          "url": "https://wallstreetcn.com/livenews/3145253",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
           "title": "金融博客零对冲此前发贴表示：“SpaceX财报前出现大规模卖空：可借出的SpaceX股票中有95%已被借出，占流通股比例的空头仓位达到34%。”马斯克回复该帖称：“我试图提醒他们，但他们只是进一步加码押注。”（SpaceX(SPCX.O)将于今日美股盘后公布Q2业绩）",
           "url": "https://flash.jin10.com/detail/20260805015406320800",
           "source": "金十数据",
@@ -958,169 +1350,183 @@
       ]
     },
     {
-      "keyword_group": "印度",
-      "match_count": 14,
+      "keyword_group": "日本",
+      "match_count": 15,
       "titles": [
         {
-          "title": "流亡前总理哈西娜将在印度发表视频讲话？孟加拉国回应",
-          "url": "https://news.ifeng.com/c/8vJs3MQSvYe",
+          "title": "AI做题吊打日本名校状元",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356770&amp;topic_name=AI%E5%81%9A%E9%A2%98%E5%90%8A%E6%89%93%E6%97%A5%E6%9C%AC%E5%90%8D%E6%A0%A1%E7%8A%B6%E5%85%83",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时47分 ~ 16时33分]"
+        },
+        {
+          "title": "国防部回应日本新版《防卫白皮书》：炒作所谓“中国威胁”，完全是贼喊捉贼",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33715601",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时11分 ~ 16时33分]"
+        },
+        {
+          "title": "挑衅中国同天示好日本右翼，“菲政府反华绝非少数政客作为”",
+          "url": "https://news.ifeng.com/c/8vJTuJ7fHSL",
           "source": "凤凰网",
           "ranks": [
-            6,
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时47分 ~ 10时22分]"
+          "appearance_count": 6,
+          "time_info": "[01时47分 ~ 07时02分]"
         },
         {
-          "title": "一悬挂印度旗帜的货船在红海遭袭后沉没，印方发声",
-          "url": "https://news.ifeng.com/c/8vKtWLpL2a1",
-          "source": "凤凰网",
+          "title": "日本仙人到底是匠心还是营销",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E4%BB%99%E4%BA%BA%E5%88%B0%E5%BA%95%E6%98%AF%E5%8C%A0%E5%BF%83%E8%BF%98%E6%98%AF%E8%90%A5%E9%94%80",
+          "source": "bilibili 热搜",
           "ranks": [
-            12
+            3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
         },
         {
-          "title": "印度7月服务业PMI终值 53.3，初值 53.1。",
-          "url": "https://wallstreetcn.com/livenews/3145163",
+          "title": "日本财务大臣片山皋月：特别外汇账户的盈余已被使用。",
+          "url": "https://flash.jin10.com/detail/20260805162307506800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：将向市场全面解释我们的财政政策。",
+          "url": "https://flash.jin10.com/detail/20260805162254014800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：将审查预算支出和收入，以确保资金填补税收短缺。",
+          "url": "https://flash.jin10.com/detail/20260805162125343800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：不会依靠新增发债来填补税收缺口。 将检视支出和收入项目，以筹措资金弥补税收缺口。",
+          "url": "https://wallstreetcn.com/livenews/3145275",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：不会依赖新债务发行来填补税收收入短缺。",
+          "url": "https://flash.jin10.com/detail/20260805162001882800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
+          "title": "日本将中国视为最大挑战说明什么",
+          "url": "https://www.toutiao.com/trending/7670312344873881115/",
+          "source": "今日头条",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时45分"
+          "time_info": "10时22分"
         },
         {
-          "title": "印度7月综合PMI终值 54.3，初值 54.3。",
-          "url": "https://wallstreetcn.com/livenews/3145162",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时45分"
-        },
-        {
-          "title": "印度央行：预计印度第二季度GDP增长率为6.4%，第三季度为6.5%，第四季度为6.8%。 预计印度第二季度通胀为4.7%，第三季度为5.9%，第四季度为5.5%。 预计印度2027财年GDP增长为6.7%。 预计印度2027财年通胀将下降至5.0%，核心通胀为4.3%。",
-          "url": "https://wallstreetcn.com/livenews/3145159",
-          "source": "华尔街见闻-快讯",
+          "title": "朝鲜：将根据日本动态制定军事选项",
+          "url": "https://www.toutiao.com/trending/7669566344827928630/",
+          "source": "今日头条",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
         },
         {
-          "title": "印度新机场刚落成就变“游乐场”",
-          "url": "https://www.toutiao.com/trending/7669666043934277674/",
+          "title": "日本两次要求美方删帖遭拒",
+          "url": "https://www.toutiao.com/trending/7670016961259094070/",
           "source": "今日头条",
           "ranks": [
-            19
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
         {
-          "title": "印度7月服务业PMI终值 53.3，预期54.5，前值53.1。",
-          "url": "https://flash.jin10.com/detail/20260805130004285800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时45分"
-        },
-        {
-          "title": "印度10年期国债涨幅扩大，收益率下行5个基点至6.77%。",
-          "url": "https://wallstreetcn.com/livenews/3145157",
+          "title": "日本7月服务业PMI终值 51.2，初值 51.9。",
+          "url": "https://wallstreetcn.com/livenews/3145027",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时45分"
-        },
-        {
-          "title": "印度央行：维持中性政策立场。 整体通胀率如预期小幅上行至目标以上。 通胀上升主要归因于燃料和食品。 第一季度实际通胀率低于预测量。 成本压力的传导有限，价格压力普遍化的迹象微弱。 核心通胀继续保持温和。 整体通胀近期将上升，并在第三季度见顶。 经济增长具有韧性，但预计将有所放缓。 受季风和厄尔尼诺现象影响，经济增长前景尚不明确。 经济增长前景取决于季风、厄尔尼诺现象以及全球贸易。",
-          "url": "https://wallstreetcn.com/livenews/3145156",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时45分"
-        },
-        {
-          "title": "印度7月综合PMI终值 54.3，前值54.3。",
-          "url": "https://flash.jin10.com/detail/20260805130004052800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时45分"
-        },
-        {
-          "title": "印度央行维持基准利率在5.25%不变，符合预期，所有6位委员一致投票同意维持利率不变。",
-          "url": "https://wallstreetcn.com/livenews/3145155",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时45分"
-        },
-        {
-          "title": "印度央行回购利率 5.25%，预期 5.25%，前值 5.25%。",
-          "url": "https://wallstreetcn.com/livenews/3145154",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时45分"
-        },
-        {
-          "title": "印度航运部长：所有14名海员（包括13名印度籍人员）已被也门海岸警卫队安全救出，并被送往穆哈港。",
-          "url": "https://flash.jin10.com/detail/20260805004945922800",
-          "source": "金十数据",
-          "ranks": [
-            23
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时48分"
+          "time_info": "10时22分"
         },
         {
-          "title": "印度航运部长：印度籍MSV Faize Noore Oliya号船在也门水域附近遭到射弹击中，船只倾覆并沉没。",
-          "url": "https://flash.jin10.com/detail/20260805004919907800",
-          "source": "金十数据",
+          "title": "日本7月综合PMI终值 52.7，初值 53.1。",
+          "url": "https://wallstreetcn.com/livenews/3145026",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时48分"
+          "time_info": "10时22分"
+        },
+        {
+          "title": "评论员谈日本拒收千纸鹤",
+          "url": "https://www.toutiao.com/trending/7670181239822749227/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时29分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "释新闻｜特朗普再次叫停袭击背后：伊朗“有选择地扩大冲突”如何捆住美国手脚",
@@ -1141,9 +1547,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时45分 ~ 16时33分]"
         },
         {
           "title": "伊朗否认启动与美国谈判，伊媒：这是特朗普第十次在对德黑兰的“决定性”军事威胁面前退缩",
@@ -1201,6 +1607,17 @@
           "time_info": "07时02分"
         },
         {
+          "title": "伊朗议员细数特朗普言辞 批其谈判立场“矛盾且不可靠”",
+          "url": "https://flash.jin10.com/detail/20260805161449690800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
           "title": "卡塔尔埃米尔与特朗普就美伊局势通话 呼吁继续对话",
           "url": "https://wallstreetcn.com/livenews/3144972",
           "source": "华尔街见闻-快讯",
@@ -1247,127 +1664,8 @@
       ]
     },
     {
-      "keyword_group": "日本",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "AI做题吊打日本名校状元",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356770&amp;topic_name=AI%E5%81%9A%E9%A2%98%E5%90%8A%E6%89%93%E6%97%A5%E6%9C%AC%E5%90%8D%E6%A0%A1%E7%8A%B6%E5%85%83",
-          "source": "贴吧",
-          "ranks": [
-            9,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时47分 ~ 13时45分]"
-        },
-        {
-          "title": "挑衅中国同天示好日本右翼，“菲政府反华绝非少数政客作为”",
-          "url": "https://news.ifeng.com/c/8vJTuJ7fHSL",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时47分 ~ 07时02分]"
-        },
-        {
-          "title": "国防部回应日本新版《防卫白皮书》：炒作所谓“中国威胁”，完全是贼喊捉贼",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33715601",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时11分 ~ 13时45分]"
-        },
-        {
-          "title": "日本仙人到底是匠心还是营销",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E4%BB%99%E4%BA%BA%E5%88%B0%E5%BA%95%E6%98%AF%E5%8C%A0%E5%BF%83%E8%BF%98%E6%98%AF%E8%90%A5%E9%94%80",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时45分"
-        },
-        {
-          "title": "日本将中国视为最大挑战说明什么",
-          "url": "https://www.toutiao.com/trending/7670312344873881115/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时22分"
-        },
-        {
-          "title": "朝鲜：将根据日本动态制定军事选项",
-          "url": "https://www.toutiao.com/trending/7669566344827928630/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时45分"
-        },
-        {
-          "title": "日本两次要求美方删帖遭拒",
-          "url": "https://www.toutiao.com/trending/7670016961259094070/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时02分"
-        },
-        {
-          "title": "日本7月服务业PMI终值 51.2，初值 51.9。",
-          "url": "https://wallstreetcn.com/livenews/3145027",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时22分"
-        },
-        {
-          "title": "日本7月综合PMI终值 52.7，初值 53.1。",
-          "url": "https://wallstreetcn.com/livenews/3145026",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时22分"
-        },
-        {
-          "title": "评论员谈日本拒收千纸鹤",
-          "url": "https://www.toutiao.com/trending/7670181239822749227/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时29分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "疑似梁文锋早期微博被扒",
@@ -1434,9 +1732,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
+        },
+        {
+          "title": "DeepSeek价格是有点过分了",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E4%BB%B7%E6%A0%BC%E6%98%AF%E6%9C%89%E7%82%B9%E8%BF%87%E5%88%86%E4%BA%86&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         }
       ]
     },
@@ -1473,9 +1782,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时45分 ~ 16时33分]"
         },
         {
           "title": "英国机构报告AI安全事件 涉Anthropic和OpenAI模型",
@@ -1514,7 +1823,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "罕见干预操作！贝森特抛欧元、指示美联储“借钱”，让日本“别抛美债”，市场担心“套利交易逆转”",
@@ -1533,11 +1842,23 @@
           "source": "知乎",
           "ranks": [
             16,
-            11
+            11,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时22分 ~ 13时45分]"
+          "appearance_count": 3,
+          "time_info": "[10时22分 ~ 16时33分]"
+        },
+        {
+          "title": "救日元为何抛欧元？这场反常的干预，撕开了美债的“遮羞布”",
+          "url": "https://flash.jin10.com/detail/20260805161917324800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         }
       ]
     },
