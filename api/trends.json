@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-06T11:18:37.435300+08:00",
-  "total_titles_processed": 836,
+  "generated_at": "2026-08-06T14:29:01.077199+08:00",
+  "total_titles_processed": 1015,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国",
-      "match_count": 47,
+      "match_count": 49,
       "titles": [
         {
           "title": "美国拟禁止进口中国产新型光收发模块，外交部回应",
@@ -24,11 +24,26 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时41分 ~ 11时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 14时29分]"
+        },
+        {
+          "title": "“小非农”不及预期！美国7月ADP就业仅增4.4万人，创年内最低，周五非农数据成关键",
+          "url": "https://wallstreetcn.com/articles/3778760",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 14时29分]"
         },
         {
           "title": "中方对6家美国实体采取反制措施",
@@ -44,6 +59,20 @@
           "time_info": "[00时41分 ~ 11时18分]"
         },
         {
+          "title": "士兵怕嗑牙,美国制裁洽洽瓜子",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356797&amp;topic_name=%E5%A3%AB%E5%85%B5%E6%80%95%E5%97%91%E7%89%99%2C%E7%BE%8E%E5%9B%BD%E5%88%B6%E8%A3%81%E6%B4%BD%E6%B4%BD%E7%93%9C%E5%AD%90",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            9,
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 14时29分]"
+        },
+        {
           "title": "美国拉“新群”，阿根廷、巴拿马等17国加入",
           "url": "https://news.ifeng.com/c/8vLJc9qv8cn",
           "source": "凤凰网",
@@ -54,20 +83,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时41分 ~ 07时59分]"
-        },
-        {
-          "title": "“小非农”不及预期！美国7月ADP就业仅增4.4万人，创年内最低，周五非农数据成关键",
-          "url": "https://wallstreetcn.com/articles/3778760",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时41分 ~ 11时18分]"
         },
         {
           "title": "美国 7 月囤 20 万吨精炼铜，美国为啥热衷抢铜？会对全球产业链产生什么影响？",
@@ -98,17 +113,19 @@
           "time_info": "[00时41分 ~ 11时18分]"
         },
         {
-          "title": "士兵怕嗑牙,美国制裁洽洽瓜子",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356797&amp;topic_name=%E5%A3%AB%E5%85%B5%E6%80%95%E5%97%91%E7%89%99%2C%E7%BE%8E%E5%9B%BD%E5%88%B6%E8%A3%81%E6%B4%BD%E6%B4%BD%E7%93%9C%E5%AD%90",
-          "source": "贴吧",
+          "title": "小鹿美国往事纽约篇更新",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E9%B9%BF%E7%BE%8E%E5%9B%BD%E5%BE%80%E4%BA%8B%E7%BA%BD%E7%BA%A6%E7%AF%87%E6%9B%B4%E6%96%B0",
+          "source": "bilibili 热搜",
           "ranks": [
-            8,
-            9,
-            13
+            23,
+            10,
+            27,
+            22,
+            14
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时41分 ~ 11时18分]"
+          "time_info": "[00时41分 ~ 14时29分]"
         },
         {
           "title": "美国副总统万斯：以色列是伟大的伙伴，和其他盟友一样，我们有时会有不同立场。我的职责是追求美国的利益，我们与以色列沟通以实现共同目标。",
@@ -120,6 +137,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
+        },
+        {
+          "title": "一个中国新税号引发美国大焦虑",
+          "url": "https://news.ifeng.com/c/8vLlrf9pAIA",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时59分 ~ 14时29分]"
         },
         {
           "title": "美国副总统万斯：上次会晤期间并未与内塔尼亚胡发生冲突，而是进行了良好而坦诚的讨论。",
@@ -160,18 +190,6 @@
           "time_info": "[00时41分 ~ 07时59分]"
         },
         {
-          "title": "一个中国新税号引发美国大焦虑",
-          "url": "https://news.ifeng.com/c/8vLlrf9pAIA",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时59分 ~ 11时18分]"
-        },
-        {
           "title": "多国运回存在美国的黄金",
           "url": "https://www.toutiao.com/trending/7670495093538688550/",
           "source": "今日头条",
@@ -199,20 +217,6 @@
           "time_info": "[00时41分 ~ 07时59分]"
         },
         {
-          "title": "小鹿美国往事纽约篇更新",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E9%B9%BF%E7%BE%8E%E5%9B%BD%E5%BE%80%E4%BA%8B%E7%BA%BD%E7%BA%A6%E7%AF%87%E6%9B%B4%E6%96%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23,
-            10,
-            27,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 07时59分]"
-        },
-        {
           "title": "商务部：加强无人机相关两用物项对美国出口管制",
           "url": "https://www.cls.cn/detail/2446316",
           "source": "财联社热门",
@@ -223,6 +227,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时41分 ~ 06时13分]"
+        },
+        {
+          "title": "美国退回1000亿美元关税",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E9%80%80%E5%9B%9E1000%E4%BA%BF%E7%BE%8E%E5%85%83%E5%85%B3%E7%A8%8E",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时18分 ~ 14时29分]"
         },
         {
           "title": "美国禁止进口中国机器人",
@@ -236,6 +252,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时26分 ~ 07时59分]"
+        },
+        {
+          "title": "美国制裁中国的帮凶，挨了一记重拳",
+          "url": "https://news.ifeng.com/c/8vMT6dukGXH",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时18分 ~ 14时29分]"
+        },
+        {
+          "title": "抽象,美国234亿造懂王战列舰",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356816&amp;topic_name=%E6%8A%BD%E8%B1%A1%2C%E7%BE%8E%E5%9B%BD234%E4%BA%BF%E9%80%A0%E6%87%82%E7%8E%8B%E6%88%98%E5%88%97%E8%88%B0",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时18分 ~ 14时29分]"
         },
         {
           "title": "美国为何要制裁洽洽瓜子",
@@ -287,6 +327,17 @@
           "time_info": "[00时41分 ~ 02时21分]"
         },
         {
+          "title": "中方宣布对 FCC 、美国土安全部涉华消极措施实施反制，7 家美国实体被列入反制清单，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2068370541296328814",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时28分 ~ 14时29分]"
+        },
+        {
           "title": "美国海关已退回约1000亿美元关税",
           "url": "https://www.toutiao.com/trending/7669677245342056499/",
           "source": "今日头条",
@@ -311,39 +362,6 @@
           "time_info": "[02时21分 ~ 06时13分]"
         },
         {
-          "title": "美国退回1000亿美元关税",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E9%80%80%E5%9B%9E1000%E4%BA%BF%E7%BE%8E%E5%85%83%E5%85%B3%E7%A8%8E",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时18分"
-        },
-        {
-          "title": "美国制裁中国的帮凶，挨了一记重拳",
-          "url": "https://news.ifeng.com/c/8vMT6dukGXH",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时18分"
-        },
-        {
-          "title": "抽象,美国234亿造懂王战列舰",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356816&amp;topic_name=%E6%8A%BD%E8%B1%A1%2C%E7%BE%8E%E5%9B%BD234%E4%BA%BF%E9%80%A0%E6%87%82%E7%8E%8B%E6%88%98%E5%88%97%E8%88%B0",
-          "source": "贴吧",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时18分"
-        },
-        {
           "title": "美国证券交易委员会（SEC）：正在执法部内设立一个新的专门机构，旨在提供专门的专业知识、专注度和能力，以调查处理会计和财务报告欺诈案件，以及会计和审计领域的一般不当行为。",
           "url": "https://flash.jin10.com/detail/20260806033015556800",
           "source": "金十数据",
@@ -361,7 +379,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时18分"
         },
@@ -388,13 +406,24 @@
           "time_info": "04时26分"
         },
         {
+          "title": "日本最大电力公司Japex将以3.2亿美元收购美国石油天然气公司Fundare。",
+          "url": "https://wallstreetcn.com/livenews/3145832",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        },
+        {
           "title": "一包瓜子 怎么就上美国制裁清单了",
           "url": "https://www.baidu.com/s?wd=%E4%B8%80%E5%8C%85%E7%93%9C%E5%AD%90+%E6%80%8E%E4%B9%88%E5%B0%B1%E4%B8%8A%E7%BE%8E%E5%9B%BD%E5%88%B6%E8%A3%81%E6%B8%85%E5%8D%95%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时18分"
         },
@@ -537,7 +566,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时18分"
         },
@@ -559,7 +588,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时18分"
         }
@@ -567,7 +596,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 38,
+      "match_count": 41,
       "titles": [
         {
           "title": "伊朗的最后一张牌",
@@ -579,6 +608,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时41分 ~ 06时13分]"
+        },
+        {
+          "title": "伊朗总统：最高领袖决策过程遭人利用",
+          "url": "https://news.ifeng.com/c/8vMnd0UIy30",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时28分 ~ 14时29分]"
         },
         {
           "title": "美国副总统万斯：伊朗政权内部有人希望结束战争，也有极端分子希望战争持续下去。",
@@ -625,6 +665,18 @@
           "time_info": "02时21分"
         },
         {
+          "title": "伊朗称与阿曼接近达成协议，海峡现有两条航道将关闭，“收费标准”仍是核心分歧",
+          "url": "https://wallstreetcn.com/articles/3778783",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时18分 ~ 14时29分]"
+        },
+        {
           "title": "伊朗与阿曼会谈最新细节曝光",
           "url": "https://news.ifeng.com/c/8vM5VvMgc8P",
           "source": "凤凰网",
@@ -635,17 +687,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时59分 ~ 11时18分]"
-        },
-        {
-          "title": "伊朗称与阿曼接近达成协议，海峡现有两条航道将关闭，“收费标准”仍是核心分歧",
-          "url": "https://wallstreetcn.com/articles/3778783",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时18分"
         },
         {
           "title": "据伊朗法尔斯通讯社：伊朗谈判团队消息人士表示，与一些猜测和媒体宣传相反，美国财政部取消少数伊朗制裁措施一事，是与伊拉克政府和华盛顿之间的互动有关，与伊朗和美国之间的谅解备忘录无关。（注：美国财政部此前解除对巴格达航空相关制裁，巴格达航空因被指与伊朗伊斯兰革命卫队“圣城旅”有关联而受到制裁。）",
@@ -956,6 +997,28 @@
           "time_info": "02时21分"
         },
         {
+          "title": "伊朗副外长：霍尔木兹海峡协议接近收尾，伊美尚未谈判",
+          "url": "https://wallstreetcn.com/livenews/3145818",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        },
+        {
+          "title": "伊朗总统：目前与最高领袖联络困难 其决策过程遭人利用",
+          "url": "https://wallstreetcn.com/livenews/3145817",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        },
+        {
           "title": "伊朗称和阿曼就霍尔木兹海峡拟定航道坐标达成一致",
           "url": "https://wallstreetcn.com/livenews/3145479",
           "source": "华尔街见闻-快讯",
@@ -973,7 +1036,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时18分"
         },
@@ -992,7 +1055,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "特朗普污蔑：中国背后捣鬼",
@@ -1002,30 +1065,43 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时59分 ~ 11时18分]"
+          "appearance_count": 4,
+          "time_info": "[07时59分 ~ 14时29分]"
         },
         {
           "title": "特朗普所乘飞机遭遇安全事件，美方启动调查",
           "url": "https://news.ifeng.com/c/8vLgY5mFkV5",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时59分 ~ 11时18分]"
+          "appearance_count": 4,
+          "time_info": "[07时59分 ~ 14时29分]"
         },
         {
           "title": "特朗普称即将达成霍尔木兹海峡协议，伊朗获更大控制权？",
           "url": "https://news.ifeng.com/c/8vLi13wh4eq",
           "source": "凤凰网",
           "ranks": [
-            3
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时59分 ~ 14时29分]"
+        },
+        {
+          "title": "涉台问题，特朗普的教训还没吃够",
+          "url": "https://news.ifeng.com/c/8vMhTGcR9DP",
+          "source": "凤凰网",
+          "ranks": [
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时59分 ~ 11时18分]"
+          "time_info": "[14时28分 ~ 14时29分]"
         },
         {
           "title": "美国总统特朗普谈及叫停加州的电动汽车强制令，声称：我们都爱马斯克。",
@@ -1132,6 +1208,29 @@
           "time_info": "[00时41分 ~ 06时13分]"
         },
         {
+          "title": "特朗普“一厢情愿”？伊朗：与阿曼就霍尔木兹航线接近达成协议！",
+          "url": "https://www.cls.cn/detail/2446884",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时18分 ~ 14时29分]"
+        },
+        {
+          "title": "专家：涉台问题特朗普教训还没吃够",
+          "url": "https://www.toutiao.com/trending/7670027623545110570/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时28分 ~ 14时29分]"
+        },
+        {
           "title": "美国总统特朗普：我们正在与伊朗进行对话，将看看会发生什么。",
           "url": "https://flash.jin10.com/detail/20260806054724205800",
           "source": "金十数据",
@@ -1182,7 +1281,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时18分"
         },
@@ -1193,18 +1292,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时18分"
-        },
-        {
-          "title": "特朗普“一厢情愿”？伊朗：与阿曼就霍尔木兹航线接近达成协议！",
-          "url": "https://www.cls.cn/detail/2446884",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时18分"
         },
@@ -1245,7 +1333,7 @@
     },
     {
       "keyword_group": "日本",
-      "match_count": 19,
+      "match_count": 24,
       "titles": [
         {
           "title": "外交部回应日本将中国列为最大挑战",
@@ -1266,11 +1354,23 @@
           "ranks": [
             7,
             8,
-            12
+            12,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时41分 ~ 11时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 14时29分]"
+        },
+        {
+          "title": "直播自杀日本女网红已身亡",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%9B%B4%E6%92%AD%E8%87%AA%E6%9D%80%E6%97%A5%E6%9C%AC%E5%A5%B3%E7%BD%91%E7%BA%A2%E5%B7%B2%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时28分 ~ 14时29分]"
         },
         {
           "title": "日本7月31日当周外资净买进日本股票 -3925亿日元，前值 9121亿日元。",
@@ -1322,11 +1422,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356813&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%A5%B3%E6%BC%94%E5%91%98%E6%8D%90%E6%AC%BE%E5%8F%8D%E8%A2%AB%E5%98%B2%E8%84%8F%E9%92%B1",
           "source": "贴吧",
           "ranks": [
-            3
+            3,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时18分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时18分 ~ 14时29分]"
         },
         {
           "title": "新华社评日本防卫白皮书",
@@ -1335,7 +1436,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时18分"
         },
@@ -1349,6 +1450,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
+        },
+        {
+          "title": "日本食品消费税临时下调，高市承诺两年后回归原税率",
+          "url": "https://flash.jin10.com/detail/20260806141623025800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
         },
         {
           "title": "持刀强闯中使馆的日本自卫官出庭，没向中国道歉",
@@ -1401,6 +1513,17 @@
           "time_info": "[00时41分 ~ 06时13分]"
         },
         {
+          "title": "日本籍女网红在韩直播时自杀身亡",
+          "url": "https://www.toutiao.com/trending/7670081701817073705/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时28分 ~ 14时29分]"
+        },
+        {
           "title": "日本女网红在韩国直播时自杀身亡",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A5%B3%E7%BD%91%E7%BA%A2%E5%9C%A8%E9%9F%A9%E5%9B%BD%E7%9B%B4%E6%92%AD%E6%97%B6%E8%87%AA%E6%9D%80%E8%BA%AB%E4%BA%A1",
           "source": "百度热搜",
@@ -1411,6 +1534,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时59分 ~ 11时18分]"
+        },
+        {
+          "title": "以色列加速与日本合作有何目的",
+          "url": "https://www.toutiao.com/trending/7670786368976457259/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时28分 ~ 14时29分]"
         },
         {
           "title": "日本至7月31日当周外资买进日债 5589亿日元，前值-15139亿日元。",
@@ -1446,6 +1580,17 @@
           "time_info": "07时59分"
         },
         {
+          "title": "日本20年期国债收益率下行5个基点至3.64%。",
+          "url": "https://wallstreetcn.com/livenews/3145845",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        },
+        {
           "title": "日本至7月31日当周买进外国债券 4779亿日元，前值由-8114亿日元修正为-8101亿日元。",
           "url": "https://flash.jin10.com/detail/20260806075002872800",
           "source": "金十数据",
@@ -1463,7 +1608,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时18分"
         }
@@ -1471,7 +1616,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "美伊谈判悬而未决，经济数据与AI需求驱动美股走高，SpaceX跌12%、AMD跌7%，黄金涨3%突破4200，布油涨1%",
@@ -1484,6 +1629,20 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时41分 ~ 04时26分]"
+        },
+        {
+          "title": "美股收盘：道指再创历史新高 SpaceX与AMD拖累纳指走低",
+          "url": "https://www.cls.cn/detail/2446816",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            6,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时13分 ~ 14时29分]"
         },
         {
           "title": "美股期指延续涨势 SpaceX、AMD盘前大跌 | 今夜看点",
@@ -1522,19 +1681,6 @@
           "time_info": "04时26分"
         },
         {
-          "title": "美股收盘：道指再创历史新高 SpaceX与AMD拖累纳指走低",
-          "url": "https://www.cls.cn/detail/2446816",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时13分 ~ 11时18分]"
-        },
-        {
           "title": "美股大类资产类ETF多数下跌，纳指100 ETF跌0.9%，黄金ETF涨超4.1%",
           "url": "https://wallstreetcn.com/livenews/3145597",
           "source": "华尔街见闻-快讯",
@@ -1569,6 +1715,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时26分 ~ 06时13分]"
+        },
+        {
+          "title": "码农摇身一变成FDE？美股龙头引领AI落地新模式 机构：计算机板块或迎来重估",
+          "url": "https://www.cls.cn/detail/2446947",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时28分 ~ 14时29分]"
         },
         {
           "title": "Cirrus Logics Inc.（CRUS）美股盘后跌7.1%。 该公司第一财季净销售4.597亿美元，分析师预期4.602亿美元。 预计第二财季净收入5.10亿-5.7亿美元，分析师预期5.566亿美元。",
@@ -1745,8 +1902,115 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "DeepSeek拟调高API价格",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%8B%9F%E8%B0%83%E9%AB%98API%E4%BB%B7%E6%A0%BC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时28分 ~ 14时29分]"
+        },
+        {
+          "title": "DeepSeek拟上调API服务定价",
+          "url": "https://www.douyin.com/hot/2599312",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时28分 ~ 14时29分]"
+        },
+        {
+          "title": "梁文锋会不会成为中国AI里程碑人物？",
+          "url": "https://www.zhihu.com/question/10315979917",
+          "source": "知乎",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 02时21分]"
+        },
+        {
+          "title": "DeepSeek拟上调API服务价格",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356822&amp;topic_name=DeepSeek%E6%8B%9F%E4%B8%8A%E8%B0%83API%E6%9C%8D%E5%8A%A1%E4%BB%B7%E6%A0%BC",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时28分 ~ 14时29分]"
+        },
+        {
+          "title": "如何看待 DeepSeek 8 月 6 日公告称即将大幅度涨价？",
+          "url": "https://www.zhihu.com/question/2068628771687625392",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时28分 ~ 14时29分]"
+        },
+        {
+          "title": "DeepSeek API即将大幅涨价",
+          "url": "https://www.baidu.com/s?wd=DeepSeek+API%E5%8D%B3%E5%B0%86%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时18分 ~ 14时29分]"
+        },
+        {
+          "title": "DeepSeek预告将大幅涨价 V4正式版发布进入倒计时",
+          "url": "https://www.cls.cn/detail/2447135",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时28分 ~ 14时29分]"
+        },
+        {
+          "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33728016",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时28分 ~ 14时29分]"
+        },
+        {
+          "title": "DeepSeek拟上调API服务定价，预计涨幅较大",
+          "url": "https://wallstreetcn.com/livenews/3145744",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时18分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "据微软(MSFT.O)披露的信息，OpenAI约占其人工智能销售额的70%，OpenAI在2026财年的收入达到241亿美元。",
@@ -1772,6 +2036,28 @@
           "time_info": "[00时41分 ~ 06时13分]"
         },
         {
+          "title": "法院文件显示，OpenAI向美国法官申请驳回苹果公司指控其侵犯商业秘密的诉讼。",
+          "url": "https://flash.jin10.com/detail/20260806140706295800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        },
+        {
+          "title": "OpenAI要求法官驳回苹果指控其窃取商业秘密的诉讼",
+          "url": "https://wallstreetcn.com/livenews/3145843",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        },
+        {
           "title": "亚马逊旗下AWS与Anthropic、OpenAI构建合作伙伴关系。 三方将围绕AWS Continuum工作流合作。",
           "url": "https://wallstreetcn.com/livenews/3145610",
           "source": "华尔街见闻-快讯",
@@ -1792,6 +2078,71 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "印度",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "印度侨民集体向大使馆诉苦",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356790&amp;topic_name=%E5%8D%B0%E5%BA%A6%E4%BE%A8%E6%B0%91%E9%9B%86%E4%BD%93%E5%90%91%E5%A4%A7%E4%BD%BF%E9%A6%86%E8%AF%89%E8%8B%A6",
+          "source": "贴吧",
+          "ranks": [
+            10,
+            11,
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 14时29分]"
+        },
+        {
+          "title": "印度IPO热潮降温，市场疲软迫使发行方缩减规模",
+          "url": "https://wallstreetcn.com/livenews/3145507",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 02时21分]"
+        },
+        {
+          "title": "印度 蟑螂运动",
+          "url": "https://s.weibo.com/weibo?q=%E5%8D%B0%E5%BA%A6%20%E8%9F%91%E8%9E%82%E8%BF%90%E5%8A%A8&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时28分 ~ 14时29分]"
+        },
+        {
+          "title": "假如印度翻拍熊出没",
+          "url": "https://search.bilibili.com/all?keyword=%E5%81%87%E5%A6%82%E5%8D%B0%E5%BA%A6%E7%BF%BB%E6%8B%8D%E7%86%8A%E5%87%BA%E6%B2%A1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时28分 ~ 14时29分]"
+        },
+        {
+          "title": "德国地学研究中心GFZ：将印度尼西亚哈马黑拉岛地震震级从5.8修正为5.3。",
+          "url": "https://flash.jin10.com/detail/20260806011331884800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时21分"
         }
       ]
     },
@@ -1846,46 +2197,6 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "梁文锋会不会成为中国AI里程碑人物？",
-          "url": "https://www.zhihu.com/question/10315979917",
-          "source": "知乎",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 02时21分]"
-        },
-        {
-          "title": "DeepSeek API即将大幅涨价",
-          "url": "https://www.baidu.com/s?wd=DeepSeek+API%E5%8D%B3%E5%B0%86%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时18分"
-        },
-        {
-          "title": "DeepSeek拟上调API服务定价，预计涨幅较大",
-          "url": "https://wallstreetcn.com/livenews/3145744",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时18分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
       "match_count": 3,
       "titles": [
@@ -1894,11 +2205,12 @@
           "url": "https://www.cls.cn/detail/2446838",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时18分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时18分 ~ 14时29分]"
         },
         {
           "title": "国际金价涨超4%，重返4200美元上方",
@@ -1918,51 +2230,26 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时18分"
         }
       ]
     },
     {
-      "keyword_group": "印度",
-      "match_count": 3,
+      "keyword_group": "天津",
+      "match_count": 1,
       "titles": [
         {
-          "title": "印度侨民集体向大使馆诉苦",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356790&amp;topic_name=%E5%8D%B0%E5%BA%A6%E4%BE%A8%E6%B0%91%E9%9B%86%E4%BD%93%E5%90%91%E5%A4%A7%E4%BD%BF%E9%A6%86%E8%AF%89%E8%8B%A6",
-          "source": "贴吧",
+          "title": "天津市民有多搞笑?",
+          "url": "https://www.zhihu.com/question/378849971",
+          "source": "知乎",
           "ranks": [
-            10,
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时41分 ~ 11时18分]"
-        },
-        {
-          "title": "印度IPO热潮降温，市场疲软迫使发行方缩减规模",
-          "url": "https://wallstreetcn.com/livenews/3145507",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            26
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时41分 ~ 02时21分]"
-        },
-        {
-          "title": "德国地学研究中心GFZ：将印度尼西亚哈马黑拉岛地震震级从5.8修正为5.3。",
-          "url": "https://flash.jin10.com/detail/20260806011331884800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时21分"
+          "time_info": "[14时28分 ~ 14时29分]"
         }
       ]
     }
