@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T06:33:42.181635+08:00",
-  "total_titles_processed": 588,
+  "generated_at": "2026-08-08T07:32:50.586438+08:00",
+  "total_titles_processed": 622,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国",
-      "match_count": 63,
+      "match_count": 64,
       "titles": [
         {
           "title": "爆冷！美国7月非农就业人数意外减少2.3万，前两月就业下修10.3万人",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 06时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 07时32分]"
         },
         {
           "title": "美国就业市场意外“熄火”：7月非农负增长 劳动参与率跌至5年来新低",
@@ -27,19 +27,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 06时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 07时32分]"
         },
         {
           "title": "今晚美国非农大考，“弱7月”魔咒会重演吗？此前三年均不及预期",
           "url": "https://wallstreetcn.com/articles/3778928",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 06时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 07时32分]"
         },
         {
           "title": "印度要搞自主AI：模型靠中国，芯片靠美国",
@@ -49,8 +50,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 06时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 07时32分]"
+        },
+        {
+          "title": "据美国证券交易委员会（SEC）文件显示，IMG财富管理持有212股SpaceX(SPCX.O)A类股份。",
+          "url": "https://flash.jin10.com/detail/20260808040624326800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时40分 ~ 07时32分]"
         },
         {
           "title": "释疑｜建多少数据中心才够？美国AI基建热潮撞上“社区保卫战”",
@@ -66,17 +78,6 @@
           "time_info": "[00时53分 ~ 06时33分]"
         },
         {
-          "title": "据美国证券交易委员会（SEC）文件显示，IMG财富管理持有212股SpaceX(SPCX.O)A类股份。",
-          "url": "https://flash.jin10.com/detail/20260808040624326800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时40分 ~ 06时33分]"
-        },
-        {
           "title": "据华尔街日报：美国情报部门将德国机场发生的爆炸无人机事件与俄罗斯联系起来。",
           "url": "https://flash.jin10.com/detail/20260808032342600800",
           "source": "金十数据",
@@ -85,8 +86,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时53分 ~ 06时33分]"
+          "appearance_count": 5,
+          "time_info": "[03时53分 ~ 07时32分]"
         },
         {
           "title": "美国参议院以86票赞成、11票反对通过全面俄罗斯能源制裁法案，并提交众议院审议。",
@@ -109,6 +110,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时54分"
+        },
+        {
+          "title": "美国CFTC已要求预测市场平台避免使用美式赌博赔率进行营销",
+          "url": "https://wallstreetcn.com/livenews/3146941",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时32分"
         },
         {
           "title": "市场消息：AeroVironment预计将赢得美国陆军一份价值4亿美元的反无人机系统合同。",
@@ -142,6 +154,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时54分"
+        },
+        {
+          "title": "据美国证券交易委员会（SEC）文件显示，AT&T(T.N)提交了发行12亿欧元浮动利率全球票据的最终条款文件，该票据将于2028年到期。",
+          "url": "https://flash.jin10.com/detail/20260808040421744800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时40分 ~ 07时32分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至8月4日当周，投机者将芝加哥期货交易所（CBOT）美国国债期货净空头头寸减少41,225份合约，至176,272份合约。 将CBOT美国2年期国债期货净空头头寸减少120,346份合约，至1,004,228份合约。 将CBOT美国5年期国债期货净空头头寸增加179,319份合约，至1,325,719份合约。 将CBOT美国2年期国债期货净空头头寸减少120,346份合约，至1,004,228份合约。 将CBOT美国超长期国债期货净空头头寸减少5,723份合约，至314,985份合约。",
@@ -183,28 +206,18 @@
           "time_info": "[03时53分 ~ 05时38分]"
         },
         {
-          "title": "据美国证券交易委员会（SEC）文件显示，AT&T(T.N)提交了发行12亿欧元浮动利率全球票据的最终条款文件，该票据将于2028年到期。",
-          "url": "https://flash.jin10.com/detail/20260808040421744800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时40分 ~ 06时33分]"
-        },
-        {
           "title": "根据美国证券交易委员会（SEC）披露文件：alphabet提交文件申请发行最高额度250亿美元的分系列中期票据。",
           "url": "https://wallstreetcn.com/livenews/3146917",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
             7,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时40分 ~ 06时33分]"
+          "appearance_count": 4,
+          "time_info": "[04时40分 ~ 07时32分]"
         },
         {
           "title": "美联储：美国上周银行存款19.363万亿美元，之前一周19.400万亿美元。",
@@ -213,11 +226,89 @@
           "ranks": [
             7,
             8,
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时40分 ~ 07时32分]"
+        },
+        {
+          "title": "美国加州州长纽森：加州正在为首次购买电动汽车的消费者提供数千美元的购车优惠。现在，购买一辆新的电动汽车最高可节省3500美元，购买二手电动汽车最高可节省1750美元。",
+          "url": "https://flash.jin10.com/detail/20260808035655589800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时40分 ~ 07时32分]"
+        },
+        {
+          "title": "乌克兰总统泽连斯基对美国参议院通过俄罗斯制裁法案表示感谢。",
+          "url": "https://flash.jin10.com/detail/20260808034132601800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时40分 ~ 07时32分]"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至8月4日当周，日元净空头头寸为45,473份合约。欧元净空头头寸为58,091份合约。英镑净空头头寸为57,814份合约。瑞郎净空头头寸为32,822份合约。",
+          "url": "https://flash.jin10.com/detail/20260808033411743800",
+          "source": "金十数据",
+          "ranks": [
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时40分 ~ 06时33分]"
+          "appearance_count": 4,
+          "time_info": "[04时40分 ~ 07时32分]"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至8月4日当周，投机者将芝加哥期货交易所（CBOT）美国国债期货净空头头寸减少41,225份合约，至176,272份合约。将CBOT美国2年期国债期货净空头头寸减少120,346份合约，至1,004,228份合约。将CBOT美国5年期国债期货净空头头寸增加179,319份合约，至1,325,719份合约。将CBOT美国2年期国债期货净空头头寸减少120,346份合约，至1,004,228份合约。将CBOT美国超长期国债期货净空头头寸减少5,723份合约，至314,985份合约。",
+          "url": "https://flash.jin10.com/detail/20260808033249167800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时40分 ~ 07时32分]"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至8月4日当周，在四大纽约商品交易所（NYMEX）和洲际交易所（ICE）市场中，天然气投机者净空头头寸增加28,093份合约，至89,090份合约。",
+          "url": "https://flash.jin10.com/detail/20260808033220867800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时40分 ~ 07时32分]"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至8月4日当周，投机者将WTI原油净多头头寸减少4,683份合约，至101,824份合约。",
+          "url": "https://flash.jin10.com/detail/20260808033141547800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时40分 ~ 07时32分]"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至8月4日当周，COMEX黄金投机者净多头头寸增加12,070份合约，至132,398份合约。COMEX白银投机者净多头头寸增加2,679份合约，至11,067份合约。COMEX铜投机者净多头头寸增加11,307份合约，至77,796份合约。",
+          "url": "https://flash.jin10.com/detail/20260808033126161800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时40分 ~ 07时32分]"
         },
         {
           "title": "周五（8月7日）纽约尾盘，美元兑日元跌0.56%，报157.55日元，美国非农就业报告出炉时跳水，本周累计上涨0.08%，整体交投区间为155.23-158.57日元。 欧元兑日元跌0.18%，本周累涨0.40%；英镑兑日元跌0.20%，本周累涨0.26%。",
@@ -233,83 +324,6 @@
           "time_info": "[03时53分 ~ 05时38分]"
         },
         {
-          "title": "美国加州州长纽森：加州正在为首次购买电动汽车的消费者提供数千美元的购车优惠。现在，购买一辆新的电动汽车最高可节省3500美元，购买二手电动汽车最高可节省1750美元。",
-          "url": "https://flash.jin10.com/detail/20260808035655589800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时40分 ~ 06时33分]"
-        },
-        {
-          "title": "乌克兰总统泽连斯基对美国参议院通过俄罗斯制裁法案表示感谢。",
-          "url": "https://flash.jin10.com/detail/20260808034132601800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时40分 ~ 06时33分]"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：截至8月4日当周，日元净空头头寸为45,473份合约。欧元净空头头寸为58,091份合约。英镑净空头头寸为57,814份合约。瑞郎净空头头寸为32,822份合约。",
-          "url": "https://flash.jin10.com/detail/20260808033411743800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时40分 ~ 06时33分]"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：截至8月4日当周，投机者将芝加哥期货交易所（CBOT）美国国债期货净空头头寸减少41,225份合约，至176,272份合约。将CBOT美国2年期国债期货净空头头寸减少120,346份合约，至1,004,228份合约。将CBOT美国5年期国债期货净空头头寸增加179,319份合约，至1,325,719份合约。将CBOT美国2年期国债期货净空头头寸减少120,346份合约，至1,004,228份合约。将CBOT美国超长期国债期货净空头头寸减少5,723份合约，至314,985份合约。",
-          "url": "https://flash.jin10.com/detail/20260808033249167800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时40分 ~ 06时33分]"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：截至8月4日当周，在四大纽约商品交易所（NYMEX）和洲际交易所（ICE）市场中，天然气投机者净空头头寸增加28,093份合约，至89,090份合约。",
-          "url": "https://flash.jin10.com/detail/20260808033220867800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时40分 ~ 06时33分]"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：截至8月4日当周，投机者将WTI原油净多头头寸减少4,683份合约，至101,824份合约。",
-          "url": "https://flash.jin10.com/detail/20260808033141547800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时40分 ~ 06时33分]"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：截至8月4日当周，COMEX黄金投机者净多头头寸增加12,070份合约，至132,398份合约。COMEX白银投机者净多头头寸增加2,679份合约，至11,067份合约。COMEX铜投机者净多头头寸增加11,307份合约，至77,796份合约。",
-          "url": "https://flash.jin10.com/detail/20260808033126161800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时40分 ~ 06时33分]"
-        },
-        {
           "title": "美国FAA发布适航指令，要求检查部分波音客机",
           "url": "https://wallstreetcn.com/livenews/3146854",
           "source": "华尔街见闻-快讯",
@@ -322,6 +336,18 @@
           "time_info": "[01时49分 ~ 02时54分]"
         },
         {
+          "title": "美国光模块龙头AAOI电话会：预计产能两年扩张10倍，1.6T最快两周获大客户认证 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778954",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时33分 ~ 07时32分]"
+        },
+        {
           "title": "美国上诉法院维持对白宫宴会厅改造项目的暂停令",
           "url": "https://wallstreetcn.com/livenews/3146832",
           "source": "华尔街见闻-快讯",
@@ -332,6 +358,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时53分 ~ 01时49分]"
+        },
+        {
+          "title": "美国两年期国债收益率在非农日跌5个基点，本周累跌约9.6个基点",
+          "url": "https://wallstreetcn.com/livenews/3146928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时33分 ~ 07时32分]"
         },
         {
           "title": "美国8月7日当周天然气钻井数 124，前值 127。",
@@ -368,6 +406,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时49分 ~ 02时54分]"
+        },
+        {
+          "title": "周五（8月7日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报6.7429元，较周四纽约尾盘涨47点，日内整体交投于6.75-6.7401元区间，美国非农就业报告发布时显著拉升，本周累涨大约0.13%。 日线图上，离岸人民币逼近2023年2月2日最终报价6.7377元、当年2月1日最终报价6.7195元、当年1月16日顶部6.6975元、以及2022年6月3日顶部6.6170元。 按季度看，离岸人民币正在测试50季度线（该技术指标目前报6.7740元）。",
+          "url": "https://wallstreetcn.com/livenews/3146924",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时33分 ~ 07时32分]"
         },
         {
           "title": "美国生物战为何从未停止",
@@ -425,17 +475,6 @@
           "time_info": "02时54分"
         },
         {
-          "title": "美国两年期国债收益率在非农日跌5个基点，本周累跌约9.6个基点",
-          "url": "https://wallstreetcn.com/livenews/3146928",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时33分"
-        },
-        {
           "title": "媒体援引知情人士报道称，加拿大希望关税减免相关协议以附函形式达成，而非写入更新后的美国墨西哥加拿大贸易协议（USMCA）正文。 加拿大清楚其将不得不接受美国部分钢铁和铝关税。 加拿大准备回应美国针对酒类销售、乳制品及汽车行业提出的诉求，但作为交换，加拿大需要获得232条款关税减免。 加方称美方同意开展每日谈判，直至8月19日。 加拿大正与美国加紧谈判，避免8月19日加征新关税。 加拿大已告知美方谈判代表，若双方无法在8月19日前达成协议以推迟关税实施，渥太华进一步谈判的空间将受到限制。",
           "url": "https://wallstreetcn.com/livenews/3146863",
           "source": "华尔街见闻-快讯",
@@ -445,17 +484,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时54分"
-        },
-        {
-          "title": "美国光模块龙头AAOI电话会：预计产能两年扩张10倍，1.6T最快两周获大客户认证 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778954",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时33分"
         },
         {
           "title": "据路透社：消息人士透露，加拿大知道其将不得不接受美国对钢铁和铝征收部分关税。加拿大希望任何有关关税减免的协议都能通过附加函形式达成，而不是写入更新后的《美墨加协定》正文。",
@@ -478,17 +506,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时54分"
-        },
-        {
-          "title": "周五（8月7日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报6.7429元，较周四纽约尾盘涨47点，日内整体交投于6.75-6.7401元区间，美国非农就业报告发布时显著拉升，本周累涨大约0.13%。 日线图上，离岸人民币逼近2023年2月2日最终报价6.7377元、当年2月1日最终报价6.7195元、当年1月16日顶部6.6975元、以及2022年6月3日顶部6.6170元。 按季度看，离岸人民币正在测试50季度线（该技术指标目前报6.7740元）。",
-          "url": "https://wallstreetcn.com/livenews/3146924",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时33分"
         },
         {
           "title": "美国至8月7日当周天然气钻井总数 124口，前值127口。",
@@ -739,6 +756,18 @@
           "time_info": "[00时53分 ~ 05时38分]"
         },
         {
+          "title": "释新闻｜槽点密集的造舰计划：特朗普的“黄金舰队”梦能实现吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33739173",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时52分 ~ 07时32分]"
+        },
+        {
           "title": "加密货币平台Crypto.com与特朗普传媒科技集团将整合合作伙伴关系调整为营销协议。",
           "url": "https://wallstreetcn.com/livenews/3146922",
           "source": "华尔街见闻-快讯",
@@ -748,17 +777,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时40分"
-        },
-        {
-          "title": "释新闻｜槽点密集的造舰计划：特朗普的“黄金舰队”梦能实现吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33739173",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时52分 ~ 06时33分]"
         },
         {
           "title": "特朗普称将就上诉法院涉白宫宴会厅项目裁决提起上诉",
@@ -805,6 +823,19 @@
           "time_info": "03时53分"
         },
         {
+          "title": "加密货币平台Crypto.com与特朗普传媒科技集团将整合合作伙伴关系调整为营销协议。 特朗普媒体与科技集团称，将调整协议方向，面向Truth Social用户群体推广Crypto.com的预测市场业务。 Yorkville American的业务及其现有和未来ETF产品的计划保持不变。 特朗普媒体与科技集团已终止与Crypto.com的业务合并协议，于2026年8月7日生效。 Crypto.com、特朗普媒体、Yorkville America已共同同意不再推进此前宣布的合作关系。",
+          "url": "https://wallstreetcn.com/livenews/3146922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时38分 ~ 07时32分]"
+        },
+        {
           "title": "日程安排显示：沃什不曾在6月份与特朗普有过任何通话",
           "url": "https://wallstreetcn.com/livenews/3146874",
           "source": "华尔街见闻-快讯",
@@ -817,18 +848,6 @@
           "time_info": "[02时54分 ~ 03时53分]"
         },
         {
-          "title": "加密货币平台Crypto.com与特朗普传媒科技集团将整合合作伙伴关系调整为营销协议。 特朗普媒体与科技集团称，将调整协议方向，面向Truth Social用户群体推广Crypto.com的预测市场业务。 Yorkville American的业务及其现有和未来ETF产品的计划保持不变。 特朗普媒体与科技集团已终止与Crypto.com的业务合并协议，于2026年8月7日生效。 Crypto.com、特朗普媒体、Yorkville America已共同同意不再推进此前宣布的合作关系。",
-          "url": "https://wallstreetcn.com/livenews/3146922",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时38分 ~ 06时33分]"
-        },
-        {
           "title": "苹果公司、亚马逊、耐克在特朗普政府关税退款问题上遭到美国参议院民主党成员Warren的质询。 Warren要求各家公司提供消费者关税退款。",
           "url": "https://wallstreetcn.com/livenews/3146836",
           "source": "华尔街见闻-快讯",
@@ -839,6 +858,31 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时53分 ~ 01时49分]"
+        },
+        {
+          "title": "据特朗普媒体科技临时CEO Kevin McGurn，特朗普媒体退出与Crypto.com相关的两笔交易。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3146913",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            11,
+            22,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时40分 ~ 07时32分]"
+        },
+        {
+          "title": "据CNN：美国总统特朗普将于下周一为达琳·格雷厄姆（已故参议员林赛·格雷厄姆的妹妹）举行电话集会。",
+          "url": "https://flash.jin10.com/detail/20260808035911250800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时40分 ~ 07时32分]"
         },
         {
           "title": "美国总统特朗普：到场的人太多了，不然我得在这儿待上一整天。 希望大家提问尽量简短，我不胜感激，毕竟我们还有战事要推进，明白吗？ 这就是我要提前离场的理由。",
@@ -865,30 +909,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时53分 ~ 05时38分]"
-        },
-        {
-          "title": "据特朗普媒体科技临时CEO Kevin McGurn，特朗普媒体退出与Crypto.com相关的两笔交易。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3146913",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            11,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时40分 ~ 06时33分]"
-        },
-        {
-          "title": "据CNN：美国总统特朗普将于下周一为达琳·格雷厄姆（已故参议员林赛·格雷厄姆的妹妹）举行电话集会。",
-          "url": "https://flash.jin10.com/detail/20260808035911250800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时40分 ~ 06时33分]"
         },
         {
           "title": "特朗普称将就上诉法院涉白宫宴会厅项目裁决提起上诉",
@@ -1094,7 +1114,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "伊朗最高领袖给总统下了“最后警告”？",
@@ -1104,8 +1124,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 06时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 07时32分]"
         },
         {
           "title": "以情报高官疑因伊朗行动失败被解职",
@@ -1115,8 +1135,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 06时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 07时32分]"
         },
         {
           "title": "美官员：预计伊朗与阿曼将很快就霍尔木兹海峡问题达成协议",
@@ -1127,8 +1147,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时53分 ~ 06时33分]"
+          "appearance_count": 5,
+          "time_info": "[03时53分 ~ 07时32分]"
         },
         {
           "title": "美国国务院：美国财政部今天采取措施，瓦解了一个由货币兑换机构和空壳公司组成的网络。该网络曾帮助伊朗通过国际金融体系秘密转移数亿美元资金。通过这些网络，德黑兰获取石油收入，并利用幌子公司洗钱，规避旨在遏制其破坏稳定活动的制裁。",
@@ -1151,6 +1171,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时49分"
+        },
+        {
+          "title": "伊朗官员称防务协议无法保障沙特安全",
+          "url": "https://wallstreetcn.com/livenews/3146940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时32分"
         },
         {
           "title": "伊朗总统：伊方未在涉谅解备忘录的谈判中作任何让步",
@@ -1213,6 +1244,17 @@
           "time_info": "[01时49分 ~ 02时54分]"
         },
         {
+          "title": "伊朗官员称已与阿曼就霍尔木兹海峡通行问题明确总体框架",
+          "url": "https://flash.jin10.com/detail/20260808033854319800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时40分 ~ 07时32分]"
+        },
+        {
           "title": "伊朗总统：伊方未在涉谅解备忘录的谈判中作任何让步",
           "url": "https://wallstreetcn.com/livenews/3146892",
           "source": "华尔街见闻-快讯",
@@ -1226,15 +1268,17 @@
           "time_info": "[03时53分 ~ 05时38分]"
         },
         {
-          "title": "伊朗官员称已与阿曼就霍尔木兹海峡通行问题明确总体框架",
-          "url": "https://flash.jin10.com/detail/20260808033854319800",
-          "source": "金十数据",
+          "title": "伊朗发视频隐喻美国国运衰落原因",
+          "url": "https://www.toutiao.com/trending/7671188288800899082/",
+          "source": "今日头条",
           "ranks": [
-            18
+            28,
+            22,
+            29
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[04时40分 ~ 06时33分]"
+          "time_info": "[04时40分 ~ 07时32分]"
         },
         {
           "title": "伊朗副外长：波斯湾地区安全应由本地区国家共同维护",
@@ -1259,18 +1303,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时53分 ~ 01时49分]"
-        },
-        {
-          "title": "伊朗发视频隐喻美国国运衰落原因",
-          "url": "https://www.toutiao.com/trending/7671188288800899082/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时40分 ~ 06时33分]"
         },
         {
           "title": "伊朗外交部长表示，面对全球军费开支最高的军队，伊朗实力强大的武装部队已展现出自身的备战状态、作战能力与军事力量。",
@@ -1452,25 +1484,25 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
-        {
-          "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
-          "url": "https://wallstreetcn.com/articles/3778821",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 06时33分]"
-        },
         {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
           "url": "https://www.cls.cn/detail/2448784",
           "source": "财联社热门",
           "ranks": [
             4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 07时32分]"
+        },
+        {
+          "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
+          "url": "https://wallstreetcn.com/articles/3778821",
+          "source": "华尔街见闻",
+          "ranks": [
             3
           ],
           "is_new": false,
@@ -1489,17 +1521,6 @@
           "time_info": "[00时53分 ~ 05时38分]"
         },
         {
-          "title": "美股光模块黑马计划大幅扩产 全力押注800G、1.6T产品",
-          "url": "https://www.cls.cn/detail/2448354",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 03时53分]"
-        },
-        {
           "title": "美股存储板块集体大跌",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%AD%98%E5%82%A8%E6%9D%BF%E5%9D%97%E9%9B%86%E4%BD%93%E5%A4%A7%E8%B7%8C",
           "source": "百度热搜",
@@ -1511,8 +1532,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 06时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 07时32分]"
         },
         {
           "title": "韩股跌倒，美股吃饱！“受伤”的韩国散户大军重返华尔街怀抱",
@@ -1523,8 +1544,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 06时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 07时32分]"
+        },
+        {
+          "title": "美股光模块黑马计划大幅扩产 全力押注800G、1.6T产品",
+          "url": "https://www.cls.cn/detail/2448354",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 03时53分]"
         },
         {
           "title": "金十图示：2026年08月07日（周五）美股热门股票行情一览（美股收盘）",
@@ -1534,8 +1566,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时40分 ~ 06时33分]"
+          "appearance_count": 4,
+          "time_info": "[04时40分 ~ 07时32分]"
         },
         {
           "title": "金十图示：2026年08月07日（周五）热门中概股行情一览（美股收盘）",
@@ -1545,8 +1577,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时40分 ~ 06时33分]"
+          "appearance_count": 4,
+          "time_info": "[04时40分 ~ 07时32分]"
+        },
+        {
+          "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
+          "url": "https://www.cls.cn/detail/2448974",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时33分 ~ 07时32分]"
         },
         {
           "title": "周五（8月7日），美股行业ETF多数收涨，生物科技指数ETF涨2.46%，网络股指数ETF涨2.09%，半导体ETF涨1.96%，科技行业ETF、全球科技股指数ETF至多涨1.42%，银行业ETF、全球航空业ETF、区域银行ETF至多跌0.37%，能源业ETF跌1.17%。",
@@ -1555,11 +1599,12 @@
           "ranks": [
             11,
             12,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时40分 ~ 06时33分]"
+          "appearance_count": 4,
+          "time_info": "[04时40分 ~ 07时32分]"
         },
         {
           "title": "美股收盘： 三大股指收涨 SpaceX大涨近16%",
@@ -1569,19 +1614,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时40分 ~ 06时33分]"
+          "appearance_count": 4,
+          "time_info": "[04时40分 ~ 07时32分]"
         },
         {
-          "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
-          "url": "https://www.cls.cn/detail/2448974",
-          "source": "财联社热门",
+          "title": "美股收盘：标普500指数再创新高",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E6%A0%87%E6%99%AE500%E6%8C%87%E6%95%B0%E5%86%8D%E5%88%9B%E6%96%B0%E9%AB%98",
+          "source": "百度热搜",
           "ranks": [
-            10
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时33分"
+          "time_info": "07时32分"
         }
       ]
     },
@@ -1597,8 +1642,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 06时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 07时32分]"
         },
         {
           "title": "中方：日本当局应倾听民众呼声，停止在核问题上玩火",
@@ -1608,8 +1653,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 06时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 07时32分]"
         },
         {
           "title": "值得反思!日本运动员偷鸡蛋被捕",
@@ -1619,8 +1664,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 06时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 07时32分]"
         },
         {
           "title": "高市早苗站在防弹玻璃后发表讲话，日本网友：防止别人吐口水？",
@@ -1630,8 +1675,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 06时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 07时32分]"
         },
         {
           "title": "日本原子弹爆炸亲历者反对高市修改无核三原则，“她应该下台”",
@@ -1641,8 +1686,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 06时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 07时32分]"
         },
         {
           "title": "猫娘抽烟番被日本家长投诉",
@@ -1653,8 +1698,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 06时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 07时32分]"
         },
         {
           "title": "物价飞涨,日本青年戒饭成潮流",
@@ -1665,8 +1710,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 06时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 07时32分]"
         },
         {
           "title": "据知情人士透露，日本软银集团持股的3D打印机制造商Formlabs考虑IPO。（彭博）",
@@ -1675,11 +1720,12 @@
           "ranks": [
             5,
             6,
-            17
+            17,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时40分 ~ 06时33分]"
+          "appearance_count": 4,
+          "time_info": "[04时40分 ~ 07时32分]"
         }
       ]
     },
@@ -1697,11 +1743,12 @@
             22,
             19,
             23,
-            12
+            12,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 06时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 07时32分]"
         },
         {
           "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
@@ -1711,54 +1758,26 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 06时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 07时32分]"
         },
         {
           "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
           "url": "https://m.thepaper.cn/newsDetail_forward_33739348",
           "source": "澎湃新闻",
           "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时52分 ~ 06时33分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "核心团队跑路,Gemini陷大危机",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356949&amp;topic_name=%E6%A0%B8%E5%BF%83%E5%9B%A2%E9%98%9F%E8%B7%91%E8%B7%AF%2CGemini%E9%99%B7%E5%A4%A7%E5%8D%B1%E6%9C%BA",
-          "source": "贴吧",
-          "ranks": [
             18,
-            19
+            14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 06时33分]"
-        },
-        {
-          "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
-          "url": "https://flash.jin10.com/detail/20260807231253787800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
+          "appearance_count": 7,
+          "time_info": "[03时52分 ~ 07时32分]"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "OpenAI：为高性能模型及相关业务落实更严格的安全管控，其中包括隔离测试环境",
@@ -1770,6 +1789,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
+        },
+        {
+          "title": "OpenAI首席执行官Altman称：正推进Astra全面开放使用。",
+          "url": "https://wallstreetcn.com/livenews/3146942",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时32分"
         },
         {
           "title": "OpenAI：Astra是一款尚未发布的模型，无法排除Astra模型具备关键网络攻击能力",
@@ -1786,6 +1816,35 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "核心团队跑路,Gemini陷大危机",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356949&amp;topic_name=%E6%A0%B8%E5%BF%83%E5%9B%A2%E9%98%9F%E8%B7%91%E8%B7%AF%2CGemini%E9%99%B7%E5%A4%A7%E5%8D%B1%E6%9C%BA",
+          "source": "贴吧",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 07时32分]"
+        },
+        {
+          "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
+          "url": "https://flash.jin10.com/detail/20260807231253787800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时53分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 2,
       "titles": [
@@ -1795,11 +1854,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时38分 ~ 06时33分]"
+          "appearance_count": 3,
+          "time_info": "[05时38分 ~ 07时32分]"
         },
         {
           "title": "瑞银：黄金上涨行情具备支撑，金价明年有望向5000美元迈进",
