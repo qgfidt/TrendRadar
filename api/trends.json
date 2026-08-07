@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-08-07T22:16:07.099394+08:00",
-  "total_titles_processed": 1359,
+  "generated_at": "2026-08-07T23:55:18.045255+08:00",
+  "total_titles_processed": 1492,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国",
-      "match_count": 55,
+      "match_count": 68,
       "titles": [
+        {
+          "title": "爆冷！美国7月非农就业人数意外减少2.3万，前两月就业下修10.3万人",
+          "url": "https://wallstreetcn.com/articles/3778959",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时15分 ~ 23时55分]"
+        },
         {
           "title": "中国5招齐出，“要打疼美国，也要让美国学会掂量分寸”",
           "url": "https://news.ifeng.com/c/8vNU4D62ime",
@@ -20,15 +32,28 @@
           "time_info": "[10时40分 ~ 16时13分]"
         },
         {
-          "title": "爆冷！美国7月非农就业人数意外减少2.3万，前两月就业下修10.3万人",
-          "url": "https://wallstreetcn.com/articles/3778959",
-          "source": "华尔街见闻",
+          "title": "印度要搞自主AI：模型靠中国，芯片靠美国",
+          "url": "https://news.ifeng.com/c/8vOieX1f4iR",
+          "source": "凤凰网",
           "ranks": [
-            3
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时15分 ~ 22时16分]"
+          "appearance_count": 6,
+          "time_info": "[19时53分 ~ 23时55分]"
+        },
+        {
+          "title": "今晚美国非农大考，“弱7月”魔咒会重演吗？此前三年均不及预期",
+          "url": "https://wallstreetcn.com/articles/3778928",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时59分 ~ 23时55分]"
         },
         {
           "title": "美国非农报告今晚登场！疲弱数据助推下 美联储降息预期恐升温？",
@@ -44,16 +69,16 @@
           "time_info": "[12时53分 ~ 16时13分]"
         },
         {
-          "title": "印度要搞自主AI：模型靠中国，芯片靠美国",
-          "url": "https://news.ifeng.com/c/8vOieX1f4iR",
-          "source": "凤凰网",
+          "title": "美国就业市场意外“熄火”：7月非农负增长 劳动参与率跌至5年来新低",
+          "url": "https://www.cls.cn/detail/2448836",
+          "source": "财联社热门",
           "ranks": [
-            4,
-            8
+            10,
+            5
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[19时53分 ~ 22时16分]"
+          "time_info": "[22时15分 ~ 23时55分]"
         },
         {
           "title": "美国非农报告来袭，国际黄金还会冲吗？点击观看直播分析<font class=\"important-text\"></font>",
@@ -84,7 +109,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
         },
@@ -95,9 +120,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
+        },
+        {
+          "title": "纽约联储调查：美国消费者对就业和通胀的前景变得更加乐观",
+          "url": "https://flash.jin10.com/detail/20260807232056747800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         },
         {
           "title": "美媒爆料：美国防部高官寻求访华，却遭中方冷遇",
@@ -110,18 +146,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时12分 ~ 19时53分]"
-        },
-        {
-          "title": "今晚美国非农大考，“弱7月”魔咒会重演吗？此前三年均不及预期",
-          "url": "https://wallstreetcn.com/articles/3778928",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时59分 ~ 22时16分]"
         },
         {
           "title": "美国非农数据意外录得负值 失业率进一步下降",
@@ -218,17 +242,6 @@
           "time_info": "[20时59分 ~ 22时16分]"
         },
         {
-          "title": "美国就业市场意外“熄火”：7月非农负增长 劳动参与率跌至5年来新低",
-          "url": "https://www.cls.cn/detail/2448836",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时15分 ~ 22时16分]"
-        },
-        {
           "title": "沈逸：美国生物战从未真正停止",
           "url": "https://www.douyin.com/hot/2601012",
           "source": "抖音",
@@ -249,6 +262,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时57分 ~ 07时58分]"
+        },
+        {
+          "title": "释疑｜建多少数据中心才够？美国AI基建热潮撞上“社区保卫战”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33729568",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时54分 ~ 23时55分]"
         },
         {
           "title": "中国五箭齐发反制美国",
@@ -306,6 +330,17 @@
           "time_info": "20时59分"
         },
         {
+          "title": "美国商品期货交易委员会（CFTC）就美式赔率风险对预测市场发出警告。",
+          "url": "https://flash.jin10.com/detail/20260807231249007800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
           "title": "贝莱德：美国抛售欧元干预日元的行为加剧长债风险",
           "url": "https://flash.jin10.com/detail/20260807191519809800",
           "source": "金十数据",
@@ -350,6 +385,17 @@
           "time_info": "20时59分"
         },
         {
+          "title": "美联储：美国7月短期通胀预期降温，消费者对就业变得更加乐观",
+          "url": "https://wallstreetcn.com/livenews/3146813",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
           "title": "美国情报评估：普京或在2029年前发动“有限行动”，试探北约集体防御底线",
           "url": "https://flash.jin10.com/detail/20260807132902089800",
           "source": "金十数据",
@@ -370,6 +416,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时59分"
+        },
+        {
+          "title": "美国7月纽约联储1年通胀预期 3.63%，预期3.71%，前值3.67%。",
+          "url": "https://flash.jin10.com/detail/20260807230017478800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         },
         {
           "title": "美国7月平均每小时工资同比 3.2%，预期 3.5%，前值 3.5%。",
@@ -416,6 +473,17 @@
           "time_info": "20时59分"
         },
         {
+          "title": "美国共和党参议员卡西迪：将投票支持托德·布兰奇出任司法部长的提名。",
+          "url": "https://flash.jin10.com/detail/20260807225128697800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
           "title": "美国7月非农就业人口变动 -2.3万人，预期 8万人，前值 5.7万人。",
           "url": "https://wallstreetcn.com/livenews/3146730",
           "source": "华尔街见闻-快讯",
@@ -436,6 +504,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时59分"
+        },
+        {
+          "title": "美国7月纽约联储1年通胀预期将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20260807225000000800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         },
         {
           "title": "高盛认为美国挺日元不会损及美元主要储备货币的地位",
@@ -548,6 +627,61 @@
           "time_info": "20时59分"
         },
         {
+          "title": "Servus Credit Union首席经济学家Charles St-Arnaud：对加拿大央行而言，今天的（就业）数据证实了他们对经济正在改善的判断，并暗示经济动能更强。 然而，由于美国贸易政策的不确定性，前景的下行风险依然存在。",
+          "url": "https://wallstreetcn.com/livenews/3146802",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
+          "title": "美国陆军：将向私营企业开放五个军事试验场。",
+          "url": "https://flash.jin10.com/detail/20260807223824732800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
+          "title": "美国陆军部长：美国陆军将为企业打开“新大门”。",
+          "url": "https://flash.jin10.com/detail/20260807223535330800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
+          "title": "美国里士满联储主席Barkin（2027年FOMC票委）：不认为当前看到了薪资通胀。",
+          "url": "https://wallstreetcn.com/livenews/3146798",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
+          "title": "美国陆军部长：将向私营企业开放五个军事试验场。",
+          "url": "https://flash.jin10.com/detail/20260807223512168800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
           "title": "美国处在“一场政治革命的前夜”吗",
           "url": "https://www.toutiao.com/trending/7670827313182261302/",
           "source": "今日头条",
@@ -565,7 +699,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
         },
@@ -614,6 +748,17 @@
           "time_info": "20时59分"
         },
         {
+          "title": "美国里士满联储主席Barkin（2027年FOMC票委）：如果（在通胀问题上）面临逆风，就必须收紧（货币政策）。",
+          "url": "https://wallstreetcn.com/livenews/3146792",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
           "title": "市场消息：美国正在将部分空中加油机从本·古里安机场迁移，以腾出空间缓解旅游旺季对商业民航运输的压力。",
           "url": "https://flash.jin10.com/detail/20260807151658663800",
           "source": "金十数据",
@@ -628,8 +773,20 @@
     },
     {
       "keyword_group": "日本",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
+        {
+          "title": "韩企捐水日本被骂只配冲马桶",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356935&amp;topic_name=%E9%9F%A9%E4%BC%81%E6%8D%90%E6%B0%B4%E6%97%A5%E6%9C%AC%E8%A2%AB%E9%AA%82%E5%8F%AA%E9%85%8D%E5%86%B2%E9%A9%AC%E6%A1%B6",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时12分 ~ 23时55分]"
+        },
         {
           "title": "猫娘抽烟番被日本家长投诉",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356861&amp;topic_name=%E7%8C%AB%E5%A8%98%E6%8A%BD%E7%83%9F%E7%95%AA%E8%A2%AB%E6%97%A5%E6%9C%AC%E5%AE%B6%E9%95%BF%E6%8A%95%E8%AF%89",
@@ -638,22 +795,12 @@
             4,
             5,
             8,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时53分 ~ 22时16分]"
-        },
-        {
-          "title": "韩企捐水日本被骂只配冲马桶",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356935&amp;topic_name=%E9%9F%A9%E4%BC%81%E6%8D%90%E6%B0%B4%E6%97%A5%E6%9C%AC%E8%A2%AB%E9%AA%82%E5%8F%AA%E9%85%8D%E5%86%B2%E9%A9%AC%E6%A1%B6",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时12分 ~ 22时16分]"
+          "appearance_count": 11,
+          "time_info": "[12时53分 ~ 23时55分]"
         },
         {
           "title": "朝鲜再度试射导弹，日本防卫大臣紧急召开记者会",
@@ -665,6 +812,46 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时40分 ~ 16时13分]"
+        },
+        {
+          "title": "中方：日本当局应倾听民众呼声，停止在核问题上玩火",
+          "url": "https://news.ifeng.com/c/8vOpFNciqLA",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时59分 ~ 23时55分]"
+        },
+        {
+          "title": "高市早苗站在防弹玻璃后发表讲话，日本网友：防止别人吐口水？",
+          "url": "https://v.ifeng.com/c/8vOZWLqUjIW",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时53分 ~ 23时55分]"
+        },
+        {
+          "title": "物价飞涨,日本青年戒饭成潮流",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356864&amp;topic_name=%E7%89%A9%E4%BB%B7%E9%A3%9E%E6%B6%A8%2C%E6%97%A5%E6%9C%AC%E9%9D%92%E5%B9%B4%E6%88%92%E9%A5%AD%E6%88%90%E6%BD%AE%E6%B5%81",
+          "source": "贴吧",
+          "ranks": [
+            10,
+            13,
+            15,
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时12分 ~ 23时55分]"
         },
         {
           "title": "蹭核喊废核,日本又演受害者",
@@ -682,29 +869,17 @@
           "time_info": "[07时57分 ~ 16时13分]"
         },
         {
-          "title": "中方：日本当局应倾听民众呼声，停止在核问题上玩火",
-          "url": "https://news.ifeng.com/c/8vOpFNciqLA",
+          "title": "日本原子弹爆炸亲历者反对高市修改无核三原则，“她应该下台”",
+          "url": "https://news.ifeng.com/c/8vOh3wOkWNP",
           "source": "凤凰网",
           "ranks": [
-            1,
-            4
+            9,
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时59分 ~ 22时16分]"
-        },
-        {
-          "title": "高市早苗站在防弹玻璃后发表讲话，日本网友：防止别人吐口水？",
-          "url": "https://v.ifeng.com/c/8vOZWLqUjIW",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时53分 ~ 22时16分]"
+          "appearance_count": 6,
+          "time_info": "[19时53分 ~ 23时55分]"
         },
         {
           "title": "前日本奥运举重选手便利店偷鸡蛋，推倒店员致其骨折，被当场逮捕，为什么会做出此举？日本运动员的处境如何？",
@@ -719,6 +894,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[12时53分 ~ 20时59分]"
+        },
+        {
+          "title": "值得反思!日本运动员偷鸡蛋被捕",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356951&amp;topic_name=%E5%80%BC%E5%BE%97%E5%8F%8D%E6%80%9D%21%E6%97%A5%E6%9C%AC%E8%BF%90%E5%8A%A8%E5%91%98%E5%81%B7%E9%B8%A1%E8%9B%8B%E8%A2%AB%E6%8D%95",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时54分 ~ 23时55分]"
         },
         {
           "title": "日本7月外汇储备 12871亿美元，前值12875亿美元。",
@@ -743,20 +929,6 @@
           "time_info": "07时58分"
         },
         {
-          "title": "物价飞涨,日本青年戒饭成潮流",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356864&amp;topic_name=%E7%89%A9%E4%BB%B7%E9%A3%9E%E6%B6%A8%2C%E6%97%A5%E6%9C%AC%E9%9D%92%E5%B9%B4%E6%88%92%E9%A5%AD%E6%88%90%E6%BD%AE%E6%B5%81",
-          "source": "贴吧",
-          "ranks": [
-            10,
-            13,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时12分 ~ 22时16分]"
-        },
-        {
           "title": "日本财务省：在4月和5月共进行了三次买入日元的汇率干预行动。",
           "url": "https://flash.jin10.com/detail/20260807075332303800",
           "source": "金十数据",
@@ -766,19 +938,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
-        },
-        {
-          "title": "日本原子弹爆炸亲历者反对高市修改无核三原则，“她应该下台”",
-          "url": "https://news.ifeng.com/c/8vOh3wOkWNP",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时53分 ~ 22时16分]"
         },
         {
           "title": "日本财务省：在4月至6月当季，日本最大规模的单日汇市干预行动发生在4月30日，干预金额达到6.2787万亿日元。",
@@ -1053,8 +1212,23 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
+        {
+          "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
+          "url": "https://wallstreetcn.com/articles/3778896",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6,
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时53分 ~ 23时55分]"
+        },
         {
           "title": "特朗普签署行政令，宣布加征关税",
           "url": "https://news.ifeng.com/c/8vNvJb617ek",
@@ -1090,21 +1264,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时40分 ~ 16时13分]"
-        },
-        {
-          "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
-          "url": "https://wallstreetcn.com/articles/3778896",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6,
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时53分 ~ 22时16分]"
         },
         {
           "title": "“特朗普想缓和对华关系，美国年轻人也不想陷入新冷战”",
@@ -1188,6 +1347,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时54分 ~ 14时09分]"
+        },
+        {
+          "title": "特朗普再签行政令，禁止“生育旅游”收紧“出生公民权”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33734678",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时54分 ~ 23时55分]"
+        },
+        {
+          "title": "伊朗敦促海湾国家说服特朗普停止军事行动",
+          "url": "https://wallstreetcn.com/livenews/3146814",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         },
         {
           "title": "据华尔街日报：特朗普已下令对五角大楼弹药储备泄露事件展开新的调查，政府官员表示，这是他为应对有关伊朗战争的破坏性信息披露而采取的最新升级举措。",
@@ -1334,6 +1515,17 @@
           "time_info": "[07时57分 ~ 19时53分]"
         },
         {
+          "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
+          "url": "https://www.zhihu.com/question/2069015264461579129",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时12分 ~ 23时55分]"
+        },
+        {
           "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
           "url": "https://m.thepaper.cn/newsDetail_forward_33728016",
           "source": "澎湃新闻",
@@ -1368,15 +1560,17 @@
           "time_info": "[07时57分 ~ 07时58分]"
         },
         {
-          "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
-          "url": "https://www.zhihu.com/question/2069015264461579129",
-          "source": "知乎",
+          "title": "梁文锋 只想用座机",
+          "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B+%E5%8F%AA%E6%83%B3%E7%94%A8%E5%BA%A7%E6%9C%BA",
+          "source": "百度热搜",
           "ranks": [
-            20
+            14,
+            4,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时12分 ~ 22时16分]"
+          "appearance_count": 5,
+          "time_info": "[20时59分 ~ 23时55分]"
         },
         {
           "title": "王兴兴回应DeepSeek参与宇树科技IPO战略配售",
@@ -1388,18 +1582,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
-        },
-        {
-          "title": "梁文锋 只想用座机",
-          "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B+%E5%8F%AA%E6%83%B3%E7%94%A8%E5%BA%A7%E6%9C%BA",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时59分 ~ 22时16分]"
         },
         {
           "title": "DeepSeek、腾讯等获宇树科技战略配售",
@@ -1462,7 +1644,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
@@ -1470,11 +1652,24 @@
           "source": "华尔街见闻",
           "ranks": [
             2,
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时57分 ~ 22时16分]"
+          "appearance_count": 14,
+          "time_info": "[07时57分 ~ 23时55分]"
+        },
+        {
+          "title": "美股光模块黑马计划大幅扩产 全力押注800G、1.6T产品",
+          "url": "https://www.cls.cn/detail/2448354",
+          "source": "财联社热门",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时53分 ~ 23时55分]"
         },
         {
           "title": "美股收盘：三大股指小幅收跌 投资者关注中东谈判与企业财报",
@@ -1490,27 +1685,28 @@
           "time_info": "[07时57分 ~ 14时09分]"
         },
         {
-          "title": "美股光模块黑马计划大幅扩产 全力押注800G、1.6T产品",
-          "url": "https://www.cls.cn/detail/2448354",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时53分 ~ 22时16分]"
-        },
-        {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
           "url": "https://www.cls.cn/detail/2448784",
           "source": "财联社热门",
           "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时15分 ~ 23时55分]"
+        },
+        {
+          "title": "非农爆冷打击加息预期，美股高开，光通信概念股普涨，光模块制造商AAOI涨超12%，现货黄金突破4350",
+          "url": "https://wallstreetcn.com/articles/3778924",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时15分 ~ 22时16分]"
+          "appearance_count": 4,
+          "time_info": "[22时15分 ~ 23时55分]"
         },
         {
           "title": "美股盘前，存储概念股小幅走高，闪迪、西部数据涨超2%，光通信概念股走高，Coherent涨近5%，Lumentum涨超3%。",
@@ -1528,22 +1724,12 @@
           "url": "https://www.cls.cn/detail/2448478",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时59分 ~ 22时16分]"
-        },
-        {
-          "title": "非农爆冷打击加息预期，美股高开，光通信概念股普涨，光模块制造商AAOI涨超12%，现货黄金突破4350",
-          "url": "https://wallstreetcn.com/articles/3778924",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时15分 ~ 22时16分]"
+          "appearance_count": 5,
+          "time_info": "[20时59分 ~ 23时55分]"
         },
         {
           "title": "美股三大指数集体收跌 西数跌超13%",
@@ -1557,13 +1743,24 @@
           "time_info": "[07时57分 ~ 07时58分]"
         },
         {
+          "title": "美股存储板块集体大跌",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%AD%98%E5%82%A8%E6%9D%BF%E5%9D%97%E9%9B%86%E4%BD%93%E5%A4%A7%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时54分 ~ 23时55分]"
+        },
+        {
           "title": "美国7月非农超预期下降，美股三大股指集体高开",
           "url": "https://wallstreetcn.com/livenews/3146763",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
         },
@@ -1574,7 +1771,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
         },
@@ -1596,7 +1793,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
         }
@@ -1604,8 +1801,31 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "伊朗最高领袖给总统下了“最后警告”？",
+          "url": "https://news.ifeng.com/c/8vOzr19CfFi",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时15分 ~ 23时55分]"
+        },
+        {
+          "title": "以情报高官疑因伊朗行动失败被解职",
+          "url": "https://news.ifeng.com/c/8vOg4e2X7cf",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时53分 ~ 23时55分]"
+        },
         {
           "title": "伊朗公布霍尔木兹海峡管理草案 国际油价大幅走高",
           "url": "https://www.cls.cn/detail/2447874",
@@ -1620,17 +1840,6 @@
           "time_info": "[07时57分 ~ 14时09分]"
         },
         {
-          "title": "伊朗最高领袖给总统下了“最后警告”？",
-          "url": "https://news.ifeng.com/c/8vOzr19CfFi",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时15分 ~ 22时16分]"
-        },
-        {
           "title": "伊朗称与阿曼接近达成协议，海峡现有两条航道将关闭，“收费标准”仍是核心分歧",
           "url": "https://wallstreetcn.com/articles/3778783",
           "source": "华尔街见闻",
@@ -1640,18 +1849,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时57分 ~ 07时58分]"
-        },
-        {
-          "title": "以情报高官疑因伊朗行动失败被解职",
-          "url": "https://news.ifeng.com/c/8vOg4e2X7cf",
-          "source": "凤凰网",
-          "ranks": [
-            3,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时53分 ~ 22时16分]"
         },
         {
           "title": "伊朗总统：最高领袖决策过程遭人利用",
@@ -1716,7 +1913,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
         },
@@ -1741,12 +1938,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时09分"
+        },
+        {
+          "title": "伊朗就霍尔木兹海峡协议措辞展开辩论",
+          "url": "https://wallstreetcn.com/livenews/3146793",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "为什么 Jeff Dean 从 Google 离职引起这么大的轰动？",
@@ -1760,15 +1968,27 @@
           "time_info": "[07时57分 ~ 07时58分]"
         },
         {
+          "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
+          "url": "https://flash.jin10.com/detail/20260807231253787800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
           "title": "核心团队跑路,Gemini陷大危机",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356949&amp;topic_name=%E6%A0%B8%E5%BF%83%E5%9B%A2%E9%98%9F%E8%B7%91%E8%B7%AF%2CGemini%E9%99%B7%E5%A4%A7%E5%8D%B1%E6%9C%BA",
           "source": "贴吧",
           "ranks": [
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时15分 ~ 22时16分]"
+          "appearance_count": 4,
+          "time_info": "[22时15分 ~ 23时55分]"
         },
         {
           "title": "新闻蒸馏器丨谷歌AI大改组：诺奖得主卸任日常管理，元老率核心人员出走创业",
@@ -1791,6 +2011,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "金十图示：2026年08月07日（周五）上海金午盘价为932.83元/克，较国际金价(929.4元/克)，高3.43元/克",
+          "url": "https://flash.jin10.com/detail/20260807155143219800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时13分"
+        },
+        {
+          "title": "金价完成首轮仓位修复，4300附近进入新碰撞区！",
+          "url": "https://flash.jin10.com/detail/20260807120847851800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        },
+        {
+          "title": "瑞银：黄金上涨行情具备支撑，金价明年有望向5000美元迈进",
+          "url": "https://wallstreetcn.com/livenews/3146816",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         }
       ]
     },
@@ -1819,34 +2078,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金十图示：2026年08月07日（周五）上海金午盘价为932.83元/克，较国际金价(929.4元/克)，高3.43元/克",
-          "url": "https://flash.jin10.com/detail/20260807155143219800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时13分"
-        },
-        {
-          "title": "金价完成首轮仓位修复，4300附近进入新碰撞区！",
-          "url": "https://flash.jin10.com/detail/20260807120847851800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时54分"
         }
       ]
     },
@@ -1889,7 +2120,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
         }
