@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T07:32:50.586438+08:00",
-  "total_titles_processed": 622,
+  "generated_at": "2026-08-08T09:24:24.071728+08:00",
+  "total_titles_processed": 728,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国",
-      "match_count": 64,
+      "match_count": 66,
       "titles": [
         {
           "title": "爆冷！美国7月非农就业人数意外减少2.3万，前两月就业下修10.3万人",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 07时32分]"
+          "appearance_count": 11,
+          "time_info": "[00时53分 ~ 09时24分]"
         },
         {
           "title": "美国就业市场意外“熄火”：7月非农负增长 劳动参与率跌至5年来新低",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 07时32分]"
+          "appearance_count": 11,
+          "time_info": "[00时53分 ~ 09时24分]"
         },
         {
           "title": "今晚美国非农大考，“弱7月”魔咒会重演吗？此前三年均不及预期",
@@ -39,8 +39,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 07时32分]"
+          "appearance_count": 11,
+          "time_info": "[00时53分 ~ 09时24分]"
         },
         {
           "title": "印度要搞自主AI：模型靠中国，芯片靠美国",
@@ -54,17 +54,6 @@
           "time_info": "[00时53分 ~ 07时32分]"
         },
         {
-          "title": "据美国证券交易委员会（SEC）文件显示，IMG财富管理持有212股SpaceX(SPCX.O)A类股份。",
-          "url": "https://flash.jin10.com/detail/20260808040624326800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时40分 ~ 07时32分]"
-        },
-        {
           "title": "释疑｜建多少数据中心才够？美国AI基建热潮撞上“社区保卫战”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33729568",
           "source": "澎湃新闻",
@@ -76,6 +65,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时53分 ~ 06时33分]"
+        },
+        {
+          "title": "据美国证券交易委员会（SEC）文件显示，IMG财富管理持有212股SpaceX(SPCX.O)A类股份。",
+          "url": "https://flash.jin10.com/detail/20260808040624326800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时40分 ~ 09时24分]"
         },
         {
           "title": "据华尔街日报：美国情报部门将德国机场发生的爆炸无人机事件与俄罗斯联系起来。",
@@ -112,17 +113,6 @@
           "time_info": "02时54分"
         },
         {
-          "title": "美国CFTC已要求预测市场平台避免使用美式赌博赔率进行营销",
-          "url": "https://wallstreetcn.com/livenews/3146941",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        },
-        {
           "title": "市场消息：AeroVironment预计将赢得美国陆军一份价值4亿美元的反无人机系统合同。",
           "url": "https://flash.jin10.com/detail/20260808022109456800",
           "source": "金十数据",
@@ -145,6 +135,18 @@
           "time_info": "02时54分"
         },
         {
+          "title": "据美国证券交易委员会（SEC）文件显示，AT&T(T.N)提交了发行12亿欧元浮动利率全球票据的最终条款文件，该票据将于2028年到期。",
+          "url": "https://flash.jin10.com/detail/20260808040421744800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时40分 ~ 09时24分]"
+        },
+        {
           "title": "【美参议院通过一项对俄能源领域制裁法案】8月7日，美国国会参议院以86票赞成、11票反对的投票结果，通过一项针对俄罗斯能源领域的广泛制裁法案，并将法案送交众议院审议。（央视）",
           "url": "https://wallstreetcn.com/livenews/3146869",
           "source": "华尔街见闻-快讯",
@@ -156,15 +158,43 @@
           "time_info": "02时54分"
         },
         {
-          "title": "据美国证券交易委员会（SEC）文件显示，AT&T(T.N)提交了发行12亿欧元浮动利率全球票据的最终条款文件，该票据将于2028年到期。",
-          "url": "https://flash.jin10.com/detail/20260808040421744800",
-          "source": "金十数据",
+          "title": "根据美国证券交易委员会（SEC）披露文件：alphabet提交文件申请发行最高额度250亿美元的分系列中期票据。",
+          "url": "https://wallstreetcn.com/livenews/3146917",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            7,
+            18,
+            23,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时40分 ~ 07时32分]"
+          "appearance_count": 5,
+          "time_info": "[04时40分 ~ 09时24分]"
+        },
+        {
+          "title": "美国加州州长纽森：加州正在为首次购买电动汽车的消费者提供数千美元的购车优惠。现在，购买一辆新的电动汽车最高可节省3500美元，购买二手电动汽车最高可节省1750美元。",
+          "url": "https://flash.jin10.com/detail/20260808035655589800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时40分 ~ 09时24分]"
+        },
+        {
+          "title": "乌克兰总统泽连斯基对美国参议院通过俄罗斯制裁法案表示感谢。",
+          "url": "https://flash.jin10.com/detail/20260808034132601800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时40分 ~ 09时24分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至8月4日当周，投机者将芝加哥期货交易所（CBOT）美国国债期货净空头头寸减少41,225份合约，至176,272份合约。 将CBOT美国2年期国债期货净空头头寸减少120,346份合约，至1,004,228份合约。 将CBOT美国5年期国债期货净空头头寸增加179,319份合约，至1,325,719份合约。 将CBOT美国2年期国债期货净空头头寸减少120,346份合约，至1,004,228份合约。 将CBOT美国超长期国债期货净空头头寸减少5,723份合约，至314,985份合约。",
@@ -193,6 +223,18 @@
           "time_info": "[03时53分 ~ 05时38分]"
         },
         {
+          "title": "美国CFTC已要求预测市场平台避免使用美式赌博赔率进行营销",
+          "url": "https://wallstreetcn.com/livenews/3146941",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时32分 ~ 09时24分]"
+        },
+        {
           "title": "美国商品期货交易委员会（CFTC）：8月4日当周，投机者所持COMEX黄金净多头头寸增加12,070手合约，至132,398手合约，创逾六个月新高。 所持COMEX白银净多头头寸增加至11,067手合约，创四周新高。 所持COMEX铜净多头头寸增加至77,796手合约，创逾五年新高。 所持NYMEX铂金净多头头寸增加至10,882手合约，创逾两个月新高。 所持NYMEX钯金净多头头寸减少至5,429手合约，创六周新低。",
           "url": "https://wallstreetcn.com/livenews/3146898",
           "source": "华尔街见闻-快讯",
@@ -206,20 +248,6 @@
           "time_info": "[03时53分 ~ 05时38分]"
         },
         {
-          "title": "根据美国证券交易委员会（SEC）披露文件：alphabet提交文件申请发行最高额度250亿美元的分系列中期票据。",
-          "url": "https://wallstreetcn.com/livenews/3146917",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            7,
-            18,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时40分 ~ 07时32分]"
-        },
-        {
           "title": "美联储：美国上周银行存款19.363万亿美元，之前一周19.400万亿美元。",
           "url": "https://wallstreetcn.com/livenews/3146916",
           "source": "华尔街见闻-快讯",
@@ -228,28 +256,6 @@
             8,
             19,
             24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时40分 ~ 07时32分]"
-        },
-        {
-          "title": "美国加州州长纽森：加州正在为首次购买电动汽车的消费者提供数千美元的购车优惠。现在，购买一辆新的电动汽车最高可节省3500美元，购买二手电动汽车最高可节省1750美元。",
-          "url": "https://flash.jin10.com/detail/20260808035655589800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时40分 ~ 07时32分]"
-        },
-        {
-          "title": "乌克兰总统泽连斯基对美国参议院通过俄罗斯制裁法案表示感谢。",
-          "url": "https://flash.jin10.com/detail/20260808034132601800",
-          "source": "金十数据",
-          "ranks": [
-            17
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -311,6 +317,19 @@
           "time_info": "[04时40分 ~ 07时32分]"
         },
         {
+          "title": "美国光模块龙头AAOI电话会：预计产能两年扩张10倍，1.6T最快两周获大客户认证 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778954",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时33分 ~ 09时24分]"
+        },
+        {
           "title": "周五（8月7日）纽约尾盘，美元兑日元跌0.56%，报157.55日元，美国非农就业报告出炉时跳水，本周累计上涨0.08%，整体交投区间为155.23-158.57日元。 欧元兑日元跌0.18%，本周累涨0.40%；英镑兑日元跌0.20%，本周累涨0.26%。",
           "url": "https://wallstreetcn.com/livenews/3146896",
           "source": "华尔街见闻-快讯",
@@ -322,6 +341,32 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时53分 ~ 05时38分]"
+        },
+        {
+          "title": "美国两年期国债收益率在非农日跌5个基点，本周累跌约9.6个基点",
+          "url": "https://wallstreetcn.com/livenews/3146928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时33分 ~ 09时24分]"
+        },
+        {
+          "title": "周五（8月7日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报6.7429元，较周四纽约尾盘涨47点，日内整体交投于6.75-6.7401元区间，美国非农就业报告发布时显著拉升，本周累涨大约0.13%。 日线图上，离岸人民币逼近2023年2月2日最终报价6.7377元、当年2月1日最终报价6.7195元、当年1月16日顶部6.6975元、以及2022年6月3日顶部6.6170元。 按季度看，离岸人民币正在测试50季度线（该技术指标目前报6.7740元）。",
+          "url": "https://wallstreetcn.com/livenews/3146924",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            16,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时33分 ~ 09时24分]"
         },
         {
           "title": "美国FAA发布适航指令，要求检查部分波音客机",
@@ -336,18 +381,6 @@
           "time_info": "[01时49分 ~ 02时54分]"
         },
         {
-          "title": "美国光模块龙头AAOI电话会：预计产能两年扩张10倍，1.6T最快两周获大客户认证 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778954",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时33分 ~ 07时32分]"
-        },
-        {
           "title": "美国上诉法院维持对白宫宴会厅改造项目的暂停令",
           "url": "https://wallstreetcn.com/livenews/3146832",
           "source": "华尔街见闻-快讯",
@@ -358,18 +391,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时53分 ~ 01时49分]"
-        },
-        {
-          "title": "美国两年期国债收益率在非农日跌5个基点，本周累跌约9.6个基点",
-          "url": "https://wallstreetcn.com/livenews/3146928",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时33分 ~ 07时32分]"
         },
         {
           "title": "美国8月7日当周天然气钻井数 124，前值 127。",
@@ -408,18 +429,6 @@
           "time_info": "[01时49分 ~ 02时54分]"
         },
         {
-          "title": "周五（8月7日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报6.7429元，较周四纽约尾盘涨47点，日内整体交投于6.75-6.7401元区间，美国非农就业报告发布时显著拉升，本周累涨大约0.13%。 日线图上，离岸人民币逼近2023年2月2日最终报价6.7377元、当年2月1日最终报价6.7195元、当年1月16日顶部6.6975元、以及2022年6月3日顶部6.6170元。 按季度看，离岸人民币正在测试50季度线（该技术指标目前报6.7740元）。",
-          "url": "https://wallstreetcn.com/livenews/3146924",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时33分 ~ 07时32分]"
-        },
-        {
           "title": "美国生物战为何从未停止",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E7%94%9F%E7%89%A9%E6%88%98%E4%B8%BA%E4%BD%95%E4%BB%8E%E6%9C%AA%E5%81%9C%E6%AD%A2",
           "source": "bilibili 热搜",
@@ -440,6 +449,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
+        },
+        {
+          "title": "美国国务院：美国与国会合作，计划宣布向哥伦比亚提供10亿美元的安全援助。",
+          "url": "https://flash.jin10.com/detail/20260808083739753800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
         },
         {
           "title": "美国参议院确认Brett Matsumoto担任劳工统计局局长。 确认Phelan担任经济顾问委员会主。 联邦劳工纠纷委员会的若干提名人也获得确认。 确认David Cummins出任运输安全管理局局长。（彭博法律Blaw）",
@@ -484,6 +504,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时54分"
+        },
+        {
+          "title": "历史性一天，给美国的一个强烈信号",
+          "url": "https://news.ifeng.com/c/8vPnmptbds0",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
         },
         {
           "title": "据路透社：消息人士透露，加拿大知道其将不得不接受美国对钢铁和铝征收部分关税。加拿大希望任何有关关税减免的协议都能通过附加函形式达成，而不是写入更新后的《美墨加协定》正文。",
@@ -742,7 +773,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 35,
       "titles": [
         {
           "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
@@ -761,11 +792,12 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时52分 ~ 07时32分]"
+          "appearance_count": 8,
+          "time_info": "[03时52分 ~ 09时24分]"
         },
         {
           "title": "加密货币平台Crypto.com与特朗普传媒科技集团将整合合作伙伴关系调整为营销协议。",
@@ -779,6 +811,17 @@
           "time_info": "04时40分"
         },
         {
+          "title": "涉及白宫宴会厅项目，特朗普称将提起上诉",
+          "url": "https://news.ifeng.com/c/8vPP6fsrHNx",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
+        },
+        {
           "title": "特朗普称将就上诉法院涉白宫宴会厅项目裁决提起上诉",
           "url": "https://flash.jin10.com/detail/20260808011808390800",
           "source": "金十数据",
@@ -788,6 +831,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时49分"
+        },
+        {
+          "title": "中期选举临近，特朗普连续21场败诉",
+          "url": "https://news.ifeng.com/c/8vP8prEgTBk",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
         },
         {
           "title": "市场消息：苹果(AAPL.O)、亚马逊(AMZN.O)、耐克(NKE.N)在特朗普政府关税退款问题上遭到美国民主党参议员沃伦的质询。沃伦在信函中敦促企业向消费者退还关税款项。",
@@ -829,11 +883,24 @@
           "ranks": [
             2,
             13,
-            18
+            18,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时38分 ~ 07时32分]"
+          "appearance_count": 4,
+          "time_info": "[05时38分 ~ 09时24分]"
+        },
+        {
+          "title": "据CNN：美国总统特朗普将于下周一为达琳·格雷厄姆（已故参议员林赛·格雷厄姆的妹妹）举行电话集会。",
+          "url": "https://flash.jin10.com/detail/20260808035911250800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时40分 ~ 09时24分]"
         },
         {
           "title": "日程安排显示：沃什不曾在6月份与特朗普有过任何通话",
@@ -868,17 +935,6 @@
             11,
             22,
             27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时40分 ~ 07时32分]"
-        },
-        {
-          "title": "据CNN：美国总统特朗普将于下周一为达琳·格雷厄姆（已故参议员林赛·格雷厄姆的妹妹）举行电话集会。",
-          "url": "https://flash.jin10.com/detail/20260808035911250800",
-          "source": "金十数据",
-          "ranks": [
-            13
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -966,6 +1022,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时53分"
+        },
+        {
+          "title": "万斯为何能被特朗普青睐？背后有好几个大佬做靠山",
+          "url": "https://v.ifeng.com/c/8vPA0XjV5pT",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
         },
         {
           "title": "美国总统特朗普在矿业圆桌会议上表示：我们实现了能源独立，现在正在实现经济独立。美国必须在国内开采、提炼并制造关键矿产。",
@@ -1124,8 +1191,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 07时32分]"
+          "appearance_count": 11,
+          "time_info": "[00时53分 ~ 09时24分]"
         },
         {
           "title": "以情报高官疑因伊朗行动失败被解职",
@@ -1171,17 +1238,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时49分"
-        },
-        {
-          "title": "伊朗官员称防务协议无法保障沙特安全",
-          "url": "https://wallstreetcn.com/livenews/3146940",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时32分"
         },
         {
           "title": "伊朗总统：伊方未在涉谅解备忘录的谈判中作任何让步",
@@ -1242,6 +1298,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时49分 ~ 02时54分]"
+        },
+        {
+          "title": "伊朗官员称防务协议无法保障沙特安全",
+          "url": "https://wallstreetcn.com/livenews/3146940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时32分 ~ 09时24分]"
         },
         {
           "title": "伊朗官员称已与阿曼就霍尔木兹海峡通行问题明确总体框架",
@@ -1484,7 +1552,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
@@ -1492,11 +1560,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 07时32分]"
+          "appearance_count": 11,
+          "time_info": "[00时53分 ~ 09时24分]"
         },
         {
           "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
@@ -1563,22 +1632,24 @@
           "url": "https://flash.jin10.com/detail/20260808040607361800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时40分 ~ 07时32分]"
+          "appearance_count": 5,
+          "time_info": "[04时40分 ~ 09时24分]"
         },
         {
           "title": "金十图示：2026年08月07日（周五）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260808040559195800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时40分 ~ 07时32分]"
+          "appearance_count": 5,
+          "time_info": "[04时40分 ~ 09时24分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
@@ -1586,11 +1657,35 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时33分 ~ 07时32分]"
+          "appearance_count": 3,
+          "time_info": "[06时33分 ~ 09时24分]"
+        },
+        {
+          "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
+          "url": "https://www.cls.cn/detail/2448991",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
+        },
+        {
+          "title": "美股收盘： 三大股指收涨 SpaceX大涨近16%",
+          "url": "https://flash.jin10.com/detail/20260808040100140800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时40分 ~ 09时24分]"
         },
         {
           "title": "周五（8月7日），美股行业ETF多数收涨，生物科技指数ETF涨2.46%，网络股指数ETF涨2.09%，半导体ETF涨1.96%，科技行业ETF、全球科技股指数ETF至多涨1.42%，银行业ETF、全球航空业ETF、区域银行ETF至多跌0.37%，能源业ETF跌1.17%。",
@@ -1607,32 +1702,32 @@
           "time_info": "[04时40分 ~ 07时32分]"
         },
         {
-          "title": "美股收盘： 三大股指收涨 SpaceX大涨近16%",
-          "url": "https://flash.jin10.com/detail/20260808040100140800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时40分 ~ 07时32分]"
-        },
-        {
           "title": "美股收盘：标普500指数再创新高",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E6%A0%87%E6%99%AE500%E6%8C%87%E6%95%B0%E5%86%8D%E5%88%9B%E6%96%B0%E9%AB%98",
           "source": "百度热搜",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
+        },
+        {
+          "title": "美股创4月份以来最大单周涨幅",
+          "url": "https://www.toutiao.com/trending/7671430369190612521/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
         }
       ]
     },
     {
       "keyword_group": "日本",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "韩企捐水日本被骂只配冲马桶",
@@ -1642,24 +1737,25 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 07时32分]"
-        },
-        {
-          "title": "中方：日本当局应倾听民众呼声，停止在核问题上玩火",
-          "url": "https://news.ifeng.com/c/8vOpFNciqLA",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 07时32分]"
+          "appearance_count": 11,
+          "time_info": "[00时53分 ~ 09时24分]"
         },
         {
           "title": "值得反思!日本运动员偷鸡蛋被捕",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356951&amp;topic_name=%E5%80%BC%E5%BE%97%E5%8F%8D%E6%80%9D%21%E6%97%A5%E6%9C%AC%E8%BF%90%E5%8A%A8%E5%91%98%E5%81%B7%E9%B8%A1%E8%9B%8B%E8%A2%AB%E6%8D%95",
           "source": "贴吧",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时53分 ~ 09时24分]"
+        },
+        {
+          "title": "中方：日本当局应倾听民众呼声，停止在核问题上玩火",
+          "url": "https://news.ifeng.com/c/8vOpFNciqLA",
+          "source": "凤凰网",
           "ranks": [
             4
           ],
@@ -1695,11 +1791,12 @@
           "source": "贴吧",
           "ranks": [
             12,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 07时32分]"
+          "appearance_count": 11,
+          "time_info": "[00时53分 ~ 09时24分]"
         },
         {
           "title": "物价飞涨,日本青年戒饭成潮流",
@@ -1707,11 +1804,12 @@
           "source": "贴吧",
           "ranks": [
             20,
-            21
+            21,
+            19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 07时32分]"
+          "appearance_count": 11,
+          "time_info": "[00时53分 ~ 09时24分]"
         },
         {
           "title": "据知情人士透露，日本软银集团持股的3D打印机制造商Formlabs考虑IPO。（彭博）",
@@ -1721,17 +1819,29 @@
             5,
             6,
             17,
-            22
+            22,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时40分 ~ 07时32分]"
+          "appearance_count": 5,
+          "time_info": "[04时40分 ~ 09时24分]"
+        },
+        {
+          "title": "日本防卫省2027年度拟申请预算创新高",
+          "url": "https://wallstreetcn.com/livenews/3146948",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "梁文锋 只想用座机",
@@ -1767,11 +1877,23 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时52分 ~ 07时32分]"
+          "appearance_count": 8,
+          "time_info": "[03时52分 ~ 09时24分]"
+        },
+        {
+          "title": "网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午，是真的吗？为什么会出现这样的现象？",
+          "url": "https://www.zhihu.com/question/2068108635620774765",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
         }
       ]
     },
@@ -1795,11 +1917,12 @@
           "url": "https://wallstreetcn.com/livenews/3146942",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时32分 ~ 09时24分]"
         },
         {
           "title": "OpenAI：Astra是一款尚未发布的模型，无法排除Astra模型具备关键网络攻击能力",
@@ -1825,11 +1948,12 @@
           "source": "贴吧",
           "ranks": [
             18,
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 07时32分]"
+          "appearance_count": 11,
+          "time_info": "[00时53分 ~ 09时24分]"
         },
         {
           "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
@@ -1855,11 +1979,12 @@
           "ranks": [
             1,
             12,
-            17
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时38分 ~ 07时32分]"
+          "appearance_count": 4,
+          "time_info": "[05时38分 ~ 09时24分]"
         },
         {
           "title": "瑞银：黄金上涨行情具备支撑，金价明年有望向5000美元迈进",
