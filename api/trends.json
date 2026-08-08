@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T15:48:47.295677+08:00",
-  "total_titles_processed": 1063,
+  "generated_at": "2026-08-08T16:39:20.261488+08:00",
+  "total_titles_processed": 1124,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国",
-      "match_count": 77,
+      "match_count": 84,
       "titles": [
         {
           "title": "爆冷！美国7月非农就业人数意外减少2.3万，前两月就业下修10.3万人",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时53分 ~ 15时48分]"
+          "appearance_count": 18,
+          "time_info": "[00时53分 ~ 16时39分]"
         },
         {
           "title": "美国就业市场意外“熄火”：7月非农负增长 劳动参与率跌至5年来新低",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时53分 ~ 15时48分]"
+          "appearance_count": 18,
+          "time_info": "[00时53分 ~ 16时39分]"
         },
         {
           "title": "今晚美国非农大考，“弱7月”魔咒会重演吗？此前三年均不及预期",
@@ -55,8 +55,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时33分 ~ 15时48分]"
+          "appearance_count": 10,
+          "time_info": "[06时33分 ~ 16时39分]"
         },
         {
           "title": "王兴兴300问谈美国禁令",
@@ -174,6 +174,32 @@
           "time_info": "[04时40分 ~ 12时55分]"
         },
         {
+          "title": "美国财政部“改口”引爆市场猜测：美国或削减长债供给，引导长端利率下行",
+          "url": "https://wallstreetcn.com/articles/3778977",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时55分 ~ 16时39分]"
+        },
+        {
+          "title": "美国AI开始攻击真人了",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BDAI%E5%BC%80%E5%A7%8B%E6%94%BB%E5%87%BB%E7%9C%9F%E4%BA%BA%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时55分 ~ 16时39分]"
+        },
+        {
           "title": "美国参议院以86票赞成、11票反对通过全面俄罗斯能源制裁法案，并提交众议院审议。",
           "url": "https://flash.jin10.com/detail/20260808012329921800",
           "source": "金十数据",
@@ -183,6 +209,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时49分"
+        },
+        {
+          "title": "美国财长贝森特：霍尔木兹海峡将“变得无关紧要”",
+          "url": "https://wallstreetcn.com/livenews/3146981",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
         },
         {
           "title": "美国参议院批准布雷特·松本出任劳工统计局局长",
@@ -196,32 +233,6 @@
           "time_info": "02时54分"
         },
         {
-          "title": "美国财政部“改口”引爆市场猜测：美国或削减长债供给，引导长端利率下行",
-          "url": "https://wallstreetcn.com/articles/3778977",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时55分 ~ 15时48分]"
-        },
-        {
-          "title": "美国AI开始攻击真人了",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BDAI%E5%BC%80%E5%A7%8B%E6%94%BB%E5%87%BB%E7%9C%9F%E4%BA%BA%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时55分 ~ 15时48分]"
-        },
-        {
           "title": "市场消息：AeroVironment预计将赢得美国陆军一份价值4亿美元的反无人机系统合同。",
           "url": "https://flash.jin10.com/detail/20260808022109456800",
           "source": "金十数据",
@@ -233,6 +244,28 @@
           "time_info": "02时54分"
         },
         {
+          "title": "美国参议院通过临时拨款法案，以避免选举前夕出现政府停摆。",
+          "url": "https://flash.jin10.com/detail/20260808160148151800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
+        },
+        {
+          "title": "美国会参议院通过临时拨款法案",
+          "url": "https://wallstreetcn.com/livenews/3146978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
+        },
+        {
           "title": "美国参议院周五以51票赞成、47票反对的投票比例批准Brett Matsumoto出任美国劳工统计局局长。",
           "url": "https://flash.jin10.com/detail/20260808022049488800",
           "source": "金十数据",
@@ -242,6 +275,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时54分"
+        },
+        {
+          "title": "美国防部拟年底前首测金穹反导系统",
+          "url": "https://flash.jin10.com/detail/20260808155027499800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
         },
         {
           "title": "据美国证券交易委员会（SEC）文件显示，AT&T(T.N)提交了发行12亿欧元浮动利率全球票据的最终条款文件，该票据将于2028年到期。",
@@ -282,6 +326,34 @@
           "time_info": "[04时40分 ~ 09时24分]"
         },
         {
+          "title": "摩根大通：第二季度美国和欧洲地区均出现EPS超预期情况",
+          "url": "https://flash.jin10.com/detail/20260808132230009800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            9,
+            11,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时42分 ~ 16时39分]"
+        },
+        {
+          "title": "中国地震台网正式测定：8月8日12时50分在美国阿拉斯加州发生5.2级地震，震源深度10千米。",
+          "url": "https://flash.jin10.com/detail/20260808131725641800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            10,
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时42分 ~ 16时39分]"
+        },
+        {
           "title": "美国加州州长纽森：加州正在为首次购买电动汽车的消费者提供数千美元的购车优惠。现在，购买一辆新的电动汽车最高可节省3500美元，购买二手电动汽车最高可节省1750美元。",
           "url": "https://flash.jin10.com/detail/20260808035655589800",
           "source": "金十数据",
@@ -307,19 +379,6 @@
           "time_info": "[03时53分 ~ 05时38分]"
         },
         {
-          "title": "摩根大通：第二季度美国和欧洲地区均出现EPS超预期情况",
-          "url": "https://flash.jin10.com/detail/20260808132230009800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时42分 ~ 15时48分]"
-        },
-        {
           "title": "美国商品期货交易委员会（CFTC）：8月4日当周，投机者所持NYMEX WTI原油净多头头寸减少7,257手合约，至101,050手合约。 所持布伦特与WTI原油净多头头寸降低至274,577手合约，创三周新低。 所持NYMEX天然气净空头头寸达到93,629手合约，创六年新高。",
           "url": "https://wallstreetcn.com/livenews/3146899",
           "source": "华尔街见闻-快讯",
@@ -331,19 +390,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时53分 ~ 05时38分]"
-        },
-        {
-          "title": "中国地震台网正式测定：8月8日12时50分在美国阿拉斯加州发生5.2级地震，震源深度10千米。",
-          "url": "https://flash.jin10.com/detail/20260808131725641800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时42分 ~ 15时48分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：8月4日当周，投机者所持COMEX黄金净多头头寸增加12,070手合约，至132,398手合约，创逾六个月新高。 所持COMEX白银净多头头寸增加至11,067手合约，创四周新高。 所持COMEX铜净多头头寸增加至77,796手合约，创逾五年新高。 所持NYMEX铂金净多头头寸增加至10,882手合约，创逾两个月新高。 所持NYMEX钯金净多头头寸减少至5,429手合约，创六周新低。",
@@ -508,6 +554,18 @@
           "time_info": "[06时33分 ~ 09时24分]"
         },
         {
+          "title": "多家A股公司：收到美国关税退税",
+          "url": "https://www.cls.cn/detail/2449086",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时48分 ~ 16时39分]"
+        },
+        {
           "title": "美国国务院：美国与国会合作，计划宣布向哥伦比亚提供10亿美元的安全援助。",
           "url": "https://flash.jin10.com/detail/20260808083739753800",
           "source": "金十数据",
@@ -636,6 +694,17 @@
           "time_info": "00时53分"
         },
         {
+          "title": "美国西部野火肆虐 一灭火直升机坠毁",
+          "url": "https://flash.jin10.com/detail/20260808152208475800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
+        },
+        {
           "title": "美国参议院投票确认戴维·卡明斯（David Cummins）出任美国运输安全管理局局长，确认菲兰（Phelan）担任经济顾问委员会主席。",
           "url": "https://flash.jin10.com/detail/20260808021447066800",
           "source": "金十数据",
@@ -656,17 +725,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时54分"
-        },
-        {
-          "title": "多家A股公司：收到美国关税退税",
-          "url": "https://www.cls.cn/detail/2449086",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时48分"
         },
         {
           "title": "据路透社：消息人士透露，加拿大知道其将不得不接受美国对钢铁和铝征收部分关税。加拿大希望任何有关关税减免的协议都能通过附加函形式达成，而不是写入更新后的《美墨加协定》正文。",
@@ -878,6 +936,17 @@
           "time_info": "02时54分"
         },
         {
+          "title": "美国阿拉斯加州发生5.2级地震",
+          "url": "https://www.toutiao.com/trending/7671524219267891242/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
+        },
+        {
           "title": "纽约联储调查：美国消费者对就业和通胀的前景变得更加乐观",
           "url": "https://flash.jin10.com/detail/20260807232056747800",
           "source": "金十数据",
@@ -920,6 +989,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时53分"
+        },
+        {
+          "title": "美国防部公布第五批UFO档案",
+          "url": "https://www.toutiao.com/trending/7670798536851636250/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
         }
       ]
     },
@@ -936,8 +1016,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时24分 ~ 15时48分]"
+          "appearance_count": 8,
+          "time_info": "[09时24分 ~ 16时39分]"
         },
         {
           "title": "释新闻｜槽点密集的造舰计划：特朗普的“黄金舰队”梦能实现吗？",
@@ -952,8 +1032,21 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[03时52分 ~ 15时48分]"
+          "appearance_count": 15,
+          "time_info": "[03时52分 ~ 16时39分]"
+        },
+        {
+          "title": "特朗普：隔着大洋呢，我们没掺和这事",
+          "url": "https://news.ifeng.com/c/8vPrynBVxqj",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时24分 ~ 16时39分]"
         },
         {
           "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
@@ -967,19 +1060,6 @@
           "time_info": "[00时53分 ~ 05时38分]"
         },
         {
-          "title": "特朗普：隔着大洋呢，我们没掺和这事",
-          "url": "https://news.ifeng.com/c/8vPrynBVxqj",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时24分 ~ 15时48分]"
-        },
-        {
           "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
           "url": "https://www.cls.cn/detail/2449039",
           "source": "财联社热门",
@@ -990,8 +1070,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时55分 ~ 15时48分]"
+          "appearance_count": 5,
+          "time_info": "[12时55分 ~ 16时39分]"
         },
         {
           "title": "加密货币平台Crypto.com与特朗普传媒科技集团将整合合作伙伴关系调整为营销协议。",
@@ -1398,7 +1478,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 36,
+      "match_count": 40,
       "titles": [
         {
           "title": "伊朗最高领袖给总统下了“最后警告”？",
@@ -1431,8 +1511,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时24分 ~ 15时48分]"
+          "appearance_count": 7,
+          "time_info": "[11时24分 ~ 16时39分]"
         },
         {
           "title": "美官员：预计伊朗与阿曼将很快就霍尔木兹海峡问题达成协议",
@@ -1484,15 +1564,26 @@
           "time_info": "01时49分"
         },
         {
-          "title": "消息人士：美军高层寻找摆脱伊朗战事的途径",
-          "url": "https://flash.jin10.com/detail/20260808144535599800",
-          "source": "金十数据",
+          "title": "伊朗总统称敌人未能将伊朗推入崩溃",
+          "url": "https://wallstreetcn.com/livenews/3146979",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时48分"
+          "time_info": "16时39分"
+        },
+        {
+          "title": "伊朗战事打不下去了？美军参联会主席力主“翻篇”",
+          "url": "https://news.ifeng.com/c/8vQJU1FtdBd",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
         },
         {
           "title": "伊朗总统：伊方未在涉谅解备忘录的谈判中作任何让步",
@@ -1541,6 +1632,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时53分 ~ 02时54分]"
+        },
+        {
+          "title": "消息人士：美军高层寻找摆脱伊朗战事的途径",
+          "url": "https://flash.jin10.com/detail/20260808144535599800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时48分 ~ 16时39分]"
         },
         {
           "title": "据某斡旋国一名外交官透露，伊朗谈判代表正等待伊朗最高国家安全委员会就伊朗与阿曼、美国达成的协议作出最终批准。 该外交官称：“我们预计很快就能拿到这项批准。”（Axios）",
@@ -1628,6 +1731,17 @@
           "time_info": "[13时42分 ~ 14时50分]"
         },
         {
+          "title": "曝美军高层寻找摆脱伊朗战事的途径",
+          "url": "https://www.toutiao.com/trending/7671436241469538350/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
+        },
+        {
           "title": "伊朗外交部长表示，面对全球军费开支最高的军队，伊朗实力强大的武装部队已展现出自身的备战状态、作战能力与军事力量。",
           "url": "https://wallstreetcn.com/livenews/3146865",
           "source": "华尔街见闻-快讯",
@@ -1637,6 +1751,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时54分"
+        },
+        {
+          "title": "消息人士：美军高层寻找摆脱伊朗战事的途径",
+          "url": "https://wallstreetcn.com/livenews/3146980",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
         },
         {
           "title": "伊朗副外长：波斯湾地区安全应由本地区国家共同维护",
@@ -1818,7 +1943,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
@@ -1832,31 +1957,6 @@
           "time_info": "[00时53分 ~ 06时33分]"
         },
         {
-          "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2448784",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时53分 ~ 15时48分]"
-        },
-        {
-          "title": "非农爆冷打击加息预期，美股高开，光通信概念股普涨，光模块制造商AAOI涨超12%，现货黄金突破4350",
-          "url": "https://wallstreetcn.com/articles/3778924",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 05时38分]"
-        },
-        {
           "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
           "url": "https://www.cls.cn/detail/2448974",
           "source": "财联社热门",
@@ -1867,8 +1967,23 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时33分 ~ 15时48分]"
+          "appearance_count": 10,
+          "time_info": "[06时33分 ~ 16时39分]"
+        },
+        {
+          "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2448784",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时53分 ~ 16时39分]"
         },
         {
           "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
@@ -1880,8 +1995,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时24分 ~ 15时48分]"
+          "appearance_count": 8,
+          "time_info": "[09时24分 ~ 16时39分]"
+        },
+        {
+          "title": "非农爆冷打击加息预期，美股高开，光通信概念股普涨，光模块制造商AAOI涨超12%，现货黄金突破4350",
+          "url": "https://wallstreetcn.com/articles/3778924",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 05时38分]"
         },
         {
           "title": "美股存储板块集体大跌",
@@ -1944,6 +2070,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时40分 ~ 09时24分]"
+        },
+        {
+          "title": "李大霄谈美股三大指数高开",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%B0%88%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%AB%98%E5%BC%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
         },
         {
           "title": "美股收盘： 三大股指收涨 SpaceX大涨近16%",
@@ -2022,6 +2159,17 @@
           "time_info": "[00时53分 ~ 07时32分]"
         },
         {
+          "title": "日本医院把患者大脑当肿瘤切了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356955&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%8C%BB%E9%99%A2%E6%8A%8A%E6%82%A3%E8%80%85%E5%A4%A7%E8%84%91%E5%BD%93%E8%82%BF%E7%98%A4%E5%88%87%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时24分 ~ 16时39分]"
+        },
+        {
           "title": "值得反思!日本运动员偷鸡蛋被捕",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356951&amp;topic_name=%E5%80%BC%E5%BE%97%E5%8F%8D%E6%80%9D%21%E6%97%A5%E6%9C%AC%E8%BF%90%E5%8A%A8%E5%91%98%E5%81%B7%E9%B8%A1%E8%9B%8B%E8%A2%AB%E6%8D%95",
           "source": "贴吧",
@@ -2030,11 +2178,12 @@
             3,
             7,
             9,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时53分 ~ 15时48分]"
+          "appearance_count": 18,
+          "time_info": "[00时53分 ~ 16时39分]"
         },
         {
           "title": "韩企捐水日本被骂只配冲马桶",
@@ -2044,22 +2193,12 @@
             2,
             6,
             10,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时53分 ~ 15时48分]"
-        },
-        {
-          "title": "日本医院把患者大脑当肿瘤切了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356955&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%8C%BB%E9%99%A2%E6%8A%8A%E6%82%A3%E8%80%85%E5%A4%A7%E8%84%91%E5%BD%93%E8%82%BF%E7%98%A4%E5%88%87%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时24分 ~ 15时48分]"
+          "appearance_count": 18,
+          "time_info": "[00时53分 ~ 16时39分]"
         },
         {
           "title": "日本原子弹爆炸亲历者反对高市修改无核三原则，“她应该下台”",
@@ -2082,11 +2221,12 @@
             11,
             14,
             17,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时53分 ~ 15时48分]"
+          "appearance_count": 18,
+          "time_info": "[00时53分 ~ 16时39分]"
         },
         {
           "title": "物价飞涨,日本青年戒饭成潮流",
@@ -2098,11 +2238,12 @@
             19,
             22,
             25,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时53分 ~ 15时48分]"
+          "appearance_count": 18,
+          "time_info": "[00时53分 ~ 16时39分]"
         },
         {
           "title": "日本防卫省2027年度拟申请预算创新高",
@@ -2120,6 +2261,19 @@
           "time_info": "[09时24分 ~ 15时48分]"
         },
         {
+          "title": "日本竟想学乌克兰：对华冲突，用这招",
+          "url": "https://news.ifeng.com/c/8vPpcfmBLvh",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时55分 ~ 16时39分]"
+        },
+        {
           "title": "据知情人士透露，日本软银集团持股的3D打印机制造商Formlabs考虑IPO。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3146918",
           "source": "华尔街见闻-快讯",
@@ -2133,19 +2287,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时40分 ~ 09时24分]"
-        },
-        {
-          "title": "日本竟想学乌克兰：对华冲突，用这招",
-          "url": "https://news.ifeng.com/c/8vPpcfmBLvh",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时55分 ~ 15时48分]"
         }
       ]
     },
@@ -2153,6 +2294,20 @@
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 6,
       "titles": [
+        {
+          "title": "网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午，是真的吗？为什么会出现这样的现象？",
+          "url": "https://www.zhihu.com/question/2068108635620774765",
+          "source": "知乎",
+          "ranks": [
+            5,
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时24分 ~ 16时39分]"
+        },
         {
           "title": "梁文锋 只想用座机",
           "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B+%E5%8F%AA%E6%83%B3%E7%94%A8%E5%BA%A7%E6%9C%BA",
@@ -2171,19 +2326,6 @@
           "time_info": "[00时53分 ~ 07时32分]"
         },
         {
-          "title": "网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午，是真的吗？为什么会出现这样的现象？",
-          "url": "https://www.zhihu.com/question/2068108635620774765",
-          "source": "知乎",
-          "ranks": [
-            5,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时24分 ~ 15时48分]"
-        },
-        {
           "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
           "url": "https://m.thepaper.cn/newsDetail_forward_33739348",
           "source": "澎湃新闻",
@@ -2195,8 +2337,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[03时52分 ~ 15时48分]"
+          "appearance_count": 15,
+          "time_info": "[03时52分 ~ 16时39分]"
         },
         {
           "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
@@ -2346,11 +2488,12 @@
             17,
             20,
             23,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时53分 ~ 15时48分]"
+          "appearance_count": 18,
+          "time_info": "[00时53分 ~ 16时39分]"
         },
         {
           "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
@@ -2402,11 +2545,12 @@
           "url": "https://www.toutiao.com/trending/7671460092932636678/",
           "source": "今日头条",
           "ranks": [
-            1
+            1,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时55分 ~ 15时48分]"
+          "appearance_count": 5,
+          "time_info": "[12时55分 ~ 16时39分]"
         },
         {
           "title": "新疆女孩在天津偶遇支教老师哭红眼",
@@ -2415,11 +2559,12 @@
           "ranks": [
             16,
             14,
-            9
+            9,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时42分 ~ 15时48分]"
+          "appearance_count": 4,
+          "time_info": "[13时42分 ~ 16时39分]"
         }
       ]
     },
@@ -2435,8 +2580,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时50分"
+          "appearance_count": 2,
+          "time_info": "[14时50分 ~ 16时39分]"
         }
       ]
     },
