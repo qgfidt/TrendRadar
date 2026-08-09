@@ -1,11 +1,164 @@
 {
-  "generated_at": "2026-08-10T01:31:27.149358+08:00",
-  "total_titles_processed": 359,
+  "generated_at": "2026-08-10T02:38:46.893768+08:00",
+  "total_titles_processed": 378,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "伊朗",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "伊朗最高领袖与总统会谈，重点讨论了这几个问题",
+          "url": "https://news.ifeng.com/c/8vS3pS8BvYm",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 02时38分]"
+        },
+        {
+          "title": "伊朗婉转回应最高领袖病危传闻",
+          "url": "https://news.ifeng.com/c/8vSBIqKsEnV",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 02时38分]"
+        },
+        {
+          "title": "伊朗最高领袖与总统会谈",
+          "url": "https://www.toutiao.com/trending/7670941843498287158/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 02时38分]"
+        },
+        {
+          "title": "万斯称美伊冲突仍处于“博弈中段”，美军“寻找出口”，伊朗开出“重开海峡6大条件”",
+          "url": "https://wallstreetcn.com/articles/3778994",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 02时38分]"
+        },
+        {
+          "title": "在霍尔木兹海峡僵局中，伊朗为何自信能“耗过”美国？",
+          "url": "https://flash.jin10.com/detail/20260810022129742800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时38分"
+        },
+        {
+          "title": "据伊通社（IRNA）：伊朗总统府负责新闻与通信事务的副主任宣布，伊朗最高领袖穆杰塔巴任命穆赫辛·雷扎伊为其在国家安全委员会的代表。",
+          "url": "https://flash.jin10.com/detail/20260810015638671800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时38分"
+        },
+        {
+          "title": "伊朗最高领袖与总统会谈",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E4%B8%8E%E6%80%BB%E7%BB%9F%E4%BC%9A%E8%B0%88",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 02时38分]"
+        },
+        {
+          "title": "俄媒称伊朗布什尔核电站新机组建设仍在继续",
+          "url": "https://wallstreetcn.com/livenews/3147111",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 02时38分]"
+        },
+        {
+          "title": "伊朗陆军司令称部队全面战备，警告美军勿踏足伊朗领土",
+          "url": "https://flash.jin10.com/detail/20260809234510218800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            19,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 02时38分]"
+        },
+        {
+          "title": "据沙特媒体哈达斯（Alhadath）：也门国家抵抗力量表示，胡塞武装是伊朗的工具，其决策权掌握在伊朗手中。该组织企图通过制造混乱、激化紧张局势来为伊朗服务，以帮助其缓解外部压力。也门国家抵抗力量强调，胡塞武装并非和平工具，而是“战争工具”，与其达成和平毫无可能。该组织同时警告，胡塞武装的冒险行为绝不会被姑息纵容。",
+          "url": "https://flash.jin10.com/detail/20260810003151519800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时31分 ~ 02时38分]"
+        },
+        {
+          "title": "伊朗总统：愿保持沟通，但绝不会坐等任何外部势力",
+          "url": "https://flash.jin10.com/detail/20260810011547418800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时38分"
+        },
+        {
+          "title": "伊朗最高领袖与总统会谈",
+          "url": "https://www.douyin.com/hot/2603545",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时33分"
+        },
+        {
+          "title": "伊朗陆军司令：将回应任何敌对行动",
+          "url": "https://www.toutiao.com/trending/7671949132243763263/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时38分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美国",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "多家A股公司：收到美国关税退税",
@@ -15,8 +168,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 02时38分]"
         },
         {
           "title": "“木头姐”：就业数据未显衰退，AI正驱动美国经济进入通缩与高生产率新周期",
@@ -26,8 +179,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 02时38分]"
         },
         {
           "title": "下周重磅日程：美国CPI，宇树科技打新，腾讯、京东、茅台、中芯国际财报",
@@ -38,8 +191,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 02时38分]"
         },
         {
           "title": "磷化铟是下一个“稀土”？关键产业如何成为反制核心，卡住美国光通信的脖子？",
@@ -50,8 +203,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 02时38分]"
         },
         {
           "title": "美财长贝森特多举措干预债市，华尔街担忧“卖出美国”情绪升温",
@@ -61,8 +214,52 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 02时38分]"
+        },
+        {
+          "title": "白宫经济顾问哈塞特：我们看到的美国通胀数据正迅速下降。",
+          "url": "https://wallstreetcn.com/livenews/3147102",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 02时38分]"
+        },
+        {
+          "title": "哈马斯呼吁美国向内塔尼亚胡施压，促其遵守加沙和平计划路线图",
+          "url": "https://wallstreetcn.com/livenews/3147097",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 02时38分]"
+        },
+        {
+          "title": "哈塞特称自己仍对美国牛肉价格感到\"震惊\"",
+          "url": "https://wallstreetcn.com/livenews/3147096",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 02时38分]"
+        },
+        {
+          "title": "美国“外行担任大使”现象惹质疑",
+          "url": "https://wallstreetcn.com/livenews/3147091",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 02时38分]"
         },
         {
           "title": "美国纽约一船只倾覆致2人死亡",
@@ -77,48 +274,15 @@
           "time_info": "[00时33分 ~ 01时31分]"
         },
         {
-          "title": "白宫经济顾问哈塞特：我们看到的美国通胀数据正迅速下降。",
-          "url": "https://wallstreetcn.com/livenews/3147102",
-          "source": "华尔街见闻-快讯",
+          "title": "美国科学家首次用 AI 设计出病毒，意味着什么？生物安全防线该如何应对？",
+          "url": "https://www.zhihu.com/question/2068991097578021742",
+          "source": "知乎",
           "ranks": [
-            16
+            19
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时31分]"
-        },
-        {
-          "title": "哈马斯呼吁美国向内塔尼亚胡施压，促其遵守加沙和平计划路线图",
-          "url": "https://wallstreetcn.com/livenews/3147097",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时31分]"
-        },
-        {
-          "title": "哈塞特称自己仍对美国牛肉价格感到\"震惊\"",
-          "url": "https://wallstreetcn.com/livenews/3147096",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时31分]"
-        },
-        {
-          "title": "美国“外行担任大使”现象惹质疑",
-          "url": "https://wallstreetcn.com/livenews/3147091",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时31分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时38分"
         },
         {
           "title": "金十整理：下周重要事件与数据预告——周三美国CPI数据重磅来袭；国内成品油将调价、京东与腾讯等将公布二季度财报",
@@ -126,113 +290,6 @@
           "source": "金十数据",
           "ranks": [
             23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "伊朗最高领袖与总统会谈，重点讨论了这几个问题",
-          "url": "https://news.ifeng.com/c/8vS3pS8BvYm",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时31分]"
-        },
-        {
-          "title": "伊朗婉转回应最高领袖病危传闻",
-          "url": "https://news.ifeng.com/c/8vSBIqKsEnV",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时31分]"
-        },
-        {
-          "title": "伊朗最高领袖与总统会谈",
-          "url": "https://www.toutiao.com/trending/7670941843498287158/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时31分]"
-        },
-        {
-          "title": "万斯称美伊冲突仍处于“博弈中段”，美军“寻找出口”，伊朗开出“重开海峡6大条件”",
-          "url": "https://wallstreetcn.com/articles/3778994",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时31分]"
-        },
-        {
-          "title": "伊朗最高领袖与总统会谈",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E4%B8%8E%E6%80%BB%E7%BB%9F%E4%BC%9A%E8%B0%88",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时31分]"
-        },
-        {
-          "title": "俄媒称伊朗布什尔核电站新机组建设仍在继续",
-          "url": "https://wallstreetcn.com/livenews/3147111",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时31分]"
-        },
-        {
-          "title": "伊朗陆军司令称部队全面战备，警告美军勿踏足伊朗领土",
-          "url": "https://flash.jin10.com/detail/20260809234510218800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时31分]"
-        },
-        {
-          "title": "据沙特媒体哈达斯（Alhadath）：也门国家抵抗力量表示，胡塞武装是伊朗的工具，其决策权掌握在伊朗手中。该组织企图通过制造混乱、激化紧张局势来为伊朗服务，以帮助其缓解外部压力。也门国家抵抗力量强调，胡塞武装并非和平工具，而是“战争工具”，与其达成和平毫无可能。该组织同时警告，胡塞武装的冒险行为绝不会被姑息纵容。",
-          "url": "https://flash.jin10.com/detail/20260810003151519800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时31分"
-        },
-        {
-          "title": "伊朗最高领袖与总统会谈",
-          "url": "https://www.douyin.com/hot/2603545",
-          "source": "抖音",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -249,11 +306,12 @@
           "url": "https://www.zhihu.com/question/2069354305589620880",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 02时38分]"
         },
         {
           "title": "急眼了,日本人做法咒奥本海默",
@@ -263,20 +321,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时31分]"
-        },
-        {
-          "title": "日本滋贺县北部发生4.4级地震",
-          "url": "https://flash.jin10.com/detail/20260810001123750800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 02时38分]"
         },
         {
           "title": "日媒：战时日本多所大学进行输血人体实验，向患者注射动物血",
@@ -287,8 +333,21 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 02时38分]"
+        },
+        {
+          "title": "日本滋贺县北部发生4.4级地震",
+          "url": "https://flash.jin10.com/detail/20260810001123750800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 02时38分]"
         },
         {
           "title": "日本父女闹掰,一句恶心伤透心",
@@ -298,8 +357,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 02时38分]"
         },
         {
           "title": "学者：日本精工制造不容小觑",
@@ -310,8 +369,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 02时38分]"
         },
         {
           "title": "日本医院把患者大脑当肿瘤切了",
@@ -321,19 +380,20 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 02时38分]"
         },
         {
           "title": "市场消息：据悉特斯拉(TSLA.O)今年将在日本增加60%的交付网点。",
           "url": "https://flash.jin10.com/detail/20260810002924011800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时31分 ~ 02时38分]"
         }
       ]
     },
@@ -349,30 +409,32 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 02时38分]"
         },
         {
           "title": "美媒：特朗普暂缓对伊动武，称正“低调处理”伊朗问题",
           "url": "https://flash.jin10.com/detail/20260810010023977800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时31分 ~ 02时38分]"
         },
         {
           "title": "与特朗普关联的美石油公司拟在格陵兰岛钻探，岛政府强烈警告",
           "url": "https://m.thepaper.cn/newsDetail_forward_33748556",
           "source": "澎湃新闻",
           "ranks": [
-            5
+            5,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时31分 ~ 02时38分]"
         },
         {
           "title": "鲁比奥一句“别回头”，特朗普：这画不错，我要带走",
@@ -382,8 +444,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 02时38分]"
         },
         {
           "title": "内塔尼亚胡认为在加沙计划上跟特朗普作对“没有风险”",
@@ -422,8 +484,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 02时38分]"
         },
         {
           "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
@@ -433,8 +495,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 02时38分]"
         }
       ]
     },
@@ -451,8 +513,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 02时38分]"
         }
       ]
     },
