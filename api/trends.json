@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T15:54:10.214686+08:00",
-  "total_titles_processed": 939,
+  "generated_at": "2026-08-09T16:40:44.596353+08:00",
+  "total_titles_processed": 981,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 39,
+      "match_count": 42,
       "titles": [
         {
           "title": "伊媒发布伊朗最高领袖视频",
@@ -73,8 +73,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时41分 ~ 15时54分]"
+          "appearance_count": 7,
+          "time_info": "[11时41分 ~ 16时40分]"
         },
         {
           "title": "以媒称伊朗最高领袖被紧急送医，真实性如何？会怎样影响当前局势？",
@@ -99,11 +99,12 @@
             19,
             22,
             23,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 15时54分]"
+          "appearance_count": 14,
+          "time_info": "[00时31分 ~ 16时40分]"
         },
         {
           "title": "伊朗媒体发布伊朗最高领袖视频",
@@ -118,8 +119,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时31分 ~ 15时54分]"
+          "appearance_count": 18,
+          "time_info": "[00时31分 ~ 16时40分]"
         },
         {
           "title": "伊官员：有证据显示美军使用磷弹轰炸伊朗多地",
@@ -182,23 +183,12 @@
             1,
             4,
             5,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时41分 ~ 15时54分]"
-        },
-        {
-          "title": "伊朗总统说必须摆脱非战非和局面",
-          "url": "https://wallstreetcn.com/livenews/3147050",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时54分 ~ 15时54分]"
+          "appearance_count": 5,
+          "time_info": "[11时41分 ~ 16时40分]"
         },
         {
           "title": "万斯称美伊冲突仍处于“博弈中段”，美军“寻找出口”，伊朗开出“重开海峡6大条件”",
@@ -209,8 +199,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时41分 ~ 15时54分]"
+          "appearance_count": 7,
+          "time_info": "[11时41分 ~ 16时40分]"
         },
         {
           "title": "美国乡村小镇突发停水，FBI：可能是伊朗黑客干的",
@@ -220,8 +210,32 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时41分 ~ 15时54分]"
+          "appearance_count": 7,
+          "time_info": "[11时41分 ~ 16时40分]"
+        },
+        {
+          "title": "伊朗总统说必须摆脱非战非和局面",
+          "url": "https://wallstreetcn.com/livenews/3147050",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时54分 ~ 16时40分]"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：一些中介国家仍在努力为重新谈判创造条件。在我们看来，只要美国未结束对《伊斯兰堡备忘录》的违反，且未对此做出弥补，就不可能重新开始谈判。",
+          "url": "https://flash.jin10.com/detail/20260809162616053800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         },
         {
           "title": "伊朗媒体发布伊朗最高领袖视频",
@@ -236,6 +250,17 @@
           "time_info": "[00时31分 ~ 05时28分]"
         },
         {
+          "title": "伊朗外长阿拉格齐：只要美国违反临时协议，就不会进行谈判。",
+          "url": "https://flash.jin10.com/detail/20260809161610479800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
           "title": "美媒：伊朗战争导致国防库存锐减，五角大楼敦促国防企业加快武器生产",
           "url": "https://flash.jin10.com/detail/20260809051320025800",
           "source": "金十数据",
@@ -247,6 +272,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时28分 ~ 09时30分]"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：伊朗外长阿拉格齐表示，与美国没有谈判，只通过中介交换信息。",
+          "url": "https://flash.jin10.com/detail/20260809161412221800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         },
         {
           "title": "伊朗革命卫队指挥官：美国和以色列在实现其针对伊斯兰体制的目标上已完全失败，其领导人在面对公众舆论、精英和本国人民时，对其接连不断的失败已无任何回应。",
@@ -384,6 +420,18 @@
           "time_info": "[01时28分 ~ 02时35分]"
         },
         {
+          "title": "伊朗外长称将继续坚持抵抗立场",
+          "url": "https://flash.jin10.com/detail/20260809145146414800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时54分 ~ 16时40分]"
+        },
+        {
           "title": "据福克斯新闻：美国副总统万斯表示，伊朗已通知美国，尽管政权内部人士发表了将对霍尔木兹海峡征收过境费的声明，但伊朗不会征收此类费用。",
           "url": "https://flash.jin10.com/detail/20260808224359664800",
           "source": "金十数据",
@@ -418,17 +466,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时31分 ~ 01时28分]"
-        },
-        {
-          "title": "伊朗外长称将继续坚持抵抗立场",
-          "url": "https://flash.jin10.com/detail/20260809145146414800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时54分"
         },
         {
           "title": "伊朗媒体发布伊朗最高领袖视频",
@@ -489,7 +526,7 @@
     },
     {
       "keyword_group": "美国",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "多家A股公司：收到美国关税退税",
@@ -499,8 +536,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时31分 ~ 15时54分]"
+          "appearance_count": 18,
+          "time_info": "[00时31分 ~ 16时40分]"
         },
         {
           "title": "美国就业市场意外“熄火”：7月非农负增长 劳动参与率跌至5年来新低",
@@ -512,6 +549,20 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时31分 ~ 09时30分]"
+        },
+        {
+          "title": "蓝厅观察丨被中方反制的7家美国实体有何来头？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33746518",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13,
+            14,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时27分 ~ 16时40分]"
         },
         {
           "title": "美国防部将中企列“黑名单”，被美法院驳回",
@@ -534,20 +585,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时31分 ~ 05时28分]"
-        },
-        {
-          "title": "蓝厅观察丨被中方反制的7家美国实体有何来头？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33746518",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            13,
-            14,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时27分 ~ 15时54分]"
         },
         {
           "title": "我国多家上市公司宣布收到美国关税退税",
@@ -604,8 +641,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时29分 ~ 15时54分]"
+          "appearance_count": 9,
+          "time_info": "[09时29分 ~ 16时40分]"
         },
         {
           "title": "美国为何要拯救日元",
@@ -629,11 +666,12 @@
             2,
             5,
             6,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时41分 ~ 15时54分]"
+          "appearance_count": 5,
+          "time_info": "[11时41分 ~ 16时40分]"
         },
         {
           "title": "被中方反制的7家美国实体有何来头？",
@@ -654,9 +692,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时54分"
+        },
+        {
+          "title": "药明康德：美国地区法院批准公司初步禁令，禁止美国国防部执行或实施1260H认定",
+          "url": "https://wallstreetcn.com/livenews/3147057",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
+          "title": "药明康德：美国法院就公司的初步禁令动议作出裁决",
+          "url": "https://flash.jin10.com/detail/20260809161329569800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         },
         {
           "title": "汇丰前瞻美国7月CPI：预计本次多项核心通胀分项会出现超预期降温，带动整体CPI与核心CPI双双低于市场预期。",
@@ -847,8 +907,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时31分 ~ 15时54分]"
+          "appearance_count": 18,
+          "time_info": "[00时31分 ~ 16时40分]"
         },
         {
           "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
@@ -862,6 +922,19 @@
           "time_info": "[00时31分 ~ 09时30分]"
         },
         {
+          "title": "美上诉法院叫停白宫宴会厅施工，特朗普怒了：国家耻辱！",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33744455",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时29分 ~ 16时40分]"
+        },
+        {
           "title": "加拿大已经在贸易磋商中向美国做出让步。 加方希望，阻止特朗普在不到两周的时间内加征50%关税的计划。 加拿大要求与美国达成一项全面协议。（纽约时报）",
           "url": "https://wallstreetcn.com/livenews/3147026",
           "source": "华尔街见闻-快讯",
@@ -873,24 +946,12 @@
             15,
             18,
             19,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 15时54分]"
-        },
-        {
-          "title": "美上诉法院叫停白宫宴会厅施工，特朗普怒了：国家耻辱！",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33744455",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时29分 ~ 15时54分]"
+          "appearance_count": 14,
+          "time_info": "[00时31分 ~ 16时40分]"
         },
         {
           "title": "白宫宴会厅施工被叫停，特朗普怒了：国家耻辱！",
@@ -915,11 +976,12 @@
             20,
             23,
             24,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 15时54分]"
+          "appearance_count": 14,
+          "time_info": "[00时31分 ~ 16时40分]"
         },
         {
           "title": "鲁比奥一句“别回头”，特朗普：这画不错，我要带走",
@@ -929,8 +991,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时41分 ~ 15时54分]"
+          "appearance_count": 7,
+          "time_info": "[11时41分 ~ 16时40分]"
         },
         {
           "title": "特朗普再出手！正式重启罢免美联储理事库克程序，美联储独立性再遭冲击",
@@ -964,11 +1026,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            12
+            12,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时54分 ~ 15时54分]"
+          "appearance_count": 3,
+          "time_info": "[14时54分 ~ 16时40分]"
         },
         {
           "title": "舒默怒斥特朗普：你在哪个星球",
@@ -1035,8 +1098,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时03分 ~ 15时54分]"
+          "appearance_count": 6,
+          "time_info": "[13时03分 ~ 16时40分]"
         },
         {
           "title": "日本医院把患者大脑当肿瘤切了",
@@ -1050,8 +1113,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时31分 ~ 15时54分]"
+          "appearance_count": 18,
+          "time_info": "[00时31分 ~ 16时40分]"
         },
         {
           "title": "值得反思!日本运动员偷鸡蛋被捕",
@@ -1065,8 +1128,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时31分 ~ 15时54分]"
+          "appearance_count": 18,
+          "time_info": "[00时31分 ~ 16时40分]"
         },
         {
           "title": "韩企捐水日本被骂只配冲马桶",
@@ -1080,8 +1143,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时31分 ~ 15时54分]"
+          "appearance_count": 18,
+          "time_info": "[00时31分 ~ 16时40分]"
         },
         {
           "title": "猫娘抽烟番被日本家长投诉",
@@ -1110,6 +1173,34 @@
           "time_info": "[00时31分 ~ 07时27分]"
         },
         {
+          "title": "日本大饭核电站3号机组因发电机异常停止运行",
+          "url": "https://wallstreetcn.com/livenews/3147038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            10,
+            11,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时41分 ~ 16时40分]"
+        },
+        {
+          "title": "日本火山喷发 天空瞬间一片漆黑",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%81%AB%E5%B1%B1%E5%96%B7%E5%8F%91+%E5%A4%A9%E7%A9%BA%E7%9E%AC%E9%97%B4%E4%B8%80%E7%89%87%E6%BC%86%E9%BB%91",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            22,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时53分 ~ 16时40分]"
+        },
+        {
           "title": "日本岩手县近海发生5.6级地震",
           "url": "https://flash.jin10.com/detail/20260809021650168800",
           "source": "金十数据",
@@ -1120,32 +1211,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时35分 ~ 03时28分]"
-        },
-        {
-          "title": "日本大饭核电站3号机组因发电机异常停止运行",
-          "url": "https://wallstreetcn.com/livenews/3147038",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            10,
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时41分 ~ 15时54分]"
-        },
-        {
-          "title": "日本火山喷发 天空瞬间一片漆黑",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%81%AB%E5%B1%B1%E5%96%B7%E5%8F%91+%E5%A4%A9%E7%A9%BA%E7%9E%AC%E9%97%B4%E4%B8%80%E7%89%87%E6%BC%86%E9%BB%91",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时53分 ~ 15时54分]"
         },
         {
           "title": "日本大饭核电站3号机组因发电机异常停止运行",
@@ -1173,8 +1238,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时31分 ~ 15时54分]"
+          "appearance_count": 18,
+          "time_info": "[00时31分 ~ 16时40分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
@@ -1183,11 +1248,25 @@
           "ranks": [
             6,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时31分 ~ 15时54分]"
+          "appearance_count": 18,
+          "time_info": "[00时31分 ~ 16时40分]"
+        },
+        {
+          "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
+          "url": "https://wallstreetcn.com/articles/3778998",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时41分 ~ 16时40分]"
         },
         {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
@@ -1202,29 +1281,17 @@
           "time_info": "[00时31分 ~ 07时27分]"
         },
         {
-          "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
-          "url": "https://wallstreetcn.com/articles/3778998",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时41分 ~ 15时54分]"
-        },
-        {
           "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
           "url": "https://www.cls.cn/detail/2449177",
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时41分 ~ 15时54分]"
+          "appearance_count": 7,
+          "time_info": "[11时41分 ~ 16时40分]"
         }
       ]
     },
@@ -1278,8 +1345,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时31分 ~ 15时54分]"
+          "appearance_count": 18,
+          "time_info": "[00时31分 ~ 16时40分]"
         },
         {
           "title": "伯克希尔哈撒韦：截至6月30日，股权投资总公允价值中有66%集中在美国运通、苹果、美国银行、阿尔phabet（谷歌母公司）和可口可乐这五家企业。 2025年全年末持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元、126.68亿美元、13.64亿美元。",
@@ -1357,8 +1424,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时53分 ~ 15时54分]"
+          "appearance_count": 5,
+          "time_info": "[14时53分 ~ 16时40分]"
         }
       ]
     },
@@ -1390,11 +1457,12 @@
           "ranks": [
             3,
             4,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时03分 ~ 15时54分]"
+          "appearance_count": 4,
+          "time_info": "[13时03分 ~ 16时40分]"
         }
       ]
     },
