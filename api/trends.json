@@ -1,33 +1,35 @@
 {
-  "generated_at": "2026-08-10T07:31:13.268999+08:00",
-  "total_titles_processed": 502,
+  "generated_at": "2026-08-10T09:39:54.724385+08:00",
+  "total_titles_processed": 669,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 23,
+      "match_count": 29,
       "titles": [
-        {
-          "title": "伊朗最高领袖与总统会谈，重点讨论了这几个问题",
-          "url": "https://news.ifeng.com/c/8vS3pS8BvYm",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 07时31分]"
-        },
         {
           "title": "伊朗婉转回应最高领袖病危传闻",
           "url": "https://news.ifeng.com/c/8vSBIqKsEnV",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 07时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 09时39分]"
+        },
+        {
+          "title": "万斯称美伊冲突仍处于“博弈中段”，美军“寻找出口”，伊朗开出“重开海峡6大条件”",
+          "url": "https://wallstreetcn.com/articles/3778994",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 09时39分]"
         },
         {
           "title": "伊朗最高领袖与总统会谈",
@@ -35,22 +37,24 @@
           "source": "今日头条",
           "ranks": [
             4,
-            2
+            2,
+            27
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 07时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 09时39分]"
         },
         {
-          "title": "万斯称美伊冲突仍处于“博弈中段”，美军“寻找出口”，伊朗开出“重开海峡6大条件”",
-          "url": "https://wallstreetcn.com/articles/3778994",
-          "source": "华尔街见闻",
+          "title": "伊朗最高领袖与总统会谈，重点讨论了这几个问题",
+          "url": "https://news.ifeng.com/c/8vS3pS8BvYm",
+          "source": "凤凰网",
           "ranks": [
-            3
+            1,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 07时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 09时39分]"
         },
         {
           "title": "伊朗最高领袖与总统会谈",
@@ -92,13 +96,46 @@
           "time_info": "[02时38分 ~ 05时31分]"
         },
         {
+          "title": "伊朗高层变动，最高领袖发出新任命",
+          "url": "https://news.ifeng.com/c/8vSqCKLbBLT",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时39分"
+        },
+        {
+          "title": "伊朗议会批准霍尔木兹海峡安全纲要",
+          "url": "https://news.ifeng.com/c/8vSazQ4m4p1",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时39分"
+        },
+        {
+          "title": "关键时刻，伊朗突然换帅！革命卫队强硬派老将接掌最高安全机构",
+          "url": "https://flash.jin10.com/detail/20260810090543144800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时39分"
+        },
+        {
           "title": "伊朗在谈判关键时刻撤换最高安全官员",
           "url": "https://flash.jin10.com/detail/20260810064649628800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         },
@@ -123,7 +160,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         },
@@ -258,6 +295,17 @@
           "time_info": "[04时30分 ~ 05时31分]"
         },
         {
+          "title": "美军基地遭袭，伊朗公布最新卫星对比图",
+          "url": "https://news.ifeng.com/c/8vT6dxUIQom",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时39分"
+        },
+        {
           "title": "伊朗最高领袖与总统会谈",
           "url": "https://www.douyin.com/hot/2603545",
           "source": "抖音",
@@ -280,6 +328,17 @@
           "time_info": "05时31分"
         },
         {
+          "title": "伊朗公布美军基地遭袭前后卫星对比图",
+          "url": "https://www.toutiao.com/trending/7671344515512762409/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时39分"
+        },
+        {
           "title": "伊朗陆军司令：将回应任何敌对行动",
           "url": "https://www.toutiao.com/trending/7671949132243763263/",
           "source": "今日头条",
@@ -289,12 +348,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
+        },
+        {
+          "title": "战略专家警告：伊朗袭击暴露美军漏洞，美军海外资产面临毁灭风险！",
+          "url": "https://flash.jin10.com/detail/20260810081200980800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时39分"
         }
       ]
     },
     {
       "keyword_group": "美国",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "多家A股公司：收到美国关税退税",
@@ -345,8 +415,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时38分 ~ 07时31分]"
+          "appearance_count": 8,
+          "time_info": "[02时38分 ~ 09时39分]"
         },
         {
           "title": "美财长贝森特多举措干预债市，华尔街担忧“卖出美国”情绪升温",
@@ -420,7 +490,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         },
@@ -431,9 +501,31 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        },
+        {
+          "title": "美国以经济施压替代对伊军事行动",
+          "url": "https://www.toutiao.com/trending/7672181167310769706/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时39分"
+        },
+        {
+          "title": "本周重磅日程：美国CPI，宇树科技打新，腾讯、京东、茅台、中芯国际财报",
+          "url": "https://wallstreetcn.com/articles/3778910",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时39分"
         },
         {
           "title": "磷化铟是下一个“稀土”？关键产业如何成为反制核心，卡住美国光通信的脖子？",
@@ -490,7 +582,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         },
@@ -509,8 +601,21 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "与特朗普关联的美石油公司拟在格陵兰岛钻探，岛政府强烈警告",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33748556",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时31分 ~ 09时39分]"
+        },
         {
           "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
           "url": "https://www.cls.cn/detail/2449039",
@@ -521,18 +626,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时33分 ~ 06时29分]"
-        },
-        {
-          "title": "与特朗普关联的美石油公司拟在格陵兰岛钻探，岛政府强烈警告",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33748556",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时31分 ~ 07时31分]"
         },
         {
           "title": "鲁比奥一句“别回头”，特朗普：这画不错，我要带走",
@@ -636,6 +729,50 @@
           "time_info": "[00时33分 ~ 01时31分]"
         },
         {
+          "title": "2架飞机靠近特朗普高尔夫俱乐部，F-16出动拦截",
+          "url": "https://news.ifeng.com/c/8vT4r6JlFq0",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时39分"
+        },
+        {
+          "title": "特朗普这是此地无银三百两吗？",
+          "url": "https://news.ifeng.com/c/8vT8RYkNUYi",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时39分"
+        },
+        {
+          "title": "特朗普公布新任总统助理人选",
+          "url": "https://news.ifeng.com/c/8vT8RYkNUQr",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时39分"
+        },
+        {
+          "title": "新闻交易员：特朗普说低调处理，市场可能听得太认真了",
+          "url": "https://flash.jin10.com/detail/20260810082438238800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时39分"
+        },
+        {
           "title": "美媒：美官员称特朗普耐心应对伊朗僵局，重点聚焦海峡通航",
           "url": "https://flash.jin10.com/detail/20260809212948063800",
           "source": "金十数据",
@@ -645,13 +782,36 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        },
+        {
+          "title": "特朗普宣布威尔·沙夫将出任总统助理兼白宫法律顾问",
+          "url": "https://wallstreetcn.com/livenews/3147162",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时39分"
         }
       ]
     },
     {
       "keyword_group": "日本",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "急眼了,日本人做法咒奥本海默",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356989&amp;topic_name=%E6%80%A5%E7%9C%BC%E4%BA%86%2C%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%81%9A%E6%B3%95%E5%92%92%E5%A5%A5%E6%9C%AC%E6%B5%B7%E9%BB%98",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 09时39分]"
+        },
         {
           "title": "如何看待日本一医院错把患者脑部当肿瘤切除？",
           "url": "https://www.zhihu.com/question/2069354305589620880",
@@ -666,17 +826,6 @@
           "time_info": "[00时33分 ~ 07时31分]"
         },
         {
-          "title": "急眼了,日本人做法咒奥本海默",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356989&amp;topic_name=%E6%80%A5%E7%9C%BC%E4%BA%86%2C%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%81%9A%E6%B3%95%E5%92%92%E5%A5%A5%E6%9C%AC%E6%B5%B7%E9%BB%98",
-          "source": "贴吧",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 07时31分]"
-        },
-        {
           "title": "日媒：战时日本多所大学进行输血人体实验，向患者注射动物血",
           "url": "https://m.thepaper.cn/newsDetail_forward_33748107",
           "source": "澎湃新闻",
@@ -685,8 +834,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 07时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 09时39分]"
         },
         {
           "title": "日本父女闹掰,一句恶心伤透心",
@@ -696,8 +845,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 07时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 09时39分]"
         },
         {
           "title": "日本医院把患者大脑当肿瘤切了",
@@ -707,8 +856,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 07时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 09时39分]"
         },
         {
           "title": "学者：日本精工制造不容小觑",
@@ -749,6 +898,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时31分 ~ 03时32分]"
+        },
+        {
+          "title": "日本7月季调后除信托外银行贷款年率 5.9%，前值由6.30%修正为6.2%。",
+          "url": "https://flash.jin10.com/detail/20260810082317003800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时39分"
+        },
+        {
+          "title": "日本央行七月会议意见摘要：内阁办公室代表表示，适当的货币政策对实现强劲经济和价格稳定至关重要。希望日本央行采取适当的货币政策，并与政府密切协调政策。",
+          "url": "https://flash.jin10.com/detail/20260810080428649800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时39分"
         }
       ]
     },
@@ -764,8 +935,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 07时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 09时39分]"
         },
         {
           "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
@@ -776,8 +947,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 07时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 09时39分]"
         },
         {
           "title": "一边买黄金，一边买美股",
@@ -787,8 +958,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时32分 ~ 07时31分]"
+          "appearance_count": 7,
+          "time_info": "[03时32分 ~ 09时39分]"
         },
         {
           "title": "美股股指期货周一开盘涨跌不一，纳指期货涨0.16%，道指期货跌0.14%。",
