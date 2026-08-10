@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T21:04:00.522100+08:00",
-  "total_titles_processed": 1355,
+  "generated_at": "2026-08-10T22:57:49.409897+08:00",
+  "total_titles_processed": 1489,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 41,
+      "match_count": 48,
       "titles": [
         {
           "title": "伊朗婉转回应最高领袖病危传闻",
@@ -30,6 +30,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时33分 ~ 09时39分]"
+        },
+        {
+          "title": "伊朗高层变动，最高领袖发出新任命",
+          "url": "https://news.ifeng.com/c/8vSqCKLbBLT",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时39分 ~ 22时57分]"
         },
         {
           "title": "伊朗最高领袖与总统会谈，重点讨论了这几个问题",
@@ -59,18 +71,6 @@
           "time_info": "[00时33分 ~ 19时07分]"
         },
         {
-          "title": "伊朗高层变动，最高领袖发出新任命",
-          "url": "https://news.ifeng.com/c/8vSqCKLbBLT",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时39分 ~ 21时04分]"
-        },
-        {
           "title": "伊朗密集更换高层，释放何种信号？",
           "url": "https://news.ifeng.com/c/8vTT2C4rKru",
           "source": "凤凰网",
@@ -79,8 +79,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时29分 ~ 21时04分]"
+          "appearance_count": 7,
+          "time_info": "[15时29分 ~ 22时57分]"
         },
         {
           "title": "伊朗的5个条件，美国是否会照单全收？",
@@ -90,8 +90,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时29分 ~ 21时04分]"
+          "appearance_count": 7,
+          "time_info": "[15时29分 ~ 22时57分]"
         },
         {
           "title": "伊朗最高领袖与总统会谈",
@@ -103,6 +103,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时33分 ~ 07时31分]"
+        },
+        {
+          "title": "伊朗最高安全官员换人，雷扎伊何许人也？",
+          "url": "https://news.ifeng.com/c/8vTiqvCqOyW",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时07分 ~ 22时57分]"
         },
         {
           "title": "俄媒称伊朗布什尔核电站新机组建设仍在继续",
@@ -117,17 +128,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时33分 ~ 07时31分]"
-        },
-        {
-          "title": "伊朗最高安全官员换人，雷扎伊何许人也？",
-          "url": "https://news.ifeng.com/c/8vTiqvCqOyW",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时07分 ~ 21时04分]"
         },
         {
           "title": "在霍尔木兹海峡僵局中，伊朗为何自信能“耗过”美国？",
@@ -153,6 +153,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时39分"
+        },
+        {
+          "title": "伊朗革命卫队总司令祝贺新任最高国家安全委员会秘书",
+          "url": "https://wallstreetcn.com/livenews/3147576",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
         },
         {
           "title": "关键时刻，伊朗突然换帅！革命卫队强硬派老将接掌最高安全机构",
@@ -350,7 +361,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时04分"
         },
@@ -361,9 +372,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时04分"
+        },
+        {
+          "title": "巴基斯坦与伊朗外长通话 就地区局势交换意见",
+          "url": "https://wallstreetcn.com/livenews/3147570",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
+        },
+        {
+          "title": "据半岛电视台：伊朗总统佩泽希齐扬表示，美国和以色列利用人工智能数据攻击伊朗。",
+          "url": "https://flash.jin10.com/detail/20260810224105875800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
         },
         {
           "title": "伊朗最高领袖与总统会谈",
@@ -383,9 +416,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时04分"
+        },
+        {
+          "title": "据伊朗媒体Fars News：也门无人机袭击目标直指沙特在摩卡地区的代理人。",
+          "url": "https://flash.jin10.com/detail/20260810222535115800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
         },
         {
           "title": "伊朗军方称美军敢来就斩断他们的脚",
@@ -397,6 +441,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
+        },
+        {
+          "title": "雷扎伊任命显示伊朗军政宗教高层“协同加强”",
+          "url": "https://flash.jin10.com/detail/20260810222218882800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
         },
         {
           "title": "伊朗称谈判代表将在“适当的时候”访问巴基斯坦",
@@ -421,6 +476,17 @@
           "time_info": "05时31分"
         },
         {
+          "title": "巴基斯坦与伊朗外长通话 就地区局势交换意见",
+          "url": "https://flash.jin10.com/detail/20260810221826228800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
+        },
+        {
           "title": "伊朗公布美军基地遭袭前后卫星对比图",
           "url": "https://www.toutiao.com/trending/7671344515512762409/",
           "source": "今日头条",
@@ -430,6 +496,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时39分"
+        },
+        {
+          "title": "伊朗开复航条件，俄油回流G7：两股力量重塑能源定价 | Plus日报",
+          "url": "https://flash.jin10.com/detail/20260810221813827800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
         },
         {
           "title": "伊朗：乌克兰必须为袭击伊朗货轮赔偿",
@@ -500,8 +577,421 @@
       ]
     },
     {
+      "keyword_group": "美国",
+      "match_count": 35,
+      "titles": [
+        {
+          "title": "多家A股公司：收到美国关税退税",
+          "url": "https://www.cls.cn/detail/2449086",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 06时29分]"
+        },
+        {
+          "title": "“木头姐”：就业数据未显衰退，AI正驱动美国经济进入通缩与高生产率新周期",
+          "url": "https://wallstreetcn.com/livenews/3147116",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            5,
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 07时31分]"
+        },
+        {
+          "title": "下周重磅日程：美国CPI，宇树科技打新，腾讯、京东、茅台、中芯国际财报",
+          "url": "https://wallstreetcn.com/articles/3778910",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 07时31分]"
+        },
+        {
+          "title": "美国科学家首次用 AI 设计出病毒，意味着什么？生物安全防线该如何应对？",
+          "url": "https://www.zhihu.com/question/2068991097578021742",
+          "source": "知乎",
+          "ranks": [
+            19,
+            13,
+            12,
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时38分 ~ 09时39分]"
+        },
+        {
+          "title": "美财长贝森特多举措干预债市，华尔街担忧“卖出美国”情绪升温",
+          "url": "https://wallstreetcn.com/livenews/3147107",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 06时29分]"
+        },
+        {
+          "title": "白宫经济顾问哈塞特：我们看到的美国通胀数据正迅速下降。",
+          "url": "https://wallstreetcn.com/livenews/3147102",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 06时29分]"
+        },
+        {
+          "title": "哈马斯呼吁美国向内塔尼亚胡施压，促其遵守加沙和平计划路线图",
+          "url": "https://wallstreetcn.com/livenews/3147097",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 06时29分]"
+        },
+        {
+          "title": "哈塞特称自己仍对美国牛肉价格感到\"震惊\"",
+          "url": "https://wallstreetcn.com/livenews/3147096",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21,
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 06时29分]"
+        },
+        {
+          "title": "美国“外行担任大使”现象惹质疑",
+          "url": "https://wallstreetcn.com/livenews/3147091",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25,
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 06时29分]"
+        },
+        {
+          "title": "本周重要事件与数据预告：美国CPI；成品油调价、腾讯财报",
+          "url": "https://flash.jin10.com/detail/20260810065707221800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "据沙特媒体哈达斯引述以色列第12频道：美国继续减少在以色列本古里安机场的加油机数量。",
+          "url": "https://flash.jin10.com/detail/20260810225139501800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
+        },
+        {
+          "title": "据Axios：一位美国高级官员称，白宫“并不在意”内塔尼亚胡关于加沙计划的声明，并认为这是以色列选举季期间的一部分政治操作。白宫理解内塔尼亚胡的政治需求，他继续按照美国的要求去做——尤其是在限制对加沙的袭击方面——美国就不会有意见。",
+          "url": "https://flash.jin10.com/detail/20260810065432853800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "据Axios：美国独立参议员桑德斯敦促领先的人工智能公司CEO们暂停人工智能开发，并警告说，如果不采取行动，立法者将介入。",
+          "url": "https://flash.jin10.com/detail/20260810170451485800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
+          "title": "美国以经济施压替代对伊军事行动",
+          "url": "https://www.toutiao.com/trending/7672181167310769706/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时39分"
+        },
+        {
+          "title": "本周重磅日程：美国CPI，宇树科技打新，腾讯、京东、茅台、中芯国际财报",
+          "url": "https://wallstreetcn.com/articles/3778910",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时39分"
+        },
+        {
+          "title": "磷化铟是下一个“稀土”？关键产业如何成为反制核心，卡住美国光通信的脖子？",
+          "url": "https://wallstreetcn.com/premium/articles/3778945?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 02时38分]"
+        },
+        {
+          "title": "美国拟动用战术核武器对抗大国",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%8B%9F%E5%8A%A8%E7%94%A8%E6%88%98%E6%9C%AF%E6%A0%B8%E6%AD%A6%E5%99%A8%E5%AF%B9%E6%8A%97%E5%A4%A7%E5%9B%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时18分 ~ 17时19分]"
+        },
+        {
+          "title": "美国中央司令部：截至8月9日，中央司令部已调转55艘在霍尔木兹海峡的商船航线，使2艘船只失去行动能力，并登船检查了2艘船只，以确保其遵守封锁令。",
+          "url": "https://flash.jin10.com/detail/20260810054710218800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时31分]"
+        },
+        {
+          "title": "美国芝加哥市发生多起枪击事件致三死10伤",
+          "url": "https://flash.jin10.com/detail/20260810053926167800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时31分]"
+        },
+        {
+          "title": "美国纽约一船只倾覆致2人死亡",
+          "url": "https://flash.jin10.com/detail/20260809224138956800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时31分]"
+        },
+        {
+          "title": "Meta发布小型AI模型，一块显卡即可本地运行，扎克伯格喊话美国政府：降低对开源AI的准入门槛",
+          "url": "https://wallstreetcn.com/articles/3779081",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
+        },
+        {
+          "title": "就业降温重塑美国利率预期，市场焦点转向美国7月CPI | 每日市场观察08.10",
+          "url": "https://flash.jin10.com/detail/20260810165854929800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
+          "title": "据知情人士透露，Imperial Brands考虑在美国和欧洲裁员数千人。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3147566",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
+        },
+        {
+          "title": "美元兑日元短线下跌约40点，报道：日本央行释放9月加息信号，促使美国加入汇市干预",
+          "url": "https://wallstreetcn.com/livenews/3147516",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
+          "title": "美国中央司令部在社交媒体发布照片，其内容是“一架美国空军F-16战斗机从中东的一个基地起飞”。",
+          "url": "https://flash.jin10.com/detail/20260810223154186800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
+        },
+        {
+          "title": "美国芝加哥市发生多起枪击事件 致3死10伤",
+          "url": "https://wallstreetcn.com/livenews/3147127",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "据美国纽约联储数据，上个交易日（8月7日，非农日）担保隔夜融资利率（SOFR）报3.62%，之前一天报3.65%。 上个交易日有效的联邦基金利率报3.63%，之前一天报3.63%。",
+          "url": "https://wallstreetcn.com/livenews/3147560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
+        },
+        {
+          "title": "美国得州政府：Meta Platforms(META.O)承诺遵守数据中心标准。",
+          "url": "https://flash.jin10.com/detail/20260810222304346800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
+        },
+        {
+          "title": "商务部新闻发言人就对原产于墨西哥和美国的进口碧根果反倾销调查初裁答记者问",
+          "url": "https://wallstreetcn.com/livenews/3147438",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时07分"
+        },
+        {
+          "title": "热浪将至叠加出口回升 美国天然气期货价格飙升",
+          "url": "https://flash.jin10.com/detail/20260810221919000800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
+        },
+        {
+          "title": "金十整理：下周重要事件与数据预告——周三美国CPI数据重磅来袭；国内成品油将调价、京东与腾讯等将公布二季度财报",
+          "url": "https://flash.jin10.com/detail/20260809211512723800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时33分"
+        },
+        {
+          "title": "石药创新：控股子公司SYS6037注射液（猴痘mRNA疫苗）获得美国药物临床试验批准。",
+          "url": "https://wallstreetcn.com/livenews/3147360",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
+          "title": "美国头部私募信贷基金违约率攀升，风暴或在经济放缓时引爆",
+          "url": "https://flash.jin10.com/detail/20260810142032789800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时29分"
+        },
+        {
+          "title": "香港交易所：MiniMax将被纳入香港交易所科技100指数及香港交易所科技与美国科技100指数",
+          "url": "https://wallstreetcn.com/livenews/3147425",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时07分"
+        },
+        {
+          "title": "商务部初步认定原产于墨西哥和美国的进口碧根果存在倾销",
+          "url": "https://wallstreetcn.com/livenews/3147424",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时07分"
+        }
+      ]
+    },
+    {
       "keyword_group": "日本",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "如何看待日本一医院错把患者脑部当肿瘤切除？",
@@ -542,8 +1032,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时33分 ~ 21时04分]"
+          "appearance_count": 17,
+          "time_info": "[00时33分 ~ 22时57分]"
         },
         {
           "title": "日本父女闹掰,一句恶心伤透心",
@@ -557,8 +1047,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时33分 ~ 21时04分]"
+          "appearance_count": 17,
+          "time_info": "[00时33分 ~ 22时57分]"
         },
         {
           "title": "日本医院把患者大脑当肿瘤切了",
@@ -572,6 +1062,28 @@
           "time_info": "[00时33分 ~ 09时39分]"
         },
         {
+          "title": "日本提出强烈抗议，韩国驳回：无法接受",
+          "url": "https://news.ifeng.com/c/8vSxdRFRuAI",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时29分 ~ 22时57分]"
+        },
+        {
+          "title": "民进党当局连续被日本政府羞辱？港媒：赤裸裸摊开国际现实",
+          "url": "https://news.ifeng.com/c/8vTGJXrK7co",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时29分 ~ 22时57分]"
+        },
+        {
           "title": "学者：日本精工制造不容小觑",
           "url": "https://www.toutiao.com/trending/7671991058972036671/",
           "source": "今日头条",
@@ -583,28 +1095,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时33分 ~ 06时29分]"
-        },
-        {
-          "title": "日本提出强烈抗议，韩国驳回：无法接受",
-          "url": "https://news.ifeng.com/c/8vSxdRFRuAI",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时29分 ~ 21时04分]"
-        },
-        {
-          "title": "民进党当局连续被日本政府羞辱？港媒：赤裸裸摊开国际现实",
-          "url": "https://news.ifeng.com/c/8vTGJXrK7co",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时29分 ~ 21时04分]"
         },
         {
           "title": "日本经济财政大臣城内实：日本央行在政策方面表现良好。",
@@ -778,6 +1268,17 @@
           "time_info": "19时07分"
         },
         {
+          "title": "14年来首次 日本连续两个月破产企业超千家",
+          "url": "https://wallstreetcn.com/livenews/3147555",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
+        },
+        {
           "title": "日本7月季调后除信托外银行贷款年率 5.9%，前值由6.30%修正为6.2%。",
           "url": "https://flash.jin10.com/detail/20260810082317003800",
           "source": "金十数据",
@@ -839,7 +1340,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时04分"
         },
@@ -853,342 +1354,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美国",
-      "match_count": 28,
-      "titles": [
-        {
-          "title": "多家A股公司：收到美国关税退税",
-          "url": "https://www.cls.cn/detail/2449086",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 06时29分]"
-        },
-        {
-          "title": "“木头姐”：就业数据未显衰退，AI正驱动美国经济进入通缩与高生产率新周期",
-          "url": "https://wallstreetcn.com/livenews/3147116",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            5,
-            6,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 07时31分]"
-        },
-        {
-          "title": "下周重磅日程：美国CPI，宇树科技打新，腾讯、京东、茅台、中芯国际财报",
-          "url": "https://wallstreetcn.com/articles/3778910",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 07时31分]"
-        },
-        {
-          "title": "美国科学家首次用 AI 设计出病毒，意味着什么？生物安全防线该如何应对？",
-          "url": "https://www.zhihu.com/question/2068991097578021742",
-          "source": "知乎",
-          "ranks": [
-            19,
-            13,
-            12,
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时38分 ~ 09时39分]"
-        },
-        {
-          "title": "美财长贝森特多举措干预债市，华尔街担忧“卖出美国”情绪升温",
-          "url": "https://wallstreetcn.com/livenews/3147107",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 06时29分]"
-        },
-        {
-          "title": "白宫经济顾问哈塞特：我们看到的美国通胀数据正迅速下降。",
-          "url": "https://wallstreetcn.com/livenews/3147102",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 06时29分]"
-        },
-        {
-          "title": "哈马斯呼吁美国向内塔尼亚胡施压，促其遵守加沙和平计划路线图",
-          "url": "https://wallstreetcn.com/livenews/3147097",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20,
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 06时29分]"
-        },
-        {
-          "title": "哈塞特称自己仍对美国牛肉价格感到\"震惊\"",
-          "url": "https://wallstreetcn.com/livenews/3147096",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21,
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 06时29分]"
-        },
-        {
-          "title": "美国“外行担任大使”现象惹质疑",
-          "url": "https://wallstreetcn.com/livenews/3147091",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25,
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 06时29分]"
-        },
-        {
-          "title": "本周重要事件与数据预告：美国CPI；成品油调价、腾讯财报",
-          "url": "https://flash.jin10.com/detail/20260810065707221800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "据Axios：一位美国高级官员称，白宫“并不在意”内塔尼亚胡关于加沙计划的声明，并认为这是以色列选举季期间的一部分政治操作。白宫理解内塔尼亚胡的政治需求，他继续按照美国的要求去做——尤其是在限制对加沙的袭击方面——美国就不会有意见。",
-          "url": "https://flash.jin10.com/detail/20260810065432853800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "据Axios：美国独立参议员桑德斯敦促领先的人工智能公司CEO们暂停人工智能开发，并警告说，如果不采取行动，立法者将介入。",
-          "url": "https://flash.jin10.com/detail/20260810170451485800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时19分"
-        },
-        {
-          "title": "美国以经济施压替代对伊军事行动",
-          "url": "https://www.toutiao.com/trending/7672181167310769706/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时39分"
-        },
-        {
-          "title": "本周重磅日程：美国CPI，宇树科技打新，腾讯、京东、茅台、中芯国际财报",
-          "url": "https://wallstreetcn.com/articles/3778910",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时39分"
-        },
-        {
-          "title": "磷化铟是下一个“稀土”？关键产业如何成为反制核心，卡住美国光通信的脖子？",
-          "url": "https://wallstreetcn.com/premium/articles/3778945?layout=wscn-layout",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时38分]"
-        },
-        {
-          "title": "美国拟动用战术核武器对抗大国",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%8B%9F%E5%8A%A8%E7%94%A8%E6%88%98%E6%9C%AF%E6%A0%B8%E6%AD%A6%E5%99%A8%E5%AF%B9%E6%8A%97%E5%A4%A7%E5%9B%BD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时18分 ~ 17时19分]"
-        },
-        {
-          "title": "美国中央司令部：截至8月9日，中央司令部已调转55艘在霍尔木兹海峡的商船航线，使2艘船只失去行动能力，并登船检查了2艘船只，以确保其遵守封锁令。",
-          "url": "https://flash.jin10.com/detail/20260810054710218800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时29分 ~ 07时31分]"
-        },
-        {
-          "title": "美国芝加哥市发生多起枪击事件致三死10伤",
-          "url": "https://flash.jin10.com/detail/20260810053926167800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时29分 ~ 07时31分]"
-        },
-        {
-          "title": "美国纽约一船只倾覆致2人死亡",
-          "url": "https://flash.jin10.com/detail/20260809224138956800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时31分]"
-        },
-        {
-          "title": "就业降温重塑美国利率预期，市场焦点转向美国7月CPI | 每日市场观察08.10",
-          "url": "https://flash.jin10.com/detail/20260810165854929800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时19分"
-        },
-        {
-          "title": "美元兑日元短线下跌约40点，报道：日本央行释放9月加息信号，促使美国加入汇市干预",
-          "url": "https://wallstreetcn.com/livenews/3147516",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时04分"
-        },
-        {
-          "title": "美国芝加哥市发生多起枪击事件 致3死10伤",
-          "url": "https://wallstreetcn.com/livenews/3147127",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "商务部新闻发言人就对原产于墨西哥和美国的进口碧根果反倾销调查初裁答记者问",
-          "url": "https://wallstreetcn.com/livenews/3147438",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时07分"
-        },
-        {
-          "title": "金十整理：下周重要事件与数据预告——周三美国CPI数据重磅来袭；国内成品油将调价、京东与腾讯等将公布二季度财报",
-          "url": "https://flash.jin10.com/detail/20260809211512723800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
-        },
-        {
-          "title": "石药创新：控股子公司SYS6037注射液（猴痘mRNA疫苗）获得美国药物临床试验批准。",
-          "url": "https://wallstreetcn.com/livenews/3147360",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时19分"
-        },
-        {
-          "title": "美国头部私募信贷基金违约率攀升，风暴或在经济放缓时引爆",
-          "url": "https://flash.jin10.com/detail/20260810142032789800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时29分"
-        },
-        {
-          "title": "香港交易所：MiniMax将被纳入香港交易所科技100指数及香港交易所科技与美国科技100指数",
-          "url": "https://wallstreetcn.com/livenews/3147425",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时07分"
-        },
-        {
-          "title": "商务部初步认定原产于墨西哥和美国的进口碧根果存在倾销",
-          "url": "https://wallstreetcn.com/livenews/3147424",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时07分"
         }
       ]
     },
@@ -1221,6 +1386,17 @@
           "time_info": "[00时33分 ~ 06时29分]"
         },
         {
+          "title": "还剩85天，特朗普全面收缩，伊朗左冲右突",
+          "url": "https://news.ifeng.com/c/8vTlIUCd26B",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时07分 ~ 22时57分]"
+        },
+        {
           "title": "鲁比奥一句“别回头”，特朗普：这画不错，我要带走",
           "url": "https://news.ifeng.com/c/8vRRpAQcjqv",
           "source": "凤凰网",
@@ -1232,17 +1408,6 @@
           "time_info": "[00时33分 ~ 07时31分]"
         },
         {
-          "title": "还剩85天，特朗普全面收缩，伊朗左冲右突",
-          "url": "https://news.ifeng.com/c/8vTlIUCd26B",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时07分 ~ 21时04分]"
-        },
-        {
           "title": "2架飞机靠近特朗普高尔夫俱乐部，F-16出动拦截",
           "url": "https://news.ifeng.com/c/8vT4r6JlFq0",
           "source": "凤凰网",
@@ -1251,8 +1416,23 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时39分 ~ 22时57分]"
+        },
+        {
+          "title": "新闻蒸馏器｜内塔尼亚胡公开拒绝美国15点加沙计划，与特朗普罕见摊牌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33750452",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[09时39分 ~ 21时04分]"
+          "time_info": "[15时29分 ~ 22时57分]"
         },
         {
           "title": "特朗普这是此地无银三百两吗？",
@@ -1263,8 +1443,19 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时39分 ~ 22时57分]"
+        },
+        {
+          "title": "美媒焦虑：特朗普这招伤不了中国，买单的将是盟友和自己",
+          "url": "https://news.ifeng.com/c/8vTIjJmGwAk",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[09时39分 ~ 21时04分]"
+          "time_info": "[15时29分 ~ 22时57分]"
         },
         {
           "title": "特朗普称正在“低调处理”伊朗问题",
@@ -1280,20 +1471,6 @@
           "time_info": "[05时31分 ~ 07时31分]"
         },
         {
-          "title": "新闻蒸馏器｜内塔尼亚胡公开拒绝美国15点加沙计划，与特朗普罕见摊牌",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33750452",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时29分 ~ 21时04分]"
-        },
-        {
           "title": "美媒：特朗普暂缓对伊动武，称正“低调处理”伊朗问题",
           "url": "https://flash.jin10.com/detail/20260810010023977800",
           "source": "金十数据",
@@ -1307,17 +1484,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时31分 ~ 05时31分]"
-        },
-        {
-          "title": "美媒焦虑：特朗普这招伤不了中国，买单的将是盟友和自己",
-          "url": "https://news.ifeng.com/c/8vTIjJmGwAk",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时29分 ~ 21时04分]"
         },
         {
           "title": "前美国安全官员警告：特朗普正按“独裁者剧本”行事，美国安全堪忧",
@@ -1351,11 +1517,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时07分 ~ 21时04分]"
+          "appearance_count": 4,
+          "time_info": "[19时07分 ~ 22时57分]"
         },
         {
           "title": "前美国官员：特朗普使美国安全恶化",
@@ -1464,7 +1631,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
@@ -1508,7 +1675,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时04分"
         },
@@ -1522,6 +1689,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时07分"
+        },
+        {
+          "title": "美股开盘三大指数下挫，纳指跌0.1%，英特尔跌约3%，霍尔木兹谈判僵局推升油价，黄金维持高位",
+          "url": "https://wallstreetcn.com/articles/3779052",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
         },
         {
           "title": "美股股指期货周一开盘涨跌不一，纳指期货涨0.16%，道指期货跌0.14%。",
@@ -1553,7 +1731,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时04分"
         },
@@ -1564,9 +1742,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时04分"
+        },
+        {
+          "title": "美股盘初：纳指跌0.1%，英特尔跌约3%，Meta涨约1%",
+          "url": "https://wallstreetcn.com/livenews/3147550",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
         },
         {
           "title": "Meta美股盘前涨近3%，此前公司发布轻量化版AI模型，单张显卡即可运行。",
@@ -1575,7 +1764,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时04分"
         }
@@ -1585,6 +1774,20 @@
       "keyword_group": "印度",
       "match_count": 4,
       "titles": [
+        {
+          "title": "印度侨民要求压制厌印情绪",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356999&amp;topic_name=%E5%8D%B0%E5%BA%A6%E4%BE%A8%E6%B0%91%E8%A6%81%E6%B1%82%E5%8E%8B%E5%88%B6%E5%8E%8C%E5%8D%B0%E6%83%85%E7%BB%AA",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            8,
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时29分 ~ 22时57分]"
+        },
         {
           "title": "印度女子出轨被撞破在院子内遭毒打",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%A5%B3%E5%AD%90%E5%87%BA%E8%BD%A8%E8%A2%AB%E6%92%9E%E7%A0%B4%E5%9C%A8%E9%99%A2%E5%AD%90%E5%86%85%E9%81%AD%E6%AF%92%E6%89%93%23&t=31&band_rank=21&Refer=top",
@@ -1599,20 +1802,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时33分 ~ 06时29分]"
-        },
-        {
-          "title": "印度侨民要求压制厌印情绪",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356999&amp;topic_name=%E5%8D%B0%E5%BA%A6%E4%BE%A8%E6%B0%91%E8%A6%81%E6%B1%82%E5%8E%8B%E5%88%B6%E5%8E%8C%E5%8D%B0%E6%83%85%E7%BB%AA",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            8,
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时29分 ~ 21时04分]"
         },
         {
           "title": "印度为何突然在经济上对华开绿灯",
@@ -1766,9 +1955,55 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "周一汇市盘初持稳，美元兑日元USD/JPY跌0.08%、欧元兑美元EUR/USD涨0.03%、美元指数DXY跌0.04%。",
+          "url": "https://flash.jin10.com/detail/20260810053536334800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时31分]"
+        },
+        {
+          "title": "北美科技软件股指数ETF涨1.4%，刷新日高至104.17美元，逼近6月1日盘中最高位108.03美元。",
+          "url": "https://wallstreetcn.com/livenews/3147561",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌：为谷歌广告和谷歌分析添加人工智能和智能体功能。",
+          "url": "https://flash.jin10.com/detail/20260810223834412800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
         }
       ]
     },
@@ -1786,26 +2021,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时29分 ~ 21时04分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "周一汇市盘初持稳，美元兑日元USD/JPY跌0.08%、欧元兑美元EUR/USD涨0.03%、美元指数DXY跌0.04%。",
-          "url": "https://flash.jin10.com/detail/20260810053536334800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时29分 ~ 07时31分]"
+          "appearance_count": 7,
+          "time_info": "[15时29分 ~ 22时57分]"
         }
       ]
     }
