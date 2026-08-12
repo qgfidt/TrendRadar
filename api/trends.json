@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T09:47:11.337414+08:00",
-  "total_titles_processed": 737,
+  "generated_at": "2026-08-12T12:07:25.994202+08:00",
+  "total_titles_processed": 909,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国",
-      "match_count": 46,
+      "match_count": 48,
       "titles": [
         {
           "title": "明天美国CPI有“鸽派惊喜”？高盛称通胀或低于普遍预期 ，汇丰则押注“温和” 数据",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时59分 ~ 09时47分]"
+          "appearance_count": 7,
+          "time_info": "[02时59分 ~ 12时07分]"
         },
         {
           "title": "“空军一号”沦为诱饵，美国官员细思极恐",
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时46分 ~ 09时47分]"
+          "appearance_count": 3,
+          "time_info": "[09时46分 ~ 12时07分]"
         },
         {
           "title": "美国7月CPI揭晓前夕 美联储官员又“放鹰”：通胀是当前最大问题",
@@ -39,8 +39,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时46分 ~ 09时47分]"
+          "appearance_count": 3,
+          "time_info": "[09时46分 ~ 12时07分]"
         },
         {
           "title": "美国至8月11日6周国债竞拍-得标利率 3.67%，前值3.64%。",
@@ -131,6 +131,18 @@
           "time_info": "03时00分"
         },
         {
+          "title": "这次不一样？今晚美国CPI数据 将拉开一场空前激烈的博弈……",
+          "url": "https://www.cls.cn/detail/2451863",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时46分 ~ 12时07分]"
+        },
+        {
           "title": "纽约联储季度报告显示，美国居民家庭贷款违约情况有所改善.",
           "url": "https://flash.jin10.com/detail/20260811231927857800",
           "source": "金十数据",
@@ -199,17 +211,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时44分 ~ 06时40分]"
-        },
-        {
-          "title": "这次不一样？今晚美国CPI数据 将拉开一场空前激烈的博弈……",
-          "url": "https://www.cls.cn/detail/2451863",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时46分 ~ 09时47分]"
         },
         {
           "title": "美国财政部拍卖六周期国债，得标利率3.670%，投标倍数2.93。",
@@ -284,6 +285,17 @@
           "time_info": "[05时44分 ~ 06时40分]"
         },
         {
+          "title": "美国政府设备重新允许使用TikTok",
+          "url": "https://www.toutiao.com/trending/7672969055648615946/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
           "title": "美国能源信息署预计，由于全球对美国出口的高需求和美国进口的低水平，预计美国原油净进口将在2027年前保持低于平均水平。",
           "url": "https://flash.jin10.com/detail/20260812005943558800",
           "source": "金十数据",
@@ -356,7 +368,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         },
@@ -488,7 +500,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         },
@@ -513,6 +525,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
+        },
+        {
+          "title": "美国人对华认知正悄然改变",
+          "url": "https://www.toutiao.com/trending/7672316099463020594/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
         },
         {
           "title": "美国两年期国债收益率跌超2个基点",
@@ -636,6 +659,53 @@
           "time_info": "[00时01分 ~ 01时07分]"
         },
         {
+          "title": "伊朗，密集“换帅”",
+          "url": "https://news.ifeng.com/c/8vWOAc0ERio",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时46分 ~ 12时07分]"
+        },
+        {
+          "title": "伊朗和阿曼“正式开始”向霍尔木兹海峡船舶收费了？",
+          "url": "https://news.ifeng.com/c/8vWSsJCqjj0",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时46分 ~ 12时07分]"
+        },
+        {
+          "title": "伊朗官员称在伊方条件满足前霍尔木兹海峡不会开放 | 环球市场",
+          "url": "https://www.cls.cn/detail/2451814",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时46分 ~ 12时07分]"
+        },
+        {
+          "title": "伊朗称在美国满足条件前霍尔木兹海峡不会重开 国际油价短线冲高",
+          "url": "https://www.cls.cn/detail/2451716",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时46分 ~ 12时07分]"
+        },
+        {
           "title": "伊朗警告乌克兰不赔偿就动手",
           "url": "https://www.toutiao.com/trending/7671598956682723379/",
           "source": "今日头条",
@@ -646,28 +716,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时59分 ~ 05时44分]"
-        },
-        {
-          "title": "伊朗，密集“换帅”",
-          "url": "https://news.ifeng.com/c/8vWOAc0ERio",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时46分 ~ 09时47分]"
-        },
-        {
-          "title": "伊朗和阿曼“正式开始”向霍尔木兹海峡船舶收费了？",
-          "url": "https://news.ifeng.com/c/8vWSsJCqjj0",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时46分 ~ 09时47分]"
         },
         {
           "title": "伊朗官员：在伊方条件满足前霍尔木兹海峡不会开放",
@@ -692,28 +740,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时01分 ~ 01时07分]"
-        },
-        {
-          "title": "伊朗官员称在伊方条件满足前霍尔木兹海峡不会开放 | 环球市场",
-          "url": "https://www.cls.cn/detail/2451814",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时46分 ~ 09时47分]"
-        },
-        {
-          "title": "伊朗称在美国满足条件前霍尔木兹海峡不会重开 国际油价短线冲高",
-          "url": "https://www.cls.cn/detail/2451716",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时46分 ~ 09时47分]"
         },
         {
           "title": "分析人士：伊朗在霍尔木兹海峡的谈判筹码正在“贬值”",
@@ -796,7 +822,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普称伊朗谈判代表“非常狡猾”，但美有三种策略",
@@ -832,6 +858,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时44分 ~ 06时40分]"
+        },
+        {
+          "title": "内塔尼亚胡“反悔”拒绝特朗普加沙方案，美以分歧激化有何后果？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33759913",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时40分 ~ 12时07分]"
+        },
+        {
+          "title": "内塔尼亚胡硬刚特朗普，美以同盟怎么了？",
+          "url": "https://news.ifeng.com/c/8vWRcaa5PNY",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时46分 ~ 12时07分]"
         },
         {
           "title": "美国总统特朗普：医疗补助将不再为未成年人提供性别转换手术和激素治疗的资金。",
@@ -882,17 +931,6 @@
           "time_info": "[05时44分 ~ 06时40分]"
         },
         {
-          "title": "内塔尼亚胡硬刚特朗普，美以同盟怎么了？",
-          "url": "https://news.ifeng.com/c/8vWRcaa5PNY",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时46分 ~ 09时47分]"
-        },
-        {
           "title": "美法官叫停美邮政局执行特朗普涉限制邮寄选票的行政令",
           "url": "https://wallstreetcn.com/livenews/3148261",
           "source": "华尔街见闻-快讯",
@@ -902,6 +940,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时40分"
+        },
+        {
+          "title": "特朗普承认：悄悄换乘飞机了",
+          "url": "https://wallstreetcn.com/livenews/3148388",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
         },
         {
           "title": "据加拿大广播公司新闻：加拿大、美国贸易官员正在制定潜在协议，计划下周提交给特朗普。",
@@ -921,7 +970,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         },
@@ -932,7 +981,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         },
@@ -943,7 +992,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         },
@@ -959,26 +1008,203 @@
           "time_info": "00时01分"
         },
         {
+          "title": "特朗普回应“空军一号”调包计：特勤局和军方让我换机，我没多问",
+          "url": "https://flash.jin10.com/detail/20260812111839439800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
           "title": "特朗普：伊朗局势良好，美国控制着霍尔木兹海峡。",
           "url": "https://wallstreetcn.com/livenews/3148313",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "日本",
+      "match_count": 15,
+      "titles": [
+        {
+          "title": "日本篡改历史被反噬了",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%AF%A1%E6%94%B9%E5%8E%86%E5%8F%B2%E8%A2%AB%E5%8F%8D%E5%99%AC%E4%BA%86%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26,
+            2,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时07分 ~ 09时47分]"
+        },
+        {
+          "title": "日本民众反对议员参拜靖国神社：那是侵略神社！",
+          "url": "https://news.ifeng.com/c/8vVSXRaklRS",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时01分 ~ 09时47分]"
+        },
+        {
+          "title": "台风“灿鸿”袭击日本关东地区",
+          "url": "https://wallstreetcn.com/livenews/3148160",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时01分 ~ 01时07分]"
+        },
+        {
+          "title": "朝鲜谴责日本发布“重新侵略白皮书”",
+          "url": "https://www.toutiao.com/trending/7672486828637175851/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时59分 ~ 06时40分]"
+        },
+        {
+          "title": "比亚迪海獭日本订单破千",
+          "url": "https://s.weibo.com/weibo?q=%E6%AF%94%E4%BA%9A%E8%BF%AA%E6%B5%B7%E7%8D%AD%E6%97%A5%E6%9C%AC%E8%AE%A2%E5%8D%95%E7%A0%B4%E5%8D%83&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 09时47分]"
+        },
+        {
+          "title": "中国女排3-0横扫日本",
+          "url": "https://www.toutiao.com/trending/7672571412833681450/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 09时47分]"
+        },
+        {
+          "title": "台风灿鸿袭击日本",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E7%81%BF%E9%B8%BF%E8%A2%AD%E5%87%BB%E6%97%A5%E6%9C%AC%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 09时47分]"
+        },
+        {
+          "title": "日本武器出口，财界扮演什么角色？",
+          "url": "https://news.ifeng.com/c/8vWdp3xI41k",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
+          "title": "富国银行策略师Marcus Jennings：最近几个交易日，我们已经看到干预的影响逐渐消退。美元/日元的160关口非常重要，因为100日移动均线目前就在这一水平附近。 日本央行如果在9月加息，短期内可能有助于避免汇率突破这一关口。",
+          "url": "https://wallstreetcn.com/livenews/3148146",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时01分"
+        },
+        {
+          "title": "贝森特与高市早苗在日本央行问题上的分歧可能破坏日元反弹",
+          "url": "https://flash.jin10.com/detail/20260812111817174800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
+          "title": "日本首相高市早苗内阁可能在9月中旬或之后改组，预计不太可能调整内阁官房长官、财务大臣和经济产业大臣等关键职位。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3148369",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
+          "title": "日本2年期国债收益率上行2个基点至1.630%，为1995年5月来最高。",
+          "url": "https://wallstreetcn.com/livenews/3148301",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         },
         {
-          "title": "内塔尼亚胡“反悔”拒绝特朗普加沙方案，美以分歧激化有何后果？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33759913",
-          "source": "澎湃新闻",
+          "title": "日本30年期国债收益率上行3个基点至3.98%。",
+          "url": "https://wallstreetcn.com/livenews/3148361",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
+          "title": "日本20年期国债收益率上行2.5个基点至3.71%。",
+          "url": "https://wallstreetcn.com/livenews/3148346",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
+          "title": "日本7月货币存量M2同比 2.2%，前值 2.2%。",
+          "url": "https://wallstreetcn.com/livenews/3148296",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时40分"
+          "time_info": "09时47分"
         }
       ]
     },
@@ -1018,8 +1244,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 09时47分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 12时07分]"
         },
         {
           "title": "美股收盘：美伊僵局施压三大指数续跌 存储&光通信概念整体反弹",
@@ -1029,8 +1255,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时46分 ~ 09时47分]"
+          "appearance_count": 3,
+          "time_info": "[09时46分 ~ 12时07分]"
         },
         {
           "title": "CoreWeave美股盘后涨幅扩大至16%。 该公司首席执行官称，第二季度签署的客户合同预期贡献利润率较近几个季度新增合同高出5‑10个百分点。 短期产能实际上已全部售罄，由此促成条款愈发有利的签约订单。",
@@ -1126,128 +1352,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "日本",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "日本篡改历史被反噬了",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%AF%A1%E6%94%B9%E5%8E%86%E5%8F%B2%E8%A2%AB%E5%8F%8D%E5%99%AC%E4%BA%86%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26,
-            2,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时07分 ~ 09时47分]"
-        },
-        {
-          "title": "日本民众反对议员参拜靖国神社：那是侵略神社！",
-          "url": "https://news.ifeng.com/c/8vVSXRaklRS",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 09时47分]"
-        },
-        {
-          "title": "台风“灿鸿”袭击日本关东地区",
-          "url": "https://wallstreetcn.com/livenews/3148160",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时01分 ~ 01时07分]"
-        },
-        {
-          "title": "朝鲜谴责日本发布“重新侵略白皮书”",
-          "url": "https://www.toutiao.com/trending/7672486828637175851/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            23,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时59分 ~ 06时40分]"
-        },
-        {
-          "title": "比亚迪海獭日本订单破千",
-          "url": "https://s.weibo.com/weibo?q=%E6%AF%94%E4%BA%9A%E8%BF%AA%E6%B5%B7%E7%8D%AD%E6%97%A5%E6%9C%AC%E8%AE%A2%E5%8D%95%E7%A0%B4%E5%8D%83&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时46分 ~ 09时47分]"
-        },
-        {
-          "title": "中国女排3-0横扫日本",
-          "url": "https://www.toutiao.com/trending/7672571412833681450/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时46分 ~ 09时47分]"
-        },
-        {
-          "title": "台风灿鸿袭击日本",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E7%81%BF%E9%B8%BF%E8%A2%AD%E5%87%BB%E6%97%A5%E6%9C%AC%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时46分 ~ 09时47分]"
-        },
-        {
-          "title": "富国银行策略师Marcus Jennings：最近几个交易日，我们已经看到干预的影响逐渐消退。美元/日元的160关口非常重要，因为100日移动均线目前就在这一水平附近。 日本央行如果在9月加息，短期内可能有助于避免汇率突破这一关口。",
-          "url": "https://wallstreetcn.com/livenews/3148146",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时01分"
-        },
-        {
-          "title": "日本2年期国债收益率上行2个基点至1.630%，为1995年5月来最高。",
-          "url": "https://wallstreetcn.com/livenews/3148301",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时47分"
-        },
-        {
-          "title": "日本7月货币存量M2同比 2.2%，前值 2.2%。",
-          "url": "https://wallstreetcn.com/livenews/3148296",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时47分"
         }
       ]
     },
@@ -1376,6 +1480,58 @@
       ]
     },
     {
+      "keyword_group": "印度",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "印度为何突然对华示好",
+          "url": "https://www.toutiao.com/trending/7672905819280641577/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时46分 ~ 12时07分]"
+        },
+        {
+          "title": "印度想摆脱对华光伏依赖为何弄巧成拙",
+          "url": "https://www.toutiao.com/trending/7672783803953188394/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 03时00分]"
+        },
+        {
+          "title": "乌克兰袭击俄罗斯炼油厂 俄罗斯首次从印度远程进口汽油",
+          "url": "https://flash.jin10.com/detail/20260812113428303800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
+          "title": "印度一保安强奸女生被捕后求原谅",
+          "url": "https://www.toutiao.com/trending/7671997397107064859/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 3,
       "titles": [
@@ -1391,8 +1547,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时07分 ~ 09时47分]"
+          "appearance_count": 8,
+          "time_info": "[01时07分 ~ 12时07分]"
+        },
+        {
+          "title": "梁文锋跻身全球最富有50人之列",
+          "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B%E8%B7%BB%E8%BA%AB%E5%85%A8%E7%90%83%E6%9C%80%E5%AF%8C%E6%9C%8950%E4%BA%BA%E4%B9%8B%E5%88%97",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时46分 ~ 12时07分]"
         },
         {
           "title": "梁文锋跻身全球最富有50人之列",
@@ -1405,17 +1573,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时59分 ~ 06时40分]"
-        },
-        {
-          "title": "梁文锋跻身全球最富有50人之列",
-          "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B%E8%B7%BB%E8%BA%AB%E5%85%A8%E7%90%83%E6%9C%80%E5%AF%8C%E6%9C%8950%E4%BA%BA%E4%B9%8B%E5%88%97",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时46分 ~ 09时47分]"
         }
       ]
     },
@@ -1449,31 +1606,19 @@
       ]
     },
     {
-      "keyword_group": "印度",
-      "match_count": 2,
+      "keyword_group": "金价",
+      "match_count": 1,
       "titles": [
         {
-          "title": "印度想摆脱对华光伏依赖为何弄巧成拙",
-          "url": "https://www.toutiao.com/trending/7672783803953188394/",
-          "source": "今日头条",
+          "title": "金十图示：2026年08月12日（周三）上海金早盘价为955.49元/克，较国际金价(957.21元/克)，低1.72元/克",
+          "url": "https://flash.jin10.com/detail/20260812110126650800",
+          "source": "金十数据",
           "ranks": [
-            15,
-            26
+            30
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 03时00分]"
-        },
-        {
-          "title": "印度为何突然对华示好",
-          "url": "https://www.toutiao.com/trending/7672905819280641577/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时46分 ~ 09时47分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
         }
       ]
     },
