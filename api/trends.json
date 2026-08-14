@@ -1,29 +1,223 @@
 {
-  "generated_at": "2026-08-15T02:52:36.513232+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-08-15T04:29:52.871676+08:00",
+  "total_titles_processed": 378,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美国",
-      "match_count": 11,
+      "keyword_group": "特朗普",
+      "match_count": 17,
       "titles": [
         {
-          "title": "美国原油期货结算价为每桶82.40美元，上涨1.15美元，涨幅1.42%。",
-          "url": "https://flash.jin10.com/detail/20260815023158928800",
+          "title": "美国总统特朗普表示，我很快将宣布霍尔木兹海峡为美国领土。美国对伊朗的封锁“势不可挡”，是一道“钢铁之墙”。 特朗普称，美国已经做好应对伊朗的充分准备，不会允许伊朗继续所作所为，也不会允许伊朗拥有核武器。",
+          "url": "https://wallstreetcn.com/livenews/3149869",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "事关特朗普与马斯克，美媒最新爆料",
+          "url": "https://news.ifeng.com/c/8vaHza2NSPn",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时52分 ~ 04时29分]"
+        },
+        {
+          "title": "特朗普：美国经济表现“难以置信地好” 盛赞股市",
+          "url": "https://wallstreetcn.com/livenews/3149842",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时52分 ~ 04时29分]"
+        },
+        {
+          "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
+          "url": "https://www.zhihu.com/question/2070813507499643585",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时52分 ~ 04时29分]"
+        },
+        {
+          "title": "美国总统特朗普：对伊朗的封锁势不可挡，封锁是一道钢铁之墙。",
+          "url": "https://flash.jin10.com/detail/20260815035842401800",
           "source": "金十数据",
           "ranks": [
-            1
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "美国总统特朗普：美国汽油价格会因此小幅上涨。",
+          "url": "https://flash.jin10.com/detail/20260815035801456800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "美国总统特朗普：（关于伊朗）美国已做好充分准备。",
+          "url": "https://flash.jin10.com/detail/20260815035743383800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "美国总统特朗普：我们不会允许伊朗继续所作所为 。",
+          "url": "https://flash.jin10.com/detail/20260815035651937800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "美国总统特朗普：我们不会允许伊朗拥有核武器。",
+          "url": "https://flash.jin10.com/detail/20260815035609089800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "美国总统特朗普：我不在乎在中期选举前打击伊朗经济。",
+          "url": "https://wallstreetcn.com/livenews/3149861",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "美国总统特朗普：（关于伊朗）我很快将宣布霍尔木兹海峡为美国领土。",
+          "url": "https://flash.jin10.com/detail/20260815035358450800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "美国总统特朗普：我们通过关税赚了很多钱。",
+          "url": "https://flash.jin10.com/detail/20260815035105302800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "特朗普料将出席白宫预测市场会议",
+          "url": "https://wallstreetcn.com/livenews/3149855",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "美国总统特朗普：经济表现好得令人难以置信。",
+          "url": "https://flash.jin10.com/detail/20260815012708562800",
+          "source": "金十数据",
+          "ranks": [
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
         },
         {
+          "title": "市场消息：美国总统特朗普已离开安德鲁斯联合基地，正前往纽约加登城。",
+          "url": "https://flash.jin10.com/detail/20260815012635868800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时52分"
+        },
+        {
+          "title": "美国总统特朗普：不在乎在中期选举前打击伊朗经济。",
+          "url": "https://flash.jin10.com/detail/20260815032729753800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "特朗普：将对伊朗实施严厉经济打击",
+          "url": "https://flash.jin10.com/detail/20260815031855314800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美国",
+      "match_count": 17,
+      "titles": [
+        {
           "title": "中国AI把价格打下来，美国巨头一口气降80%",
           "url": "https://news.ifeng.com/c/8vaN8Ao6xPg",
           "source": "凤凰网",
           "ranks": [
             4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时52分 ~ 04时29分]"
+        },
+        {
+          "title": "美国原油期货结算价为每桶82.40美元，上涨1.15美元，涨幅1.42%。",
+          "url": "https://flash.jin10.com/detail/20260815023158928800",
+          "source": "金十数据",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -39,6 +233,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
+        },
+        {
+          "title": "市场消息：美国联邦贸易委员会对医疗信息化巨头Epic Health Systems发起反垄断调查。",
+          "url": "https://flash.jin10.com/detail/20260815035050750800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
         },
         {
           "title": "美国8月14日当周石油钻井数 455，前值 454。",
@@ -85,6 +290,28 @@
           "time_info": "02时52分"
         },
         {
+          "title": "美国商品期货交易委员会（CFTC）：截至8月11日当周，原油投机者将WTI净多头头寸增加4,034份合约，至105,860份合约。四大NYMEX、ICE市场天然气投机者净空头头寸减少18,848份合约，降至70,241份合约。",
+          "url": "https://flash.jin10.com/detail/20260815033627184800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至8月11日当周，投机者持有的CBOT美国5年期国债期货净空头头寸减少84,963份合约，至1,240,756份合约。投机者持有的CBOT超长期国债期货净空头头寸增加11,798份合约，至326,783份合约。投机者持有的CBOT美国国债期货净空头头寸增加3,335份合约，至179,607份合约。",
+          "url": "https://flash.jin10.com/detail/20260815033558269800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
           "title": "美国据称更倾向于对古巴施加经济压力，而不是动用军事手段。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3149832",
           "source": "华尔街见闻-快讯",
@@ -94,6 +321,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至8月11日当周，投机者持有的CBOT美国2年期国债期货净空头头寸增加16,815份合约，至1,021,043份合约。投机者持有的CBOT美国10年期国债期货净空头头寸减少64,190份合约，至915,053份合约。",
+          "url": "https://flash.jin10.com/detail/20260815033459624800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至8月11日当周，COMEX黄金投机者净多头头寸增加9,470份合约，至141,868份合约。COMEX白银投机者净多头头寸减少755份合约，至10,312份合约。COMEX铜投机者净多头头寸增加3,085份合约，至80,880份合约。",
+          "url": "https://flash.jin10.com/detail/20260815033352441800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
         },
         {
           "title": "美联储古尔斯比表示，支持7月维持利率不变的决定。他指出，近期两次生产率数据表现不理想，若生产率继续走低，美联储可能需要重新审视市场对人工智能（AI）的预期。 古尔斯比表示，最新CPI数据令人鼓舞，但仍需观察更多数据才能作出判断；持续的消费疲软令人担忧，不过零售销售疲弱目前仅是单月表现。与此同时，美国GDP和劳动力市场整体保持基本稳定。",
@@ -118,6 +367,17 @@
           "time_info": "02时52分"
         },
         {
+          "title": "俄方：美国深度参与乌对俄袭击行动",
+          "url": "https://www.toutiao.com/trending/7673658116689854527/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
           "title": "美国航母退回蒸汽弹射时代意味什么",
           "url": "https://www.toutiao.com/trending/7673810109385936410/",
           "source": "今日头条",
@@ -131,130 +391,31 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
+      "keyword_group": "印度",
       "match_count": 5,
       "titles": [
         {
-          "title": "事关特朗普与马斯克，美媒最新爆料",
-          "url": "https://news.ifeng.com/c/8vaHza2NSPn",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时52分"
-        },
-        {
-          "title": "特朗普：美国经济表现“难以置信地好” 盛赞股市",
-          "url": "https://wallstreetcn.com/livenews/3149842",
+          "title": "印度拟向拥有成熟技术的外国核反应堆开放核电市场",
+          "url": "https://wallstreetcn.com/livenews/3149870",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时52分"
+          "time_info": "04时29分"
         },
-        {
-          "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
-          "url": "https://www.zhihu.com/question/2070813507499643585",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时52分"
-        },
-        {
-          "title": "美国总统特朗普：经济表现好得令人难以置信。",
-          "url": "https://flash.jin10.com/detail/20260815012708562800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时52分"
-        },
-        {
-          "title": "市场消息：美国总统特朗普已离开安德鲁斯联合基地，正前往纽约加登城。",
-          "url": "https://flash.jin10.com/detail/20260815012635868800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "日本",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "俄外长：说“见到你太高兴了”就是日本所谓的讨论双边关系",
-          "url": "https://news.ifeng.com/c/8vaD3kx26ZW",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时52分"
-        },
-        {
-          "title": "反复发作、生不如死，日本遗留化武受害者的人生有多苦？",
-          "url": "https://news.ifeng.com/c/8vaLDR3wVa0",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时52分"
-        },
-        {
-          "title": "日本“和平塔”，压着从中国抢来的238块石头！",
-          "url": "https://v.ifeng.com/c/8vabIMWQYoS",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时52分"
-        },
-        {
-          "title": "81年前“日本投降矣！”",
-          "url": "https://www.baidu.com/s?wd=81%E5%B9%B4%E5%89%8D%E2%80%9C%E6%97%A5%E6%9C%AC%E6%8A%95%E9%99%8D%E7%9F%A3%EF%BC%81%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "印度",
-      "match_count": 4,
-      "titles": [
         {
           "title": "印度自8月15日起将汽油出口暴利税从每升3.5卢比降至零，将航空涡轮燃料出口暴利税从每升22卢比下调至19.5卢比，将柴油出口暴利税从每升25.5卢比下调至24卢比。",
           "url": "https://wallstreetcn.com/livenews/3149847",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时52分"
+          "appearance_count": 2,
+          "time_info": "[02时52分 ~ 04时29分]"
         },
         {
           "title": "据印度官方命令：印度将柴油出口暴利税从每升25.5卢比下调至每升24卢比，自8月15日起生效。",
@@ -292,20 +453,59 @@
       ]
     },
     {
+      "keyword_group": "日本",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "俄外长：说“见到你太高兴了”就是日本所谓的讨论双边关系",
+          "url": "https://news.ifeng.com/c/8vaD3kx26ZW",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时52分 ~ 04时29分]"
+        },
+        {
+          "title": "反复发作、生不如死，日本遗留化武受害者的人生有多苦？",
+          "url": "https://news.ifeng.com/c/8vaLDR3wVa0",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时52分 ~ 04时29分]"
+        },
+        {
+          "title": "日本“和平塔”，压着从中国抢来的238块石头！",
+          "url": "https://v.ifeng.com/c/8vabIMWQYoS",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时52分 ~ 04时29分]"
+        },
+        {
+          "title": "81年前“日本投降矣！”",
+          "url": "https://www.baidu.com/s?wd=81%E5%B9%B4%E5%89%8D%E2%80%9C%E6%97%A5%E6%9C%AC%E6%8A%95%E9%99%8D%E7%9F%A3%EF%BC%81%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时52分 ~ 04时29分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 3,
       "titles": [
-        {
-          "title": "DeepSeek Harness实测",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E5%AE%9E%E6%B5%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时52分"
-        },
         {
           "title": "俱往矣!DeepSeek大幅涨价",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357395&amp;topic_name=%E4%BF%B1%E5%BE%80%E7%9F%A3%21DeepSeek%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7",
@@ -314,8 +514,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时52分"
+          "appearance_count": 2,
+          "time_info": "[02时52分 ~ 04时29分]"
+        },
+        {
+          "title": "DeepSeek Harness实测",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E5%AE%9E%E6%B5%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时52分 ~ 04时29分]"
         },
         {
           "title": "网友热议DeepSeek Harness：“自进化软件”的雏形",
@@ -325,8 +537,47 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时52分 ~ 04时29分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美疲弱零售销售数据再挫加息预期，美股涨跌互现，存储芯片股普涨，闪迪涨约7%，金涨油跌",
+          "url": "https://wallstreetcn.com/articles/3779437",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时52分 ~ 04时29分]"
+        },
+        {
+          "title": "美股收盘：三大股指低收 博通跌近6%",
+          "url": "https://flash.jin10.com/detail/20260815040246091800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时52分"
+          "time_info": "04时29分"
+        },
+        {
+          "title": "美股三大股指低跌，博通跌近6%，闪迪涨超7%",
+          "url": "https://wallstreetcn.com/livenews/3149871",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
         }
       ]
     },
@@ -334,17 +585,6 @@
       "keyword_group": "伊朗",
       "match_count": 3,
       "titles": [
-        {
-          "title": "白宫新闻秘书莱维特表示，美国还有更多施压伊朗的手段。美国可以继续惩罚伊朗并削弱其经济。",
-          "url": "https://wallstreetcn.com/livenews/3149851",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时52分"
-        },
         {
           "title": "白宫新闻秘书莱维特：我们还有更多施压伊朗的手段。美国可以继续惩罚伊朗并削弱其经济。",
           "url": "https://flash.jin10.com/detail/20260815021403053800",
@@ -357,15 +597,56 @@
           "time_info": "02时52分"
         },
         {
+          "title": "白宫新闻秘书莱维特表示，美国还有更多施压伊朗的手段。美国可以继续惩罚伊朗并削弱其经济。",
+          "url": "https://wallstreetcn.com/livenews/3149851",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时52分 ~ 04时29分]"
+        },
+        {
           "title": "伊朗方面的最新表态传递出哪些信号",
           "url": "https://www.toutiao.com/trending/7673859930650054186/",
           "source": "今日头条",
           "ranks": [
-            9
+            9,
+            16
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时52分 ~ 04时29分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美元指数14日下跌",
+          "url": "https://wallstreetcn.com/livenews/3149863",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时52分"
+          "time_info": "04时29分"
+        },
+        {
+          "title": "美元指数14日下跌",
+          "url": "https://flash.jin10.com/detail/20260815032503008800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
         }
       ]
     },
@@ -381,8 +662,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时52分"
+          "appearance_count": 2,
+          "time_info": "[02时52分 ~ 04时29分]"
         }
       ]
     },
@@ -398,25 +679,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美疲弱零售销售数据再挫加息预期，美股涨跌互现，存储芯片股普涨，闪迪涨约7%，金涨油跌",
-          "url": "https://wallstreetcn.com/articles/3779437",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时52分"
+          "appearance_count": 2,
+          "time_info": "[02时52分 ~ 04时29分]"
         }
       ]
     }
