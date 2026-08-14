@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T21:03:10.160443+08:00",
-  "total_titles_processed": 1227,
+  "generated_at": "2026-08-14T22:49:44.415063+08:00",
+  "total_titles_processed": 1357,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国",
-      "match_count": 53,
+      "match_count": 71,
       "titles": [
         {
           "title": "通胀超预期降温！美国7月PPI同比涨幅收窄至4.7%，能源成本下降成主因",
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时01分 ~ 21时03分]"
+          "appearance_count": 6,
+          "time_info": "[18时01分 ~ 22时49分]"
         },
         {
           "title": "美国7月PPI通胀不及预期 美联储9月加息预期进一步降温",
@@ -79,6 +79,17 @@
           "time_info": "19时03分"
         },
         {
+          "title": "美国证交会文件显示，阿联酋穆巴达拉投资公司将其持有的美光科技(MU.O)股份增持3.0%至45,451股。",
+          "url": "https://flash.jin10.com/detail/20260814224635950800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
           "title": "美国能源信息署（EIA）：预计8月美国石油产量平均为每日1,383万桶，7月为每日1,382万桶；9月预计平均为每日1,377万桶。",
           "url": "https://flash.jin10.com/detail/20260814183509415800",
           "source": "金十数据",
@@ -88,6 +99,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
+        },
+        {
+          "title": "美国证交会文件显示，阿联酋穆巴达拉投资公司将其持有的GlobalFoundries股份减持5.5%至3.996亿股。",
+          "url": "https://flash.jin10.com/detail/20260814224558693800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "美联储未来一个月暂停出于准备金管理目的买入美国国库券",
@@ -140,9 +162,31 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时03分"
+        },
+        {
+          "title": "美国证交会文件显示，阿联酋穆巴达拉投资公司清仓其持有博通(AVGO.O)公司股份。",
+          "url": "https://flash.jin10.com/detail/20260814224313189800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
+          "title": "美国证交会文件显示，阿联酋穆巴达拉投资公司将其持有的CVS健康(CVS.N)股份增至163,902股。",
+          "url": "https://flash.jin10.com/detail/20260814224238381800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "美国7月零售销售(除汽车与汽油)环比 -0.2%，预期 0.3%，前值 0.4%。",
@@ -151,7 +195,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时03分"
         },
@@ -202,15 +246,37 @@
           "time_info": "[21时02分 ~ 21时03分]"
         },
         {
+          "title": "美国证交会文件显示，阿联酋穆巴达拉投资公司将其持有的Palantir(PLTR.N)A类股股份增加40.4%，至95,656股。",
+          "url": "https://flash.jin10.com/detail/20260814224153224800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
           "title": "美国7月零售销售环比 -0.6%，预期 0.1%，前值 0.2%。",
           "url": "https://wallstreetcn.com/livenews/3149761",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时03分"
+        },
+        {
+          "title": "美国消费者信心指数三个月来首次下降。",
+          "url": "https://wallstreetcn.com/livenews/3149805",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "美国7月零售销售(除汽车)环比 -0.3%，预期 0.2%，前值 -0.2%。",
@@ -219,9 +285,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时03分"
+        },
+        {
+          "title": "美国6月商业库存环比 0%，预期 0.1%，前值 0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3149804",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
+          "title": "美国证交会文件显示，阿联酋穆巴达拉投资公司清仓其持有的Salesforce(CRM.N)公司股份。",
+          "url": "https://flash.jin10.com/detail/20260814224111241800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "惠誉：到2032 年，美国医疗保险与社会保障支出占GDP的比重将增加近1个百分点，这将进一步加大政府的财政压力。",
@@ -235,6 +323,17 @@
           "time_info": "05时43分"
         },
         {
+          "title": "美国8月密歇根大学消费者预期指数初值 50.6，预期 55.2，前值 55.4。",
+          "url": "https://wallstreetcn.com/livenews/3149803",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
           "title": "美国国家运输安全委员会（NTSB）：正进一步研判此次事件是否与2018年西南航空发动机故障等类似事故存在共通之处。此前检查记录显示，该发动机曾于今年5月接受例行检修，当时未发现任何异常。",
           "url": "https://flash.jin10.com/detail/20260814021946760800",
           "source": "金十数据",
@@ -244,6 +343,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "美国证交会文件显示，阿联酋穆巴达拉投资公司清仓其持有的苹果(AAPL.O)股份；持有英伟达(NVDA.O)公司65,326股股份。",
+          "url": "https://flash.jin10.com/detail/20260814223945584800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "惠誉：美国政治僵局与政府停摆发生概率或将上升，持续时间也可能进一步拉长。",
@@ -257,6 +367,17 @@
           "time_info": "05时43分"
         },
         {
+          "title": "美国8月密歇根大学5年通胀预期初值 3.3，预期 3.3，前值 3.3。",
+          "url": "https://wallstreetcn.com/livenews/3149802",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
           "title": "美国国家运输安全委员会（NTSB）：7月瑞安航空航班紧急迫降事故的调查仍在进行中，调查人员已在涉事发动机附近发现了包括羽毛在内的鸟类残骸。",
           "url": "https://flash.jin10.com/detail/20260814021925136800",
           "source": "金十数据",
@@ -268,6 +389,17 @@
           "time_info": "03时15分"
         },
         {
+          "title": "美国商人约书亚·库什纳旗下的Thrive Capital斥资约2.15亿美元购入亚马逊公司的股票，进一步巩固了这家风险投资公司对上市公司的投资策略。",
+          "url": "https://flash.jin10.com/detail/20260814223337229800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
           "title": "惠誉：美国的评级得益于庞大的经济、高人均收入、活跃的商业环境和卓越的融资灵活性。预计美国2026-2027年经济增长将保持相对韧性，达到1.9%，但低于2025年的2.8%。2026年美国劳动力需求减弱，职位创造显著下降。",
           "url": "https://wallstreetcn.com/livenews/3149321",
           "source": "华尔街见闻-快讯",
@@ -277,6 +409,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
+        },
+        {
+          "title": "美国8月密歇根大学1年通胀预期初值 4.3，预期 4.2，前值 4.2。",
+          "url": "https://wallstreetcn.com/livenews/3149800",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "高达100% 美国将对进口无人机及零部件征收关税",
@@ -329,9 +472,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时03分"
+        },
+        {
+          "title": "美国8月密歇根大学消费者信心指数初值 51，预期 55，前值 55.2。",
+          "url": "https://wallstreetcn.com/livenews/3149799",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "高达100%，美国将对进口无人机及零部件征关税",
@@ -356,6 +510,17 @@
           "time_info": "05时43分"
         },
         {
+          "title": "美国8月密歇根大学消费者现况指数初值 51.8，预期 54.8，前值 54.8。",
+          "url": "https://wallstreetcn.com/livenews/3149801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
           "title": "惠誉：高财政赤字、巨大的利息负担以及高企且上升的政府债务水平制约了美国评级。",
           "url": "https://flash.jin10.com/detail/20260814044027598800",
           "source": "金十数据",
@@ -373,7 +538,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时03分"
         },
@@ -455,6 +620,17 @@
           "time_info": "03时15分"
         },
         {
+          "title": "提醒：北京时间22:00，将公布美国8月密歇根大学消费者信心指数初值、美国8月密歇根大学1年通胀预期初值、美国8月密歇根大学5年通胀预期初值。",
+          "url": "https://wallstreetcn.com/livenews/3149795",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
           "title": "美国证券交易委员会（SEC）文件显示，截至6月30日马斯克持有48.4%的SpaceX(SPCX.O)被动股份。",
           "url": "https://wallstreetcn.com/livenews/3149314",
           "source": "华尔街见闻-快讯",
@@ -510,6 +686,17 @@
           "time_info": "05时43分"
         },
         {
+          "title": "美国资深议员要求贝森特说明干预日元的依据",
+          "url": "https://flash.jin10.com/detail/20260814221940230800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
           "title": "美国：成立新的无人机特遣部队，部队将使用来自美国及伙伴国的攻击无人机。",
           "url": "https://wallstreetcn.com/livenews/3149261",
           "source": "华尔街见闻-快讯",
@@ -530,6 +717,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
+        },
+        {
+          "title": "高温推升燃气需求 美国气价小幅走高",
+          "url": "https://flash.jin10.com/detail/20260814221602175800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "美国30年期国债收益率在30年期债券拍卖后小幅回升；最新下跌2.9个基点，报5.217%。",
@@ -601,8 +799,20 @@
     },
     {
       "keyword_group": "日本",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
+        {
+          "title": "俄外长：说“见到你太高兴了”就是日本所谓的讨论双边关系",
+          "url": "https://news.ifeng.com/c/8vaD3kx26ZW",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时01分 ~ 22时49分]"
+        },
         {
           "title": "熊灾泛滥,日本餐厅卖炖熊掌",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357328&amp;topic_name=%E7%86%8A%E7%81%BE%E6%B3%9B%E6%BB%A5%2C%E6%97%A5%E6%9C%AC%E9%A4%90%E5%8E%85%E5%8D%96%E7%82%96%E7%86%8A%E6%8E%8C",
@@ -616,18 +826,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[03时14分 ~ 19时03分]"
-        },
-        {
-          "title": "俄外长：说“见到你太高兴了”就是日本所谓的讨论双边关系",
-          "url": "https://news.ifeng.com/c/8vaD3kx26ZW",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时01分 ~ 21时03分]"
         },
         {
           "title": "普京一出手，日本直跳脚",
@@ -653,6 +851,17 @@
           "time_info": "[03时14分 ~ 09时47分]"
         },
         {
+          "title": "反复发作、生不如死，日本遗留化武受害者的人生有多苦？",
+          "url": "https://news.ifeng.com/c/8vaLDR3wVa0",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时01分 ~ 22时49分]"
+        },
+        {
           "title": "普京驳斥日本南千岛群岛领土主张",
           "url": "https://www.douyin.com/hot/2607763",
           "source": "抖音",
@@ -664,17 +873,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时14分 ~ 09时47分]"
-        },
-        {
-          "title": "反复发作、生不如死，日本遗留化武受害者的人生有多苦？",
-          "url": "https://news.ifeng.com/c/8vaLDR3wVa0",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时01分 ~ 21时03分]"
         },
         {
           "title": "日本强烈抗议普京登上日俄争议岛屿",
@@ -689,6 +887,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时14分 ~ 12时07分]"
+        },
+        {
+          "title": "日本“和平塔”，压着从中国抢来的238块石头！",
+          "url": "https://v.ifeng.com/c/8vabIMWQYoS",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时02分 ~ 22时49分]"
         },
         {
           "title": "博主：日本经济深陷无解死局",
@@ -723,17 +932,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时47分 ~ 12时07分]"
-        },
-        {
-          "title": "日本“和平塔”，压着从中国抢来的238块石头！",
-          "url": "https://v.ifeng.com/c/8vabIMWQYoS",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时02分 ~ 21时03分]"
         },
         {
           "title": "王艺迪陈熠不敌日本组合无缘四强",
@@ -779,6 +977,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
+        },
+        {
+          "title": "日本暴雨中国游客无奈地铁站过夜",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%9A%B4%E9%9B%A8%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E6%97%A0%E5%A5%88%E5%9C%B0%E9%93%81%E7%AB%99%E8%BF%87%E5%A4%9C%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "日本为何绝口不提“挨谁打”",
@@ -847,6 +1056,17 @@
           "time_info": "19时03分"
         },
         {
+          "title": "媒体：普京出手日本跳脚",
+          "url": "https://www.toutiao.com/trending/7673674513289429042/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
           "title": "日本财务省前财务官：日本可能采取更多日元干预措施，央行或更快加息",
           "url": "https://wallstreetcn.com/livenews/3149379",
           "source": "华尔街见闻-快讯",
@@ -861,7 +1081,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "俱往矣!DeepSeek大幅涨价",
@@ -874,8 +1094,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时14分 ~ 21时03分]"
+          "appearance_count": 11,
+          "time_info": "[03时14分 ~ 22时49分]"
         },
         {
           "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
@@ -1064,6 +1284,18 @@
           "time_info": "[18时01分 ~ 19时03分]"
         },
         {
+          "title": "DeepSeek V4 大幅涨价后，现在谁才是你心中的大模型性价比之选？",
+          "url": "https://www.zhihu.com/question/2071361705183899939",
+          "source": "知乎",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时01分 ~ 22时49分]"
+        },
+        {
           "title": "为什么DeepSeek越涨价越是价格屠夫",
           "url": "https://www.toutiao.com/trending/7673637537293798953/",
           "source": "今日头条",
@@ -1088,21 +1320,43 @@
           "time_info": "[09时47分 ~ 12时07分]"
         },
         {
-          "title": "DeepSeek V4 大幅涨价后，现在谁才是你心中的大模型性价比之选？",
-          "url": "https://www.zhihu.com/question/2071361705183899939",
-          "source": "知乎",
+          "title": "DeepSeek Harness实测",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E5%AE%9E%E6%B5%8B",
+          "source": "bilibili 热搜",
           "ranks": [
-            18
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时01分 ~ 18时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
+          "title": "网友热议DeepSeek Harness：“自进化软件”的雏形",
+          "url": "https://wallstreetcn.com/articles/3779418",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
+          "title": "深度体验DeepSeek Harness 原谅涨价",
+          "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%BA%A6%E4%BD%93%E9%AA%8CDeepSeek+Harness+%E5%8E%9F%E8%B0%85%E6%B6%A8%E4%BB%B7",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "事关特朗普与马斯克，美媒最新爆料",
@@ -1114,8 +1368,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时01分 ~ 21时03分]"
+          "appearance_count": 6,
+          "time_info": "[18时01分 ~ 22时49分]"
         },
         {
           "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
@@ -1164,6 +1418,28 @@
           "time_info": "03时15分"
         },
         {
+          "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
+          "url": "https://www.zhihu.com/question/2070813507499643585",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时01分 ~ 22时49分]"
+        },
+        {
+          "title": "特朗普请求美国最高法院允许其继续推进白宫宴会厅项目",
+          "url": "https://wallstreetcn.com/livenews/3149807",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
           "title": "以色列发警报迫使特朗普换机，美中情局质疑以方用意",
           "url": "https://news.ifeng.com/c/8vYmNSHdxQv",
           "source": "凤凰网",
@@ -1184,17 +1460,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
-        },
-        {
-          "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
-          "url": "https://www.zhihu.com/question/2070813507499643585",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时01分 ~ 21时03分]"
         },
         {
           "title": "鲁比奥吐槽：特朗普总先发帖再通知，我都不知道自己要当国务卿",
@@ -1321,7 +1586,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "被伊朗打成外交收缩？美驻中东使馆拟长期精简人员",
@@ -1470,6 +1735,17 @@
           "time_info": "03时15分"
         },
         {
+          "title": "伊朗方面的最新表态传递出哪些信号",
+          "url": "https://www.toutiao.com/trending/7673859930650054186/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
           "title": "美防长称可“无限期维持”对伊朗海上封锁",
           "url": "https://wallstreetcn.com/livenews/3149317",
           "source": "华尔街见闻-快讯",
@@ -1509,7 +1785,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时03分"
         },
@@ -1528,7 +1804,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
         {
           "title": "美温和CPI缓解加息压力，光通信领涨美股，Nebius暴涨超34%，美元、黄金齐涨",
@@ -1576,6 +1852,28 @@
           "time_info": "19时03分"
         },
         {
+          "title": "美股三大股指均转跌。",
+          "url": "https://flash.jin10.com/detail/20260814222241849800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，生物科技指数ETF跌超1%，医疗业ETF跌近1%，公用事业ETF、能源业ETF微涨。",
+          "url": "https://wallstreetcn.com/livenews/3149790",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
           "title": "周四（8月13日），美股行业ETF普遍收涨，房地产ETF涨1.42%，日常消费ETF涨1.07%，半导体ETF涨0.76%，金融精选ETF涨0.56%，太阳能ETF、可选消费ETF、地区银行、公用事业ETF涨0.42%-0.48%不等。医疗保健ETF则微跌0.04%。",
           "url": "https://wallstreetcn.com/livenews/3149311",
           "source": "华尔街见闻-快讯",
@@ -1598,6 +1896,17 @@
           "time_info": "05时43分"
         },
         {
+          "title": "美股盘初：纳指涨0.2%，存储芯片股普涨",
+          "url": "https://wallstreetcn.com/livenews/3149787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
           "title": "美股三大指数集体收涨，道指涨0.13%，纳指涨0.81%，标普500指数涨0.65%。 存储板块大涨，闪迪涨13.67%，西部数据、海力士涨超7%。光通信板块走低，Coherent跌约8%，Lumentum、康宁、Applied Optoelectronics跌超5%。",
           "url": "https://wallstreetcn.com/livenews/3149304",
           "source": "华尔街见闻-快讯",
@@ -1607,6 +1916,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3149772",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         }
       ]
     },
@@ -1694,8 +2014,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时01分 ~ 21时03分]"
+          "appearance_count": 6,
+          "time_info": "[18时01分 ~ 22时49分]"
         },
         {
           "title": "据Axios：OpenAI在IPO前进行高管更换。",
@@ -1745,18 +2065,19 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "逼近历史警戒线！美债长端融资成本飙升，30年期得标利率创2001年最高",
           "url": "https://wallstreetcn.com/articles/3779403",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时01分 ~ 21时03分]"
+          "appearance_count": 6,
+          "time_info": "[18时01分 ~ 22时49分]"
         },
         {
           "title": "特朗普或迎新“纪录”：30年期美债融资成本恐创2001年来最高",
@@ -1780,6 +2101,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
+        },
+        {
+          "title": "零售数据疲软打压加息预期 短期美债应声上涨",
+          "url": "https://flash.jin10.com/detail/20260814222728376800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "美联储抗通胀信誉面临大考！华尔街借“蝴蝶”策略押注美债反转",
@@ -1870,11 +2202,12 @@
           "url": "https://www.toutiao.com/trending/7673534138036522542/",
           "source": "今日头条",
           "ranks": [
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时02分 ~ 21时03分]"
+          "appearance_count": 3,
+          "time_info": "[21时02分 ~ 22时49分]"
         },
         {
           "title": "天津消防匍匐滩涂2公里救出游客",
@@ -1900,7 +2233,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时03分"
         }
