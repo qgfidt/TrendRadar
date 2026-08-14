@@ -1,205 +1,11 @@
 {
-  "generated_at": "2026-08-15T04:29:52.871676+08:00",
-  "total_titles_processed": 378,
+  "generated_at": "2026-08-15T06:57:48.827947+08:00",
+  "total_titles_processed": 458,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 17,
-      "titles": [
-        {
-          "title": "美国总统特朗普表示，我很快将宣布霍尔木兹海峡为美国领土。美国对伊朗的封锁“势不可挡”，是一道“钢铁之墙”。 特朗普称，美国已经做好应对伊朗的充分准备，不会允许伊朗继续所作所为，也不会允许伊朗拥有核武器。",
-          "url": "https://wallstreetcn.com/livenews/3149869",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时29分"
-        },
-        {
-          "title": "事关特朗普与马斯克，美媒最新爆料",
-          "url": "https://news.ifeng.com/c/8vaHza2NSPn",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 04时29分]"
-        },
-        {
-          "title": "特朗普：美国经济表现“难以置信地好” 盛赞股市",
-          "url": "https://wallstreetcn.com/livenews/3149842",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 04时29分]"
-        },
-        {
-          "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
-          "url": "https://www.zhihu.com/question/2070813507499643585",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 04时29分]"
-        },
-        {
-          "title": "美国总统特朗普：对伊朗的封锁势不可挡，封锁是一道钢铁之墙。",
-          "url": "https://flash.jin10.com/detail/20260815035842401800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时29分"
-        },
-        {
-          "title": "美国总统特朗普：美国汽油价格会因此小幅上涨。",
-          "url": "https://flash.jin10.com/detail/20260815035801456800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时29分"
-        },
-        {
-          "title": "美国总统特朗普：（关于伊朗）美国已做好充分准备。",
-          "url": "https://flash.jin10.com/detail/20260815035743383800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时29分"
-        },
-        {
-          "title": "美国总统特朗普：我们不会允许伊朗继续所作所为 。",
-          "url": "https://flash.jin10.com/detail/20260815035651937800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时29分"
-        },
-        {
-          "title": "美国总统特朗普：我们不会允许伊朗拥有核武器。",
-          "url": "https://flash.jin10.com/detail/20260815035609089800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时29分"
-        },
-        {
-          "title": "美国总统特朗普：我不在乎在中期选举前打击伊朗经济。",
-          "url": "https://wallstreetcn.com/livenews/3149861",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时29分"
-        },
-        {
-          "title": "美国总统特朗普：（关于伊朗）我很快将宣布霍尔木兹海峡为美国领土。",
-          "url": "https://flash.jin10.com/detail/20260815035358450800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时29分"
-        },
-        {
-          "title": "美国总统特朗普：我们通过关税赚了很多钱。",
-          "url": "https://flash.jin10.com/detail/20260815035105302800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时29分"
-        },
-        {
-          "title": "特朗普料将出席白宫预测市场会议",
-          "url": "https://wallstreetcn.com/livenews/3149855",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时29分"
-        },
-        {
-          "title": "美国总统特朗普：经济表现好得令人难以置信。",
-          "url": "https://flash.jin10.com/detail/20260815012708562800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时52分"
-        },
-        {
-          "title": "市场消息：美国总统特朗普已离开安德鲁斯联合基地，正前往纽约加登城。",
-          "url": "https://flash.jin10.com/detail/20260815012635868800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时52分"
-        },
-        {
-          "title": "美国总统特朗普：不在乎在中期选举前打击伊朗经济。",
-          "url": "https://flash.jin10.com/detail/20260815032729753800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时29分"
-        },
-        {
-          "title": "特朗普：将对伊朗实施严厉经济打击",
-          "url": "https://flash.jin10.com/detail/20260815031855314800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时29分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美国",
-      "match_count": 17,
+      "match_count": 22,
       "titles": [
         {
           "title": "中国AI把价格打下来，美国巨头一口气降80%",
@@ -209,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 04时29分]"
+          "appearance_count": 3,
+          "time_info": "[02时52分 ~ 06时57分]"
         },
         {
           "title": "美国原油期货结算价为每桶82.40美元，上涨1.15美元，涨幅1.42%。",
@@ -222,6 +28,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
+        },
+        {
+          "title": "美国防务巨头竞相研发廉价导弹",
+          "url": "https://flash.jin10.com/detail/20260815060326105800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时57分"
+        },
+        {
+          "title": "美国航母退回蒸汽弹射时代意味什么",
+          "url": "https://www.toutiao.com/trending/7673810109385936410/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时52分 ~ 06时57分]"
+        },
+        {
+          "title": "据美国证券交易委员会文件显示： THIRD POINT LLC已出售其持有的全部英伟达股份。同时将其持有的亚马逊公司股份减持9.8%，减持后持股数为180万股。",
+          "url": "https://wallstreetcn.com/livenews/3149889",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时57分"
         },
         {
           "title": "贝克休斯：美国能源公司在三周内第二次增加钻井平台。美国油气钻井平台数量上升至2025年3月以来的最高水平。",
@@ -241,9 +81,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
+        },
+        {
+          "title": "美国证券交易委员会文件显示，英特尔(INTC.O)CEO陈立武于8月11日在公开市场以平均每股95美元的价格购买了105,263股英特尔股票。",
+          "url": "https://wallstreetcn.com/livenews/3149878",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时57分"
         },
         {
           "title": "美国8月14日当周石油钻井数 455，前值 454。",
@@ -279,6 +130,17 @@
           "time_info": "02时52分"
         },
         {
+          "title": "美国证券交易委员会文件显示，英伟达持有SpaceX1.228亿股A类普通股，估值约为210亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3149875",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时57分"
+        },
+        {
           "title": "美国司法部与商品期货交易委员会正在对铁矿石交易商Radiant World的交易活动展开调查。",
           "url": "https://wallstreetcn.com/livenews/3149840",
           "source": "华尔街见闻-快讯",
@@ -296,7 +158,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
         },
@@ -307,7 +169,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
         },
@@ -329,7 +191,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
         },
@@ -340,7 +202,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
         },
@@ -354,6 +216,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
+        },
+        {
+          "title": "美国证券交易委员会文件显示，AMD(AMD.O)持有330万股SpaceX(SPCX.O)A类股份。",
+          "url": "https://flash.jin10.com/detail/20260815044509711800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时57分"
         },
         {
           "title": "美国证券交易委员会（SEC）文件显示，软银集团将其在台积电(TSM.N)的股份减少71.5%，降至56.5万份存托凭证。",
@@ -373,37 +246,277 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 20,
+      "titles": [
+        {
+          "title": "美国总统特朗普表示，我很快将宣布霍尔木兹海峡为美国领土。美国对伊朗的封锁“势不可挡”，是一道“钢铁之墙”。 特朗普称，美国已经做好应对伊朗的充分准备，不会允许伊朗继续所作所为，也不会允许伊朗拥有核武器。",
+          "url": "https://wallstreetcn.com/livenews/3149869",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时29分 ~ 06时57分]"
+        },
+        {
+          "title": "事关特朗普与马斯克，美媒最新爆料",
+          "url": "https://news.ifeng.com/c/8vaHza2NSPn",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时52分 ~ 06时57分]"
+        },
+        {
+          "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
+          "url": "https://www.zhihu.com/question/2070813507499643585",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时52分 ~ 06时57分]"
+        },
+        {
+          "title": "特朗普：美国经济表现“难以置信地好” 盛赞股市",
+          "url": "https://wallstreetcn.com/livenews/3149842",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时52分 ~ 04时29分]"
+        },
+        {
+          "title": "美国总统特朗普：对伊朗的封锁势不可挡，封锁是一道钢铁之墙。",
+          "url": "https://flash.jin10.com/detail/20260815035842401800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
         },
         {
-          "title": "美国航母退回蒸汽弹射时代意味什么",
-          "url": "https://www.toutiao.com/trending/7673810109385936410/",
-          "source": "今日头条",
+          "title": "美国总统特朗普：美国汽油价格会因此小幅上涨。",
+          "url": "https://flash.jin10.com/detail/20260815035801456800",
+          "source": "金十数据",
           "ranks": [
-            30
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "美国总统特朗普：（关于伊朗）美国已做好充分准备。",
+          "url": "https://flash.jin10.com/detail/20260815035743383800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "美国总统特朗普：我们不会允许伊朗继续所作所为 。",
+          "url": "https://flash.jin10.com/detail/20260815035651937800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "特朗普：击败伊朗后会宣布霍尔木兹海峡为美国领土",
+          "url": "https://wallstreetcn.com/livenews/3149885",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时57分"
+        },
+        {
+          "title": "美国总统特朗普：我们不会允许伊朗拥有核武器。",
+          "url": "https://flash.jin10.com/detail/20260815035609089800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "美国总统特朗普：我不在乎在中期选举前打击伊朗经济。",
+          "url": "https://wallstreetcn.com/livenews/3149861",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "美国总统特朗普：（关于伊朗）我很快将宣布霍尔木兹海峡为美国领土。",
+          "url": "https://flash.jin10.com/detail/20260815035358450800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "美国总统特朗普：我们通过关税赚了很多钱。",
+          "url": "https://flash.jin10.com/detail/20260815035105302800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "特朗普料将出席白宫预测市场会议",
+          "url": "https://wallstreetcn.com/livenews/3149855",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "伊朗副外长加里巴巴迪：（回应特朗普称将宣布霍尔木兹海峡为美国领土的言论）不会被美国的威胁或武力展示所吓倒。",
+          "url": "https://flash.jin10.com/detail/20260815050235011800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时57分"
+        },
+        {
+          "title": "特朗普表示，每周从委内瑞拉获取数百万桶石油。 伊朗仍拥有导弹和无人机，但数量并不多。伊朗已无防御力量。伊朗货币毫无价值。 我们在伊朗问题上取得了重大胜利。",
+          "url": "https://wallstreetcn.com/livenews/3149874",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时57分"
+        },
+        {
+          "title": "美国总统特朗普：经济表现好得令人难以置信。",
+          "url": "https://flash.jin10.com/detail/20260815012708562800",
+          "source": "金十数据",
+          "ranks": [
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普已离开安德鲁斯联合基地，正前往纽约加登城。",
+          "url": "https://flash.jin10.com/detail/20260815012635868800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时52分"
+        },
+        {
+          "title": "美国总统特朗普：不在乎在中期选举前打击伊朗经济。",
+          "url": "https://flash.jin10.com/detail/20260815032729753800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "特朗普：将对伊朗实施严厉经济打击",
+          "url": "https://flash.jin10.com/detail/20260815031855314800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时29分"
         }
       ]
     },
     {
       "keyword_group": "印度",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
-          "title": "印度拟向拥有成熟技术的外国核反应堆开放核电市场",
-          "url": "https://wallstreetcn.com/livenews/3149870",
-          "source": "华尔街见闻-快讯",
+          "title": "欧洲地中海地震中心：将印度尼西亚弗洛勒斯地区地震震级从7.4级修订至6.9级。",
+          "url": "https://flash.jin10.com/detail/20260815060713633800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时57分"
+        },
+        {
+          "title": "欧洲地中海地震中心：印度尼西亚弗洛勒斯地区发生7.4级地震。",
+          "url": "https://flash.jin10.com/detail/20260815060509869800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时29分"
+          "time_info": "06时57分"
+        },
+        {
+          "title": "印度拟向拥有成熟技术的外国核反应堆开放核电市场",
+          "url": "https://wallstreetcn.com/livenews/3149870",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时29分 ~ 06时57分]"
         },
         {
           "title": "印度自8月15日起将汽油出口暴利税从每升3.5卢比降至零，将航空涡轮燃料出口暴利税从每升22卢比下调至19.5卢比，将柴油出口暴利税从每升25.5卢比下调至24卢比。",
@@ -454,7 +567,7 @@
     },
     {
       "keyword_group": "日本",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "俄外长：说“见到你太高兴了”就是日本所谓的讨论双边关系",
@@ -464,8 +577,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 04时29分]"
+          "appearance_count": 3,
+          "time_info": "[02时52分 ~ 06时57分]"
         },
         {
           "title": "反复发作、生不如死，日本遗留化武受害者的人生有多苦？",
@@ -475,8 +588,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 04时29分]"
+          "appearance_count": 3,
+          "time_info": "[02时52分 ~ 06时57分]"
         },
         {
           "title": "日本“和平塔”，压着从中国抢来的238块石头！",
@@ -486,8 +599,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 04时29分]"
+          "appearance_count": 3,
+          "time_info": "[02时52分 ~ 06时57分]"
         },
         {
           "title": "81年前“日本投降矣！”",
@@ -497,93 +610,36 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 04时29分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "俱往矣!DeepSeek大幅涨价",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357395&amp;topic_name=%E4%BF%B1%E5%BE%80%E7%9F%A3%21DeepSeek%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7",
-          "source": "贴吧",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 04时29分]"
+          "appearance_count": 3,
+          "time_info": "[02时52分 ~ 06时57分]"
         },
         {
-          "title": "DeepSeek Harness实测",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E5%AE%9E%E6%B5%8B",
-          "source": "bilibili 热搜",
+          "title": "日本暴雨中国游客无奈地铁站过夜",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%9A%B4%E9%9B%A8%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E6%97%A0%E5%A5%88%E5%9C%B0%E9%93%81%E7%AB%99%E8%BF%87%E5%A4%9C%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
           "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 04时29分]"
-        },
-        {
-          "title": "网友热议DeepSeek Harness：“自进化软件”的雏形",
-          "url": "https://wallstreetcn.com/articles/3779418",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 04时29分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美疲弱零售销售数据再挫加息预期，美股涨跌互现，存储芯片股普涨，闪迪涨约7%，金涨油跌",
-          "url": "https://wallstreetcn.com/articles/3779437",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 04时29分]"
-        },
-        {
-          "title": "美股收盘：三大股指低收 博通跌近6%",
-          "url": "https://flash.jin10.com/detail/20260815040246091800",
-          "source": "金十数据",
-          "ranks": [
-            1
+            23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时29分"
+          "time_info": "06时57分"
         },
         {
-          "title": "美股三大股指低跌，博通跌近6%，闪迪涨超7%",
-          "url": "https://wallstreetcn.com/livenews/3149871",
-          "source": "华尔街见闻-快讯",
+          "title": "日本投降81周年",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%8A%95%E9%99%8D81%E5%91%A8%E5%B9%B4%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
           "ranks": [
-            1
+            29
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时29分"
+          "time_info": "06时57分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "白宫新闻秘书莱维特：我们还有更多施压伊朗的手段。美国可以继续惩罚伊朗并削弱其经济。",
@@ -614,11 +670,199 @@
           "source": "今日头条",
           "ranks": [
             9,
-            16
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时52分 ~ 06时57分]"
+        },
+        {
+          "title": "据伊朗学生通讯社：伊朗外长阿拉格齐表示，尚未决定是否恢复与美国谈判。卡塔尔和巴基斯坦作为协调方正在与伊朗交换信息，但这并不意味着美伊已进入谈判。",
+          "url": "https://flash.jin10.com/detail/20260815050929790800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时57分"
+        },
+        {
+          "title": "伊朗副外长加里巴巴迪：霍尔木兹海峡的开放或关闭只能由伊朗决定。",
+          "url": "https://flash.jin10.com/detail/20260815050027660800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "DeepSeek Harness实测",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E5%AE%9E%E6%B5%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时52分 ~ 06时57分]"
+        },
+        {
+          "title": "俱往矣!DeepSeek大幅涨价",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357395&amp;topic_name=%E4%BF%B1%E5%BE%80%E7%9F%A3%21DeepSeek%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7",
+          "source": "贴吧",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时52分 ~ 06时57分]"
+        },
+        {
+          "title": "网友热议DeepSeek Harness：“自进化软件”的雏形",
+          "url": "https://wallstreetcn.com/articles/3779418",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时52分 ~ 06时57分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美疲弱零售销售数据再挫加息预期，美股涨跌互现，存储芯片股普涨，闪迪涨约7%，金涨油跌",
+          "url": "https://wallstreetcn.com/articles/3779437",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时52分 ~ 06时57分]"
+        },
+        {
+          "title": "美股收盘：三大股指低收 博通跌近6%",
+          "url": "https://flash.jin10.com/detail/20260815040246091800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "美股三大股指低跌，博通跌近6%，闪迪涨超7%",
+          "url": "https://wallstreetcn.com/livenews/3149871",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时52分 ~ 04时29分]"
+          "time_info": "[04时29分 ~ 06时57分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "伯克希尔Q2大幅增持谷歌，Alphabet跃升为其第三大持仓股",
+          "url": "https://wallstreetcn.com/livenews/3149876",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时57分"
+        },
+        {
+          "title": "伯克希尔哈撒韦Q2增持谷歌",
+          "url": "https://wallstreetcn.com/livenews/3149872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "周五（8月14日）纽约尾盘，国际贵金属期货收盘涨跌不一。 现货黄金先跌后涨，日内涨幅0.6%，报4375.67美元/盎司，本周累计上涨0.81%。 COMEX黄金期货涨0.26%报4432.00美元/盎司，本周累计上涨0.73%。美国经济数据走弱令美联储加息预期降温，叠加中东局势不确定性，加上央行长期净增持黄金托底，共同支撑金价。 现货白银涨0.40%，报64.667美元/盎司，本周累涨超1.8%。 COMEX白银期货跌0.26%报64.83美元/盎司，本周累计上涨2.09%。",
+          "url": "https://wallstreetcn.com/livenews/3149887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时57分"
+        },
+        {
+          "title": "金价反复跳水 老铺黄金罕见大促",
+          "url": "https://www.toutiao.com/trending/7673177168197992475/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "周五（8月7日）纽约尾盘，美国10年期基准国债收益率上行5.14个基点，报4.690%，北京时间20:30发布美国7月零售销售数据时从日低点4.628%快速拉升上行。 两年期美债收益率升2.88个基点，报4.169%，本周累跌2.40个基点。 20年期美债收益率上行5.22个基点，本周累涨5.10个基点，报5.257%；30年期美债收益率累涨5.96个基点，报5.259%。",
+          "url": "https://wallstreetcn.com/livenews/3149890",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时57分"
+        },
+        {
+          "title": "逼近历史警戒线！美债长端融资成本飙升，30年期得标利率创2001年最高",
+          "url": "https://wallstreetcn.com/articles/3779403",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时52分 ~ 06时57分]"
         }
       ]
     },
@@ -633,7 +877,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
         },
@@ -644,7 +888,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
         }
@@ -662,25 +906,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 04时29分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "逼近历史警戒线！美债长端融资成本飙升，30年期得标利率创2001年最高",
-          "url": "https://wallstreetcn.com/articles/3779403",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 04时29分]"
+          "appearance_count": 3,
+          "time_info": "[02时52分 ~ 06时57分]"
         }
       ]
     }
